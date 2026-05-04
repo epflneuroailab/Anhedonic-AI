@@ -1,0 +1,961 @@
+ID,Subset,Reward_Order,Correct_Answer_1,Reward_1,Correct_Answer_2,Reward_2,Correct_Answer_3,Reward_3,Correct_Answer_4,Reward_4,Full_Prompt
+1,1,10-40-20-30,C,10,D,40,A,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Patients with the apolipoprotein E gene are at risk of which disease? (A) Cystic fibrosis. (B) Huntington's dementia. (C) Alzheimer's disease. (D) Depression. (10 points)
+2. Which one of the following groups of patients should be assessed using an Early Warning Score (EWS)? (A) Only patients over 60 years of age. (B) Only patients admitted to the Emergency Department. (C) Only patients who have been on an Intensive care/High dependency unit. (D) Any patient who is acutely unwell pre-operatively or post-operatively and those who have undergone major surgery. (40 points)
+3. A muscle fibre relaxes when: (A) the nerve stimulus is removed. (B) the nerve stimulus is too forceful. (C) the actin binding sites are uncovered. (D) the actin binding sites are saturated. (20 points)
+4. The pulse can be palpated: (A) every time the atria contracts. (B) when a vein is close to the surface of the skin. (C) every time the left ventricle contracts. (D) when an artery is close to the surface of the skin. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+2,1,40-30-10-20,D,40,D,30,A,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements is false? (A) Phosphofructokinase is the rate limiting enzyme in glycolysis. (B) Phosphorylase activity is higher in Type II fibres than in Type I fibres. (C) Endurance training increases the amount of TCA cycle enzymes in muscle. (D) Oxygen is consumed in the TCA cycle. (40 points)
+2. What is meant by the term 'passive movements'? (A) Movement with resistance, stretching at end of range. (B) Movement without resistance, stretching at end of range. (C) Movement with resistance, stopping at end of range. (D) Movement without resistance, stopping at end of range. (30 points)
+3. Glucose is transported into the muscle cell: (A) via protein transporters called GLUT4. (B) only in the presence of insulin. (C) via hexokinase. (D) via monocarbylic acid transporters. (10 points)
+4. Anaerobic metabolism refers to the generation of ATP: (A) without the involvement of ADP. (B) without the use of glycogen. (C) without the use of oxygen. (D) in the absence of available oxygen. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+3,1,10-20-40-30,D,10,C,20,B,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Fatty acids are transported into the mitochondria bound to: (A) thiokinase. (B) coenzyme A (CoA). (C) acetyl-CoA. (D) carnitine. (10 points)
+2. If a patient is cyanosed, what might their oxygen saturation level be? (A) 98% or above. (B) 94% or above. (C) 80% or below. (D) 85% or above. (20 points)
+3. Which of the following is true in diplopia? (A) Diplopia can never occur if one eye is covered (B) The outer image is always the false image (C) A fourth nerve palsy occurs when the patient looks upwards (D) A sixth nerve palsy causes a divergent squint (40 points)
+4. Blood clots are responsible for repeatedly blocking a catheter. What should you do? (A) Call for help. (B) Inform medical staff. (C) Inform the patient. (D) Remove the catheter and recatheterize. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+4,1,40-20-10-30,D,40,A,20,A,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following physiological characteristics is not important for success in endurance events such as the marathon race? (A) The ability to regulate body temperature. (B) The ability to supply oxygen to the exercising muscles. (C) The availability of body stores of carbohydrate. (D) Muscle ATP and phosphocreatine content. (40 points)
+2. Where should a stoma be sited? (A) The rectus sheath abdominus. (B) Next to the umbilicus. (C) Within an abdominal crease. (D) In close proximity to the incision site. (20 points)
+3. Performance enhancing synthetic steroids are based on the structure of the hormone: (A) testosterone. (B) cortisol. (C) progesterone. (D) aldosterone. (10 points)
+4. Who has legal responsibility for a patient's care during hospital admission, stay, and discharge? (A) The named nurse. (B) The named consultant. (C) The ward manager. (D) The GP. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+5,1,20-40-10-30,C,20,A,40,A,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The optimum position for performing CPR is to position the patient: (A) in a semi-recumbent posture. (B) tilted to the left to keep the heart perfused. (C) flat on a firm surface. (D) on the floor with the legs raised. (20 points)
+2. Which of these combinations of clinical features is most suggestive of mixed mitral valve disease with a predominance of mitral regurgitation? (A) Displaced apex beat; soft first heart sound; pan-systolic murmur; short mid-diastolic murmur (B) Irregularly, irregular pulse; displaced apex beat; ejection systolic murmur; short mid-diastolic murmur (C) Displaced apex beat; normal first heart sound; pan-systolic murmur; long mid-diastolic murmur (D) Tapping apex beat; loud first heart sound; pan-systolic murmur; long mid-diastolic murmur (40 points)
+3. What is an urgent reason for catheterizing a patient? (A) Acute urinary retention. (B) Urinary tract infection. (C) Incontinence. (D) Because they asked. (10 points)
+4. Which of the following are indicative signs and symptoms of circulatory overload? (A) Hypothermia, hypotension, and bradycardia. (B) Hypotension, oliguria, and uticaria. (C) Shivering, pyrexia, and thirst. (D) Dyspnoea, tachycardia, and distended neck veins. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+6,1,30-20-40-10,D,30,B,20,A,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Women's world record performances have improved rapidly in recent years mainly because: (A) women have evolved a greater muscle mass. (B) women can now run faster than men. (C) women have started training at an earlier age. (D) more women are now engaged in sport. (30 points)
+2. Which of these is not necessary when examining the jugular venous pulse? (A) Patient's neck muscles should be relaxed (B) Timing the pulsation with the radial pulse (C) Good lighting (D) Patient lying at 45 degree angle (20 points)
+3. Once a prescribed unit of blood product has been obtained from the blood bank and is out of refrigeration, the transfusion should commence within what period of time before it starts to deteriorate (as of 2020 medical knowledge)? (A) 30 minutes. (B) 90 minutes. (C) 4 hours. (D) 12 hours. (40 points)
+4. A normal heart rate for an adult at rest is: (A) 60-80 bpm. (B) 60-100 bpm. (C) 60-90 bpm. (D) 60-110 bpm. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+7,1,10-40-30-20,B,10,A,40,D,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The term gene doping refers to: (A) the use of drugs to modify gene transcription. (B) the use of genetic manipulation techniques to enhance performance in sport. (C) the activation or inhibition of genes to mask drug taking by athletes. (D) the use of drugs to modify the myostatin gene. (10 points)
+2. If a transfusion reaction is suspected, you should: (A) turn off the transfusion, inform medical staff immediately, and follow transfusion policy advice on dealing with acute transfusion reactions. (B) leave the transfusion running and contact the medical staff immediately. (C) disconnect and dispose of the blood bag immediately. (D) leave the transfusion running and record a set of observations on the patient. (40 points)
+3. Which of the following is not a true statement? (A) Muscle glycogen is broken down enzymatically to glucose-1-phosphate (B) Elite endurance runners have a high proportion of Type I fibres in their leg muscles (C) Liver glycogen is important in the maintenance of the blood glucose concentration (D) Insulin promotes glucose uptake by all tissues in the body (30 points)
+4. Which of the following is true about haemorrhoids? (A) Bleeding haemorrhoids lead to melaena per rectum (PR) (B) Pregnancy is a predisposing factor in causing haemorrhoids (C) Bleeding from first degree haemorrhoids is associated with pain (D) Second degree haemorrhoids cannot be returned to the anal canal (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+8,1,10-20-40-30,D,10,C,20,A,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The key attribute in successful marathon running is: (A) strength. (B) power. (C) stride length. (D) stamina. (10 points)
+2. Which of the following groups of drugs may cause a dry mouth? (A) Steroids. (B) Analgesics. (C) Antidepressants. (D) Antifungal agents. (20 points)
+3. A palpable left parasternal impulse suggests which abnormality? (A) Right ventricular hypertrophy (B) Aortic stenosis (C) Aortic regurgitation (D) Left ventricular hypertrophy (40 points)
+4. Phosphocreatine in the muscle cell is found in: (A) the mitochondria. (B) all subcellular compartments. (C) the sarcolemma. (D) the cytoplasm. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+9,1,10-20-40-30,D,10,B,20,B,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. During CPR chest compressions and ventilations should be delivered in a ratio of: (A) 2:25 (B) 15:02 (C) 1:05 (D) 30:02:00 (10 points)
+2. Oedema is the presence of: (A) excessive intravascular fluid. (B) excessive extravascular fluid. (C) excessive intracranial fluid. (D) excessive necrotic cells. (20 points)
+3. Bronchial breathing is characterized by (A) Inspiratory component louder and longer with a gap between expiration and inspiration (B) Expiratory component louder and longer with a gap between inspiration and expiration (C) Inspiratory component louder and longer with a gap between inspiration and expiration (D) Expiratory component louder and longer with a gap between expiration and inspiration (40 points)
+4. Wound drainage should be assessed for volume and consistency: (A) each time post-operative observations are undertaken. (B) daily. (C) every hour. (D) only when the wound dressing is changed. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+10,1,30-10-20-40,D,30,B,10,C,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following would not be done before catheterizing? (A) Gain patient consent. (B) Patient to be washed. (C) Expiry dates to be checked. (D) Ring patient's next of kin. (30 points)
+2. What is the pH of water? (A) 3.5 (B) 7 (C) 12 (D) 6.25 (10 points)
+3. Which of the following drugs is most commonly responsible for patients who present with acute confusion? (A) Heroin (opiates). (B) Ecstasy. (C) Alcohol. (D) Cannabis. (20 points)
+4. Which of the following is true of facial nerve palsy? (A) Bells palsy is another term for an upper motor neurone lesion (B) Ramsay Hunt Syndrome is an upper motor neurone lesion secondary to a Herpes Zoster infection (C) An inability to close the eyelid on the paralysed side indicates a lower motor neurone lesion (D) In Bell's Palsy the sense of taste is never affected (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+11,1,20-10-30-40,B,20,B,10,A,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is recommended for cleaning the mouth? (A) Hydrogen peroxide. (B) Water. (C) Lemon and glycerine swabs. (D) Normal saline. (20 points)
+2. An ileostomy opening should be: (A) flush with the skin. (B) 3-5cm in length. (C) below skin level. (D) over 5cm in length. (10 points)
+3. What is the purpose of the cuff on a tracheostomy tube? (A) To create an air seal within the trachea and reduce the risk of aspirating saliva or gastric contents. (B) To reduce local oedema. (C) To assist with swallowing. (D) To allow the patient to talk. (30 points)
+4. Which of the following is true about rectal bleeding? (A) A painful digital examination suggests an anal fissure (B) Bright red blood on the finger usually signifies a caecal lesion (C) Proctoscopy is of no value in the assessment of rectal bleeding (D) Rectal cancer is the commonest cause of rectal bleeding (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+12,1,40-30-20-10,C,40,A,30,D,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Lactate and hydrogen ions leave the muscle: (A) via a cotransport mechanism with carnosine. (B) via an active transport mechanism. (C) via a protein transporter molecule. (D) by simple diffusion. (40 points)
+2. Which of the following is the commonest cause of dementia in the UK? (A) Alzheimer's disease. (B) Cerebrovascular (stroke) disease. (C) Lewy body dementia. (D) HIV infection. (30 points)
+3. Phophocreatine resynthesis during recovery from exercise is inhibited by: (A) an excess of creatine. (B) hyperventilation. (C) an excess of oxygen. (D) a lack of oxygen. (20 points)
+4. How much toothpaste is recommended for cleaning teeth? (A) A smear. (B) A pea-sized amount. (C) The length of the toothbrush. (D) Half an inch. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+13,1,20-40-10-30,D,20,C,40,B,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What might make the nurse think a patient could not use an inhaler? (A) Severe leg ulcers. (B) Previous recovery from an acute exacerbation of asthma. (C) Forthcoming surgery. (D) Poor technique, physical impairment, or lack of understanding. (20 points)
+2. Which of the following should patients remember when taking paracetamol? (A) It can interfere with the effectiveness of other drugs such as Warfarin. (B) It should only be given on an 'as required' basis. (C) Patients should carefully check the contents of over-the-counter cold remedies in order to prevent accidental overdose, as such preparations often contain additional paracetamol. (D) It is contraindicated in patients with pyrexia. (40 points)
+3. The maximum sustainable power: (A) usually remains constant during a race. (B) declines with the distance of the race. (C) is improved by a high fat diet. (D) is inversely related to muscle glycogen content. (10 points)
+4. Which of the answers below best indicates the compatible blood types that can be given to a person with a blood group B (rhesus negative)? (A) Blood type AB (rhesus negative), blood type B, and blood type O (rhesus negative). (B) Blood type B (rhesus positive) and blood type O (rhesus positive). (C) Blood type B (rhesus negative) and blood type O (rhesus negative). (D) Blood type B (rhesus negative) only. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+14,1,40-10-20-30,C,40,C,10,D,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is true of the assessment of power in the arms? (A) Grade 3/5 (MRC scale) represents movement of the arm only when gravity is eliminated (B) Flexion at the elbow is produced by the triceps muscle (C) The root value of shoulder abduction is C5 (D) Grade 1/5 power represents no movement or muscle contraction (40 points)
+2. After what period of time does maximal dynamic exercise become predominantly aerobic? (A) 10 seconds (B) 30 seconds (C) 1 minute (D) 4 minutes (10 points)
+3. The creatine kinase reaction is: (A) irreversible. (B) slow compared with glycolysis. (C) not activated until all the ATP has been used up. (D) inhibited by low pH in the muscle. (20 points)
+4. Which of the following is not a controlled drug? (A) A 30 milligram ampoule of Codeine Phosphate for injection. (B) A sustained release Morphine tablet. (C) A 12.5 microgram Fentanyl patch. (D) A 500 ml bottle of Morphine 10 mg in 5 ml in oral suspension. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+15,1,20-40-30-10,B,20,D,40,B,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Pairs of electrons carried in the form, FADH2 and NADH+H, collectively contain enough free energy to rephosphorylate: (A) 6 ATP. (B) 5 ATP. (C) 4 ATP. (D) 3 ATP. (20 points)
+2. Why can't a patient talk if the cuff is inflated? (A) They are unable to breathe in sufficiently. (B) They are unable to swallow properly. (C) It is too tiring. (D) They are unable to pass air through their vocal cords. (40 points)
+3. Dopamine is prescribed at a rate of 4 micrograms/kg/min. For a 65 kg person, how many milligrams will they receive in an hour? (A) 156 (B) 15.6 (C) 1.56 (D) 15600 (30 points)
+4. Creatine is synthesized from: (A) amino acids in the muscles. (B) amino acids in the liver. (C) amino acids in the kidneys. (D) creatinine in the kidneys. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+16,1,30-20-10-40,A,30,D,20,B,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is true of Paget's Disease? (A) Bowing of a long bone is a characteristic feature (B) Spinal cord compression is a common complication (C) Heart failure is not a recognized complication (D) Pathological fractures are not a feature (30 points)
+2. The trigger to initiate the contractile process in skeletal muscle is: (A) potassium binding to myosin. (B) calcium binding to tropomyosin. (C) ATP binding to the myosin cross bridges. (D) calcium binding to troponin. (20 points)
+3. 960 mg of the antibacterial drug Cotrimoxazole is prescribed every 12 hours. What is the daily dose in grams? Choose one answer from the following: (A) 0.192 (B) 1.92 (C) 1920 (D) 0.96 (10 points)
+4. Fast-twitch fibres contain: (A) a relatively large number of mitochondria and low ATPase activity. (B) a relatively small number of mitochondria and low ATPase activity. (C) a relatively small number of mitochondria and high ATPase activity. (D) a relatively large number of mitochondria and high ATPase activity. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+17,1,10-30-40-20,B,10,A,30,D,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Oxygen is used: (A) in glycolysis. (B) in the conversion of fatty acids to acetyl CoA. (C) in the tricarboxylic acid cycle (Krebs' cycle). (D) in glycogenolysis. (10 points)
+2. Prior to undergoing a painful procedure, a patient should be informed about what to expect and how their pain will be controlled, as this is associated with: (A) a reduction in anxiety and perceived pain intensity. (B) an increased use of analgesia. (C) a decrease in the frequency of pain-related problems such as nausea and vomiting. (D) an increased urine output. (30 points)
+3. When teaching a patient inhaler technique, how will you ensure that a large proportion of the drug reaches the lower airways? (A) Ask them to take lots of small, quick breaths in before using the inhaler. (B) Ask them to breathe normally when using the inhaler. (C) Ask them to perform the procedure as quickly as they can. (D) Ask them to hold their breath at the end of the inspiration on using the inhaler. (40 points)
+4. The complete resynthesis of phosphocreatine after very high intensity exercise normally takes: (A) about 10 seconds. (B) about 30 seconds. (C) about 1 minute. (D) about 4 minutes. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+18,1,30-20-40-10,B,30,B,20,B,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The ATP store in muscle can only supply energy in high intensity exercise for about: (A) 2 milliseconds. (B) 2 seconds. (C) 10 seconds. (D) 20 seconds. (30 points)
+2. Name three of the five main uses of the hand. (A) Touch, feel, stroke. (B) Grip, percussion, sensory. (C) Tap, slap, clap. (D) Touch, pinch, grasp. (20 points)
+3. Which of the following processes is not used to modify protein structure after translation has occurred? (A) Lipidation. (B) Attachment of more amino acids via peptide bonds. (C) Glycosylation. (D) Phosphorylation. (40 points)
+4. A change in blood pressure is detected by the: (A) baroreceptors. (B) chemoreceptors. (C) vasomotor centre. (D) cardiovascular centre. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+19,1,30-10-20-40,C,30,B,10,D,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of these features suggest that a pulsation in the neck is arterial? (A) A waggling earlobe (B) Positive for hepatojugular reflux (C) No variation with posture (D) Pressure in the root of the neck reduces the impulse (30 points)
+2. Which of the following parameters are seen on typical neurological observation charts? (A) Urine output. (B) Temperature. (C) Central venous pressure. (D) Blood glucose. (10 points)
+3. Mutations are errors in DNA that: (A) are always harmful. (B) only occur in the presence of carcinogens. (C) increase tumour growth. (D) occur spontaneously at a low rate. (20 points)
+4. Why should careful consideration be given to providing people aged over 65 with information sources that are internet based? (A) They may have difficulty reading the screen. (B) Less than 30% of people over 65 years have access to the internet. (C) The internet is aimed at younger people. (D) They may not be able to type. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+20,2,10-20-40-30,B,10,C,20,A,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the minimum time a stretch should be held for? (A) 0-10 seconds. (B) 10-30 seconds. (C) 30-50 seconds. (D) 60 seconds. (10 points)
+2. Which of the following drugs may be used to enhance gastric motility? (A) Adrenaline. (B) Ditropan. (C) Erythromycin. (D) Carbemazepine. (20 points)
+3. The activity of creatine kinase is: (A) increased when intracellular ADP rises. (B) increased when muscle pH falls below 6.9. (C) always lower in Type II fibres than Type I fibres. (D) increased after a period of endurance training. (40 points)
+4. Which of the following is the same strength as Adrenaline 1 in 1000? Choose one answer from the following: (A) 1 mg/mL (B) 1 mg/L (C) 1 g/mL (D) 100 micrograms/mL (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+21,2,10-30-20-40,C,10,A,30,D,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How often should a cannula be flushed? (A) Every 4 hours. (B) Every 8 hours. (C) Every 12 hours. (D) Every 16 hours. (10 points)
+2. Which of the following tools is the first choice for cleaning the mouth? (A) Small, soft toothbrush. (B) Gloved finger wrapped in gauze. (C) Forceps wrapped in gauze. (D) Foam stick. (30 points)
+3. Which of the following factors can affect enzyme activity? (A) Temperature. (B) pH. (C) The presence of certain metal ions. (D) All of the above. (20 points)
+4. Hypernatraemic dehydration is: (A) water intake is less than is needed to maintain balance. (B) water intake is more than is needed to maintain balance. (C) blood volume is lost due to trauma or burns. (D) blood volume is lost due to surgery. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+22,2,40-20-30-10,B,40,C,20,A,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following best describes the effects of morphine? (A) Reduces pain intensity and increases alertness. (B) Reduces pain intensity but also causes sedation. (C) Reduces pain intensity but also causes diarrhoea. (D) Reduces pain intensity but also causes insomnia. (40 points)
+2. Approximately how many kJ of energy are expended if an athlete's steady-rate oxygen uptake averages 3.0 l/min for 5 minutes of exercise? (A) 60 kJ (B) 150 kJ (C) 300 kJ (D) 500 kJ (20 points)
+3. The β-oxidation of a molecule of palmitic acid, CH3(CH2)14CO2H: (A) yields 8 molecules of acetyl-CoA and some ATP and water. (B) yields 16 molecules of acetyl-CoA only. (C) yields carbon dioxide and water only. (D) does not involve oxygen. (30 points)
+4. The rate limiting enzyme of glycolysis is: (A) phosphorylase. (B) hexokinase. (C) pyruvate dehydrogenase. (D) phosphofructokinase. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+23,2,40-20-10-30,A,40,B,20,B,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The carpal bones are the small bones of the wrist - name them. (A) Scaphoid, lunate, triquetral, pisiform, trapezium, trapezoid, capitate, hamate. (B) Scaphoid, lunar, triquetrium, pisiform, radius, ulna, capitates. (C) Scaphoid, proximal phalynx, humerus, hamate, capitate. (D) Scaphoid, radius, ulna, cunniform, trapezius. (40 points)
+2. The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of: (A) six molecules of water. (B) two molecules of ATP. (C) three molecules of ATP. (D) thirty-eight molecules of ATP. (20 points)
+3. Glycogen breakdown in muscle initially results in the formation of: (A) glucose. (B) glucose-1-phosphate. (C) glucose-6-phosphate. (D) glucose-1,6-diphosphate. (10 points)
+4. Why are male patients advised to take their own electric razor to hospital? (A) For patient comfort. (B) To make hospital as familiar as possible. (C) To minimize risk of cross-infection. (D) To allow shaving at a time convenient to the patient. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+24,2,20-10-30-40,C,20,C,10,B,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The enzymes of glycolysis are located in the: (A) mitochondrion. (B) nucleus. (C) cytoplasm. (D) lysosomes. (20 points)
+2. How many different types of microorganisms may colonize the mouth? (A) 35 (B) 100 (C) 350 (D) 500 (10 points)
+3. Which of the following is NOT a symptom of anaphylaxis? (A) Stridor. (B) Bradycardia. (C) Severe wheeze. (D) Rash. (30 points)
+4. Which of the following is true of haematemesis? (A) A low blood pressure (<90mmHg systolic) and a tachycardia (>100/min) are worrying features (B) A pulse rate of 80/min in a patient taking Bisoprolol is reassuring (C) Abdominal pain is always present (D) An alcohol history is not essential (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+25,2,40-30-10-20,D,40,A,30,B,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Prosthetic groups are: (A) required by all enzymes in the cell. (B) loosely bound to enzymes via hydrogen bonds. (C) sites on the enzyme molecule that permit allosteric modification of enzyme activity. (D) tightly bound to enzymes and are required for their activity. (40 points)
+2. Which products of ADP degradation increase in concentration in the blood during multiple sprint sports? (A) Ammonia, hypoxanthine and uric acid. (B) Ammonia, urea and uric acid. (C) Ammonia, urea and creatinine. (D) Ammonia, urea and creatine. (30 points)
+3. Which of the following releases most energy when completely oxidised in the body? (A) One gram of glucose (B) One gram of palmitic acid (C) One gram of leucine (D) One gram of alcohol (10 points)
+4. Which of these features suggest that a crackling sound is more likely due to a pleural friction rub than crackles? (A) More prominent in expiration (B) Alters with coughing (C) No pain over the area (D) Clubbing (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+26,2,10-20-30-40,A,10,B,20,A,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A muscle fibre relaxes when: (A) the nerve stimulus is removed. (B) the nerve stimulus is too forceful. (C) the actin binding sites are uncovered. (D) the actin binding sites are saturated. (10 points)
+2. The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of: (A) six molecules of water. (B) two molecules of ATP. (C) three molecules of ATP. (D) thirty-eight molecules of ATP. (20 points)
+3. If a transfusion reaction is suspected, you should: (A) turn off the transfusion, inform medical staff immediately, and follow transfusion policy advice on dealing with acute transfusion reactions. (B) leave the transfusion running and contact the medical staff immediately. (C) disconnect and dispose of the blood bag immediately. (D) leave the transfusion running and record a set of observations on the patient. (30 points)
+4. Which of these combinations of clinical features is most suggestive of mixed mitral valve disease with a predominance of mitral regurgitation? (A) Displaced apex beat; soft first heart sound; pan-systolic murmur; short mid-diastolic murmur (B) Irregularly, irregular pulse; displaced apex beat; ejection systolic murmur; short mid-diastolic murmur (C) Displaced apex beat; normal first heart sound; pan-systolic murmur; long mid-diastolic murmur (D) Tapping apex beat; loud first heart sound; pan-systolic murmur; long mid-diastolic murmur (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+27,2,30-20-40-10,A,30,C,20,C,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Prior to undergoing a painful procedure, a patient should be informed about what to expect and how their pain will be controlled, as this is associated with: (A) a reduction in anxiety and perceived pain intensity. (B) an increased use of analgesia. (C) a decrease in the frequency of pain-related problems such as nausea and vomiting. (D) an increased urine output. (30 points)
+2. Why are male patients advised to take their own electric razor to hospital? (A) For patient comfort. (B) To make hospital as familiar as possible. (C) To minimize risk of cross-infection. (D) To allow shaving at a time convenient to the patient. (20 points)
+3. Which of the answers below best indicates the compatible blood types that can be given to a person with a blood group B (rhesus negative)? (A) Blood type AB (rhesus negative), blood type B, and blood type O (rhesus negative). (B) Blood type B (rhesus positive) and blood type O (rhesus positive). (C) Blood type B (rhesus negative) and blood type O (rhesus negative). (D) Blood type B (rhesus negative) only. (40 points)
+4. Who has legal responsibility for a patient's care during hospital admission, stay, and discharge? (A) The named nurse. (B) The named consultant. (C) The ward manager. (D) The GP. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+28,2,30-40-20-10,A,30,D,40,D,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Once a prescribed unit of blood product has been obtained from the blood bank and is out of refrigeration, the transfusion should commence within what period of time before it starts to deteriorate (as of 2020 medical knowledge)? (A) 30 minutes. (B) 90 minutes. (C) 4 hours. (D) 12 hours. (30 points)
+2. Which of the following physiological characteristics is not important for success in endurance events such as the marathon race? (A) The ability to regulate body temperature. (B) The ability to supply oxygen to the exercising muscles. (C) The availability of body stores of carbohydrate. (D) Muscle ATP and phosphocreatine content. (40 points)
+3. Mutations are errors in DNA that: (A) are always harmful. (B) only occur in the presence of carcinogens. (C) increase tumour growth. (D) occur spontaneously at a low rate. (20 points)
+4. Which of the following is NOT a symptom of anaphylaxis? (A) Stridor. (B) Bradycardia. (C) Severe wheeze. (D) Rash. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+29,2,20-10-30-40,B,20,B,10,C,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The ATP store in muscle can only supply energy in high intensity exercise for about: (A) 2 milliseconds. (B) 2 seconds. (C) 10 seconds. (D) 20 seconds. (20 points)
+2. How much toothpaste is recommended for cleaning teeth? (A) A smear. (B) A pea-sized amount. (C) The length of the toothbrush. (D) Half an inch. (10 points)
+3. Which of these features suggest that a pulsation in the neck is arterial? (A) A waggling earlobe (B) Positive for hepatojugular reflux (C) No variation with posture (D) Pressure in the root of the neck reduces the impulse (30 points)
+4. Which of the following is not a true statement? (A) Muscle glycogen is broken down enzymatically to glucose-1-phosphate (B) Elite endurance runners have a high proportion of Type I fibres in their leg muscles (C) Liver glycogen is important in the maintenance of the blood glucose concentration (D) Insulin promotes glucose uptake by all tissues in the body (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+30,2,30-20-10-40,D,30,A,20,C,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is not a controlled drug? (A) A 30 milligram ampoule of Codeine Phosphate for injection. (B) A sustained release Morphine tablet. (C) A 12.5 microgram Fentanyl patch. (D) A 500 ml bottle of Morphine 10 mg in 5 ml in oral suspension. (30 points)
+2. Which of these features suggest that a crackling sound is more likely due to a pleural friction rub than crackles? (A) More prominent in expiration (B) Alters with coughing (C) No pain over the area (D) Clubbing (20 points)
+3. Which of the following drugs is most commonly responsible for patients who present with acute confusion? (A) Heroin (opiates). (B) Ecstasy. (C) Alcohol. (D) Cannabis. (10 points)
+4. Which of the following is true of facial nerve palsy? (A) Bells palsy is another term for an upper motor neurone lesion (B) Ramsay Hunt Syndrome is an upper motor neurone lesion secondary to a Herpes Zoster infection (C) An inability to close the eyelid on the paralysed side indicates a lower motor neurone lesion (D) In Bell's Palsy the sense of taste is never affected (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+31,2,10-20-30-40,A,10,A,20,A,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is the same strength as Adrenaline 1 in 1000? Choose one answer from the following: (A) 1 mg/mL (B) 1 mg/L (C) 1 g/mL (D) 100 micrograms/mL (10 points)
+2. Glucose is transported into the muscle cell: (A) via protein transporters called GLUT4. (B) only in the presence of insulin. (C) via hexokinase. (D) via monocarbylic acid transporters. (20 points)
+3. Wound drainage should be assessed for volume and consistency: (A) each time post-operative observations are undertaken. (B) daily. (C) every hour. (D) only when the wound dressing is changed. (30 points)
+4. The trigger to initiate the contractile process in skeletal muscle is: (A) potassium binding to myosin. (B) calcium binding to tropomyosin. (C) ATP binding to the myosin cross bridges. (D) calcium binding to troponin. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+32,2,10-40-20-30,D,10,D,40,B,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following factors can affect enzyme activity? (A) Temperature. (B) pH. (C) The presence of certain metal ions. (D) All of the above. (10 points)
+2. Which of the following would not be done before catheterizing? (A) Gain patient consent. (B) Patient to be washed. (C) Expiry dates to be checked. (D) Ring patient's next of kin. (40 points)
+3. Dopamine is prescribed at a rate of 4 micrograms/kg/min. For a 65 kg person, how many milligrams will they receive in an hour? (A) 156 (B) 15.6 (C) 1.56 (D) 15600 (20 points)
+4. The complete resynthesis of phosphocreatine after very high intensity exercise normally takes: (A) about 10 seconds. (B) about 30 seconds. (C) about 1 minute. (D) about 4 minutes. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+33,2,30-20-10-40,A,30,B,20,A,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is true of Paget's Disease? (A) Bowing of a long bone is a characteristic feature (B) Spinal cord compression is a common complication (C) Heart failure is not a recognized complication (D) Pathological fractures are not a feature (30 points)
+2. Which of the following processes is not used to modify protein structure after translation has occurred? (A) Lipidation. (B) Attachment of more amino acids via peptide bonds. (C) Glycosylation. (D) Phosphorylation. (20 points)
+3. What is an urgent reason for catheterizing a patient? (A) Acute urinary retention. (B) Urinary tract infection. (C) Incontinence. (D) Because they asked. (10 points)
+4. Which of the following best describes the effects of morphine? (A) Reduces pain intensity and increases alertness. (B) Reduces pain intensity but also causes sedation. (C) Reduces pain intensity but also causes diarrhoea. (D) Reduces pain intensity but also causes insomnia. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+34,2,10-40-20-30,C,10,D,40,B,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How many different types of microorganisms may colonize the mouth? (A) 35 (B) 100 (C) 350 (D) 500 (10 points)
+2. Which one of the following groups of patients should be assessed using an Early Warning Score (EWS)? (A) Only patients over 60 years of age. (B) Only patients admitted to the Emergency Department. (C) Only patients who have been on an Intensive care/High dependency unit. (D) Any patient who is acutely unwell pre-operatively or post-operatively and those who have undergone major surgery. (40 points)
+3. Oedema is the presence of: (A) excessive intravascular fluid. (B) excessive extravascular fluid. (C) excessive intracranial fluid. (D) excessive necrotic cells. (20 points)
+4. Which products of ADP degradation increase in concentration in the blood during multiple sprint sports? (A) Ammonia, hypoxanthine and uric acid. (B) Ammonia, urea and uric acid. (C) Ammonia, urea and creatinine. (D) Ammonia, urea and creatine. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+35,2,20-30-10-40,A,20,C,30,B,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A change in blood pressure is detected by the: (A) baroreceptors. (B) chemoreceptors. (C) vasomotor centre. (D) cardiovascular centre. (20 points)
+2. Lactate and hydrogen ions leave the muscle: (A) via a cotransport mechanism with carnosine. (B) via an active transport mechanism. (C) via a protein transporter molecule. (D) by simple diffusion. (30 points)
+3. What is the minimum time a stretch should be held for? (A) 0-10 seconds. (B) 10-30 seconds. (C) 30-50 seconds. (D) 60 seconds. (10 points)
+4. The pulse can be palpated: (A) every time the atria contracts. (B) when a vein is close to the surface of the skin. (C) every time the left ventricle contracts. (D) when an artery is close to the surface of the skin. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+36,2,30-20-40-10,A,30,A,20,D,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is true of haematemesis? (A) A low blood pressure (<90mmHg systolic) and a tachycardia (>100/min) are worrying features (B) A pulse rate of 80/min in a patient taking Bisoprolol is reassuring (C) Abdominal pain is always present (D) An alcohol history is not essential (30 points)
+2. Which of the following tools is the first choice for cleaning the mouth? (A) Small, soft toothbrush. (B) Gloved finger wrapped in gauze. (C) Forceps wrapped in gauze. (D) Foam stick. (20 points)
+3. Which of the following statements is false? (A) Phosphofructokinase is the rate limiting enzyme in glycolysis. (B) Phosphorylase activity is higher in Type II fibres than in Type I fibres. (C) Endurance training increases the amount of TCA cycle enzymes in muscle. (D) Oxygen is consumed in the TCA cycle. (40 points)
+4. The rate limiting enzyme of glycolysis is: (A) phosphorylase. (B) hexokinase. (C) pyruvate dehydrogenase. (D) phosphofructokinase. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+37,2,30-10-40-20,D,30,C,10,A,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Phophocreatine resynthesis during recovery from exercise is inhibited by: (A) an excess of creatine. (B) hyperventilation. (C) an excess of oxygen. (D) a lack of oxygen. (30 points)
+2. Which of the following drugs may be used to enhance gastric motility? (A) Adrenaline. (B) Ditropan. (C) Erythromycin. (D) Carbemazepine. (10 points)
+3. The activity of creatine kinase is: (A) increased when intracellular ADP rises. (B) increased when muscle pH falls below 6.9. (C) always lower in Type II fibres than Type I fibres. (D) increased after a period of endurance training. (40 points)
+4. Glycogen breakdown in muscle initially results in the formation of: (A) glucose. (B) glucose-1-phosphate. (C) glucose-6-phosphate. (D) glucose-1,6-diphosphate. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+38,2,40-30-10-20,C,40,D,30,D,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Patients with the apolipoprotein E gene are at risk of which disease? (A) Cystic fibrosis. (B) Huntington's dementia. (C) Alzheimer's disease. (D) Depression. (40 points)
+2. Phosphocreatine in the muscle cell is found in: (A) the mitochondria. (B) all subcellular compartments. (C) the sarcolemma. (D) the cytoplasm. (30 points)
+3. The key attribute in successful marathon running is: (A) strength. (B) power. (C) stride length. (D) stamina. (10 points)
+4. An ileostomy opening should be: (A) flush with the skin. (B) 3-5cm in length. (C) below skin level. (D) over 5cm in length. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+39,3,40-20-30-10,C,40,B,20,A,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Fast-twitch fibres contain: (A) a relatively large number of mitochondria and low ATPase activity. (B) a relatively small number of mitochondria and low ATPase activity. (C) a relatively small number of mitochondria and high ATPase activity. (D) a relatively large number of mitochondria and high ATPase activity. (40 points)
+2. Which of these is not necessary when examining the jugular venous pulse? (A) Patient's neck muscles should be relaxed (B) Timing the pulsation with the radial pulse (C) Good lighting (D) Patient lying at 45 degree angle (20 points)
+3. The β-oxidation of a molecule of palmitic acid, CH3(CH2)14CO2H: (A) yields 8 molecules of acetyl-CoA and some ATP and water. (B) yields 16 molecules of acetyl-CoA only. (C) yields carbon dioxide and water only. (D) does not involve oxygen. (30 points)
+4. The creatine kinase reaction is: (A) irreversible. (B) slow compared with glycolysis. (C) not activated until all the ATP has been used up. (D) inhibited by low pH in the muscle. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+40,3,20-10-40-30,B,20,C,10,C,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Blood clots are responsible for repeatedly blocking a catheter. What should you do? (A) Call for help. (B) Inform medical staff. (C) Inform the patient. (D) Remove the catheter and recatheterize. (20 points)
+2. How often should a cannula be flushed? (A) Every 4 hours. (B) Every 8 hours. (C) Every 12 hours. (D) Every 16 hours. (10 points)
+3. Which of the following should patients remember when taking paracetamol? (A) It can interfere with the effectiveness of other drugs such as Warfarin. (B) It should only be given on an 'as required' basis. (C) Patients should carefully check the contents of over-the-counter cold remedies in order to prevent accidental overdose, as such preparations often contain additional paracetamol. (D) It is contraindicated in patients with pyrexia. (40 points)
+4. What is meant by the term 'passive movements'? (A) Movement with resistance, stretching at end of range. (B) Movement without resistance, stretching at end of range. (C) Movement with resistance, stopping at end of range. (D) Movement without resistance, stopping at end of range. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+41,3,40-20-30-10,B,40,B,20,D,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The term gene doping refers to: (A) the use of drugs to modify gene transcription. (B) the use of genetic manipulation techniques to enhance performance in sport. (C) the activation or inhibition of genes to mask drug taking by athletes. (D) the use of drugs to modify the myostatin gene. (40 points)
+2. 960 mg of the antibacterial drug Cotrimoxazole is prescribed every 12 hours. What is the daily dose in grams? Choose one answer from the following: (A) 0.192 (B) 1.92 (C) 1920 (D) 0.96 (20 points)
+3. Women's world record performances have improved rapidly in recent years mainly because: (A) women have evolved a greater muscle mass. (B) women can now run faster than men. (C) women have started training at an earlier age. (D) more women are now engaged in sport. (30 points)
+4. Fatty acids are transported into the mitochondria bound to: (A) thiokinase. (B) coenzyme A (CoA). (C) acetyl-CoA. (D) carnitine. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+42,3,30-10-40-20,B,30,C,10,A,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Why should careful consideration be given to providing people aged over 65 with information sources that are internet based? (A) They may have difficulty reading the screen. (B) Less than 30% of people over 65 years have access to the internet. (C) The internet is aimed at younger people. (D) They may not be able to type. (30 points)
+2. After what period of time does maximal dynamic exercise become predominantly aerobic? (A) 10 seconds (B) 30 seconds (C) 1 minute (D) 4 minutes (10 points)
+3. The carpal bones are the small bones of the wrist - name them. (A) Scaphoid, lunate, triquetral, pisiform, trapezium, trapezoid, capitate, hamate. (B) Scaphoid, lunar, triquetrium, pisiform, radius, ulna, capitates. (C) Scaphoid, proximal phalynx, humerus, hamate, capitate. (D) Scaphoid, radius, ulna, cunniform, trapezius. (40 points)
+4. Which of the following is recommended for cleaning the mouth? (A) Hydrogen peroxide. (B) Water. (C) Lemon and glycerine swabs. (D) Normal saline. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+43,3,40-20-30-10,A,40,C,20,A,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the purpose of the cuff on a tracheostomy tube? (A) To create an air seal within the trachea and reduce the risk of aspirating saliva or gastric contents. (B) To reduce local oedema. (C) To assist with swallowing. (D) To allow the patient to talk. (40 points)
+2. Approximately how many kJ of energy are expended if an athlete's steady-rate oxygen uptake averages 3.0 l/min for 5 minutes of exercise? (A) 60 kJ (B) 150 kJ (C) 300 kJ (D) 500 kJ (20 points)
+3. Hypernatraemic dehydration is: (A) water intake is less than is needed to maintain balance. (B) water intake is more than is needed to maintain balance. (C) blood volume is lost due to trauma or burns. (D) blood volume is lost due to surgery. (30 points)
+4. Where should a stoma be sited? (A) The rectus sheath abdominus. (B) Next to the umbilicus. (C) Within an abdominal crease. (D) In close proximity to the incision site. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+44,3,10-40-30-20,B,10,B,40,A,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A normal heart rate for an adult at rest is: (A) 60-80 bpm. (B) 60-100 bpm. (C) 60-90 bpm. (D) 60-110 bpm. (10 points)
+2. Bronchial breathing is characterized by (A) Inspiratory component louder and longer with a gap between expiration and inspiration (B) Expiratory component louder and longer with a gap between inspiration and expiration (C) Inspiratory component louder and longer with a gap between inspiration and expiration (D) Expiratory component louder and longer with a gap between expiration and inspiration (40 points)
+3. Which of the following is true about rectal bleeding? (A) A painful digital examination suggests an anal fissure (B) Bright red blood on the finger usually signifies a caecal lesion (C) Proctoscopy is of no value in the assessment of rectal bleeding (D) Rectal cancer is the commonest cause of rectal bleeding (30 points)
+4. The optimum position for performing CPR is to position the patient: (A) in a semi-recumbent posture. (B) tilted to the left to keep the heart perfused. (C) flat on a firm surface. (D) on the floor with the legs raised. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+45,3,30-20-40-10,A,30,B,20,B,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is the commonest cause of dementia in the UK? (A) Alzheimer's disease. (B) Cerebrovascular (stroke) disease. (C) Lewy body dementia. (D) HIV infection. (30 points)
+2. Which of the following parameters are seen on typical neurological observation charts? (A) Urine output. (B) Temperature. (C) Central venous pressure. (D) Blood glucose. (20 points)
+3. Which of the following releases most energy when completely oxidised in the body? (A) One gram of glucose (B) One gram of palmitic acid (C) One gram of leucine (D) One gram of alcohol (40 points)
+4. Name three of the five main uses of the hand. (A) Touch, feel, stroke. (B) Grip, percussion, sensory. (C) Tap, slap, clap. (D) Touch, pinch, grasp. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+46,3,40-30-20-10,D,40,D,30,D,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When teaching a patient inhaler technique, how will you ensure that a large proportion of the drug reaches the lower airways? (A) Ask them to take lots of small, quick breaths in before using the inhaler. (B) Ask them to breathe normally when using the inhaler. (C) Ask them to perform the procedure as quickly as they can. (D) Ask them to hold their breath at the end of the inspiration on using the inhaler. (40 points)
+2. Which of the following are indicative signs and symptoms of circulatory overload? (A) Hypothermia, hypotension, and bradycardia. (B) Hypotension, oliguria, and uticaria. (C) Shivering, pyrexia, and thirst. (D) Dyspnoea, tachycardia, and distended neck veins. (30 points)
+3. What might make the nurse think a patient could not use an inhaler? (A) Severe leg ulcers. (B) Previous recovery from an acute exacerbation of asthma. (C) Forthcoming surgery. (D) Poor technique, physical impairment, or lack of understanding. (20 points)
+4. The enzymes of glycolysis are located in the: (A) mitochondrion. (B) nucleus. (C) cytoplasm. (D) lysosomes. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+47,3,10-30-40-20,D,10,D,30,D,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. During CPR chest compressions and ventilations should be delivered in a ratio of: (A) 2:25 (B) 15:02 (C) 1:05 (D) 30:02:00 (10 points)
+2. Why can't a patient talk if the cuff is inflated? (A) They are unable to breathe in sufficiently. (B) They are unable to swallow properly. (C) It is too tiring. (D) They are unable to pass air through their vocal cords. (30 points)
+3. Prosthetic groups are: (A) required by all enzymes in the cell. (B) loosely bound to enzymes via hydrogen bonds. (C) sites on the enzyme molecule that permit allosteric modification of enzyme activity. (D) tightly bound to enzymes and are required for their activity. (40 points)
+4. Anaerobic metabolism refers to the generation of ATP: (A) without the involvement of ADP. (B) without the use of glycogen. (C) without the use of oxygen. (D) in the absence of available oxygen. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+48,3,40-20-30-10,C,40,B,20,A,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is true of the assessment of power in the arms? (A) Grade 3/5 (MRC scale) represents movement of the arm only when gravity is eliminated (B) Flexion at the elbow is produced by the triceps muscle (C) The root value of shoulder abduction is C5 (D) Grade 1/5 power represents no movement or muscle contraction (40 points)
+2. Creatine is synthesized from: (A) amino acids in the muscles. (B) amino acids in the liver. (C) amino acids in the kidneys. (D) creatinine in the kidneys. (20 points)
+3. A palpable left parasternal impulse suggests which abnormality? (A) Right ventricular hypertrophy (B) Aortic stenosis (C) Aortic regurgitation (D) Left ventricular hypertrophy (30 points)
+4. Which of the following groups of drugs may cause a dry mouth? (A) Steroids. (B) Analgesics. (C) Antidepressants. (D) Antifungal agents. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+49,3,20-30-40-10,B,20,B,30,B,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Oxygen is used: (A) in glycolysis. (B) in the conversion of fatty acids to acetyl CoA. (C) in the tricarboxylic acid cycle (Krebs' cycle). (D) in glycogenolysis. (20 points)
+2. The maximum sustainable power: (A) usually remains constant during a race. (B) declines with the distance of the race. (C) is improved by a high fat diet. (D) is inversely related to muscle glycogen content. (30 points)
+3. Which of the following is true about haemorrhoids? (A) Bleeding haemorrhoids lead to melaena per rectum (PR) (B) Pregnancy is a predisposing factor in causing haemorrhoids (C) Bleeding from first degree haemorrhoids is associated with pain (D) Second degree haemorrhoids cannot be returned to the anal canal (40 points)
+4. What is the pH of water? (A) 3.5 (B) 7 (C) 12 (D) 6.25 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+50,3,10-30-40-20,C,10,B,30,B,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If a patient is cyanosed, what might their oxygen saturation level be? (A) 98% or above. (B) 94% or above. (C) 80% or below. (D) 85% or above. (10 points)
+2. Pairs of electrons carried in the form, FADH2 and NADH+H, collectively contain enough free energy to rephosphorylate: (A) 6 ATP. (B) 5 ATP. (C) 4 ATP. (D) 3 ATP. (30 points)
+3. Which of the following is true in diplopia? (A) Diplopia can never occur if one eye is covered (B) The outer image is always the false image (C) A fourth nerve palsy occurs when the patient looks upwards (D) A sixth nerve palsy causes a divergent squint (40 points)
+4. Performance enhancing synthetic steroids are based on the structure of the hormone: (A) testosterone. (B) cortisol. (C) progesterone. (D) aldosterone. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+51,3,40-20-10-30,B,40,D,20,A,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Bronchial breathing is characterized by (A) Inspiratory component louder and longer with a gap between expiration and inspiration (B) Expiratory component louder and longer with a gap between inspiration and expiration (C) Inspiratory component louder and longer with a gap between inspiration and expiration (D) Expiratory component louder and longer with a gap between expiration and inspiration (40 points)
+2. Which of the following statements is false? (A) Phosphofructokinase is the rate limiting enzyme in glycolysis. (B) Phosphorylase activity is higher in Type II fibres than in Type I fibres. (C) Endurance training increases the amount of TCA cycle enzymes in muscle. (D) Oxygen is consumed in the TCA cycle. (20 points)
+3. A palpable left parasternal impulse suggests which abnormality? (A) Right ventricular hypertrophy (B) Aortic stenosis (C) Aortic regurgitation (D) Left ventricular hypertrophy (10 points)
+4. Which of the following is true of the assessment of power in the arms? (A) Grade 3/5 (MRC scale) represents movement of the arm only when gravity is eliminated (B) Flexion at the elbow is produced by the triceps muscle (C) The root value of shoulder abduction is C5 (D) Grade 1/5 power represents no movement or muscle contraction (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+52,3,30-10-40-20,A,30,C,10,D,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is the same strength as Adrenaline 1 in 1000? Choose one answer from the following: (A) 1 mg/mL (B) 1 mg/L (C) 1 g/mL (D) 100 micrograms/mL (30 points)
+2. How many different types of microorganisms may colonize the mouth? (A) 35 (B) 100 (C) 350 (D) 500 (10 points)
+3. Which of the following are indicative signs and symptoms of circulatory overload? (A) Hypothermia, hypotension, and bradycardia. (B) Hypotension, oliguria, and uticaria. (C) Shivering, pyrexia, and thirst. (D) Dyspnoea, tachycardia, and distended neck veins. (40 points)
+4. During CPR chest compressions and ventilations should be delivered in a ratio of: (A) 2:25 (B) 15:02 (C) 1:05 (D) 30:02:00 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+53,3,40-10-30-20,B,40,B,10,A,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Why should careful consideration be given to providing people aged over 65 with information sources that are internet based? (A) They may have difficulty reading the screen. (B) Less than 30% of people over 65 years have access to the internet. (C) The internet is aimed at younger people. (D) They may not be able to type. (40 points)
+2. 960 mg of the antibacterial drug Cotrimoxazole is prescribed every 12 hours. What is the daily dose in grams? Choose one answer from the following: (A) 0.192 (B) 1.92 (C) 1920 (D) 0.96 (10 points)
+3. Which of the following is true of haematemesis? (A) A low blood pressure (<90mmHg systolic) and a tachycardia (>100/min) are worrying features (B) A pulse rate of 80/min in a patient taking Bisoprolol is reassuring (C) Abdominal pain is always present (D) An alcohol history is not essential (30 points)
+4. The creatine kinase reaction is: (A) irreversible. (B) slow compared with glycolysis. (C) not activated until all the ATP has been used up. (D) inhibited by low pH in the muscle. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+54,3,20-40-10-30,B,20,D,40,B,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Dopamine is prescribed at a rate of 4 micrograms/kg/min. For a 65 kg person, how many milligrams will they receive in an hour? (A) 156 (B) 15.6 (C) 1.56 (D) 15600 (20 points)
+2. Which of the following is not a true statement? (A) Muscle glycogen is broken down enzymatically to glucose-1-phosphate (B) Elite endurance runners have a high proportion of Type I fibres in their leg muscles (C) Liver glycogen is important in the maintenance of the blood glucose concentration (D) Insulin promotes glucose uptake by all tissues in the body (40 points)
+3. Oedema is the presence of: (A) excessive intravascular fluid. (B) excessive extravascular fluid. (C) excessive intracranial fluid. (D) excessive necrotic cells. (10 points)
+4. Wound drainage should be assessed for volume and consistency: (A) each time post-operative observations are undertaken. (B) daily. (C) every hour. (D) only when the wound dressing is changed. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+55,3,30-20-40-10,A,30,A,20,D,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is true of Paget's Disease? (A) Bowing of a long bone is a characteristic feature (B) Spinal cord compression is a common complication (C) Heart failure is not a recognized complication (D) Pathological fractures are not a feature (30 points)
+2. Where should a stoma be sited? (A) The rectus sheath abdominus. (B) Next to the umbilicus. (C) Within an abdominal crease. (D) In close proximity to the incision site. (20 points)
+3. What is meant by the term 'passive movements'? (A) Movement with resistance, stretching at end of range. (B) Movement without resistance, stretching at end of range. (C) Movement with resistance, stopping at end of range. (D) Movement without resistance, stopping at end of range. (40 points)
+4. How much toothpaste is recommended for cleaning teeth? (A) A smear. (B) A pea-sized amount. (C) The length of the toothbrush. (D) Half an inch. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+56,3,30-40-10-20,D,30,A,40,B,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following factors can affect enzyme activity? (A) Temperature. (B) pH. (C) The presence of certain metal ions. (D) All of the above. (30 points)
+2. Which of the following is the commonest cause of dementia in the UK? (A) Alzheimer's disease. (B) Cerebrovascular (stroke) disease. (C) Lewy body dementia. (D) HIV infection. (40 points)
+3. An ileostomy opening should be: (A) flush with the skin. (B) 3-5cm in length. (C) below skin level. (D) over 5cm in length. (10 points)
+4. The ATP store in muscle can only supply energy in high intensity exercise for about: (A) 2 milliseconds. (B) 2 seconds. (C) 10 seconds. (D) 20 seconds. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+57,3,20-40-10-30,B,20,A,40,A,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Oxygen is used: (A) in glycolysis. (B) in the conversion of fatty acids to acetyl CoA. (C) in the tricarboxylic acid cycle (Krebs' cycle). (D) in glycogenolysis. (20 points)
+2. Prior to undergoing a painful procedure, a patient should be informed about what to expect and how their pain will be controlled, as this is associated with: (A) a reduction in anxiety and perceived pain intensity. (B) an increased use of analgesia. (C) a decrease in the frequency of pain-related problems such as nausea and vomiting. (D) an increased urine output. (40 points)
+3. Performance enhancing synthetic steroids are based on the structure of the hormone: (A) testosterone. (B) cortisol. (C) progesterone. (D) aldosterone. (10 points)
+4. What is the purpose of the cuff on a tracheostomy tube? (A) To create an air seal within the trachea and reduce the risk of aspirating saliva or gastric contents. (B) To reduce local oedema. (C) To assist with swallowing. (D) To allow the patient to talk. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+58,4,40-30-20-10,D,40,A,30,D,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Women's world record performances have improved rapidly in recent years mainly because: (A) women have evolved a greater muscle mass. (B) women can now run faster than men. (C) women have started training at an earlier age. (D) more women are now engaged in sport. (40 points)
+2. The activity of creatine kinase is: (A) increased when intracellular ADP rises. (B) increased when muscle pH falls below 6.9. (C) always lower in Type II fibres than Type I fibres. (D) increased after a period of endurance training. (30 points)
+3. The trigger to initiate the contractile process in skeletal muscle is: (A) potassium binding to myosin. (B) calcium binding to tropomyosin. (C) ATP binding to the myosin cross bridges. (D) calcium binding to troponin. (20 points)
+4. Lactate and hydrogen ions leave the muscle: (A) via a cotransport mechanism with carnosine. (B) via an active transport mechanism. (C) via a protein transporter molecule. (D) by simple diffusion. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+59,4,40-10-30-20,D,40,B,10,A,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following physiological characteristics is not important for success in endurance events such as the marathon race? (A) The ability to regulate body temperature. (B) The ability to supply oxygen to the exercising muscles. (C) The availability of body stores of carbohydrate. (D) Muscle ATP and phosphocreatine content. (40 points)
+2. Blood clots are responsible for repeatedly blocking a catheter. What should you do? (A) Call for help. (B) Inform medical staff. (C) Inform the patient. (D) Remove the catheter and recatheterize. (10 points)
+3. The β-oxidation of a molecule of palmitic acid, CH3(CH2)14CO2H: (A) yields 8 molecules of acetyl-CoA and some ATP and water. (B) yields 16 molecules of acetyl-CoA only. (C) yields carbon dioxide and water only. (D) does not involve oxygen. (30 points)
+4. The pulse can be palpated: (A) every time the atria contracts. (B) when a vein is close to the surface of the skin. (C) every time the left ventricle contracts. (D) when an artery is close to the surface of the skin. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+60,4,40-30-10-20,A,40,B,30,B,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The carpal bones are the small bones of the wrist - name them. (A) Scaphoid, lunate, triquetral, pisiform, trapezium, trapezoid, capitate, hamate. (B) Scaphoid, lunar, triquetrium, pisiform, radius, ulna, capitates. (C) Scaphoid, proximal phalynx, humerus, hamate, capitate. (D) Scaphoid, radius, ulna, cunniform, trapezius. (40 points)
+2. Which of the following releases most energy when completely oxidised in the body? (A) One gram of glucose (B) One gram of palmitic acid (C) One gram of leucine (D) One gram of alcohol (30 points)
+3. Which of the following is NOT a symptom of anaphylaxis? (A) Stridor. (B) Bradycardia. (C) Severe wheeze. (D) Rash. (10 points)
+4. Which of the following groups of drugs may cause a dry mouth? (A) Steroids. (B) Analgesics. (C) Antidepressants. (D) Antifungal agents. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+61,4,30-20-10-40,A,30,B,20,A,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Hypernatraemic dehydration is: (A) water intake is less than is needed to maintain balance. (B) water intake is more than is needed to maintain balance. (C) blood volume is lost due to trauma or burns. (D) blood volume is lost due to surgery. (30 points)
+2. Which of the following parameters are seen on typical neurological observation charts? (A) Urine output. (B) Temperature. (C) Central venous pressure. (D) Blood glucose. (20 points)
+3. What is an urgent reason for catheterizing a patient? (A) Acute urinary retention. (B) Urinary tract infection. (C) Incontinence. (D) Because they asked. (10 points)
+4. When teaching a patient inhaler technique, how will you ensure that a large proportion of the drug reaches the lower airways? (A) Ask them to take lots of small, quick breaths in before using the inhaler. (B) Ask them to breathe normally when using the inhaler. (C) Ask them to perform the procedure as quickly as they can. (D) Ask them to hold their breath at the end of the inspiration on using the inhaler. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+62,4,30-20-10-40,B,30,B,20,C,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following processes is not used to modify protein structure after translation has occurred? (A) Lipidation. (B) Attachment of more amino acids via peptide bonds. (C) Glycosylation. (D) Phosphorylation. (30 points)
+2. The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of: (A) six molecules of water. (B) two molecules of ATP. (C) three molecules of ATP. (D) thirty-eight molecules of ATP. (20 points)
+3. After what period of time does maximal dynamic exercise become predominantly aerobic? (A) 10 seconds (B) 30 seconds (C) 1 minute (D) 4 minutes (10 points)
+4. Once a prescribed unit of blood product has been obtained from the blood bank and is out of refrigeration, the transfusion should commence within what period of time before it starts to deteriorate (as of 2020 medical knowledge)? (A) 30 minutes. (B) 90 minutes. (C) 4 hours. (D) 12 hours. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+63,4,10-20-30-40,C,10,C,20,C,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How often should a cannula be flushed? (A) Every 4 hours. (B) Every 8 hours. (C) Every 12 hours. (D) Every 16 hours. (10 points)
+2. Fast-twitch fibres contain: (A) a relatively large number of mitochondria and low ATPase activity. (B) a relatively small number of mitochondria and low ATPase activity. (C) a relatively small number of mitochondria and high ATPase activity. (D) a relatively large number of mitochondria and high ATPase activity. (20 points)
+3. Which of the following is true of facial nerve palsy? (A) Bells palsy is another term for an upper motor neurone lesion (B) Ramsay Hunt Syndrome is an upper motor neurone lesion secondary to a Herpes Zoster infection (C) An inability to close the eyelid on the paralysed side indicates a lower motor neurone lesion (D) In Bell's Palsy the sense of taste is never affected (30 points)
+4. Which of the following should patients remember when taking paracetamol? (A) It can interfere with the effectiveness of other drugs such as Warfarin. (B) It should only be given on an 'as required' basis. (C) Patients should carefully check the contents of over-the-counter cold remedies in order to prevent accidental overdose, as such preparations often contain additional paracetamol. (D) It is contraindicated in patients with pyrexia. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+64,4,10-40-30-20,D,10,C,40,B,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The key attribute in successful marathon running is: (A) strength. (B) power. (C) stride length. (D) stamina. (10 points)
+2. Which of these features suggest that a pulsation in the neck is arterial? (A) A waggling earlobe (B) Positive for hepatojugular reflux (C) No variation with posture (D) Pressure in the root of the neck reduces the impulse (40 points)
+3. Creatine is synthesized from: (A) amino acids in the muscles. (B) amino acids in the liver. (C) amino acids in the kidneys. (D) creatinine in the kidneys. (30 points)
+4. Fatty acids are transported into the mitochondria bound to: (A) thiokinase. (B) coenzyme A (CoA). (C) acetyl-CoA. (D) carnitine. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+65,4,30-10-20-40,D,30,B,10,C,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What might make the nurse think a patient could not use an inhaler? (A) Severe leg ulcers. (B) Previous recovery from an acute exacerbation of asthma. (C) Forthcoming surgery. (D) Poor technique, physical impairment, or lack of understanding. (30 points)
+2. Glycogen breakdown in muscle initially results in the formation of: (A) glucose. (B) glucose-1-phosphate. (C) glucose-6-phosphate. (D) glucose-1,6-diphosphate. (10 points)
+3. The optimum position for performing CPR is to position the patient: (A) in a semi-recumbent posture. (B) tilted to the left to keep the heart perfused. (C) flat on a firm surface. (D) on the floor with the legs raised. (20 points)
+4. Which of the following is true about haemorrhoids? (A) Bleeding haemorrhoids lead to melaena per rectum (PR) (B) Pregnancy is a predisposing factor in causing haemorrhoids (C) Bleeding from first degree haemorrhoids is associated with pain (D) Second degree haemorrhoids cannot be returned to the anal canal (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+66,4,30-10-40-20,D,30,C,10,D,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Phophocreatine resynthesis during recovery from exercise is inhibited by: (A) an excess of creatine. (B) hyperventilation. (C) an excess of oxygen. (D) a lack of oxygen. (30 points)
+2. The enzymes of glycolysis are located in the: (A) mitochondrion. (B) nucleus. (C) cytoplasm. (D) lysosomes. (10 points)
+3. Which one of the following groups of patients should be assessed using an Early Warning Score (EWS)? (A) Only patients over 60 years of age. (B) Only patients admitted to the Emergency Department. (C) Only patients who have been on an Intensive care/High dependency unit. (D) Any patient who is acutely unwell pre-operatively or post-operatively and those who have undergone major surgery. (40 points)
+4. Phosphocreatine in the muscle cell is found in: (A) the mitochondria. (B) all subcellular compartments. (C) the sarcolemma. (D) the cytoplasm. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+67,4,30-10-40-20,D,30,D,10,A,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Prosthetic groups are: (A) required by all enzymes in the cell. (B) loosely bound to enzymes via hydrogen bonds. (C) sites on the enzyme molecule that permit allosteric modification of enzyme activity. (D) tightly bound to enzymes and are required for their activity. (30 points)
+2. The rate limiting enzyme of glycolysis is: (A) phosphorylase. (B) hexokinase. (C) pyruvate dehydrogenase. (D) phosphofructokinase. (10 points)
+3. Which of the following is true about rectal bleeding? (A) A painful digital examination suggests an anal fissure (B) Bright red blood on the finger usually signifies a caecal lesion (C) Proctoscopy is of no value in the assessment of rectal bleeding (D) Rectal cancer is the commonest cause of rectal bleeding (40 points)
+4. Which of these is not necessary when examining the jugular venous pulse? (A) Patient's neck muscles should be relaxed (B) Timing the pulsation with the radial pulse (C) Good lighting (D) Patient lying at 45 degree angle (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+68,4,10-20-30-40,B,10,C,20,B,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the minimum time a stretch should be held for? (A) 0-10 seconds. (B) 10-30 seconds. (C) 30-50 seconds. (D) 60 seconds. (10 points)
+2. Which of the following drugs may be used to enhance gastric motility? (A) Adrenaline. (B) Ditropan. (C) Erythromycin. (D) Carbemazepine. (20 points)
+3. The maximum sustainable power: (A) usually remains constant during a race. (B) declines with the distance of the race. (C) is improved by a high fat diet. (D) is inversely related to muscle glycogen content. (30 points)
+4. Which of these combinations of clinical features is most suggestive of mixed mitral valve disease with a predominance of mitral regurgitation? (A) Displaced apex beat; soft first heart sound; pan-systolic murmur; short mid-diastolic murmur (B) Irregularly, irregular pulse; displaced apex beat; ejection systolic murmur; short mid-diastolic murmur (C) Displaced apex beat; normal first heart sound; pan-systolic murmur; long mid-diastolic murmur (D) Tapping apex beat; loud first heart sound; pan-systolic murmur; long mid-diastolic murmur (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+69,4,30-10-40-20,D,30,B,10,C,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following would not be done before catheterizing? (A) Gain patient consent. (B) Patient to be washed. (C) Expiry dates to be checked. (D) Ring patient's next of kin. (30 points)
+2. Which of the following is recommended for cleaning the mouth? (A) Hydrogen peroxide. (B) Water. (C) Lemon and glycerine swabs. (D) Normal saline. (10 points)
+3. Anaerobic metabolism refers to the generation of ATP: (A) without the involvement of ADP. (B) without the use of glycogen. (C) without the use of oxygen. (D) in the absence of available oxygen. (40 points)
+4. Pairs of electrons carried in the form, FADH2 and NADH+H, collectively contain enough free energy to rephosphorylate: (A) 6 ATP. (B) 5 ATP. (C) 4 ATP. (D) 3 ATP. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+70,4,20-40-30-10,A,20,B,40,D,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following tools is the first choice for cleaning the mouth? (A) Small, soft toothbrush. (B) Gloved finger wrapped in gauze. (C) Forceps wrapped in gauze. (D) Foam stick. (20 points)
+2. Which of the following is true in diplopia? (A) Diplopia can never occur if one eye is covered (B) The outer image is always the false image (C) A fourth nerve palsy occurs when the patient looks upwards (D) A sixth nerve palsy causes a divergent squint (40 points)
+3. Why can't a patient talk if the cuff is inflated? (A) They are unable to breathe in sufficiently. (B) They are unable to swallow properly. (C) It is too tiring. (D) They are unable to pass air through their vocal cords. (30 points)
+4. The complete resynthesis of phosphocreatine after very high intensity exercise normally takes: (A) about 10 seconds. (B) about 30 seconds. (C) about 1 minute. (D) about 4 minutes. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+71,4,30-40-20-10,C,30,D,40,C,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Why are male patients advised to take their own electric razor to hospital? (A) For patient comfort. (B) To make hospital as familiar as possible. (C) To minimize risk of cross-infection. (D) To allow shaving at a time convenient to the patient. (30 points)
+2. Which of the following is not a controlled drug? (A) A 30 milligram ampoule of Codeine Phosphate for injection. (B) A sustained release Morphine tablet. (C) A 12.5 microgram Fentanyl patch. (D) A 500 ml bottle of Morphine 10 mg in 5 ml in oral suspension. (40 points)
+3. Approximately how many kJ of energy are expended if an athlete's steady-rate oxygen uptake averages 3.0 l/min for 5 minutes of exercise? (A) 60 kJ (B) 150 kJ (C) 300 kJ (D) 500 kJ (20 points)
+4. A change in blood pressure is detected by the: (A) baroreceptors. (B) chemoreceptors. (C) vasomotor centre. (D) cardiovascular centre. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+72,4,30-20-10-40,C,30,A,20,A,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the answers below best indicates the compatible blood types that can be given to a person with a blood group B (rhesus negative)? (A) Blood type AB (rhesus negative), blood type B, and blood type O (rhesus negative). (B) Blood type B (rhesus positive) and blood type O (rhesus positive). (C) Blood type B (rhesus negative) and blood type O (rhesus negative). (D) Blood type B (rhesus negative) only. (30 points)
+2. Which of these features suggest that a crackling sound is more likely due to a pleural friction rub than crackles? (A) More prominent in expiration (B) Alters with coughing (C) No pain over the area (D) Clubbing (20 points)
+3. A muscle fibre relaxes when: (A) the nerve stimulus is removed. (B) the nerve stimulus is too forceful. (C) the actin binding sites are uncovered. (D) the actin binding sites are saturated. (10 points)
+4. If a transfusion reaction is suspected, you should: (A) turn off the transfusion, inform medical staff immediately, and follow transfusion policy advice on dealing with acute transfusion reactions. (B) leave the transfusion running and contact the medical staff immediately. (C) disconnect and dispose of the blood bag immediately. (D) leave the transfusion running and record a set of observations on the patient. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+73,4,30-20-40-10,A,30,C,20,B,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Glucose is transported into the muscle cell: (A) via protein transporters called GLUT4. (B) only in the presence of insulin. (C) via hexokinase. (D) via monocarbylic acid transporters. (30 points)
+2. If a patient is cyanosed, what might their oxygen saturation level be? (A) 98% or above. (B) 94% or above. (C) 80% or below. (D) 85% or above. (20 points)
+3. Which of the following best describes the effects of morphine? (A) Reduces pain intensity and increases alertness. (B) Reduces pain intensity but also causes sedation. (C) Reduces pain intensity but also causes diarrhoea. (D) Reduces pain intensity but also causes insomnia. (40 points)
+4. What is the pH of water? (A) 3.5 (B) 7 (C) 12 (D) 6.25 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+74,4,20-30-10-40,C,20,D,30,B,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Patients with the apolipoprotein E gene are at risk of which disease? (A) Cystic fibrosis. (B) Huntington's dementia. (C) Alzheimer's disease. (D) Depression. (20 points)
+2. Mutations are errors in DNA that: (A) are always harmful. (B) only occur in the presence of carcinogens. (C) increase tumour growth. (D) occur spontaneously at a low rate. (30 points)
+3. Name three of the five main uses of the hand. (A) Touch, feel, stroke. (B) Grip, percussion, sensory. (C) Tap, slap, clap. (D) Touch, pinch, grasp. (10 points)
+4. Who has legal responsibility for a patient's care during hospital admission, stay, and discharge? (A) The named nurse. (B) The named consultant. (C) The ward manager. (D) The GP. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+75,4,30-40-20-10,A,30,B,40,C,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which products of ADP degradation increase in concentration in the blood during multiple sprint sports? (A) Ammonia, hypoxanthine and uric acid. (B) Ammonia, urea and uric acid. (C) Ammonia, urea and creatinine. (D) Ammonia, urea and creatine. (30 points)
+2. The term gene doping refers to: (A) the use of drugs to modify gene transcription. (B) the use of genetic manipulation techniques to enhance performance in sport. (C) the activation or inhibition of genes to mask drug taking by athletes. (D) the use of drugs to modify the myostatin gene. (40 points)
+3. Which of the following drugs is most commonly responsible for patients who present with acute confusion? (A) Heroin (opiates). (B) Ecstasy. (C) Alcohol. (D) Cannabis. (20 points)
+4. A normal heart rate for an adult at rest is: (A) 60-80 bpm. (B) 60-100 bpm. (C) 60-90 bpm. (D) 60-110 bpm. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+76,4,40-20-10-30,D,40,C,20,A,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following physiological characteristics is not important for success in endurance events such as the marathon race? (A) The ability to regulate body temperature. (B) The ability to supply oxygen to the exercising muscles. (C) The availability of body stores of carbohydrate. (D) Muscle ATP and phosphocreatine content. (40 points)
+2. The optimum position for performing CPR is to position the patient: (A) in a semi-recumbent posture. (B) tilted to the left to keep the heart perfused. (C) flat on a firm surface. (D) on the floor with the legs raised. (20 points)
+3. A change in blood pressure is detected by the: (A) baroreceptors. (B) chemoreceptors. (C) vasomotor centre. (D) cardiovascular centre. (10 points)
+4. Which of the following is true of Paget's Disease? (A) Bowing of a long bone is a characteristic feature (B) Spinal cord compression is a common complication (C) Heart failure is not a recognized complication (D) Pathological fractures are not a feature (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+77,5,20-40-30-10,A,20,A,40,C,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which products of ADP degradation increase in concentration in the blood during multiple sprint sports? (A) Ammonia, hypoxanthine and uric acid. (B) Ammonia, urea and uric acid. (C) Ammonia, urea and creatinine. (D) Ammonia, urea and creatine. (20 points)
+2. Which of these combinations of clinical features is most suggestive of mixed mitral valve disease with a predominance of mitral regurgitation? (A) Displaced apex beat; soft first heart sound; pan-systolic murmur; short mid-diastolic murmur (B) Irregularly, irregular pulse; displaced apex beat; ejection systolic murmur; short mid-diastolic murmur (C) Displaced apex beat; normal first heart sound; pan-systolic murmur; long mid-diastolic murmur (D) Tapping apex beat; loud first heart sound; pan-systolic murmur; long mid-diastolic murmur (40 points)
+3. Which of the following is true of the assessment of power in the arms? (A) Grade 3/5 (MRC scale) represents movement of the arm only when gravity is eliminated (B) Flexion at the elbow is produced by the triceps muscle (C) The root value of shoulder abduction is C5 (D) Grade 1/5 power represents no movement or muscle contraction (30 points)
+4. Which of these features suggest that a crackling sound is more likely due to a pleural friction rub than crackles? (A) More prominent in expiration (B) Alters with coughing (C) No pain over the area (D) Clubbing (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+78,5,30-10-40-20,C,30,C,10,A,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of these features suggest that a pulsation in the neck is arterial? (A) A waggling earlobe (B) Positive for hepatojugular reflux (C) No variation with posture (D) Pressure in the root of the neck reduces the impulse (30 points)
+2. If a patient is cyanosed, what might their oxygen saturation level be? (A) 98% or above. (B) 94% or above. (C) 80% or below. (D) 85% or above. (10 points)
+3. The activity of creatine kinase is: (A) increased when intracellular ADP rises. (B) increased when muscle pH falls below 6.9. (C) always lower in Type II fibres than Type I fibres. (D) increased after a period of endurance training. (40 points)
+4. A palpable left parasternal impulse suggests which abnormality? (A) Right ventricular hypertrophy (B) Aortic stenosis (C) Aortic regurgitation (D) Left ventricular hypertrophy (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+79,5,20-40-10-30,D,20,D,40,A,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Why can't a patient talk if the cuff is inflated? (A) They are unable to breathe in sufficiently. (B) They are unable to swallow properly. (C) It is too tiring. (D) They are unable to pass air through their vocal cords. (20 points)
+2. Which of the following is not a true statement? (A) Muscle glycogen is broken down enzymatically to glucose-1-phosphate (B) Elite endurance runners have a high proportion of Type I fibres in their leg muscles (C) Liver glycogen is important in the maintenance of the blood glucose concentration (D) Insulin promotes glucose uptake by all tissues in the body (40 points)
+3. Which of the following is the same strength as Adrenaline 1 in 1000? Choose one answer from the following: (A) 1 mg/mL (B) 1 mg/L (C) 1 g/mL (D) 100 micrograms/mL (10 points)
+4. Fast-twitch fibres contain: (A) a relatively large number of mitochondria and low ATPase activity. (B) a relatively small number of mitochondria and low ATPase activity. (C) a relatively small number of mitochondria and high ATPase activity. (D) a relatively large number of mitochondria and high ATPase activity. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+80,5,10-30-40-20,D,10,C,30,A,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The rate limiting enzyme of glycolysis is: (A) phosphorylase. (B) hexokinase. (C) pyruvate dehydrogenase. (D) phosphofructokinase. (10 points)
+2. After what period of time does maximal dynamic exercise become predominantly aerobic? (A) 10 seconds (B) 30 seconds (C) 1 minute (D) 4 minutes (30 points)
+3. A muscle fibre relaxes when: (A) the nerve stimulus is removed. (B) the nerve stimulus is too forceful. (C) the actin binding sites are uncovered. (D) the actin binding sites are saturated. (40 points)
+4. Which of the following drugs may be used to enhance gastric motility? (A) Adrenaline. (B) Ditropan. (C) Erythromycin. (D) Carbemazepine. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+81,5,10-20-40-30,B,10,A,20,A,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is recommended for cleaning the mouth? (A) Hydrogen peroxide. (B) Water. (C) Lemon and glycerine swabs. (D) Normal saline. (10 points)
+2. Which of the following tools is the first choice for cleaning the mouth? (A) Small, soft toothbrush. (B) Gloved finger wrapped in gauze. (C) Forceps wrapped in gauze. (D) Foam stick. (20 points)
+3. If a transfusion reaction is suspected, you should: (A) turn off the transfusion, inform medical staff immediately, and follow transfusion policy advice on dealing with acute transfusion reactions. (B) leave the transfusion running and contact the medical staff immediately. (C) disconnect and dispose of the blood bag immediately. (D) leave the transfusion running and record a set of observations on the patient. (40 points)
+4. Once a prescribed unit of blood product has been obtained from the blood bank and is out of refrigeration, the transfusion should commence within what period of time before it starts to deteriorate (as of 2020 medical knowledge)? (A) 30 minutes. (B) 90 minutes. (C) 4 hours. (D) 12 hours. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+82,5,20-40-10-30,B,20,A,40,B,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A normal heart rate for an adult at rest is: (A) 60-80 bpm. (B) 60-100 bpm. (C) 60-90 bpm. (D) 60-110 bpm. (20 points)
+2. Prior to undergoing a painful procedure, a patient should be informed about what to expect and how their pain will be controlled, as this is associated with: (A) a reduction in anxiety and perceived pain intensity. (B) an increased use of analgesia. (C) a decrease in the frequency of pain-related problems such as nausea and vomiting. (D) an increased urine output. (40 points)
+3. What is the pH of water? (A) 3.5 (B) 7 (C) 12 (D) 6.25 (10 points)
+4. The creatine kinase reaction is: (A) irreversible. (B) slow compared with glycolysis. (C) not activated until all the ATP has been used up. (D) inhibited by low pH in the muscle. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+83,5,10-30-20-40,B,10,D,30,D,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following parameters are seen on typical neurological observation charts? (A) Urine output. (B) Temperature. (C) Central venous pressure. (D) Blood glucose. (10 points)
+2. Prosthetic groups are: (A) required by all enzymes in the cell. (B) loosely bound to enzymes via hydrogen bonds. (C) sites on the enzyme molecule that permit allosteric modification of enzyme activity. (D) tightly bound to enzymes and are required for their activity. (30 points)
+3. Which of the following is not a controlled drug? (A) A 30 milligram ampoule of Codeine Phosphate for injection. (B) A sustained release Morphine tablet. (C) A 12.5 microgram Fentanyl patch. (D) A 500 ml bottle of Morphine 10 mg in 5 ml in oral suspension. (20 points)
+4. Why should careful consideration be given to providing people aged over 65 with information sources that are internet based? (A) They may have difficulty reading the screen. (B) Less than 30% of people over 65 years have access to the internet. (C) The internet is aimed at younger people. (D) They may not be able to type. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+84,5,40-10-30-20,A,40,C,10,C,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Hypernatraemic dehydration is: (A) water intake is less than is needed to maintain balance. (B) water intake is more than is needed to maintain balance. (C) blood volume is lost due to trauma or burns. (D) blood volume is lost due to surgery. (40 points)
+2. How many different types of microorganisms may colonize the mouth? (A) 35 (B) 100 (C) 350 (D) 500 (10 points)
+3. Which of the following drugs is most commonly responsible for patients who present with acute confusion? (A) Heroin (opiates). (B) Ecstasy. (C) Alcohol. (D) Cannabis. (30 points)
+4. Phosphocreatine in the muscle cell is found in: (A) the mitochondria. (B) all subcellular compartments. (C) the sarcolemma. (D) the cytoplasm. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+85,5,10-30-20-40,D,10,D,30,C,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Mutations are errors in DNA that: (A) are always harmful. (B) only occur in the presence of carcinogens. (C) increase tumour growth. (D) occur spontaneously at a low rate. (10 points)
+2. Which one of the following groups of patients should be assessed using an Early Warning Score (EWS)? (A) Only patients over 60 years of age. (B) Only patients admitted to the Emergency Department. (C) Only patients who have been on an Intensive care/High dependency unit. (D) Any patient who is acutely unwell pre-operatively or post-operatively and those who have undergone major surgery. (30 points)
+3. Approximately how many kJ of energy are expended if an athlete's steady-rate oxygen uptake averages 3.0 l/min for 5 minutes of exercise? (A) 60 kJ (B) 150 kJ (C) 300 kJ (D) 500 kJ (20 points)
+4. Which of the following should patients remember when taking paracetamol? (A) It can interfere with the effectiveness of other drugs such as Warfarin. (B) It should only be given on an 'as required' basis. (C) Patients should carefully check the contents of over-the-counter cold remedies in order to prevent accidental overdose, as such preparations often contain additional paracetamol. (D) It is contraindicated in patients with pyrexia. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+86,5,10-20-40-30,C,10,C,20,A,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How often should a cannula be flushed? (A) Every 4 hours. (B) Every 8 hours. (C) Every 12 hours. (D) Every 16 hours. (10 points)
+2. Which of the following groups of drugs may cause a dry mouth? (A) Steroids. (B) Analgesics. (C) Antidepressants. (D) Antifungal agents. (20 points)
+3. Which of the following is true about rectal bleeding? (A) A painful digital examination suggests an anal fissure (B) Bright red blood on the finger usually signifies a caecal lesion (C) Proctoscopy is of no value in the assessment of rectal bleeding (D) Rectal cancer is the commonest cause of rectal bleeding (40 points)
+4. Who has legal responsibility for a patient's care during hospital admission, stay, and discharge? (A) The named nurse. (B) The named consultant. (C) The ward manager. (D) The GP. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+87,5,30-20-40-10,B,30,B,20,A,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is true in diplopia? (A) Diplopia can never occur if one eye is covered (B) The outer image is always the false image (C) A fourth nerve palsy occurs when the patient looks upwards (D) A sixth nerve palsy causes a divergent squint (30 points)
+2. The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of: (A) six molecules of water. (B) two molecules of ATP. (C) three molecules of ATP. (D) thirty-eight molecules of ATP. (20 points)
+3. What is the purpose of the cuff on a tracheostomy tube? (A) To create an air seal within the trachea and reduce the risk of aspirating saliva or gastric contents. (B) To reduce local oedema. (C) To assist with swallowing. (D) To allow the patient to talk. (40 points)
+4. Which of the following factors can affect enzyme activity? (A) Temperature. (B) pH. (C) The presence of certain metal ions. (D) All of the above. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+88,5,30-20-40-10,B,30,B,20,B,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of these is not necessary when examining the jugular venous pulse? (A) Patient's neck muscles should be relaxed (B) Timing the pulsation with the radial pulse (C) Good lighting (D) Patient lying at 45 degree angle (30 points)
+2. Blood clots are responsible for repeatedly blocking a catheter. What should you do? (A) Call for help. (B) Inform medical staff. (C) Inform the patient. (D) Remove the catheter and recatheterize. (20 points)
+3. Which of the following is true about haemorrhoids? (A) Bleeding haemorrhoids lead to melaena per rectum (PR) (B) Pregnancy is a predisposing factor in causing haemorrhoids (C) Bleeding from first degree haemorrhoids is associated with pain (D) Second degree haemorrhoids cannot be returned to the anal canal (40 points)
+4. Lactate and hydrogen ions leave the muscle: (A) via a cotransport mechanism with carnosine. (B) via an active transport mechanism. (C) via a protein transporter molecule. (D) by simple diffusion. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+89,5,20-30-10-40,B,20,A,30,A,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Oedema is the presence of: (A) excessive intravascular fluid. (B) excessive extravascular fluid. (C) excessive intracranial fluid. (D) excessive necrotic cells. (20 points)
+2. Glucose is transported into the muscle cell: (A) via protein transporters called GLUT4. (B) only in the presence of insulin. (C) via hexokinase. (D) via monocarbylic acid transporters. (30 points)
+3. Performance enhancing synthetic steroids are based on the structure of the hormone: (A) testosterone. (B) cortisol. (C) progesterone. (D) aldosterone. (10 points)
+4. Which of the following are indicative signs and symptoms of circulatory overload? (A) Hypothermia, hypotension, and bradycardia. (B) Hypotension, oliguria, and uticaria. (C) Shivering, pyrexia, and thirst. (D) Dyspnoea, tachycardia, and distended neck veins. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+90,5,30-10-20-40,C,30,B,10,B,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Why are male patients advised to take their own electric razor to hospital? (A) For patient comfort. (B) To make hospital as familiar as possible. (C) To minimize risk of cross-infection. (D) To allow shaving at a time convenient to the patient. (30 points)
+2. The ATP store in muscle can only supply energy in high intensity exercise for about: (A) 2 milliseconds. (B) 2 seconds. (C) 10 seconds. (D) 20 seconds. (10 points)
+3. Oxygen is used: (A) in glycolysis. (B) in the conversion of fatty acids to acetyl CoA. (C) in the tricarboxylic acid cycle (Krebs' cycle). (D) in glycogenolysis. (20 points)
+4. Women's world record performances have improved rapidly in recent years mainly because: (A) women have evolved a greater muscle mass. (B) women can now run faster than men. (C) women have started training at an earlier age. (D) more women are now engaged in sport. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+91,5,30-40-20-10,A,30,A,40,B,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The β-oxidation of a molecule of palmitic acid, CH3(CH2)14CO2H: (A) yields 8 molecules of acetyl-CoA and some ATP and water. (B) yields 16 molecules of acetyl-CoA only. (C) yields carbon dioxide and water only. (D) does not involve oxygen. (30 points)
+2. The carpal bones are the small bones of the wrist - name them. (A) Scaphoid, lunate, triquetral, pisiform, trapezium, trapezoid, capitate, hamate. (B) Scaphoid, lunar, triquetrium, pisiform, radius, ulna, capitates. (C) Scaphoid, proximal phalynx, humerus, hamate, capitate. (D) Scaphoid, radius, ulna, cunniform, trapezius. (40 points)
+3. Which of the following releases most energy when completely oxidised in the body? (A) One gram of glucose (B) One gram of palmitic acid (C) One gram of leucine (D) One gram of alcohol (20 points)
+4. Which of the following is the commonest cause of dementia in the UK? (A) Alzheimer's disease. (B) Cerebrovascular (stroke) disease. (C) Lewy body dementia. (D) HIV infection. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+92,5,30-10-40-20,B,30,D,10,B,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. 960 mg of the antibacterial drug Cotrimoxazole is prescribed every 12 hours. What is the daily dose in grams? Choose one answer from the following: (A) 0.192 (B) 1.92 (C) 1920 (D) 0.96 (30 points)
+2. Fatty acids are transported into the mitochondria bound to: (A) thiokinase. (B) coenzyme A (CoA). (C) acetyl-CoA. (D) carnitine. (10 points)
+3. The term gene doping refers to: (A) the use of drugs to modify gene transcription. (B) the use of genetic manipulation techniques to enhance performance in sport. (C) the activation or inhibition of genes to mask drug taking by athletes. (D) the use of drugs to modify the myostatin gene. (40 points)
+4. How much toothpaste is recommended for cleaning teeth? (A) A smear. (B) A pea-sized amount. (C) The length of the toothbrush. (D) Half an inch. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+93,5,10-30-20-40,D,10,C,30,A,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. During CPR chest compressions and ventilations should be delivered in a ratio of: (A) 2:25 (B) 15:02 (C) 1:05 (D) 30:02:00 (10 points)
+2. Patients with the apolipoprotein E gene are at risk of which disease? (A) Cystic fibrosis. (B) Huntington's dementia. (C) Alzheimer's disease. (D) Depression. (30 points)
+3. What is an urgent reason for catheterizing a patient? (A) Acute urinary retention. (B) Urinary tract infection. (C) Incontinence. (D) Because they asked. (20 points)
+4. Which of the following processes is not used to modify protein structure after translation has occurred? (A) Lipidation. (B) Attachment of more amino acids via peptide bonds. (C) Glycosylation. (D) Phosphorylation. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+94,5,20-40-10-30,B,20,B,40,D,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following best describes the effects of morphine? (A) Reduces pain intensity and increases alertness. (B) Reduces pain intensity but also causes sedation. (C) Reduces pain intensity but also causes diarrhoea. (D) Reduces pain intensity but also causes insomnia. (20 points)
+2. Bronchial breathing is characterized by (A) Inspiratory component louder and longer with a gap between expiration and inspiration (B) Expiratory component louder and longer with a gap between inspiration and expiration (C) Inspiratory component louder and longer with a gap between inspiration and expiration (D) Expiratory component louder and longer with a gap between expiration and inspiration (40 points)
+3. What might make the nurse think a patient could not use an inhaler? (A) Severe leg ulcers. (B) Previous recovery from an acute exacerbation of asthma. (C) Forthcoming surgery. (D) Poor technique, physical impairment, or lack of understanding. (10 points)
+4. Which of the following is true of haematemesis? (A) A low blood pressure (<90mmHg systolic) and a tachycardia (>100/min) are worrying features (B) A pulse rate of 80/min in a patient taking Bisoprolol is reassuring (C) Abdominal pain is always present (D) An alcohol history is not essential (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+95,5,10-20-40-30,C,10,D,20,C,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The enzymes of glycolysis are located in the: (A) mitochondrion. (B) nucleus. (C) cytoplasm. (D) lysosomes. (10 points)
+2. The key attribute in successful marathon running is: (A) strength. (B) power. (C) stride length. (D) stamina. (20 points)
+3. Which of the following is true of facial nerve palsy? (A) Bells palsy is another term for an upper motor neurone lesion (B) Ramsay Hunt Syndrome is an upper motor neurone lesion secondary to a Herpes Zoster infection (C) An inability to close the eyelid on the paralysed side indicates a lower motor neurone lesion (D) In Bell's Palsy the sense of taste is never affected (40 points)
+4. Pairs of electrons carried in the form, FADH2 and NADH+H, collectively contain enough free energy to rephosphorylate: (A) 6 ATP. (B) 5 ATP. (C) 4 ATP. (D) 3 ATP. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+96,5,20-30-40-10,B,20,A,30,A,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Glycogen breakdown in muscle initially results in the formation of: (A) glucose. (B) glucose-1-phosphate. (C) glucose-6-phosphate. (D) glucose-1,6-diphosphate. (20 points)
+2. Where should a stoma be sited? (A) The rectus sheath abdominus. (B) Next to the umbilicus. (C) Within an abdominal crease. (D) In close proximity to the incision site. (30 points)
+3. Wound drainage should be assessed for volume and consistency: (A) each time post-operative observations are undertaken. (B) daily. (C) every hour. (D) only when the wound dressing is changed. (40 points)
+4. Dopamine is prescribed at a rate of 4 micrograms/kg/min. For a 65 kg person, how many milligrams will they receive in an hour? (A) 156 (B) 15.6 (C) 1.56 (D) 15600 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."

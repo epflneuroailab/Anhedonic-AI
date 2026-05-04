@@ -1,0 +1,961 @@
+ID,Subset,Reward_Order,Correct_Answer_1,Reward_1,Correct_Answer_2,Reward_2,Correct_Answer_3,Reward_3,Correct_Answer_4,Reward_4,Full_Prompt
+1,1,20-40-10-30,C,20,C,40,D,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In the equation GDP = C + I + G + X X stands for (A) exports. (B) expenditures. (C) exports minus imports. (D) imports minus exports. (20 points)
+2. Suppose a nation is experiencing an annual budget surplus and uses some of this surplus to pay down part of the national debt. One potential side effect of this policy would be (A) increase interest rates and throw the economy into a recession. (B) increase interest rates and depreciate the nation's currency. (C) decrease interest rates and risk an inflationary period. (D) decrease interest rates and throw the economy into a recession. (40 points)
+3. GDP measures a country's level of I. production. II. stability. III. income. (A) I only. (B) II only. (C) III only. (D) I and III. (10 points)
+4. A decrease in real investment stemming from higher interest rates due to government purchases is most commonly called (A) crowding out (B) zero policy effectiveness (C) the Laffer effect (D) fiscal defeat (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+2,1,40-20-10-30,C,40,A,20,C,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What will happen to the equilibrium price and the equilibrium quantity of good Z when the price of good X which is a close substitute for Z rises? (A) The equilibrium price will rise and the equilibrium quantity will fall. (B) The equilibrium price will fall and the equilibrium quantity will rise. (C) The equilibrium price and the equilibrium quantity will both rise. (D) The equilibrium price and the equilibrium quantity will both fall. (40 points)
+2. In a long period of economic expansion the tax revenue collected ____ and the amount spent on welfare programs ____ creating a budget ____ . (A) increases decreases surplus (B) increases decreases deficit (C) decreases decreases surplus (D) decreases increases deficit (20 points)
+3. Which of the following is NOT an argument for restricting trade? (A) To protect infant industry (B) To promote employment (C) To fight inflation (D) To promote a diversity of industries (10 points)
+4. Which of the following could limit the ability of a central bank to conduct expansionary monetary policy? (A) Money demand is nearly perfectly elastic. (B) Investment demand is nearly perfectly elastic. (C) Banks make loans with all excess reserves. (D) Households carry very little cash holding their money in checking and saving deposits. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+3,1,20-40-30-10,D,20,A,40,D,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following creates the trade-offdepicted by the Phillips curve? (A) A rightward shift in the aggregate supply curve (B) An increase in input costs that corresponds with an increase in unemployment (C) An increase in output that corresponds with a decrease in the price level (D) A rightward shift in the aggregate demand curve (20 points)
+2. Suppose the Japanese economy is suffering a prolonged recession. Lower Japanese household incomes will affect U.S. exports to Japan demand for the dollar and the value of the dollar relative to the yen in which of the following ways? EXPORTS TO JAPAN     DEMAND FOR $     VALUE OF $ (A) Decrease     Decrease     Decrease (B) Decrease     Decrease     Increase (C) Decrease     Increase     Decrease (D) Increase     Decrease     Decrease (40 points)
+3. An American firm moves a manufacturing plant from the United States to Brazil. How will this affect gross domestic product (GDP) in the United States and in Brazil? (A) U.S. GDP falls and Brazil's GDP falls. (B) U.S. GDP rises and Brazil's GDP falls. (C) U.S. GDP falls and Brazil's GDP remains constant. (D) U.S. GDP falls and Brazil's GDP rises. (30 points)
+4. If the economy experienced a decrease in real GDP and price level this could best be explained by (A) a decline in labor productivity. (B) a technological advance. (C) a decline in investment. (D) an uptick in net exports. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+4,1,10-30-40-20,A,10,C,30,C,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If nominal GDP equals $5000 and real GDP equals $4000 then the GDP Deflator equals (A) 125 (B) 1.25 (C) 800 (D) 0.8 (10 points)
+2. One drawback of using fiscal policy to close a recessionary gap is that (A) unemployment will rise. (B) taxes will have to be raised. (C) the equilibrium price level will rise. (D) government spending on important programs will have to be cut. (30 points)
+3. Which of the following is true when expansionary fiscal and expansionary monetary (easy money) policy are used at the same time? (A) Unemployment will increase. (B) Real GDP will decrease. (C) Interest rates will remain relatively constant. (D) Inflation will decrease dramatically. (40 points)
+4. If Real GDP = $200 billion and the price index = 200 Nominal GDP is (A) $4 billion (B) $400 billion (C) $200 billion (D) $2 billion (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+5,1,40-20-30-10,C,40,D,20,B,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The ""crowding-out"" effect refers to which of the following? (A) Lower interest rates that result from borrowing to conduct expansionary monetary policy (B) Higher interest rates that result from borrowing to conduct contractionary fiscal policy (C) Higher interest rates that result from borrowing to conduct expansionary fiscal policy (D) Higher interest rates due to borrowing to conduct contractionary monetary policy (40 points)
+2. In the short run contractionary monetary policy causes aggregate demand to output to  and the price level to Aggregate demand      Output      Price Level (A) Increases            Increases      Increases (B) Increases            Increases      Decreases (C) Decreases            Decreases      Increases (D) Decreases            Decreases      Decreases (20 points)
+3. Contractionary monetary policy implies which of the following about the discount rate the nominal interest rate and aggregate demand? Discount rate      Nominal interest rate      Aggregate demand (A) Decreases            Increases      Decreases (B) Increases            Increases      Decreases (C) Decreases            Decreases      Decreases (D) Increases            Increases      Increases (30 points)
+4. Monetarists believe that V and Q are (A) constant. (B) stable. (C) variable. (D) not critical for understanding how money affects the economy. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+6,1,20-10-40-30,B,20,D,10,C,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Households demand more money as an asset when (A) nominal GDP falls. (B) the nominal interest rate falls. (C) bond prices fall. (D) the supply of money falls. (20 points)
+2. The cabbages you grow in your summer garden are (A) counted in GDP under C. (B) counted in GDP under I. (C) counted in GDP but not NDP. (D) not counted in GDP. (10 points)
+3. Given the table below which statement is true? Labor hours needed to produce a unit of: Country      Wine      Cheese France      40      80 Belgium      15      60 (A) France has the absolute advantage in both products. (B) France should specialize in and export wine while Belgium should specialize in and export cheese. (C) France has the comparative advantage in cheese. (D) France has the absolute advantage in cheese. (40 points)
+4. The effect of the spending multiplier is lessened if (A) the price level is constant with an increase in aggregate demand. (B) the price level falls with an increase in aggregate supply. (C) the price level is constant with an increase in long-run aggregate supply. (D) the price level rises with an increase in aggregate demand. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+7,1,10-40-20-30,D,10,D,40,D,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If the marginal propensity to consume is 0.8 what is the largest total increase in GDP that can result from $500 of new spending? (A) $400  (B) $500  (C) $625  (D) $2,500  (10 points)
+2. Suppose the price level in the United States has risen in the past year but production of goods and services has remained constant. Based on this information which of the following is true? NOMINAL GDP     REAL GDP (A) Increased     Increased (B) No change     Decreased (C) Decreased     Decreased (D) Increased     Decreased (40 points)
+3. Which of the following transactions would be counted in GDP? (A) The cash you receive from babysitting your neighbor’s kids (B) The sale of illegal drugs (C) The sale of cucumbers to a pickle manufacturer (D) The sale of a pound of tomatoes at a supermarket (20 points)
+4. Which of the following would shift the aggregate demand curve to the left? (A) An increase in consumer confidence. (B) Business firms expect lower sales in the future. (C) Foreigners develop a preference for our products. (D) Government increases its level of spending. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+8,1,40-10-20-30,D,40,C,10,D,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. An increase in the federal deficit may affect the demand for loan funds and therefore the real interest rate and investment spending. Which of the following gives the correct direction of these effects? Demand for loanable funds      Real interest rate      Investment spending (A) Increases            Increases      Increases (B) Decreases            Decreases      Decreases (C) Decreases            Decreases      Increases (D) Increases            Increases      Decreases (40 points)
+2. Ceteris paribus (A) is Greek for ""never changing."" (B) means anything can change at any time. (C) is Latin for ""everything else remains constant. (D) means ""when in equilibrium."" (10 points)
+3. In a command economy (A) the market dictates the answers to the fundamental economic questions. (B) competition helps answer the fundamental economic questions. (C) state and local governments respond to the fundamental economic questions. (D) the central government dictates the answers to the fundamental economic questions. (20 points)
+4. Suppose the real interest rate in a country rises. What can be expected to happen to the demand for this nation's currency and therefore the value of its currency and net exports? Demand for currency      Value of currency      Net exports (A) Decreases            Appreciate      Decreases  (B) Decreases            Depreciate      Decreases (C) Decreases            Depreciate      Increases (D) Increases            Appreciate      Increases (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+9,1,20-30-40-10,C,20,C,30,B,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following lists contains only policies that will close an inflationary gap? (A) Increase the money supply; run a federal budget deficit. (B) Decrease the money supply; run a federal budget deficit. (C) Decrease the money supply; increase taxes; reduce government spending. (D) Increase the money supply; increase taxes; reduce government spending. (20 points)
+2. Which of the following is true of money and financial markets? (A) As the demand for bonds increases the interest rate increases. (B) For a given money supply if nominal GDP increases the velocity of money decreases. (C) When demand for stocks and bonds increases the asset demand for money falls. (D) A macroeconomic recession increases the demand for loanable funds. (30 points)
+3. If the economy is operating at full employment which of the following policies will create the most inflation in the short run? (A) An increase in government spending matched by an equal increase in taxes (B) An increase in government spending with no change in taxes (C) A decrease in government spending and a matching increase in taxes (D) A decrease in taxes with no change in government spending (40 points)
+4. The international value of the dollar will appreciate if (A) American income falls relative to the rest of the world. (B) American interest rates fall relative to interest rates in other countries. (C) American prices rise. (D) foreigners boycott American products. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+10,1,20-30-10-40,B,20,D,30,C,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following will promote economic growth? (A) Government regulation. (B) A new production technique that lowers costs. (C) Increased taxes. (D) More strict pollution standards for corporations. (20 points)
+2. The secondary market for government securities is (A) where used items are traded. (B) located in smaller cities. (C) where the government borrows money. (D) where government securities that have already been issued may be bought or sold. (30 points)
+3. Depreciation of the dollar is most likely to (A) increase imports (B) increase travel abroad (C) increase exports (D) decrease a trade surplus (10 points)
+4. If technology makes production less expensive and at the same time exports decrease which of the following will result with certainty? (A) Real GDP will increase. (B) Real GDP will decrease. (C) The price level will increase. (D) The price level will decrease. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+11,1,10-20-40-30,D,10,B,20,A,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. ""Flash"" estimates of GDP (A) are subject to revision. (B) do not require revision. (C) are available after a thirty-day lag. (D) both (A) and (C) (10 points)
+2. The Federal Open Market Committee (A) advises the President of the United States. (B) is part of the Federal Reserve System. (C) has seven members. (D) promotes free trade. (20 points)
+3. What will happen to the equilibrium price level and the equilibrium quantity of output if the aggregate supply curve shifts to the left? Assume an upward sloping aggregate supply curve. (A) The equilibrium price level increases while the equilibrium quantity of output decreases. (B) The equilibrium price level decreases while the equilibrium quantity of output increases. (C) The equilibrium price level and quantity of output increase. (D) The equilibrium price level and quantity of output decrease. (40 points)
+4. If people expect the price of a particular product to increase in the near future (A) this will not affect the demand for the product right now. (B) this will decrease the demand for the product. (C) this will not affect the demand for the product now or later. (D) this will increase the demand for the product. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+12,1,40-20-30-10,A,40,D,20,C,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. To deflate nominal gross domestic product (GDP) you must (A) divide nominal GDP by the GDP deflator. (B) multiply real GDP by the GDP deflator. (C) divide real GDP by the GDP deflator. (D) multiply nominal GDP by the GDP deflator. (40 points)
+2. The Phillips curve represents the relationship between (A) inflation and the money supply. (B) unemployment and the money supply. (C) the money supply and the real interest rate. (D) inflation and unemployment. (20 points)
+3. Which of the following will result in economic growth? (A) A decrease in the unemployment rate. (B) An increase in the unemployment rate. (C) An increase in the size of the labor force. (D) A decrease in the population. (30 points)
+4. Which of the following is an example of capital as an economic resource? (A) A cement mixer (B) A barrel of crude oil (C) A registered nurse (D) A share of corporate stock (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+13,1,10-40-30-20,B,10,A,40,A,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Sue loses her job at a shoe factory when the economy falls into a recession. Sue is (A) frictionally unemployed. (B) cyclically unemployed. (C) seasonally unemployed. (D) structurally unemployed. (10 points)
+2. Which of the following statements would ""supply-side"" economists disagree with? (A) Tax changes cause shifts in aggregate supply that work against shifts in aggregate demand thus reducing the effect of the tax change on real GDP. (B) A tax cut is likely to increase aggregate supply by boosting saving investment and thus capital accumulation. (C) A tax increase is likely to decrease aggregate supply by decreasing after-tax wages and thus providing disincentives to work. (D) A tax cut is likely to increase aggregate supply by providing greater rewards for risk taking. (40 points)
+3. To close a recessionary gap (A) the aggregate demand curve should be shifted to the right. (B) the aggregate demand curve should be shifted to the left. (C) the aggregate supply curve should be shifted to the right. (D) the aggregate supply curve should be shifted to the left. (30 points)
+4. The appropriate fiscal policy to remedy inflation calls for (A) the federal government to run a deficit. (B) the federal government to run a surplus. (C) increased taxes and government spending. (D) decreased government spending and taxes. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+14,1,20-30-10-40,D,20,B,30,D,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is most likely to produce stronger economic growth over time? (A) More rapid consumption of natural resources. (B) Higher adult illiteracy rates. (C) A falling stock of capital goods. (D) Investment tax credits. (20 points)
+2. The aggregate supply curve will shift to the right in response to (A) a decrease in the labor supply (B) an increase in investment in capital (C) an increase in corporate taxes (D) a decrease in the availability of education and training (30 points)
+3. On a bank's balance sheet which of the following is considered a liability? (A) Required reserves (B) Excess reserves (C) Loans (D) Deposits (10 points)
+4. Having a fractional reserve banking system means that (A) no single loan can be larger than 20 percent of the bank’s holdings (B) the central bank reserves the right to audit any bank at any time (C) the central bank holds a certain fraction of GDP on reserve at all times (D) a bank cannot lend out all of its deposits (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+15,1,40-30-10-20,C,40,A,30,C,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Of the following choices which combination of fiscal and monetary policy would most likely reduce a recessionary gap? FISCAL POLICY     MONETARY POLICY (A) Increase taxes.     Increase the reserve ratio. (B) Decrease spending.     Sell Treasury securities. (C) Decrease taxes.     Buy Treasury securities. (D) Increase spending.     Increase the reserve ratio. (40 points)
+2. For a given level of government spending the federal government usually experiences a budget____during economic____and a budget ______during economic_______. (A) deficit recession surplus expansion (B) surplus recession deficit expansion (C) deficit expansion surplus recession (D) surplus recession surplus expansion (30 points)
+3. A difference between M1 and M2 is that (A) M1 is a first mortgage and M2 is a second mortgage (B) M2 is M1 plus assets that are more liquid (C) M2 includes savings deposits (D) M1 is larger than M2 (10 points)
+4. If a bank has $1000 in checking deposits and the bank is required to reserve $250 what is the reserve ratio? How much does the bank have in excess reserves? What is the size of the money multiplier? (A) 25% $750 M = ¼ (B) 75% $250 M = 4 (C) 25% $750 M = 4 (D) 75% $750 M = ¼ (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+16,1,20-10-30-40,B,20,B,10,B,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Keynesian analysis a decrease in the money supply would (A) raise the price level and output in the economy. (B) lower the price level and output in the economy. (C) raise the price level in the economy. (D) lower the price level in the economy. (20 points)
+2. When we observe an unplanned decrease in inventories we can expect (A) prices to begin to fall. (B) output to begin to rise. (C) saving to begin to fall. (D) output to begin to fall. (10 points)
+3. The fractional reserve banking system's ability to create money is lessened if (A) households that borrow redeposit the entire loan amounts back into the banks. (B) banks hold excess reserves. (C) banks lend all excess reserves to borrowing customers. (D) households increase checking deposits in banks. (30 points)
+4. The government of a country decides to increase government spending and taxes by the same amount in order to keep a balanced budget. The MPC is 0.75. Which of the following is true of this situation? Policy Direction     Expenditure Multiplier     Tax Multiplier (A) expansionary     4     3 (B) expansionary     4     -3 (C) contractionary     4     3 (D) contractionary     4     -3 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+17,1,20-30-10-40,D,20,D,30,D,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. At the peak of a typical business cycle which of the following is likely the greatest threat to the macroeconomy? (A) Unemployment (B) Bankruptcy (C) Declining labor productivity (D) Inflation (20 points)
+2. Which of the following statements is correct in regard to the federal budget deficit and the federal debt? (A) When the debt is negative the deficit decreases. (B) When the debt is positive the deficit decreases. (C) The deficit is the accumulation of past debts. (D) When the deficit is negative the debt decreases. (30 points)
+3. In order to go from national income to GDP one must (A) add depreciation expenses (B) add indirect taxes (C) subtract subsidies (D) all of the above (10 points)
+4. How would fiscal and monetary policymakers combine spending tax and monetary policy to fight a recessionary gap while avoiding large budget deficits? SPENDING POLICY     TAX POLICY     MONETARY POLICY (A) Higher spending     Lower taxes     Sell Treasury securities (B) Lower spending     Higher taxes     Buy Treasury securities (C) Lower spending     Lower taxes     Increasing the reserve ratio (D) Higher spending     Higher taxes     Lowering the discount rate (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+18,1,30-10-40-20,D,30,D,10,B,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is an accurate statement of the money supply in the United States? (A) The money supply is backed by gold reserves. (B) The least liquid measure of money is M2. (C) M1 is larger than M3. (D) The most liquid measure of money is M1. (30 points)
+2. Which of the following is NOT a major cost of inflation? (A) Resources will be misallocated. (B) Wealth will be redistributed. (C) Savings will be discouraged. (D) Real incomes will fall. (10 points)
+3. If prices rise in the United States relative to other countries then (A) the value of the dollar will tend to appreciate. (B) the value of the dollar will tend to depreciate. (C) exchange rates will be affected but not the value of the dollar. (D) the exchange rate will not be affected. (40 points)
+4. Which group of people will suffer the most from a rising price level? (A) debtors with fixed interest rates (B) people with fixed money incomes (C) investors in gems coins and stamps (D) property owners (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+19,1,30-10-40-20,D,30,C,10,D,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Use the following three responses to answer the question: Fiscal policy is not always effective because of I. crowding out. II. rational expectations. III. the balanced budget amendment. (A) I only (B) II only (C) II and III (D) I and II (30 points)
+2. The tax multiplier increases in magnitude when (A) the MPS increases. (B) the spending multiplier falls. (C) the MPC increases. (D) government spending increases. (10 points)
+3. Which of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens (A) II III and IV only (B) I and III only (C) II and IV only (D) III and IV only (40 points)
+4. For years you work as a grocery checker at a supermarket and one day you are replaced by self-serve checkout stations. What type of unemployment is this? (A) Cyclical (B) Structural (C) Seasonal (D) Frictional (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+20,2,20-30-40-10,C,20,D,30,C,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Suppose real GDP increases. We can conclude without a doubt that (A) prices are higher. (B) employment is higher. (C) production is higher. (D) prices and/or output is higher. (20 points)
+2. If the government of country Z increases spending by $12 million dollars and raises tax collections by the same amount then what will be the overall impact of these moves on real GDP in country Z? (A) Real GDP will increase by $6 million. (B) Real GDP will decrease by $6 million. (C) Real GDP will remain unchanged. (D) Real GDP will increase by $12 million. (30 points)
+3. In the last 20 years firms that produce cameras have begun to produce fewer 35-mm cameras and more digital cameras. This trend is an example of (A) how central planners dictate which cameras are produced. (B) the market system answering the question of ""how"" cameras should be produced. (C) the market system answering the question of ""what"" cameras should be produced. (D) the market system answering the question of ""who"" should consume the cameras that are produced. (40 points)
+4. In the United States over the years V and Q (A) have not changed significantly. (B) are perfectly constant. (C) have decreased significantly. (D) have increased significantly. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+21,2,40-10-20-30,A,40,B,10,C,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If firms that make a particular product expect its price will be lower in the future (A) this will cause the supply of the product to increase right now. (B) this will cause the supply of the product to decrease right now. (C) this will have no effect on the amount of the product supplied right now. (D) this will have no effect on the supply of the product now or later. (40 points)
+2. If a country has a negative value on its current account then it must (A) pay that amount to its trading partners. (B) have a positive value of equal magnitude on its capital account. (C) depreciate its currency. (D) appreciate its currency. (10 points)
+3. Lower interest rates in the United States cause the value of the dollar and exports to change in which of the following ways? VALUE OF THE DOLLAR     U.S. EXPORTS (A) Increasing     Increasing (B) Increasing     Decreasing (C) Decreasing     Increasing (D) Decreasing     Unchanged (20 points)
+4. An American buys an entertainment system that was manufactured in China. How does the U.S. national income accounts treat this transaction? (A) Net exports and GDP both rise. (B) Net exports and GDP both fall. (C) Net exports and GDP go in opposite directions. (D) Net exports fall and there is no change in GDP. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+22,2,40-10-30-20,D,40,B,10,A,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Corn is exchanged in a competitive market. Which of the following definitely increases the equilibrium price of corn? (A) Both supply and demand shift rightward. (B) Both supply and demand shift leftward. (C) Supply shifts to the right; demand shifts to the left. (D) Supply shifts to the left; demand shifts to the right. (40 points)
+2. A dark room technician who develops film into photographs loses his job because few people use film cameras any more. This is an example of which of the following? (A) Frictional unemployment (B) Structural unemployment (C) Cyclical unemployment (D) Seasonal unemployment (10 points)
+3. In the equation of exchange if V and Q are constant then (A) changes in the price level must be proportional to changes in the money supply. (B) changes in the money supply have no effect on the price level. (C) changes in the price level have no effect on the money supply. (D) the equation is invalid. (30 points)
+4. Appropriate fiscal and monetary polices during the contractionary phase of the business cycle include (A) budget surpluses and higher discount rates. (B) tax reductions and open market purchases. (C) budget surpluses and lower discount rates. (D) increases in government spending and higher discount rates. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+23,2,10-40-30-20,A,10,C,40,C,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Fiat money (A) is not backed by any precious commodity. (B) can be exchanged for gold. (C) is backed by gold but cannot be exchanged for it. (D) is not legal tender. (10 points)
+2. You buy 100 shares in XYZ Corporation on the Internet and your broker charges you $29.95. (A) This will increase the investment component of GDP and therefore overall GDP. (B) This has no effect on GDP. (C) This will increase GDP by $29.95. (D) This will increase GDP by the cost of the shares minus $29.95. (40 points)
+3. Suppose transfer payments are greater than Social Security contributions corporate taxes and retained earnings combined. In that case (A) NDP will be greater than GDP. (B) NI will be greater than GDP. (C) PI will be greater than NI. (D) DPI will be greater than PI. (30 points)
+4. Required reserves (A) can be used by banks to make loans or buy investments. (B) can be held in a bank's vault or its account at the FED. (C) must be kept in a bank's vault. (D) must be used to make loans. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+24,2,30-10-20-40,B,30,D,10,D,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is a predictable advantage of expansionary monetary policy in a recession? (A) Decreases aggregate demand so that the price level falls. (B) Increases aggregate demand which increases real GDP and increases employment. (C) Increases unemployment but low prices negate this effect. (D) It keeps interest rates high which attracts foreign investment. (30 points)
+2. Total spending (A) is all of the spending done by all of the households in a nation. (B) slopes downward because less spending occurs when prices rise. (C) slopes downward because less spending occurs when income falls. (D) slopes upward because more household spending occurs when income rises. (10 points)
+3. An increase in corporate optimism will have which of the following effects in the market for loanable funds? (A) An increase in supply lowering the interest rate. (B) A decrease in demand increasing the interest rate. (C) An increase in both supply and demand and an ambiguous change in interest rates. (D) An increase in demand increasing the interest rate. (20 points)
+4. Suppose that households increase the demand for U.S. Treasury bonds as financial assets. Which of the following accurately describes changes in the money market the interest rate and the value of the dollar in foreign currency markets? MONEY MARKET     INTEREST RATE     DOLLAR (A) Increased supply     Rising     Appreciates (B) Increased demand     Rising     Appreciates (C) Decreased demand     Falling     Appreciates (D) Decreased demand     Falling     Depreciates (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+25,2,30-20-10-40,D,30,D,20,C,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The aggregate demand curve is (A) a horizontal summation of market demand curves (B) a horizontal summation of firm demand curves (C) a simple aggregation of demand curves for individual goods (D) not found by adding product demand curves horizontally or vertically (30 points)
+2. The Federal Reserve is (A) part of the legislative branch of government. (B) the monetary authority for banks but not other depository institutions. (C) part of the judicial branch of government. (D) in control of the money supply. (20 points)
+3. If $100 of new autonomous private investment were added to an economy with a marginal propensity to consume of .90 by how much would aggregate demand shift to the right? (A) $190  (B) $900  (C) $1,000  (D) $1,900  (10 points)
+4. Suppose that current disposable income is $10000 and consumption spending is $8000. For every $100 increase in disposable income saving increases $10. Given this information (A) the marginal propensity to consume is .80. (B) the marginal propensity to save is .20. (C) the marginal propensity to save is .10. (D) the marginal propensity to save is .90. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+26,2,30-10-40-20,D,30,C,10,B,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Corn is exchanged in a competitive market. Which of the following definitely increases the equilibrium price of corn? (A) Both supply and demand shift rightward. (B) Both supply and demand shift leftward. (C) Supply shifts to the right; demand shifts to the left. (D) Supply shifts to the left; demand shifts to the right. (30 points)
+2. If the economy experienced a decrease in real GDP and price level this could best be explained by (A) a decline in labor productivity. (B) a technological advance. (C) a decline in investment. (D) an uptick in net exports. (10 points)
+3. If the economy is operating at full employment which of the following policies will create the most inflation in the short run? (A) An increase in government spending matched by an equal increase in taxes (B) An increase in government spending with no change in taxes (C) A decrease in government spending and a matching increase in taxes (D) A decrease in taxes with no change in government spending (40 points)
+4. The secondary market for government securities is (A) where used items are traded. (B) located in smaller cities. (C) where the government borrows money. (D) where government securities that have already been issued may be bought or sold. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+27,2,10-30-20-40,D,10,D,30,C,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. GDP measures a country's level of I. production. II. stability. III. income. (A) I only. (B) II only. (C) III only. (D) I and III. (10 points)
+2. ""Flash"" estimates of GDP (A) are subject to revision. (B) do not require revision. (C) are available after a thirty-day lag. (D) both (A) and (C) (30 points)
+3. In the equation GDP = C + I + G + X X stands for (A) exports. (B) expenditures. (C) exports minus imports. (D) imports minus exports. (20 points)
+4. Which of the following is true when expansionary fiscal and expansionary monetary (easy money) policy are used at the same time? (A) Unemployment will increase. (B) Real GDP will decrease. (C) Interest rates will remain relatively constant. (D) Inflation will decrease dramatically. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+28,2,40-30-20-10,C,40,D,30,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is true of money and financial markets? (A) As the demand for bonds increases the interest rate increases. (B) For a given money supply if nominal GDP increases the velocity of money decreases. (C) When demand for stocks and bonds increases the asset demand for money falls. (D) A macroeconomic recession increases the demand for loanable funds. (40 points)
+2. The effect of the spending multiplier is lessened if (A) the price level is constant with an increase in aggregate demand. (B) the price level falls with an increase in aggregate supply. (C) the price level is constant with an increase in long-run aggregate supply. (D) the price level rises with an increase in aggregate demand. (30 points)
+3. Which of the following is NOT a major cost of inflation? (A) Resources will be misallocated. (B) Wealth will be redistributed. (C) Savings will be discouraged. (D) Real incomes will fall. (20 points)
+4. Fiat money (A) is not backed by any precious commodity. (B) can be exchanged for gold. (C) is backed by gold but cannot be exchanged for it. (D) is not legal tender. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+29,2,40-20-10-30,D,40,D,20,D,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. An American firm moves a manufacturing plant from the United States to Brazil. How will this affect gross domestic product (GDP) in the United States and in Brazil? (A) U.S. GDP falls and Brazil's GDP falls. (B) U.S. GDP rises and Brazil's GDP falls. (C) U.S. GDP falls and Brazil's GDP remains constant. (D) U.S. GDP falls and Brazil's GDP rises. (40 points)
+2. If technology makes production less expensive and at the same time exports decrease which of the following will result with certainty? (A) Real GDP will increase. (B) Real GDP will decrease. (C) The price level will increase. (D) The price level will decrease. (20 points)
+3. Which of the following is an accurate statement of the money supply in the United States? (A) The money supply is backed by gold reserves. (B) The least liquid measure of money is M2. (C) M1 is larger than M3. (D) The most liquid measure of money is M1. (10 points)
+4. The aggregate demand curve is (A) a horizontal summation of market demand curves (B) a horizontal summation of firm demand curves (C) a simple aggregation of demand curves for individual goods (D) not found by adding product demand curves horizontally or vertically (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+30,2,40-30-10-20,D,40,B,30,C,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements is correct in regard to the federal budget deficit and the federal debt? (A) When the debt is negative the deficit decreases. (B) When the debt is positive the deficit decreases. (C) The deficit is the accumulation of past debts. (D) When the deficit is negative the debt decreases. (40 points)
+2. According to Keynesian analysis a decrease in the money supply would (A) raise the price level and output in the economy. (B) lower the price level and output in the economy. (C) raise the price level in the economy. (D) lower the price level in the economy. (30 points)
+3. Depreciation of the dollar is most likely to (A) increase imports (B) increase travel abroad (C) increase exports (D) decrease a trade surplus (10 points)
+4. If the marginal propensity to consume is 0.8 what is the largest total increase in GDP that can result from $500 of new spending? (A) $400  (B) $500  (C) $625  (D) $2,500  (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+31,2,40-10-20-30,B,40,B,10,D,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Contractionary monetary policy implies which of the following about the discount rate the nominal interest rate and aggregate demand? Discount rate      Nominal interest rate      Aggregate demand (A) Decreases            Increases      Decreases (B) Increases            Increases      Decreases (C) Decreases            Decreases      Decreases (D) Increases            Increases      Increases (40 points)
+2. A dark room technician who develops film into photographs loses his job because few people use film cameras any more. This is an example of which of the following? (A) Frictional unemployment (B) Structural unemployment (C) Cyclical unemployment (D) Seasonal unemployment (10 points)
+3. In the short run contractionary monetary policy causes aggregate demand to output to  and the price level to Aggregate demand      Output      Price Level (A) Increases            Increases      Increases (B) Increases            Increases      Decreases (C) Decreases            Decreases      Increases (D) Decreases            Decreases      Decreases (20 points)
+4. An increase in corporate optimism will have which of the following effects in the market for loanable funds? (A) An increase in supply lowering the interest rate. (B) A decrease in demand increasing the interest rate. (C) An increase in both supply and demand and an ambiguous change in interest rates. (D) An increase in demand increasing the interest rate. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+32,2,10-20-30-40,A,10,A,20,D,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In a long period of economic expansion the tax revenue collected ____ and the amount spent on welfare programs ____ creating a budget ____ . (A) increases decreases surplus (B) increases decreases deficit (C) decreases decreases surplus (D) decreases increases deficit (10 points)
+2. For a given level of government spending the federal government usually experiences a budget____during economic____and a budget ______during economic_______. (A) deficit recession surplus expansion (B) surplus recession deficit expansion (C) deficit expansion surplus recession (D) surplus recession surplus expansion (20 points)
+3. In a command economy (A) the market dictates the answers to the fundamental economic questions. (B) competition helps answer the fundamental economic questions. (C) state and local governments respond to the fundamental economic questions. (D) the central government dictates the answers to the fundamental economic questions. (30 points)
+4. If firms that make a particular product expect its price will be lower in the future (A) this will cause the supply of the product to increase right now. (B) this will cause the supply of the product to decrease right now. (C) this will have no effect on the amount of the product supplied right now. (D) this will have no effect on the supply of the product now or later. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+33,2,10-40-30-20,A,10,D,40,C,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A decrease in real investment stemming from higher interest rates due to government purchases is most commonly called (A) crowding out (B) zero policy effectiveness (C) the Laffer effect (D) fiscal defeat (10 points)
+2. How would fiscal and monetary policymakers combine spending tax and monetary policy to fight a recessionary gap while avoiding large budget deficits? SPENDING POLICY     TAX POLICY     MONETARY POLICY (A) Higher spending     Lower taxes     Sell Treasury securities (B) Lower spending     Higher taxes     Buy Treasury securities (C) Lower spending     Lower taxes     Increasing the reserve ratio (D) Higher spending     Higher taxes     Lowering the discount rate (40 points)
+3. Of the following choices which combination of fiscal and monetary policy would most likely reduce a recessionary gap? FISCAL POLICY     MONETARY POLICY (A) Increase taxes.     Increase the reserve ratio. (B) Decrease spending.     Sell Treasury securities. (C) Decrease taxes.     Buy Treasury securities. (D) Increase spending.     Increase the reserve ratio. (30 points)
+4. Lower interest rates in the United States cause the value of the dollar and exports to change in which of the following ways? VALUE OF THE DOLLAR     U.S. EXPORTS (A) Increasing     Increasing (B) Increasing     Decreasing (C) Decreasing     Increasing (D) Decreasing     Unchanged (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+34,2,30-20-40-10,A,30,C,20,D,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. To deflate nominal gross domestic product (GDP) you must (A) divide nominal GDP by the GDP deflator. (B) multiply real GDP by the GDP deflator. (C) divide real GDP by the GDP deflator. (D) multiply nominal GDP by the GDP deflator. (30 points)
+2. A difference between M1 and M2 is that (A) M1 is a first mortgage and M2 is a second mortgage (B) M2 is M1 plus assets that are more liquid (C) M2 includes savings deposits (D) M1 is larger than M2 (20 points)
+3. Which of the following is most likely to produce stronger economic growth over time? (A) More rapid consumption of natural resources. (B) Higher adult illiteracy rates. (C) A falling stock of capital goods. (D) Investment tax credits. (40 points)
+4. The tax multiplier increases in magnitude when (A) the MPS increases. (B) the spending multiplier falls. (C) the MPC increases. (D) government spending increases. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+35,2,10-40-30-20,D,10,C,40,D,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The cabbages you grow in your summer garden are (A) counted in GDP under C. (B) counted in GDP under I. (C) counted in GDP but not NDP. (D) not counted in GDP. (10 points)
+2. Which of the following lists contains only policies that will close an inflationary gap? (A) Increase the money supply; run a federal budget deficit. (B) Decrease the money supply; run a federal budget deficit. (C) Decrease the money supply; increase taxes; reduce government spending. (D) Increase the money supply; increase taxes; reduce government spending. (40 points)
+3. Total spending (A) is all of the spending done by all of the households in a nation. (B) slopes downward because less spending occurs when prices rise. (C) slopes downward because less spending occurs when income falls. (D) slopes upward because more household spending occurs when income rises. (30 points)
+4. For years you work as a grocery checker at a supermarket and one day you are replaced by self-serve checkout stations. What type of unemployment is this? (A) Cyclical (B) Structural (C) Seasonal (D) Frictional (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+36,2,10-20-40-30,D,10,D,20,A,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. On a bank's balance sheet which of the following is considered a liability? (A) Required reserves (B) Excess reserves (C) Loans (D) Deposits (10 points)
+2. Which of the following transactions would be counted in GDP? (A) The cash you receive from babysitting your neighbor’s kids (B) The sale of illegal drugs (C) The sale of cucumbers to a pickle manufacturer (D) The sale of a pound of tomatoes at a supermarket (20 points)
+3. Suppose the Japanese economy is suffering a prolonged recession. Lower Japanese household incomes will affect U.S. exports to Japan demand for the dollar and the value of the dollar relative to the yen in which of the following ways? EXPORTS TO JAPAN     DEMAND FOR $     VALUE OF $ (A) Decrease     Decrease     Decrease (B) Decrease     Decrease     Increase (C) Decrease     Increase     Decrease (D) Increase     Decrease     Decrease (40 points)
+4. Having a fractional reserve banking system means that (A) no single loan can be larger than 20 percent of the bank’s holdings (B) the central bank reserves the right to audit any bank at any time (C) the central bank holds a certain fraction of GDP on reserve at all times (D) a bank cannot lend out all of its deposits (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+37,2,10-20-40-30,C,10,D,20,C,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Ceteris paribus (A) is Greek for ""never changing."" (B) means anything can change at any time. (C) is Latin for ""everything else remains constant. (D) means ""when in equilibrium."" (10 points)
+2. At the peak of a typical business cycle which of the following is likely the greatest threat to the macroeconomy? (A) Unemployment (B) Bankruptcy (C) Declining labor productivity (D) Inflation (20 points)
+3. The ""crowding-out"" effect refers to which of the following? (A) Lower interest rates that result from borrowing to conduct expansionary monetary policy (B) Higher interest rates that result from borrowing to conduct contractionary fiscal policy (C) Higher interest rates that result from borrowing to conduct expansionary fiscal policy (D) Higher interest rates due to borrowing to conduct contractionary monetary policy (40 points)
+4. If $100 of new autonomous private investment were added to an economy with a marginal propensity to consume of .90 by how much would aggregate demand shift to the right? (A) $190  (B) $900  (C) $1,000  (D) $1,900  (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+38,2,10-20-40-30,D,10,D,20,D,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In the United States over the years V and Q (A) have not changed significantly. (B) are perfectly constant. (C) have decreased significantly. (D) have increased significantly. (10 points)
+2. Use the following three responses to answer the question: Fiscal policy is not always effective because of I. crowding out. II. rational expectations. III. the balanced budget amendment. (A) I only (B) II only (C) II and III (D) I and II (20 points)
+3. Suppose the real interest rate in a country rises. What can be expected to happen to the demand for this nation's currency and therefore the value of its currency and net exports? Demand for currency      Value of currency      Net exports (A) Decreases            Appreciate      Decreases  (B) Decreases            Depreciate      Decreases (C) Decreases            Depreciate      Increases (D) Increases            Appreciate      Increases (40 points)
+4. If prices rise in the United States relative to other countries then (A) the value of the dollar will tend to appreciate. (B) the value of the dollar will tend to depreciate. (C) exchange rates will be affected but not the value of the dollar. (D) the exchange rate will not be affected. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+39,3,10-20-40-30,B,10,C,20,B,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Monetarists believe that V and Q are (A) constant. (B) stable. (C) variable. (D) not critical for understanding how money affects the economy. (10 points)
+2. Which of the following is NOT an argument for restricting trade? (A) To protect infant industry (B) To promote employment (C) To fight inflation (D) To promote a diversity of industries (20 points)
+3. An American buys an entertainment system that was manufactured in China. How does the U.S. national income accounts treat this transaction? (A) Net exports and GDP both rise. (B) Net exports and GDP both fall. (C) Net exports and GDP go in opposite directions. (D) Net exports fall and there is no change in GDP. (40 points)
+4. Required reserves (A) can be used by banks to make loans or buy investments. (B) can be held in a bank's vault or its account at the FED. (C) must be kept in a bank's vault. (D) must be used to make loans. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+40,3,30-40-20-10,D,30,C,40,B,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The Federal Reserve is (A) part of the legislative branch of government. (B) the monetary authority for banks but not other depository institutions. (C) part of the judicial branch of government. (D) in control of the money supply. (30 points)
+2. Given the table below which statement is true? Labor hours needed to produce a unit of: Country      Wine      Cheese France      40      80 Belgium      15      60 (A) France has the absolute advantage in both products. (B) France should specialize in and export wine while Belgium should specialize in and export cheese. (C) France has the comparative advantage in cheese. (D) France has the absolute advantage in cheese. (40 points)
+3. If Real GDP = $200 billion and the price index = 200 Nominal GDP is (A) $4 billion (B) $400 billion (C) $200 billion (D) $2 billion (20 points)
+4. If nominal GDP equals $5000 and real GDP equals $4000 then the GDP Deflator equals (A) 125 (B) 1.25 (C) 800 (D) 0.8 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+41,3,30-40-20-10,C,30,D,40,C,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Suppose that current disposable income is $10000 and consumption spending is $8000. For every $100 increase in disposable income saving increases $10. Given this information (A) the marginal propensity to consume is .80. (B) the marginal propensity to save is .20. (C) the marginal propensity to save is .10. (D) the marginal propensity to save is .90. (30 points)
+2. Suppose that households increase the demand for U.S. Treasury bonds as financial assets. Which of the following accurately describes changes in the money market the interest rate and the value of the dollar in foreign currency markets? MONEY MARKET     INTEREST RATE     DOLLAR (A) Increased supply     Rising     Appreciates (B) Increased demand     Rising     Appreciates (C) Decreased demand     Falling     Appreciates (D) Decreased demand     Falling     Depreciates (40 points)
+3. One drawback of using fiscal policy to close a recessionary gap is that (A) unemployment will rise. (B) taxes will have to be raised. (C) the equilibrium price level will rise. (D) government spending on important programs will have to be cut. (20 points)
+4. Which of the following will promote economic growth? (A) Government regulation. (B) A new production technique that lowers costs. (C) Increased taxes. (D) More strict pollution standards for corporations. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+42,3,30-40-10-20,D,30,B,40,B,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If the government of country Z increases spending by $12 million dollars and raises tax collections by the same amount then what will be the overall impact of these moves on real GDP in country Z? (A) Real GDP will increase by $6 million. (B) Real GDP will decrease by $6 million. (C) Real GDP will remain unchanged. (D) Real GDP will increase by $12 million. (30 points)
+2. Which of the following is a predictable advantage of expansionary monetary policy in a recession? (A) Decreases aggregate demand so that the price level falls. (B) Increases aggregate demand which increases real GDP and increases employment. (C) Increases unemployment but low prices negate this effect. (D) It keeps interest rates high which attracts foreign investment. (40 points)
+3. The Federal Open Market Committee (A) advises the President of the United States. (B) is part of the Federal Reserve System. (C) has seven members. (D) promotes free trade. (10 points)
+4. Which of the following creates the trade-offdepicted by the Phillips curve? (A) A rightward shift in the aggregate supply curve (B) An increase in input costs that corresponds with an increase in unemployment (C) An increase in output that corresponds with a decrease in the price level (D) A rightward shift in the aggregate demand curve (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+43,3,10-20-40-30,C,10,B,20,A,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If a bank has $1000 in checking deposits and the bank is required to reserve $250 what is the reserve ratio? How much does the bank have in excess reserves? What is the size of the money multiplier? (A) 25% $750 M = ¼ (B) 75% $250 M = 4 (C) 25% $750 M = 4 (D) 75% $750 M = ¼ (10 points)
+2. Appropriate fiscal and monetary polices during the contractionary phase of the business cycle include (A) budget surpluses and higher discount rates. (B) tax reductions and open market purchases. (C) budget surpluses and lower discount rates. (D) increases in government spending and higher discount rates. (20 points)
+3. What will happen to the equilibrium price level and the equilibrium quantity of output if the aggregate supply curve shifts to the left? Assume an upward sloping aggregate supply curve. (A) The equilibrium price level increases while the equilibrium quantity of output decreases. (B) The equilibrium price level decreases while the equilibrium quantity of output increases. (C) The equilibrium price level and quantity of output increase. (D) The equilibrium price level and quantity of output decrease. (40 points)
+4. In the last 20 years firms that produce cameras have begun to produce fewer 35-mm cameras and more digital cameras. This trend is an example of (A) how central planners dictate which cameras are produced. (B) the market system answering the question of ""how"" cameras should be produced. (C) the market system answering the question of ""what"" cameras should be produced. (D) the market system answering the question of ""who"" should consume the cameras that are produced. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+44,3,40-10-30-20,A,40,A,10,C,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements would ""supply-side"" economists disagree with? (A) Tax changes cause shifts in aggregate supply that work against shifts in aggregate demand thus reducing the effect of the tax change on real GDP. (B) A tax cut is likely to increase aggregate supply by boosting saving investment and thus capital accumulation. (C) A tax increase is likely to decrease aggregate supply by decreasing after-tax wages and thus providing disincentives to work. (D) A tax cut is likely to increase aggregate supply by providing greater rewards for risk taking. (40 points)
+2. The international value of the dollar will appreciate if (A) American income falls relative to the rest of the world. (B) American interest rates fall relative to interest rates in other countries. (C) American prices rise. (D) foreigners boycott American products. (10 points)
+3. Suppose a nation is experiencing an annual budget surplus and uses some of this surplus to pay down part of the national debt. One potential side effect of this policy would be (A) increase interest rates and throw the economy into a recession. (B) increase interest rates and depreciate the nation's currency. (C) decrease interest rates and risk an inflationary period. (D) decrease interest rates and throw the economy into a recession. (30 points)
+4. The government of a country decides to increase government spending and taxes by the same amount in order to keep a balanced budget. The MPC is 0.75. Which of the following is true of this situation? Policy Direction     Expenditure Multiplier     Tax Multiplier (A) expansionary     4     3 (B) expansionary     4     -3 (C) contractionary     4     3 (D) contractionary     4     -3 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+45,3,40-30-20-10,C,40,A,30,B,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. You buy 100 shares in XYZ Corporation on the Internet and your broker charges you $29.95. (A) This will increase the investment component of GDP and therefore overall GDP. (B) This has no effect on GDP. (C) This will increase GDP by $29.95. (D) This will increase GDP by the cost of the shares minus $29.95. (40 points)
+2. In the equation of exchange if V and Q are constant then (A) changes in the price level must be proportional to changes in the money supply. (B) changes in the money supply have no effect on the price level. (C) changes in the price level have no effect on the money supply. (D) the equation is invalid. (30 points)
+3. When we observe an unplanned decrease in inventories we can expect (A) prices to begin to fall. (B) output to begin to rise. (C) saving to begin to fall. (D) output to begin to fall. (20 points)
+4. Which of the following is an example of capital as an economic resource? (A) A cement mixer (B) A barrel of crude oil (C) A registered nurse (D) A share of corporate stock (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+46,3,30-10-40-20,B,30,C,10,D,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The appropriate fiscal policy to remedy inflation calls for (A) the federal government to run a deficit. (B) the federal government to run a surplus. (C) increased taxes and government spending. (D) decreased government spending and taxes. (30 points)
+2. Suppose real GDP increases. We can conclude without a doubt that (A) prices are higher. (B) employment is higher. (C) production is higher. (D) prices and/or output is higher. (10 points)
+3. Which of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens (A) II III and IV only (B) I and III only (C) II and IV only (D) III and IV only (40 points)
+4. Which group of people will suffer the most from a rising price level? (A) debtors with fixed interest rates (B) people with fixed money incomes (C) investors in gems coins and stamps (D) property owners (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+47,3,30-10-40-20,A,30,B,10,B,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. To close a recessionary gap (A) the aggregate demand curve should be shifted to the right. (B) the aggregate demand curve should be shifted to the left. (C) the aggregate supply curve should be shifted to the right. (D) the aggregate supply curve should be shifted to the left. (30 points)
+2. The aggregate supply curve will shift to the right in response to (A) a decrease in the labor supply (B) an increase in investment in capital (C) an increase in corporate taxes (D) a decrease in the availability of education and training (10 points)
+3. The fractional reserve banking system's ability to create money is lessened if (A) households that borrow redeposit the entire loan amounts back into the banks. (B) banks hold excess reserves. (C) banks lend all excess reserves to borrowing customers. (D) households increase checking deposits in banks. (40 points)
+4. Suppose transfer payments are greater than Social Security contributions corporate taxes and retained earnings combined. In that case (A) NDP will be greater than GDP. (B) NI will be greater than GDP. (C) PI will be greater than NI. (D) DPI will be greater than PI. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+48,3,10-30-20-40,D,10,C,30,B,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In order to go from national income to GDP one must (A) add depreciation expenses (B) add indirect taxes (C) subtract subsidies (D) all of the above (10 points)
+2. Which of the following will result in economic growth? (A) A decrease in the unemployment rate. (B) An increase in the unemployment rate. (C) An increase in the size of the labor force. (D) A decrease in the population. (30 points)
+3. Households demand more money as an asset when (A) nominal GDP falls. (B) the nominal interest rate falls. (C) bond prices fall. (D) the supply of money falls. (20 points)
+4. What will happen to the equilibrium price and the equilibrium quantity of good Z when the price of good X which is a close substitute for Z rises? (A) The equilibrium price will rise and the equilibrium quantity will fall. (B) The equilibrium price will fall and the equilibrium quantity will rise. (C) The equilibrium price and the equilibrium quantity will both rise. (D) The equilibrium price and the equilibrium quantity will both fall. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+49,3,20-10-40-30,B,20,B,10,D,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following would shift the aggregate demand curve to the left? (A) An increase in consumer confidence. (B) Business firms expect lower sales in the future. (C) Foreigners develop a preference for our products. (D) Government increases its level of spending. (20 points)
+2. If a country has a negative value on its current account then it must (A) pay that amount to its trading partners. (B) have a positive value of equal magnitude on its capital account. (C) depreciate its currency. (D) appreciate its currency. (10 points)
+3. An increase in the federal deficit may affect the demand for loan funds and therefore the real interest rate and investment spending. Which of the following gives the correct direction of these effects? Demand for loanable funds      Real interest rate      Investment spending (A) Increases            Increases      Increases (B) Decreases            Decreases      Decreases (C) Decreases            Decreases      Increases (D) Increases            Increases      Decreases (40 points)
+4. Suppose the price level in the United States has risen in the past year but production of goods and services has remained constant. Based on this information which of the following is true? NOMINAL GDP     REAL GDP (A) Increased     Increased (B) No change     Decreased (C) Decreased     Decreased (D) Increased     Decreased (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+50,3,10-40-30-20,B,10,A,40,D,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Sue loses her job at a shoe factory when the economy falls into a recession. Sue is (A) frictionally unemployed. (B) cyclically unemployed. (C) seasonally unemployed. (D) structurally unemployed. (10 points)
+2. Which of the following could limit the ability of a central bank to conduct expansionary monetary policy? (A) Money demand is nearly perfectly elastic. (B) Investment demand is nearly perfectly elastic. (C) Banks make loans with all excess reserves. (D) Households carry very little cash holding their money in checking and saving deposits. (40 points)
+3. If people expect the price of a particular product to increase in the near future (A) this will not affect the demand for the product right now. (B) this will decrease the demand for the product. (C) this will not affect the demand for the product now or later. (D) this will increase the demand for the product. (30 points)
+4. The Phillips curve represents the relationship between (A) inflation and the money supply. (B) unemployment and the money supply. (C) the money supply and the real interest rate. (D) inflation and unemployment. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+51,3,10-20-40-30,B,10,B,20,C,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. For years you work as a grocery checker at a supermarket and one day you are replaced by self-serve checkout stations. What type of unemployment is this? (A) Cyclical (B) Structural (C) Seasonal (D) Frictional (10 points)
+2. A dark room technician who develops film into photographs loses his job because few people use film cameras any more. This is an example of which of the following? (A) Frictional unemployment (B) Structural unemployment (C) Cyclical unemployment (D) Seasonal unemployment (20 points)
+3. Which of the following lists contains only policies that will close an inflationary gap? (A) Increase the money supply; run a federal budget deficit. (B) Decrease the money supply; run a federal budget deficit. (C) Decrease the money supply; increase taxes; reduce government spending. (D) Increase the money supply; increase taxes; reduce government spending. (40 points)
+4. Which of the following could limit the ability of a central bank to conduct expansionary monetary policy? (A) Money demand is nearly perfectly elastic. (B) Investment demand is nearly perfectly elastic. (C) Banks make loans with all excess reserves. (D) Households carry very little cash holding their money in checking and saving deposits. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+52,3,20-40-30-10,B,20,A,40,D,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When we observe an unplanned decrease in inventories we can expect (A) prices to begin to fall. (B) output to begin to rise. (C) saving to begin to fall. (D) output to begin to fall. (20 points)
+2. Suppose the Japanese economy is suffering a prolonged recession. Lower Japanese household incomes will affect U.S. exports to Japan demand for the dollar and the value of the dollar relative to the yen in which of the following ways? EXPORTS TO JAPAN     DEMAND FOR $     VALUE OF $ (A) Decrease     Decrease     Decrease (B) Decrease     Decrease     Increase (C) Decrease     Increase     Decrease (D) Increase     Decrease     Decrease (40 points)
+3. The secondary market for government securities is (A) where used items are traded. (B) located in smaller cities. (C) where the government borrows money. (D) where government securities that have already been issued may be bought or sold. (30 points)
+4. Households demand more money as an asset when (A) nominal GDP falls. (B) the nominal interest rate falls. (C) bond prices fall. (D) the supply of money falls. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+53,3,30-20-40-10,D,30,C,20,A,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The Federal Reserve is (A) part of the legislative branch of government. (B) the monetary authority for banks but not other depository institutions. (C) part of the judicial branch of government. (D) in control of the money supply. (30 points)
+2. Ceteris paribus (A) is Greek for ""never changing."" (B) means anything can change at any time. (C) is Latin for ""everything else remains constant. (D) means ""when in equilibrium."" (20 points)
+3. If firms that make a particular product expect its price will be lower in the future (A) this will cause the supply of the product to increase right now. (B) this will cause the supply of the product to decrease right now. (C) this will have no effect on the amount of the product supplied right now. (D) this will have no effect on the supply of the product now or later. (40 points)
+4. On a bank's balance sheet which of the following is considered a liability? (A) Required reserves (B) Excess reserves (C) Loans (D) Deposits (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+54,3,10-20-40-30,C,10,B,20,B,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A difference between M1 and M2 is that (A) M1 is a first mortgage and M2 is a second mortgage (B) M2 is M1 plus assets that are more liquid (C) M2 includes savings deposits (D) M1 is larger than M2 (10 points)
+2. If a country has a negative value on its current account then it must (A) pay that amount to its trading partners. (B) have a positive value of equal magnitude on its capital account. (C) depreciate its currency. (D) appreciate its currency. (20 points)
+3. Appropriate fiscal and monetary polices during the contractionary phase of the business cycle include (A) budget surpluses and higher discount rates. (B) tax reductions and open market purchases. (C) budget surpluses and lower discount rates. (D) increases in government spending and higher discount rates. (40 points)
+4. The international value of the dollar will appreciate if (A) American income falls relative to the rest of the world. (B) American interest rates fall relative to interest rates in other countries. (C) American prices rise. (D) foreigners boycott American products. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+55,3,40-20-10-30,B,40,D,20,A,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is a predictable advantage of expansionary monetary policy in a recession? (A) Decreases aggregate demand so that the price level falls. (B) Increases aggregate demand which increases real GDP and increases employment. (C) Increases unemployment but low prices negate this effect. (D) It keeps interest rates high which attracts foreign investment. (40 points)
+2. If technology makes production less expensive and at the same time exports decrease which of the following will result with certainty? (A) Real GDP will increase. (B) Real GDP will decrease. (C) The price level will increase. (D) The price level will decrease. (20 points)
+3. A decrease in real investment stemming from higher interest rates due to government purchases is most commonly called (A) crowding out (B) zero policy effectiveness (C) the Laffer effect (D) fiscal defeat (10 points)
+4. Total spending (A) is all of the spending done by all of the households in a nation. (B) slopes downward because less spending occurs when prices rise. (C) slopes downward because less spending occurs when income falls. (D) slopes upward because more household spending occurs when income rises. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+56,3,30-10-20-40,A,30,C,10,A,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. To close a recessionary gap (A) the aggregate demand curve should be shifted to the right. (B) the aggregate demand curve should be shifted to the left. (C) the aggregate supply curve should be shifted to the right. (D) the aggregate supply curve should be shifted to the left. (30 points)
+2. Depreciation of the dollar is most likely to (A) increase imports (B) increase travel abroad (C) increase exports (D) decrease a trade surplus (10 points)
+3. Which of the following is an example of capital as an economic resource? (A) A cement mixer (B) A barrel of crude oil (C) A registered nurse (D) A share of corporate stock (20 points)
+4. An American firm moves a manufacturing plant from the United States to Brazil. How will this affect gross domestic product (GDP) in the United States and in Brazil? (A) U.S. GDP falls and Brazil's GDP falls. (B) U.S. GDP rises and Brazil's GDP falls. (C) U.S. GDP falls and Brazil's GDP remains constant. (D) U.S. GDP falls and Brazil's GDP rises. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+57,3,10-40-30-20,C,10,D,40,C,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If the economy experienced a decrease in real GDP and price level this could best be explained by (A) a decline in labor productivity. (B) a technological advance. (C) a decline in investment. (D) an uptick in net exports. (10 points)
+2. Suppose the real interest rate in a country rises. What can be expected to happen to the demand for this nation's currency and therefore the value of its currency and net exports? Demand for currency      Value of currency      Net exports (A) Decreases            Appreciate      Decreases  (B) Decreases            Depreciate      Decreases (C) Decreases            Depreciate      Increases (D) Increases            Appreciate      Increases (40 points)
+3. Which of the following is true of money and financial markets? (A) As the demand for bonds increases the interest rate increases. (B) For a given money supply if nominal GDP increases the velocity of money decreases. (C) When demand for stocks and bonds increases the asset demand for money falls. (D) A macroeconomic recession increases the demand for loanable funds. (30 points)
+4. Corn is exchanged in a competitive market. Which of the following definitely increases the equilibrium price of corn? (A) Both supply and demand shift rightward. (B) Both supply and demand shift leftward. (C) Supply shifts to the right; demand shifts to the left. (D) Supply shifts to the left; demand shifts to the right. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+58,4,40-30-20-10,D,40,D,30,A,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Suppose that households increase the demand for U.S. Treasury bonds as financial assets. Which of the following accurately describes changes in the money market the interest rate and the value of the dollar in foreign currency markets? MONEY MARKET     INTEREST RATE     DOLLAR (A) Increased supply     Rising     Appreciates (B) Increased demand     Rising     Appreciates (C) Decreased demand     Falling     Appreciates (D) Decreased demand     Falling     Depreciates (40 points)
+2. Which of the following statements is correct in regard to the federal budget deficit and the federal debt? (A) When the debt is negative the deficit decreases. (B) When the debt is positive the deficit decreases. (C) The deficit is the accumulation of past debts. (D) When the deficit is negative the debt decreases. (30 points)
+3. In the equation of exchange if V and Q are constant then (A) changes in the price level must be proportional to changes in the money supply. (B) changes in the money supply have no effect on the price level. (C) changes in the price level have no effect on the money supply. (D) the equation is invalid. (20 points)
+4. Required reserves (A) can be used by banks to make loans or buy investments. (B) can be held in a bank's vault or its account at the FED. (C) must be kept in a bank's vault. (D) must be used to make loans. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+59,4,10-30-20-40,B,10,D,30,D,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Monetarists believe that V and Q are (A) constant. (B) stable. (C) variable. (D) not critical for understanding how money affects the economy. (10 points)
+2. Which of the following transactions would be counted in GDP? (A) The cash you receive from babysitting your neighbor’s kids (B) The sale of illegal drugs (C) The sale of cucumbers to a pickle manufacturer (D) The sale of a pound of tomatoes at a supermarket (30 points)
+3. The Phillips curve represents the relationship between (A) inflation and the money supply. (B) unemployment and the money supply. (C) the money supply and the real interest rate. (D) inflation and unemployment. (20 points)
+4. If the economy is operating at full employment which of the following policies will create the most inflation in the short run? (A) An increase in government spending matched by an equal increase in taxes (B) An increase in government spending with no change in taxes (C) A decrease in government spending and a matching increase in taxes (D) A decrease in taxes with no change in government spending (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+60,4,30-20-10-40,C,30,D,20,B,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. You buy 100 shares in XYZ Corporation on the Internet and your broker charges you $29.95. (A) This will increase the investment component of GDP and therefore overall GDP. (B) This has no effect on GDP. (C) This will increase GDP by $29.95. (D) This will increase GDP by the cost of the shares minus $29.95. (30 points)
+2. Which of the following is NOT a major cost of inflation? (A) Resources will be misallocated. (B) Wealth will be redistributed. (C) Savings will be discouraged. (D) Real incomes will fall. (20 points)
+3. If Real GDP = $200 billion and the price index = 200 Nominal GDP is (A) $4 billion (B) $400 billion (C) $200 billion (D) $2 billion (10 points)
+4. The government of a country decides to increase government spending and taxes by the same amount in order to keep a balanced budget. The MPC is 0.75. Which of the following is true of this situation? Policy Direction     Expenditure Multiplier     Tax Multiplier (A) expansionary     4     3 (B) expansionary     4     -3 (C) contractionary     4     3 (D) contractionary     4     -3 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+61,4,10-40-30-20,A,10,C,40,D,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If nominal GDP equals $5000 and real GDP equals $4000 then the GDP Deflator equals (A) 125 (B) 1.25 (C) 800 (D) 0.8 (10 points)
+2. Suppose a nation is experiencing an annual budget surplus and uses some of this surplus to pay down part of the national debt. One potential side effect of this policy would be (A) increase interest rates and throw the economy into a recession. (B) increase interest rates and depreciate the nation's currency. (C) decrease interest rates and risk an inflationary period. (D) decrease interest rates and throw the economy into a recession. (40 points)
+3. If people expect the price of a particular product to increase in the near future (A) this will not affect the demand for the product right now. (B) this will decrease the demand for the product. (C) this will not affect the demand for the product now or later. (D) this will increase the demand for the product. (30 points)
+4. If a bank has $1000 in checking deposits and the bank is required to reserve $250 what is the reserve ratio? How much does the bank have in excess reserves? What is the size of the money multiplier? (A) 25% $750 M = ¼ (B) 75% $250 M = 4 (C) 25% $750 M = 4 (D) 75% $750 M = ¼ (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+62,4,40-10-20-30,C,40,D,10,B,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Suppose that current disposable income is $10000 and consumption spending is $8000. For every $100 increase in disposable income saving increases $10. Given this information (A) the marginal propensity to consume is .80. (B) the marginal propensity to save is .20. (C) the marginal propensity to save is .10. (D) the marginal propensity to save is .90. (40 points)
+2. Use the following three responses to answer the question: Fiscal policy is not always effective because of I. crowding out. II. rational expectations. III. the balanced budget amendment. (A) I only (B) II only (C) II and III (D) I and II (10 points)
+3. The appropriate fiscal policy to remedy inflation calls for (A) the federal government to run a deficit. (B) the federal government to run a surplus. (C) increased taxes and government spending. (D) decreased government spending and taxes. (20 points)
+4. The aggregate demand curve is (A) a horizontal summation of market demand curves (B) a horizontal summation of firm demand curves (C) a simple aggregation of demand curves for individual goods (D) not found by adding product demand curves horizontally or vertically (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+63,4,10-30-40-20,C,10,B,30,B,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is NOT an argument for restricting trade? (A) To protect infant industry (B) To promote employment (C) To fight inflation (D) To promote a diversity of industries (10 points)
+2. Which of the following would shift the aggregate demand curve to the left? (A) An increase in consumer confidence. (B) Business firms expect lower sales in the future. (C) Foreigners develop a preference for our products. (D) Government increases its level of spending. (30 points)
+3. An American buys an entertainment system that was manufactured in China. How does the U.S. national income accounts treat this transaction? (A) Net exports and GDP both rise. (B) Net exports and GDP both fall. (C) Net exports and GDP go in opposite directions. (D) Net exports fall and there is no change in GDP. (40 points)
+4. Which of the following is most likely to produce stronger economic growth over time? (A) More rapid consumption of natural resources. (B) Higher adult illiteracy rates. (C) A falling stock of capital goods. (D) Investment tax credits. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+64,4,40-30-10-20,C,40,B,30,B,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Lower interest rates in the United States cause the value of the dollar and exports to change in which of the following ways? VALUE OF THE DOLLAR     U.S. EXPORTS (A) Increasing     Increasing (B) Increasing     Decreasing (C) Decreasing     Increasing (D) Decreasing     Unchanged (40 points)
+2. The aggregate supply curve will shift to the right in response to (A) a decrease in the labor supply (B) an increase in investment in capital (C) an increase in corporate taxes (D) a decrease in the availability of education and training (30 points)
+3. The Federal Open Market Committee (A) advises the President of the United States. (B) is part of the Federal Reserve System. (C) has seven members. (D) promotes free trade. (10 points)
+4. Which group of people will suffer the most from a rising price level? (A) debtors with fixed interest rates (B) people with fixed money incomes (C) investors in gems coins and stamps (D) property owners (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+65,4,10-30-40-20,A,10,D,30,D,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. To deflate nominal gross domestic product (GDP) you must (A) divide nominal GDP by the GDP deflator. (B) multiply real GDP by the GDP deflator. (C) divide real GDP by the GDP deflator. (D) multiply nominal GDP by the GDP deflator. (10 points)
+2. In a command economy (A) the market dictates the answers to the fundamental economic questions. (B) competition helps answer the fundamental economic questions. (C) state and local governments respond to the fundamental economic questions. (D) the central government dictates the answers to the fundamental economic questions. (30 points)
+3. An increase in the federal deficit may affect the demand for loan funds and therefore the real interest rate and investment spending. Which of the following gives the correct direction of these effects? Demand for loanable funds      Real interest rate      Investment spending (A) Increases            Increases      Increases (B) Decreases            Decreases      Decreases (C) Decreases            Decreases      Increases (D) Increases            Increases      Decreases (40 points)
+4. Which of the following is true when expansionary fiscal and expansionary monetary (easy money) policy are used at the same time? (A) Unemployment will increase. (B) Real GDP will decrease. (C) Interest rates will remain relatively constant. (D) Inflation will decrease dramatically. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+66,4,10-20-40-30,B,10,C,20,D,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Sue loses her job at a shoe factory when the economy falls into a recession. Sue is (A) frictionally unemployed. (B) cyclically unemployed. (C) seasonally unemployed. (D) structurally unemployed. (10 points)
+2. One drawback of using fiscal policy to close a recessionary gap is that (A) unemployment will rise. (B) taxes will have to be raised. (C) the equilibrium price level will rise. (D) government spending on important programs will have to be cut. (20 points)
+3. Which of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens (A) II III and IV only (B) I and III only (C) II and IV only (D) III and IV only (40 points)
+4. Having a fractional reserve banking system means that (A) no single loan can be larger than 20 percent of the bank’s holdings (B) the central bank reserves the right to audit any bank at any time (C) the central bank holds a certain fraction of GDP on reserve at all times (D) a bank cannot lend out all of its deposits (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+67,4,40-10-30-20,D,40,B,10,C,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. An increase in corporate optimism will have which of the following effects in the market for loanable funds? (A) An increase in supply lowering the interest rate. (B) A decrease in demand increasing the interest rate. (C) An increase in both supply and demand and an ambiguous change in interest rates. (D) An increase in demand increasing the interest rate. (40 points)
+2. If prices rise in the United States relative to other countries then (A) the value of the dollar will tend to appreciate. (B) the value of the dollar will tend to depreciate. (C) exchange rates will be affected but not the value of the dollar. (D) the exchange rate will not be affected. (10 points)
+3. Of the following choices which combination of fiscal and monetary policy would most likely reduce a recessionary gap? FISCAL POLICY     MONETARY POLICY (A) Increase taxes.     Increase the reserve ratio. (B) Decrease spending.     Sell Treasury securities. (C) Decrease taxes.     Buy Treasury securities. (D) Increase spending.     Increase the reserve ratio. (30 points)
+4. For a given level of government spending the federal government usually experiences a budget____during economic____and a budget ______during economic_______. (A) deficit recession surplus expansion (B) surplus recession deficit expansion (C) deficit expansion surplus recession (D) surplus recession surplus expansion (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+68,4,10-20-30-40,C,10,D,20,C,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The tax multiplier increases in magnitude when (A) the MPS increases. (B) the spending multiplier falls. (C) the MPC increases. (D) government spending increases. (10 points)
+2. If the marginal propensity to consume is 0.8 what is the largest total increase in GDP that can result from $500 of new spending? (A) $400  (B) $500  (C) $625  (D) $2,500  (20 points)
+3. Which of the following will result in economic growth? (A) A decrease in the unemployment rate. (B) An increase in the unemployment rate. (C) An increase in the size of the labor force. (D) A decrease in the population. (30 points)
+4. Given the table below which statement is true? Labor hours needed to produce a unit of: Country      Wine      Cheese France      40      80 Belgium      15      60 (A) France has the absolute advantage in both products. (B) France should specialize in and export wine while Belgium should specialize in and export cheese. (C) France has the comparative advantage in cheese. (D) France has the absolute advantage in cheese. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+69,4,40-30-10-20,C,40,D,30,C,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The ""crowding-out"" effect refers to which of the following? (A) Lower interest rates that result from borrowing to conduct expansionary monetary policy (B) Higher interest rates that result from borrowing to conduct contractionary fiscal policy (C) Higher interest rates that result from borrowing to conduct expansionary fiscal policy (D) Higher interest rates due to borrowing to conduct contractionary monetary policy (40 points)
+2. If the government of country Z increases spending by $12 million dollars and raises tax collections by the same amount then what will be the overall impact of these moves on real GDP in country Z? (A) Real GDP will increase by $6 million. (B) Real GDP will decrease by $6 million. (C) Real GDP will remain unchanged. (D) Real GDP will increase by $12 million. (30 points)
+3. Suppose transfer payments are greater than Social Security contributions corporate taxes and retained earnings combined. In that case (A) NDP will be greater than GDP. (B) NI will be greater than GDP. (C) PI will be greater than NI. (D) DPI will be greater than PI. (10 points)
+4. The fractional reserve banking system's ability to create money is lessened if (A) households that borrow redeposit the entire loan amounts back into the banks. (B) banks hold excess reserves. (C) banks lend all excess reserves to borrowing customers. (D) households increase checking deposits in banks. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+70,4,20-10-30-40,C,20,D,10,D,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If $100 of new autonomous private investment were added to an economy with a marginal propensity to consume of .90 by how much would aggregate demand shift to the right? (A) $190  (B) $900  (C) $1,000  (D) $1,900  (20 points)
+2. GDP measures a country's level of I. production. II. stability. III. income. (A) I only. (B) II only. (C) III only. (D) I and III. (10 points)
+3. Suppose the price level in the United States has risen in the past year but production of goods and services has remained constant. Based on this information which of the following is true? NOMINAL GDP     REAL GDP (A) Increased     Increased (B) No change     Decreased (C) Decreased     Decreased (D) Increased     Decreased (30 points)
+4. In the last 20 years firms that produce cameras have begun to produce fewer 35-mm cameras and more digital cameras. This trend is an example of (A) how central planners dictate which cameras are produced. (B) the market system answering the question of ""how"" cameras should be produced. (C) the market system answering the question of ""what"" cameras should be produced. (D) the market system answering the question of ""who"" should consume the cameras that are produced. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+71,4,30-10-40-20,D,30,C,10,A,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How would fiscal and monetary policymakers combine spending tax and monetary policy to fight a recessionary gap while avoiding large budget deficits? SPENDING POLICY     TAX POLICY     MONETARY POLICY (A) Higher spending     Lower taxes     Sell Treasury securities (B) Lower spending     Higher taxes     Buy Treasury securities (C) Lower spending     Lower taxes     Increasing the reserve ratio (D) Higher spending     Higher taxes     Lowering the discount rate (30 points)
+2. Suppose real GDP increases. We can conclude without a doubt that (A) prices are higher. (B) employment is higher. (C) production is higher. (D) prices and/or output is higher. (10 points)
+3. Which of the following statements would ""supply-side"" economists disagree with? (A) Tax changes cause shifts in aggregate supply that work against shifts in aggregate demand thus reducing the effect of the tax change on real GDP. (B) A tax cut is likely to increase aggregate supply by boosting saving investment and thus capital accumulation. (C) A tax increase is likely to decrease aggregate supply by decreasing after-tax wages and thus providing disincentives to work. (D) A tax cut is likely to increase aggregate supply by providing greater rewards for risk taking. (40 points)
+4. Which of the following is an accurate statement of the money supply in the United States? (A) The money supply is backed by gold reserves. (B) The least liquid measure of money is M2. (C) M1 is larger than M3. (D) The most liquid measure of money is M1. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+72,4,10-20-40-30,D,10,B,20,C,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In order to go from national income to GDP one must (A) add depreciation expenses (B) add indirect taxes (C) subtract subsidies (D) all of the above (10 points)
+2. Which of the following will promote economic growth? (A) Government regulation. (B) A new production technique that lowers costs. (C) Increased taxes. (D) More strict pollution standards for corporations. (20 points)
+3. What will happen to the equilibrium price and the equilibrium quantity of good Z when the price of good X which is a close substitute for Z rises? (A) The equilibrium price will rise and the equilibrium quantity will fall. (B) The equilibrium price will fall and the equilibrium quantity will rise. (C) The equilibrium price and the equilibrium quantity will both rise. (D) The equilibrium price and the equilibrium quantity will both fall. (40 points)
+4. In the short run contractionary monetary policy causes aggregate demand to output to  and the price level to Aggregate demand      Output      Price Level (A) Increases            Increases      Increases (B) Increases            Increases      Decreases (C) Decreases            Decreases      Increases (D) Decreases            Decreases      Decreases (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+73,4,10-40-20-30,A,10,A,40,D,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Fiat money (A) is not backed by any precious commodity. (B) can be exchanged for gold. (C) is backed by gold but cannot be exchanged for it. (D) is not legal tender. (10 points)
+2. In a long period of economic expansion the tax revenue collected ____ and the amount spent on welfare programs ____ creating a budget ____ . (A) increases decreases surplus (B) increases decreases deficit (C) decreases decreases surplus (D) decreases increases deficit (40 points)
+3. At the peak of a typical business cycle which of the following is likely the greatest threat to the macroeconomy? (A) Unemployment (B) Bankruptcy (C) Declining labor productivity (D) Inflation (20 points)
+4. According to Keynesian analysis a decrease in the money supply would (A) raise the price level and output in the economy. (B) lower the price level and output in the economy. (C) raise the price level in the economy. (D) lower the price level in the economy. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+74,4,30-40-10-20,D,30,B,40,C,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The cabbages you grow in your summer garden are (A) counted in GDP under C. (B) counted in GDP under I. (C) counted in GDP but not NDP. (D) not counted in GDP. (30 points)
+2. Contractionary monetary policy implies which of the following about the discount rate the nominal interest rate and aggregate demand? Discount rate      Nominal interest rate      Aggregate demand (A) Decreases            Increases      Decreases (B) Increases            Increases      Decreases (C) Decreases            Decreases      Decreases (D) Increases            Increases      Increases (40 points)
+3. In the equation GDP = C + I + G + X X stands for (A) exports. (B) expenditures. (C) exports minus imports. (D) imports minus exports. (10 points)
+4. ""Flash"" estimates of GDP (A) are subject to revision. (B) do not require revision. (C) are available after a thirty-day lag. (D) both (A) and (C) (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+75,4,20-10-30-40,D,20,D,10,D,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The effect of the spending multiplier is lessened if (A) the price level is constant with an increase in aggregate demand. (B) the price level falls with an increase in aggregate supply. (C) the price level is constant with an increase in long-run aggregate supply. (D) the price level rises with an increase in aggregate demand. (20 points)
+2. In the United States over the years V and Q (A) have not changed significantly. (B) are perfectly constant. (C) have decreased significantly. (D) have increased significantly. (10 points)
+3. Which of the following creates the trade-offdepicted by the Phillips curve? (A) A rightward shift in the aggregate supply curve (B) An increase in input costs that corresponds with an increase in unemployment (C) An increase in output that corresponds with a decrease in the price level (D) A rightward shift in the aggregate demand curve (30 points)
+4. What will happen to the equilibrium price level and the equilibrium quantity of output if the aggregate supply curve shifts to the left? Assume an upward sloping aggregate supply curve. (A) The equilibrium price level increases while the equilibrium quantity of output decreases. (B) The equilibrium price level decreases while the equilibrium quantity of output increases. (C) The equilibrium price level and quantity of output increase. (D) The equilibrium price level and quantity of output decrease. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+76,4,30-10-20-40,C,30,D,10,D,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. You buy 100 shares in XYZ Corporation on the Internet and your broker charges you $29.95. (A) This will increase the investment component of GDP and therefore overall GDP. (B) This has no effect on GDP. (C) This will increase GDP by $29.95. (D) This will increase GDP by the cost of the shares minus $29.95. (30 points)
+2. The Federal Reserve is (A) part of the legislative branch of government. (B) the monetary authority for banks but not other depository institutions. (C) part of the judicial branch of government. (D) in control of the money supply. (10 points)
+3. Total spending (A) is all of the spending done by all of the households in a nation. (B) slopes downward because less spending occurs when prices rise. (C) slopes downward because less spending occurs when income falls. (D) slopes upward because more household spending occurs when income rises. (20 points)
+4. Having a fractional reserve banking system means that (A) no single loan can be larger than 20 percent of the bank’s holdings (B) the central bank reserves the right to audit any bank at any time (C) the central bank holds a certain fraction of GDP on reserve at all times (D) a bank cannot lend out all of its deposits (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+77,5,40-10-30-20,D,40,B,10,B,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements is correct in regard to the federal budget deficit and the federal debt? (A) When the debt is negative the deficit decreases. (B) When the debt is positive the deficit decreases. (C) The deficit is the accumulation of past debts. (D) When the deficit is negative the debt decreases. (40 points)
+2. Required reserves (A) can be used by banks to make loans or buy investments. (B) can be held in a bank's vault or its account at the FED. (C) must be kept in a bank's vault. (D) must be used to make loans. (10 points)
+3. The fractional reserve banking system's ability to create money is lessened if (A) households that borrow redeposit the entire loan amounts back into the banks. (B) banks hold excess reserves. (C) banks lend all excess reserves to borrowing customers. (D) households increase checking deposits in banks. (30 points)
+4. Which of the following is most likely to produce stronger economic growth over time? (A) More rapid consumption of natural resources. (B) Higher adult illiteracy rates. (C) A falling stock of capital goods. (D) Investment tax credits. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+78,5,10-20-30-40,D,10,C,20,A,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. GDP measures a country's level of I. production. II. stability. III. income. (A) I only. (B) II only. (C) III only. (D) I and III. (10 points)
+2. A difference between M1 and M2 is that (A) M1 is a first mortgage and M2 is a second mortgage (B) M2 is M1 plus assets that are more liquid (C) M2 includes savings deposits (D) M1 is larger than M2 (20 points)
+3. To close a recessionary gap (A) the aggregate demand curve should be shifted to the right. (B) the aggregate demand curve should be shifted to the left. (C) the aggregate supply curve should be shifted to the right. (D) the aggregate supply curve should be shifted to the left. (30 points)
+4. Suppose that households increase the demand for U.S. Treasury bonds as financial assets. Which of the following accurately describes changes in the money market the interest rate and the value of the dollar in foreign currency markets? MONEY MARKET     INTEREST RATE     DOLLAR (A) Increased supply     Rising     Appreciates (B) Increased demand     Rising     Appreciates (C) Decreased demand     Falling     Appreciates (D) Decreased demand     Falling     Depreciates (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+79,5,20-30-10-40,B,20,B,30,D,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If prices rise in the United States relative to other countries then (A) the value of the dollar will tend to appreciate. (B) the value of the dollar will tend to depreciate. (C) exchange rates will be affected but not the value of the dollar. (D) the exchange rate will not be affected. (20 points)
+2. Appropriate fiscal and monetary polices during the contractionary phase of the business cycle include (A) budget surpluses and higher discount rates. (B) tax reductions and open market purchases. (C) budget surpluses and lower discount rates. (D) increases in government spending and higher discount rates. (30 points)
+3. The secondary market for government securities is (A) where used items are traded. (B) located in smaller cities. (C) where the government borrows money. (D) where government securities that have already been issued may be bought or sold. (10 points)
+4. In a command economy (A) the market dictates the answers to the fundamental economic questions. (B) competition helps answer the fundamental economic questions. (C) state and local governments respond to the fundamental economic questions. (D) the central government dictates the answers to the fundamental economic questions. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+80,5,10-20-40-30,C,10,D,20,C,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In the equation GDP = C + I + G + X X stands for (A) exports. (B) expenditures. (C) exports minus imports. (D) imports minus exports. (10 points)
+2. On a bank's balance sheet which of the following is considered a liability? (A) Required reserves (B) Excess reserves (C) Loans (D) Deposits (20 points)
+3. The ""crowding-out"" effect refers to which of the following? (A) Lower interest rates that result from borrowing to conduct expansionary monetary policy (B) Higher interest rates that result from borrowing to conduct contractionary fiscal policy (C) Higher interest rates that result from borrowing to conduct expansionary fiscal policy (D) Higher interest rates due to borrowing to conduct contractionary monetary policy (40 points)
+4. In the United States over the years V and Q (A) have not changed significantly. (B) are perfectly constant. (C) have decreased significantly. (D) have increased significantly. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+81,5,40-30-10-20,D,40,D,30,D,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following creates the trade-offdepicted by the Phillips curve? (A) A rightward shift in the aggregate supply curve (B) An increase in input costs that corresponds with an increase in unemployment (C) An increase in output that corresponds with a decrease in the price level (D) A rightward shift in the aggregate demand curve (40 points)
+2. The aggregate demand curve is (A) a horizontal summation of market demand curves (B) a horizontal summation of firm demand curves (C) a simple aggregation of demand curves for individual goods (D) not found by adding product demand curves horizontally or vertically (30 points)
+3. The cabbages you grow in your summer garden are (A) counted in GDP under C. (B) counted in GDP under I. (C) counted in GDP but not NDP. (D) not counted in GDP. (10 points)
+4. Sue loses her job at a shoe factory when the economy falls into a recession. Sue is (A) frictionally unemployed. (B) cyclically unemployed. (C) seasonally unemployed. (D) structurally unemployed. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+82,5,10-30-20-40,D,10,D,30,C,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In order to go from national income to GDP one must (A) add depreciation expenses (B) add indirect taxes (C) subtract subsidies (D) all of the above (10 points)
+2. The Phillips curve represents the relationship between (A) inflation and the money supply. (B) unemployment and the money supply. (C) the money supply and the real interest rate. (D) inflation and unemployment. (30 points)
+3. Ceteris paribus (A) is Greek for ""never changing."" (B) means anything can change at any time. (C) is Latin for ""everything else remains constant. (D) means ""when in equilibrium."" (20 points)
+4. How would fiscal and monetary policymakers combine spending tax and monetary policy to fight a recessionary gap while avoiding large budget deficits? SPENDING POLICY     TAX POLICY     MONETARY POLICY (A) Higher spending     Lower taxes     Sell Treasury securities (B) Lower spending     Higher taxes     Buy Treasury securities (C) Lower spending     Lower taxes     Increasing the reserve ratio (D) Higher spending     Higher taxes     Lowering the discount rate (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+83,5,10-40-20-30,C,10,D,40,D,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is NOT an argument for restricting trade? (A) To protect infant industry (B) To promote employment (C) To fight inflation (D) To promote a diversity of industries (10 points)
+2. Suppose the real interest rate in a country rises. What can be expected to happen to the demand for this nation's currency and therefore the value of its currency and net exports? Demand for currency      Value of currency      Net exports (A) Decreases            Appreciate      Decreases  (B) Decreases            Depreciate      Decreases (C) Decreases            Depreciate      Increases (D) Increases            Appreciate      Increases (40 points)
+3. In the short run contractionary monetary policy causes aggregate demand to output to  and the price level to Aggregate demand      Output      Price Level (A) Increases            Increases      Increases (B) Increases            Increases      Decreases (C) Decreases            Decreases      Increases (D) Decreases            Decreases      Decreases (20 points)
+4. Which of the following is a predictable advantage of expansionary monetary policy in a recession? (A) Decreases aggregate demand so that the price level falls. (B) Increases aggregate demand which increases real GDP and increases employment. (C) Increases unemployment but low prices negate this effect. (D) It keeps interest rates high which attracts foreign investment. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+84,5,30-20-40-10,C,30,B,20,D,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Suppose that current disposable income is $10000 and consumption spending is $8000. For every $100 increase in disposable income saving increases $10. Given this information (A) the marginal propensity to consume is .80. (B) the marginal propensity to save is .20. (C) the marginal propensity to save is .10. (D) the marginal propensity to save is .90. (30 points)
+2. The Federal Open Market Committee (A) advises the President of the United States. (B) is part of the Federal Reserve System. (C) has seven members. (D) promotes free trade. (20 points)
+3. Which of the following is included in U.S. GDP? I.   The market value of movies made in Africa by U.S. citizens II.   The market value of olive oil made in Italy and sold in the United States. III.   The market value of blue jeans made in the United States and sold in Japan IV.   The market value of wine made in the United States by Canadian citizens (A) II III and IV only (B) I and III only (C) II and IV only (D) III and IV only (40 points)
+4. The tax multiplier increases in magnitude when (A) the MPS increases. (B) the spending multiplier falls. (C) the MPC increases. (D) government spending increases. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+85,5,20-10-30-40,B,20,B,10,A,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A dark room technician who develops film into photographs loses his job because few people use film cameras any more. This is an example of which of the following? (A) Frictional unemployment (B) Structural unemployment (C) Cyclical unemployment (D) Seasonal unemployment (20 points)
+2. When we observe an unplanned decrease in inventories we can expect (A) prices to begin to fall. (B) output to begin to rise. (C) saving to begin to fall. (D) output to begin to fall. (10 points)
+3. If firms that make a particular product expect its price will be lower in the future (A) this will cause the supply of the product to increase right now. (B) this will cause the supply of the product to decrease right now. (C) this will have no effect on the amount of the product supplied right now. (D) this will have no effect on the supply of the product now or later. (30 points)
+4. Which of the following statements would ""supply-side"" economists disagree with? (A) Tax changes cause shifts in aggregate supply that work against shifts in aggregate demand thus reducing the effect of the tax change on real GDP. (B) A tax cut is likely to increase aggregate supply by boosting saving investment and thus capital accumulation. (C) A tax increase is likely to decrease aggregate supply by decreasing after-tax wages and thus providing disincentives to work. (D) A tax cut is likely to increase aggregate supply by providing greater rewards for risk taking. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+86,5,30-20-10-40,A,30,D,20,C,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. For a given level of government spending the federal government usually experiences a budget____during economic____and a budget ______during economic_______. (A) deficit recession surplus expansion (B) surplus recession deficit expansion (C) deficit expansion surplus recession (D) surplus recession surplus expansion (30 points)
+2. If technology makes production less expensive and at the same time exports decrease which of the following will result with certainty? (A) Real GDP will increase. (B) Real GDP will decrease. (C) The price level will increase. (D) The price level will decrease. (20 points)
+3. If $100 of new autonomous private investment were added to an economy with a marginal propensity to consume of .90 by how much would aggregate demand shift to the right? (A) $190  (B) $900  (C) $1,000  (D) $1,900  (10 points)
+4. An American firm moves a manufacturing plant from the United States to Brazil. How will this affect gross domestic product (GDP) in the United States and in Brazil? (A) U.S. GDP falls and Brazil's GDP falls. (B) U.S. GDP rises and Brazil's GDP falls. (C) U.S. GDP falls and Brazil's GDP remains constant. (D) U.S. GDP falls and Brazil's GDP rises. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+87,5,20-30-40-10,D,20,D,30,B,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If the marginal propensity to consume is 0.8 what is the largest total increase in GDP that can result from $500 of new spending? (A) $400  (B) $500  (C) $625  (D) $2,500  (20 points)
+2. Corn is exchanged in a competitive market. Which of the following definitely increases the equilibrium price of corn? (A) Both supply and demand shift rightward. (B) Both supply and demand shift leftward. (C) Supply shifts to the right; demand shifts to the left. (D) Supply shifts to the left; demand shifts to the right. (30 points)
+3. The government of a country decides to increase government spending and taxes by the same amount in order to keep a balanced budget. The MPC is 0.75. Which of the following is true of this situation? Policy Direction     Expenditure Multiplier     Tax Multiplier (A) expansionary     4     3 (B) expansionary     4     -3 (C) contractionary     4     3 (D) contractionary     4     -3 (40 points)
+4. If Real GDP = $200 billion and the price index = 200 Nominal GDP is (A) $4 billion (B) $400 billion (C) $200 billion (D) $2 billion (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+88,5,20-30-10-40,B,20,B,30,B,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The appropriate fiscal policy to remedy inflation calls for (A) the federal government to run a deficit. (B) the federal government to run a surplus. (C) increased taxes and government spending. (D) decreased government spending and taxes. (20 points)
+2. Which of the following would shift the aggregate demand curve to the left? (A) An increase in consumer confidence. (B) Business firms expect lower sales in the future. (C) Foreigners develop a preference for our products. (D) Government increases its level of spending. (30 points)
+3. Which group of people will suffer the most from a rising price level? (A) debtors with fixed interest rates (B) people with fixed money incomes (C) investors in gems coins and stamps (D) property owners (10 points)
+4. If people expect the price of a particular product to increase in the near future (A) this will not affect the demand for the product right now. (B) this will decrease the demand for the product. (C) this will not affect the demand for the product now or later. (D) this will increase the demand for the product. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+89,5,10-20-30-40,B,10,D,20,B,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Households demand more money as an asset when (A) nominal GDP falls. (B) the nominal interest rate falls. (C) bond prices fall. (D) the supply of money falls. (10 points)
+2. Suppose the price level in the United States has risen in the past year but production of goods and services has remained constant. Based on this information which of the following is true? NOMINAL GDP     REAL GDP (A) Increased     Increased (B) No change     Decreased (C) Decreased     Decreased (D) Increased     Decreased (20 points)
+3. If the economy is operating at full employment which of the following policies will create the most inflation in the short run? (A) An increase in government spending matched by an equal increase in taxes (B) An increase in government spending with no change in taxes (C) A decrease in government spending and a matching increase in taxes (D) A decrease in taxes with no change in government spending (30 points)
+4. What will happen to the equilibrium price and the equilibrium quantity of good Z when the price of good X which is a close substitute for Z rises? (A) The equilibrium price will rise and the equilibrium quantity will fall. (B) The equilibrium price will fall and the equilibrium quantity will rise. (C) The equilibrium price and the equilibrium quantity will both rise. (D) The equilibrium price and the equilibrium quantity will both fall. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+90,5,30-10-40-20,B,30,B,10,A,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. An American buys an entertainment system that was manufactured in China. How does the U.S. national income accounts treat this transaction? (A) Net exports and GDP both rise. (B) Net exports and GDP both fall. (C) Net exports and GDP go in opposite directions. (D) Net exports fall and there is no change in GDP. (30 points)
+2. If a country has a negative value on its current account then it must (A) pay that amount to its trading partners. (B) have a positive value of equal magnitude on its capital account. (C) depreciate its currency. (D) appreciate its currency. (10 points)
+3. Which of the following could limit the ability of a central bank to conduct expansionary monetary policy? (A) Money demand is nearly perfectly elastic. (B) Investment demand is nearly perfectly elastic. (C) Banks make loans with all excess reserves. (D) Households carry very little cash holding their money in checking and saving deposits. (40 points)
+4. Suppose transfer payments are greater than Social Security contributions corporate taxes and retained earnings combined. In that case (A) NDP will be greater than GDP. (B) NI will be greater than GDP. (C) PI will be greater than NI. (D) DPI will be greater than PI. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+91,5,40-10-20-30,C,40,C,10,C,20,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Of the following choices which combination of fiscal and monetary policy would most likely reduce a recessionary gap? FISCAL POLICY     MONETARY POLICY (A) Increase taxes.     Increase the reserve ratio. (B) Decrease spending.     Sell Treasury securities. (C) Decrease taxes.     Buy Treasury securities. (D) Increase spending.     Increase the reserve ratio. (40 points)
+2. Depreciation of the dollar is most likely to (A) increase imports (B) increase travel abroad (C) increase exports (D) decrease a trade surplus (10 points)
+3. If the economy experienced a decrease in real GDP and price level this could best be explained by (A) a decline in labor productivity. (B) a technological advance. (C) a decline in investment. (D) an uptick in net exports. (20 points)
+4. Lower interest rates in the United States cause the value of the dollar and exports to change in which of the following ways? VALUE OF THE DOLLAR     U.S. EXPORTS (A) Increasing     Increasing (B) Increasing     Decreasing (C) Decreasing     Increasing (D) Decreasing     Unchanged (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+92,5,30-10-40-20,D,30,C,10,D,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. An increase in corporate optimism will have which of the following effects in the market for loanable funds? (A) An increase in supply lowering the interest rate. (B) A decrease in demand increasing the interest rate. (C) An increase in both supply and demand and an ambiguous change in interest rates. (D) An increase in demand increasing the interest rate. (30 points)
+2. If a bank has $1000 in checking deposits and the bank is required to reserve $250 what is the reserve ratio? How much does the bank have in excess reserves? What is the size of the money multiplier? (A) 25% $750 M = ¼ (B) 75% $250 M = 4 (C) 25% $750 M = 4 (D) 75% $750 M = ¼ (10 points)
+3. An increase in the federal deficit may affect the demand for loan funds and therefore the real interest rate and investment spending. Which of the following gives the correct direction of these effects? Demand for loanable funds      Real interest rate      Investment spending (A) Increases            Increases      Increases (B) Decreases            Decreases      Decreases (C) Decreases            Decreases      Increases (D) Increases            Increases      Decreases (40 points)
+4. Which of the following lists contains only policies that will close an inflationary gap? (A) Increase the money supply; run a federal budget deficit. (B) Decrease the money supply; run a federal budget deficit. (C) Decrease the money supply; increase taxes; reduce government spending. (D) Increase the money supply; increase taxes; reduce government spending. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+93,5,40-30-10-20,C,40,A,30,B,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Suppose a nation is experiencing an annual budget surplus and uses some of this surplus to pay down part of the national debt. One potential side effect of this policy would be (A) increase interest rates and throw the economy into a recession. (B) increase interest rates and depreciate the nation's currency. (C) decrease interest rates and risk an inflationary period. (D) decrease interest rates and throw the economy into a recession. (40 points)
+2. In the equation of exchange if V and Q are constant then (A) changes in the price level must be proportional to changes in the money supply. (B) changes in the money supply have no effect on the price level. (C) changes in the price level have no effect on the money supply. (D) the equation is invalid. (30 points)
+3. Monetarists believe that V and Q are (A) constant. (B) stable. (C) variable. (D) not critical for understanding how money affects the economy. (10 points)
+4. At the peak of a typical business cycle which of the following is likely the greatest threat to the macroeconomy? (A) Unemployment (B) Bankruptcy (C) Declining labor productivity (D) Inflation (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+94,5,30-20-10-40,A,30,D,20,A,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The international value of the dollar will appreciate if (A) American income falls relative to the rest of the world. (B) American interest rates fall relative to interest rates in other countries. (C) American prices rise. (D) foreigners boycott American products. (30 points)
+2. Which of the following is NOT a major cost of inflation? (A) Resources will be misallocated. (B) Wealth will be redistributed. (C) Savings will be discouraged. (D) Real incomes will fall. (20 points)
+3. Fiat money (A) is not backed by any precious commodity. (B) can be exchanged for gold. (C) is backed by gold but cannot be exchanged for it. (D) is not legal tender. (10 points)
+4. If the government of country Z increases spending by $12 million dollars and raises tax collections by the same amount then what will be the overall impact of these moves on real GDP in country Z? (A) Real GDP will increase by $6 million. (B) Real GDP will decrease by $6 million. (C) Real GDP will remain unchanged. (D) Real GDP will increase by $12 million. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+95,5,20-10-40-30,C,20,B,10,A,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following will result in economic growth? (A) A decrease in the unemployment rate. (B) An increase in the unemployment rate. (C) An increase in the size of the labor force. (D) A decrease in the population. (20 points)
+2. For years you work as a grocery checker at a supermarket and one day you are replaced by self-serve checkout stations. What type of unemployment is this? (A) Cyclical (B) Structural (C) Seasonal (D) Frictional (10 points)
+3. What will happen to the equilibrium price level and the equilibrium quantity of output if the aggregate supply curve shifts to the left? Assume an upward sloping aggregate supply curve. (A) The equilibrium price level increases while the equilibrium quantity of output decreases. (B) The equilibrium price level decreases while the equilibrium quantity of output increases. (C) The equilibrium price level and quantity of output increase. (D) The equilibrium price level and quantity of output decrease. (40 points)
+4. Which of the following is true when expansionary fiscal and expansionary monetary (easy money) policy are used at the same time? (A) Unemployment will increase. (B) Real GDP will decrease. (C) Interest rates will remain relatively constant. (D) Inflation will decrease dramatically. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+96,5,30-20-40-10,D,30,A,20,D,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following transactions would be counted in GDP? (A) The cash you receive from babysitting your neighbor’s kids (B) The sale of illegal drugs (C) The sale of cucumbers to a pickle manufacturer (D) The sale of a pound of tomatoes at a supermarket (30 points)
+2. To deflate nominal gross domestic product (GDP) you must (A) divide nominal GDP by the GDP deflator. (B) multiply real GDP by the GDP deflator. (C) divide real GDP by the GDP deflator. (D) multiply nominal GDP by the GDP deflator. (20 points)
+3. The effect of the spending multiplier is lessened if (A) the price level is constant with an increase in aggregate demand. (B) the price level falls with an increase in aggregate supply. (C) the price level is constant with an increase in long-run aggregate supply. (D) the price level rises with an increase in aggregate demand. (40 points)
+4. Which of the following will promote economic growth? (A) Government regulation. (B) A new production technique that lowers costs. (C) Increased taxes. (D) More strict pollution standards for corporations. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."

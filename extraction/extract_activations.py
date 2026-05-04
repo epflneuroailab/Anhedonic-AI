@@ -6,7 +6,7 @@ import os
 # =============================================================================
 # Configuration
 # =============================================================================
-MODEL_PATH = "../models/qwen2-vl-7b"
+MODEL_PATH = "../../models/qwen2-vl-7b"
 OUTPUT_DIR = "activations" 
 
 DATASETS = {

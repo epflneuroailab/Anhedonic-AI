@@ -1,0 +1,961 @@
+ID,Subset,Reward_Order,Correct_Answer_1,Reward_1,Correct_Answer_2,Reward_2,Correct_Answer_3,Reward_3,Correct_Answer_4,Reward_4,Full_Prompt
+1,1,10-30-20-40,D,10,A,30,B,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which virus infection was not first identified by clinical observation? (A) HIV (B) Rubella teratogenicity (C) Microcephaly and Zika (D) Hepatitis C (10 points)
+2. The successful anti-cancer HPV vaccine consists of: (A) Live virus attenuated by specific mutagenesis (B) Whole virus chemically inactivated vaccine (C) Self-assemble of virus L1 protein into VLP (D) Sub unit chemically inactivated vaccine (30 points)
+3. Why do vigorous CD8 cell responses in chronically infected HIV-positive individuals fail to eliminate the virus? (A) CTL exhaustion (B) Epitope escape (C) Suboptimal CTL (D) Absence of dendritic cells (20 points)
+4. A new drug with in vitro activity against HIV is tested on a population of patients with Western-blot confirmed HIV infections. Out of the 200 individuals in the patient population, 100 are chosen by lottery to receive the drug. The drug, which is tasteless, is administered in a cup of orange juice; the other patients receive pure orange juice. Neither the nurses, doctors, nor the patients know which patients receive the drug. At the end of the study period, the number of CD4+ T cells is determined for all of the subjects. This is an example of a (A) Case-control study (B) Case report (C) Cohort study (D) Cross-sectional study (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+2,1,10-30-20-40,C,10,C,30,B,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. MERS has four special characteristics and here we have one exception - which is it? (A) Spread by faecal oral route (B) Aerosol droplet transmission (C) Reservoir in bats (D) A conduit to humans via camels (10 points)
+2. Why are drug combinations essential for HIV? (A) Single drugs are not completely inhibitory (B) Mutations negate the effect of one drug (C) Combinations of antibiotics are effective versus TB (D) The virus cannot mutate vs a combination (30 points)
+3. The current testing policy of the Centers for Disease Control and the World Health Organization is: (A) “Opt-in” (B) “Opt-out” (C) Mandatory testing of prisoners (D) Mandatory testing of high-risk groups (20 points)
+4. There were no new cases of Ebola virus in the United States from January 1, 1997 through January 1, 1998. Which of the following epidemiologic terms does this statement describe? (A) Incidence (B) Lifetime expectancy (C) Lifetime prevalence (D) Period prevalence (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+3,1,20-40-10-30,B,20,C,40,B,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the genetic structure of rotavirus? (A) Circular DNA containing virus (B) RNA virus with RT (C) ds RNA virus (D) ds RNA virus in segments (20 points)
+2. Which of the following HPV viruses are known to cause cervical cancer? (A) Viruses of all 5 clades (B) Types 14, 16, 18, 31, 45 (C) None are oncogenic per se (D) Types 1-180 (40 points)
+3. The largest Latino community in the U.S. is: (A) Puerto Rican (B) Mexican (C) Cuban (D) Brazilian (10 points)
+4. Which is the exception in the following range of disease symptoms caused by bunyaviruses? (A) Pneumonias (B) Haemorrhagic fever (C) Hepatitis (D) Impaired renal function (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+4,1,30-20-10-40,A,30,A,20,A,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Viruses have encouraged us to change our world, as we have now: (A) Eradicated smallpox (B) Eradicated polio (C) Increased hygiene (D) A better understanding of how cellular genes aid virus replication and so become a target for new drugs (30 points)
+2. How are new polyomaviruses detailed (A) Shot gun sequencing (B) Cultivation in human neural cells (C) Deep pyro sequencing (NGS) (D) Monoclonal antibody techniques (20 points)
+3. Disease can most often be prevented by which of the following: (A) Vaccines (B) Antivirals (C) Hygiene (D) mosquito nets (10 points)
+4. Genetic characteristics of the bunyavirus family include which one of the following? (A) Three segmented negative stranded RNA viruses with anti-sense expression (B) Highly mutable RNA viruses (C) Emerging viruses via arthropod vector (D) Use an RT enzyme (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+5,1,30-40-10-20,D,30,B,40,A,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. AIDS activism in the U.S. resulted in: (A) Food and Drug Administration reforms (B) Easier access to investigational drugs (C) Changes in the way medicine was practiced in the U.S. (D) All of the above (30 points)
+2. What happens during the 'incubation period'? (A) The virus is cleared from the body by the immune system (B) Virus replication happens at an intracellular level (C) This period commonly lasts for a few days (D) This period commonly lasts for a few hours (40 points)
+3. How many human polyomaviruses are known at present? (A) 100 (B) 1 (C) 10 (D) unknown (10 points)
+4. The major issue for HIV infection among the Latino population is: (A) Late detection of HIV status (B) Cultural beliefs (C) Immigration (D) All of the above (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+6,1,30-40-20-10,A,30,B,40,C,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Describe the morphology of a togavirus. (A) Enveloped spherical particles with an icosahedral structure (B) Non-enveloped with an icosahedral structure (C) Filamentous virus with protruding glycoproteins (D) Small round viruses (30 points)
+2. As regards the range of diseases caused by viruses: (A) Each member of the 'family' causes the same disease. (B) Members of many families can cause the same sort of disease. (C) Most virus disease are now controlled by vaccines. (D) Most viruses can cross placenta and be teratogenic. (40 points)
+3. How can the morphology of filoviruses be described? (A) Very large ball like structure (B) Long filamentous threads (C) Icosahedral virion (D) Floppy membranes without defined morphology (20 points)
+4. What is the most successful and most widely used 'travel' vaccine for international visitors? (A) Influenza (B) MMR (C) Yellow Fever (D) Rabies (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+7,1,40-30-10-20,B,40,D,30,D,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Identify the most commonly used diagnostic technique in the virus laboratory: (A) Virus isolation in cell culture (B) Deep sequencing (NGS) (C) Reverse transcriptase (RT) PCR (D) Immuno-serology (40 points)
+2. The parvoviruses have a rather unique genome; what form does it take? (A) Circular ds DNA (B) Small linear ss DNA (C) ds DNA genome (D) RNA genome with RT (30 points)
+3. Structural interventions typically target: (A) Policies (B) The environment (C) Availability (D) All of the above (10 points)
+4. Lassa and Ebola are emergent viruses in W. Africa. What is their origin? (A) Humans (B) Primates (C) Fruit bats (D) Pigs (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+8,1,20-30-10-40,C,20,B,30,D,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In HIV-associated tuberculosis cases, treatment with antiretrovirals should begin: (A) Before antiretroviral drugs are started (B) After antiretroviral drugs are started (C) Concurrently with antiretroviral drugs (D) Doesn’t make any difference (20 points)
+2. How does the papilloma family of viruses cause cancer? (A) Replicate in dividing cells and encodes three oncogenic proteins E5, E6 and E7 (B) Integrates viral genome into cellular DNA (C) Has an oncogene able to initiate cancer (D) Acts as a co factor for a cellular oncogene (30 points)
+3. The basic code of ethical research (respect for persons, beneficence, and justice) was first established by the: (A) Nuremberg Code (B) Declaration of Helsinki (C) CIOMS (D) Belmont Report (10 points)
+4. How does rubella cause foetal abnormalities? (A) By crossing the placenta early in pregnancy and infecting the foetus (B) By only infecting the placenta (C) By inducing cytokines and chemokines in the mother (D) By raising the temperature of the mother and inducing an abnormal immune reaction to the foetus (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+9,1,40-10-30-20,B,40,D,10,C,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A case-control study is conducted to assess the association between alcohol consumption and lung cancer patients with lung cancer and 100 controls are asked about their past alcohol consumption. According to the study results, alcohol consumption is strongly associated with lung cancer (OR = 2.5). The researchers then divide the study subjects into two groups: smokers and non-smokers. Subsequent statistical analysis does not reveal any association between alcohol consumption and lung cancer within either group. The scenario described is an example of which of the following? (A) Observer bias (B) Confounding (C) Placebo effect (D) Nonresponse bias (40 points)
+2. Which of the following is the cause of delay in HIV testing among the Latino population? (A) Stigma attached to the disease (B) Machismo (C) Drug abuse (D) All of the above (10 points)
+3. What is a virus pandemic? (A) A sharp and rapid epidemic involving more than one country (B) An outbreak which recurs again and again (C) A rapid global outbreak starting from a single focus (D) A characteristic of common cold virus and HIV (30 points)
+4. The most widespread and important retrovirus is HIV-1; which of the following is true? (A) Infecting only gay people (B) Infecting only males (C) Infecting every country in the world (D) Infecting only females (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+10,1,40-20-10-30,A,40,D,20,D,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Papilloma viruses are characterised by what genetic feature? (A) A genome of ds circular DNA encoding around 8 ORF (B) A virus with RT able to integrate and cause cancer (C) A variable ds RNA virus (D) A large DNA containing virus (40 points)
+2. Results of surveillance should be distributed to: (A) Decision makers (B) The public (C) The data collectors (D) All of the above (20 points)
+3. A “benefit” of research may accrue: (A) To the participant (B) To his/her family (C) To society (D) All of the above (10 points)
+4. A good surveillance system should provide information about: (A) Who is being infected (B) Where the infected individuals are (C) How rapidly infection is spreading (D) All of the above (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+11,1,10-20-40-30,C,10,B,20,A,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the main clinical picture of hepatitis A? (A) Rash (B) Limb paralysis (C) Jaundice and abdominal discomfort (D) Upper respiratory tract infection (10 points)
+2. How are antibody producing cells stimulated? (A) Interacting with a virus short peptide (B) Interacting with a T helper cell. (C) Interacting with a plasma cell (D) Interacting with a virus infected cell (20 points)
+3. SARS is described as a zoonotic virus - what does this mean? (A) Such viruses are confined to animals (B) They do not cause disease in humans (C) They emerge from animals to cross the species barrier infrequently (D) They cause pandemics (40 points)
+4. Measles has been controlled in many countries by which of the following? (A) By hygiene (B) By MMR vaccine (C) By new molecular peptide vaccines (D) By humanised monoclonal antibodies to F protein (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+12,1,30-40-20-10,A,30,B,40,B,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Positive stranded RNA viruses have which of the following characteristics? (A) Their genome RNA can be translated directly as mRNA (B) They have to transcribe their genome RNA to a mirror image copy as a mRNA (C) This genome is circular (D) Their RNA genome is segmented (30 points)
+2. Officials at a large community hospital report an increased incidence of acute lymphocytic leukemia (ALL) among children aged 5 – 12. They point out that some households in the community are exposed to chemical waste from a nearby factory. They believe that chemical waste causes leukemia. If a study is designed to evaluate the hospital officials’ claim, which of the following subjects are most likely to comprise the control group? (A) Children exposed to the chemical waste who do not suffer from ALL (B) Children not exposed to the chemical waste who do not suffer from ALL (C) Children from the hospital’s outpatient clinic who do not suffer from ALL (D) Children not exposed to the chemical waste who suffer from ALL (40 points)
+3. The major risk group for HIV infection among Latinos is: (A) Heterosexual males (B) Homosexual males (C) Females (D) Injection drug users (20 points)
+4. Globally, the most deaths are caused by: (A) Respiratory infections (B) Diarrheal diseases (C) Malaria (D) Tuberculosis (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+13,1,20-10-30-40,B,20,B,10,A,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. An updated version of classification shows the parvovirus family as having how many genera? (A) Having 5 genera (B) A very large number of virus types (C) Only a single virus (D) Only three viruses (20 points)
+2. The rotavirus is an important cause of which of the following? (A) Respiratory infection in adults (B) Gastroenteritis in children (C) Diarrhoea and vomiting in adults (D) Cancer (10 points)
+3. Which is a major characteristic of the bunyavirus family? (A) Amplify by persistent infection of midgets, mosquitoes, sand flies, ticks (B) Predominantly mosquito borne (C) Genetic recombination or reassortment (D) Spread to humans via bites of mice and rats (30 points)
+4. Picornavirus replication as a positive strand RNA virus is particularly typified by which of the following? (A) Virions carry RNA transcriptase enzyme into the cell (B) The virion RNA is translated into a single large polyprotein (C) The virion RNA acting as mRNA (D) The virus exits by apoptosis of the cell (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+14,1,30-40-10-20,B,30,C,40,B,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is an unusual feature of the replication cycle in coronaviruses? (A) The RNAs all terminate in a common 3´ and produce nested set transcripts (B) They take advantage of recombination with the long RNA genome (C) They are not highly mutable (D) They use capped cellular mRNA's (30 points)
+2. The chance of acquiring HIV infection from factor VIII in the United States in 2011 is 0% primarily because: (A) All donors for factor VIII are screened (B) Factor VIII is subject to detergent “washing” prior to release (C) Factor VIII is made synthetically (D) Factor VIII is important from countries with no reported HIV (40 points)
+3. Most surveillance systems use which of the following study designs? (A) Cohort (B) Serial cross-sectional (C) Mortality (D) Syndromic (10 points)
+4. What is the most common way for a virus to kill a cell? (A) Dissolves the cellular membrane (B) Induces apoptosis via caspases (C) Fragments cellular DNA (D) Totally blocks cellular transcription (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+15,1,30-10-20-40,A,30,A,10,C,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The range of disease caused by the family is wide but identify the exception from the following: (A) Aplastic crisis in anaemia patients (B) Fifth disease at 'Slapped cheek' syndrome (C) Foetal infection with teratogenicity (D) Serious pneumonia (30 points)
+2. Clinical infection by an arenavirus is characterised by which one of the following? (A) Pantropic infection (B) Signs of malaria (C) Short (2-3 days) incubation (D) Hepatitis (10 points)
+3. Papillomaviruses cause warts and cancer but how do they most often infect humans? (A) Are water borne (B) Are airborne (C) Via scratches and breaks in the skin (D) Are nosocomial and spread in hospitals (20 points)
+4. What is the essential pathology of astroviruses? (A) Very restricted replication in the gut (B) Can cause infection of the central nervous system (C) Sequence diversity allows widespread replication (D) Can cause infection in the upper respiratory tract (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+16,1,10-30-20-40,A,10,A,30,D,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How many people globally are currently infected with hepatitis B? (A) 350 million (B) 2 billion (C) 100,000 (D) 1 million (10 points)
+2. Assembly is a vital late replication stage for a virus and is often accomplished by which of the following? (A) Use of cellular scaffolding in the nucleus and cytoplasm (B) Snatching cellular lipids and membranes (C) Master plan embedded in the viral genome (D) Random interactions between cellular and virus proteins (30 points)
+3. How is next generation sequencing (NGS) most often used? (A) To identify a newly discovered virus (B) To search for drug resistant mutants (C) To identify quasi species viruses (D) Cannot be used (20 points)
+4. A study is conducted to assess the relationship between race and end-stage renal disease pathologists independently study specimens from 1,000 kidney biopsies. The first group of pathologists is aware of the race of the patient from whom the biopsy came, while the second group is blinded as to the patient’s race. The first group reports ‘hypertensive nephropathy’ much more frequently for black patients than the second group. Which of the following types of bias is most likely present in this study? (A) Confounding (B) Nonresponse bias (C) Recall bias (D) Referral bias (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+17,1,30-20-40-10,C,30,A,20,B,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The group that permits analysis of the entire natural history of HIV/AIDS is: (A) Persistent seronegatives (B) Long-term survivors (C) Seroconverters (D) Long-term survivors with low levels of CD4+ cells (30 points)
+2. Polio can be eradicated by which of the following? (A) Attention to sewage control and hygiene (B) Killed polio vaccine (C) Live polio vaccine (D) Combination of the killed and live vaccines. (20 points)
+3. Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following? (A) Interferon and ribavirin (B) Lamivudine and ribavirin (C) Combinations of adefovir and entecavir and/or tenofovir (DAA) (D) Interferons alone (40 points)
+4. What has so far prevented polio being eradicated from the world? (A) Inability to vaccinate in some countries (B) Poor quality (unsafe) vaccines (C) Genetic variation (D) Expense (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+18,1,20-30-40-10,C,20,A,30,B,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The risk of perinatal transmission of HIV-1 infection during breast feeding is increased due to: (A) Mixed feeding (B) Very early introduction of solids (C) Both a and b (D) None of them (20 points)
+2. The highest risk of HIV infection among drug users in the U.S. is in: (A) The east coast (B) The central United States (Kansas, Missouri etc.) (C) Southern California (D) The Pacific Northwest (Washington, Oregon, Idaho) (30 points)
+3. The prevalence of HIV among Latino-Americans compared to other ethic groups in the U.S. is: (A) Highest (B) Higher than all other ethnic groups except African-Americans (C) Higher than in all other ethnic groups except African-Americans and (D) Native Americans (40 points)
+4. The surveillance testing strategy associated with the least selection bias is: (A) Compulsory (B) Unlinked anonymous (C) Voluntary anonymous (D) Voluntary confidential (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+19,1,40-30-20-10,A,40,B,30,D,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In a medical class of 147 students, the distribution of scores on a biochemistry final examination has a mean equal to 67, a median equal to 76, a mode equal to 80, a standard deviation equal to 5.5, and a variance equal to 30.25. Three students were unable to take the test on the scheduled date and were given a different form of the exam 1 week later. Which parameter is most likely to be the least biased estimator of central tendency for this distribution of biochemistry test scores? (A) Mean (B) Median (C) Mode (D) Standard deviation (40 points)
+2. Describe the YF vaccine. (A) Killed virus vaccine (B) Live attenuated virus vaccine developed by Pasteurian passage (C) Live attenuated vaccine produced by direct mutation of the virus genome (D) Experimental vaccine only (30 points)
+3. Determinants of acquiring an HIV infection from an infected person per sexual act include: (A) Viral RNA level (B) Presence of other infections (C) Condom use (D) All of the above (20 points)
+4. What is the usual direction of 'knowledge' in a cell? (A) From protein to DNA (B) From DNA to DNA (C) From DNA to RNA to protein (D) Random (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+20,2,20-30-40-10,B,20,A,30,A,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If the human norovirus cannot be cultured in cell cultures how can it best be studied? (A) Animal models (B) Volunteer studies (C) In cells using replicon systems (D) Deductions from the 3 human ORF's of the virus genome (20 points)
+2. The treatment of hepatitis C has been revolutionised most recently by which of the following? (A) The use of interferon (B) A new vaccine (C) Monoclonal antibodies (D) Direct-acting Antivirals such as daclatasvir and sofosbuvir (30 points)
+3. Why are members of the astrovirus family only recently recognised as significant enteric viruses for humans? (A) The genome has been identified by the new method of deep sequencing (B) A new vector has been discovered (C) They infect a wide range of domestic animals and so contaminate meat (D) Knowledge of their replication as positive sense ssRNA viruses is now complete (40 points)
+4. The three countries with the most drug injectors are: (A) Bolivia, Argentina, Thailand (B) China, the U.S. and Russia (C) Afghanistan, Iraq and Myanmar (D) Lithuania, Estonia and Latvia (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+21,2,10-40-30-20,C,10,A,40,A,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What does the reproductive number of a virus tell us? (A) How virulent the infection will be (B) How many people will die (C) How many contacts will be infected from one case (D) How long the 'incubation period' will be (10 points)
+2. Poliovirus can most easily become more virulent by which of the following processes? (A) Mutation of the RNA genome at only a few positions (B) Recombining with another enterovirus (C) Altering its protein coat (D) Multiple nucleotide deletions and substitutions (40 points)
+3. Many virus infections result in immune pathology, this is caused predominantly by which of the following? (A) A cytokine storm (B) Antibody mediated reactions (C) A response of killer T cells (CD-8) (D) A decline in function of the immune system (30 points)
+4. A quasi species virus such as influenza and HIV has which of the following characteristics? (A) A fragmented or segmented genome (B) Co-existence of innumerable genetic variants (C) Possesses RNA and DNA (D) A very large genome (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+22,2,40-20-10-30,B,40,D,20,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Why do emerging viruses like Zika and Ebola continue to plague us? (A) These viruses mutate and hence emerge (B) We disturb forests where they quietly exist as a zoonosis (C) Mosquitoes are the main culprit to encourage virus spread (D) The viruses can be halted by new vaccines (40 points)
+2. Which unique form does the rabies virus take? (A) The virion has a dumbbell appearance (B) It is shaped like a bullet from a gun (C) The virus is star shaped (D) The virion is very pleomorphic (20 points)
+3. What is the most important factor for virus classification? (A) The geometry of the virus (B) How many proteins the virus has (C) The disease a virus causes (D) Chemistry of the DNA and RNA (10 points)
+4. There are 57 serotypes of adenovirus currently recognised. Which has the most important clinical impact? (A) Diarrhoea (B) Eye infections (C) Respiratory tract infections (D) Haemorrhagic cystitis (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+23,2,30-40-20-10,C,30,D,40,C,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. David Baltimore is a molecular biologist. What did he discover? (A) The structure of DNA (B) X-ray crystallographic techniques (C) The enzyme reverse transcriptase (D) The anti HIV drug zidovudine (30 points)
+2. Which of the following is the most special characteristic of the adaptive immune system? (A) Antibodies (B) T cells (C) Memory T cells (D) Clonal expansion of pre-existing antibodies and/or T cells (40 points)
+3. What is the morphology of the Dane particle? (A) Double shelled icosahedron (B) Lipid membrane free icosahedron (C) Flexuous and filamentous morphology (D) Numerous small particles (20 points)
+4. What is the genome structure of the polyomavirus family? (A) Circular ds DNA with T antigen coding regions (B) Circular ssDNA (C) RNA genome with RT (D) Segmented RNA genome (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+24,2,10-20-40-30,C,10,A,20,B,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How can the spread of filoviruses be restricted? (A) New antivirals (B) New humanised monoclonal antibodies (C) Hygiene and social distancing (D) New vaccines (10 points)
+2. PreP is most effective for which group: (A) Men with frequent unprotected sex (B) Men with infrequent unprotected sex (C) Women with frequent unprotected sex (D) Women with infrequent unprotected sex (20 points)
+3. Newborn infants in countries with limited access to safe water and low levels of education should be: (A) Exclusively formula fed for six months (B) Exclusively breast fed for six months (C) Should receive both breast milk and other foods as tolerated in the first 6 (D) months (40 points)
+4. Randomization of study subjects in a clinical trial is most helpful for controlling for which of the following? (A) Placebo effect (B) Recall bias (C) Non-compliance (D) Effect modification (interaction) (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+25,2,30-20-40-10,A,30,D,20,C,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is urban yellow fever (YF)? (A) Part of a cycle of mosquitoes biting humans in cities (B) Part of a cycle of mosquitoes biting humans and monkeys in forested areas (C) A mutant of the YF virus (D) A YF species that has adapted to new mosquitoes (30 points)
+2. A city has a population of 250,000 cases and 400 deaths each year from this disease. There are 2,500 deaths per year from all causes. The prevalence of this disease is given by (A) 400/250,000 (B) 600/250,000 (C) 1,000/250,000 (D) 2,500/250,000 (20 points)
+3. The replication of hepatitis B includes which of the following stages? (A) Movement of intact virus to the cellular cytoplasm for replication (B) Conversion of relaxed circular viral DNA in to covalently closed circular (CCC) DNA in the nucleus (C) Virions produced in the cytoplasm by cellular DNA polymerase (D) Oncogenic activity to transform liver cells. (40 points)
+4. The first acquired immune cell to respond defensively to HIV infection is: (A) CD4+ (B) CD8+ (C) CD57 (D) NK cells (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+26,2,40-10-20-30,B,40,A,10,B,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. As regards the range of diseases caused by viruses: (A) Each member of the 'family' causes the same disease. (B) Members of many families can cause the same sort of disease. (C) Most virus disease are now controlled by vaccines. (D) Most viruses can cross placenta and be teratogenic. (40 points)
+2. How many human polyomaviruses are known at present? (A) 100 (B) 1 (C) 10 (D) unknown (10 points)
+3. The major risk group for HIV infection among Latinos is: (A) Heterosexual males (B) Homosexual males (C) Females (D) Injection drug users (20 points)
+4. The treatment of hepatitis C has been revolutionised most recently by which of the following? (A) The use of interferon (B) A new vaccine (C) Monoclonal antibodies (D) Direct-acting Antivirals such as daclatasvir and sofosbuvir (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+27,2,10-30-40-20,D,10,A,30,C,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The major issue for HIV infection among the Latino population is: (A) Late detection of HIV status (B) Cultural beliefs (C) Immigration (D) All of the above (10 points)
+2. Positive stranded RNA viruses have which of the following characteristics? (A) Their genome RNA can be translated directly as mRNA (B) They have to transcribe their genome RNA to a mirror image copy as a mRNA (C) This genome is circular (D) Their RNA genome is segmented (30 points)
+3. The replication of hepatitis B includes which of the following stages? (A) Movement of intact virus to the cellular cytoplasm for replication (B) Conversion of relaxed circular viral DNA in to covalently closed circular (CCC) DNA in the nucleus (C) Virions produced in the cytoplasm by cellular DNA polymerase (D) Oncogenic activity to transform liver cells. (40 points)
+4. The rotavirus is an important cause of which of the following? (A) Respiratory infection in adults (B) Gastroenteritis in children (C) Diarrhoea and vomiting in adults (D) Cancer (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+28,2,30-20-40-10,B,30,B,20,B,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The current testing policy of the Centers for Disease Control and the World Health Organization is: (A) “Opt-in” (B) “Opt-out” (C) Mandatory testing of prisoners (D) Mandatory testing of high-risk groups (30 points)
+2. Identify the most commonly used diagnostic technique in the virus laboratory: (A) Virus isolation in cell culture (B) Deep sequencing (NGS) (C) Reverse transcriptase (RT) PCR (D) Immuno-serology (20 points)
+3. A quasi species virus such as influenza and HIV has which of the following characteristics? (A) A fragmented or segmented genome (B) Co-existence of innumerable genetic variants (C) Possesses RNA and DNA (D) A very large genome (40 points)
+4. Determinants of acquiring an HIV infection from an infected person per sexual act include: (A) Viral RNA level (B) Presence of other infections (C) Condom use (D) All of the above (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+29,2,10-20-40-30,B,10,C,20,A,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If the human norovirus cannot be cultured in cell cultures how can it best be studied? (A) Animal models (B) Volunteer studies (C) In cells using replicon systems (D) Deductions from the 3 human ORF's of the virus genome (10 points)
+2. What is a virus pandemic? (A) A sharp and rapid epidemic involving more than one country (B) An outbreak which recurs again and again (C) A rapid global outbreak starting from a single focus (D) A characteristic of common cold virus and HIV (20 points)
+3. Why are members of the astrovirus family only recently recognised as significant enteric viruses for humans? (A) The genome has been identified by the new method of deep sequencing (B) A new vector has been discovered (C) They infect a wide range of domestic animals and so contaminate meat (D) Knowledge of their replication as positive sense ssRNA viruses is now complete (40 points)
+4. How does rubella cause foetal abnormalities? (A) By crossing the placenta early in pregnancy and infecting the foetus (B) By only infecting the placenta (C) By inducing cytokines and chemokines in the mother (D) By raising the temperature of the mother and inducing an abnormal immune reaction to the foetus (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+30,2,40-10-30-20,B,40,A,10,C,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What happens during the 'incubation period'? (A) The virus is cleared from the body by the immune system (B) Virus replication happens at an intracellular level (C) This period commonly lasts for a few days (D) This period commonly lasts for a few hours (40 points)
+2. Clinical infection by an arenavirus is characterised by which one of the following? (A) Pantropic infection (B) Signs of malaria (C) Short (2-3 days) incubation (D) Hepatitis (10 points)
+3. Why are drug combinations essential for HIV? (A) Single drugs are not completely inhibitory (B) Mutations negate the effect of one drug (C) Combinations of antibiotics are effective versus TB (D) The virus cannot mutate vs a combination (30 points)
+4. How can the morphology of filoviruses be described? (A) Very large ball like structure (B) Long filamentous threads (C) Icosahedral virion (D) Floppy membranes without defined morphology (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+31,2,40-20-10-30,C,40,A,20,B,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In HIV-associated tuberculosis cases, treatment with antiretrovirals should begin: (A) Before antiretroviral drugs are started (B) After antiretroviral drugs are started (C) Concurrently with antiretroviral drugs (D) Doesn’t make any difference (40 points)
+2. How are new polyomaviruses detailed (A) Shot gun sequencing (B) Cultivation in human neural cells (C) Deep pyro sequencing (NGS) (D) Monoclonal antibody techniques (20 points)
+3. Most surveillance systems use which of the following study designs? (A) Cohort (B) Serial cross-sectional (C) Mortality (D) Syndromic (10 points)
+4. The three countries with the most drug injectors are: (A) Bolivia, Argentina, Thailand (B) China, the U.S. and Russia (C) Afghanistan, Iraq and Myanmar (D) Lithuania, Estonia and Latvia (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+32,2,10-20-40-30,B,10,B,20,C,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The first acquired immune cell to respond defensively to HIV infection is: (A) CD4+ (B) CD8+ (C) CD57 (D) NK cells (10 points)
+2. What is the genetic structure of rotavirus? (A) Circular DNA containing virus (B) RNA virus with RT (C) ds RNA virus (D) ds RNA virus in segments (20 points)
+3. There were no new cases of Ebola virus in the United States from January 1, 1997 through January 1, 1998. Which of the following epidemiologic terms does this statement describe? (A) Incidence (B) Lifetime expectancy (C) Lifetime prevalence (D) Period prevalence (40 points)
+4. A city has a population of 250,000 cases and 400 deaths each year from this disease. There are 2,500 deaths per year from all causes. The prevalence of this disease is given by (A) 400/250,000 (B) 600/250,000 (C) 1,000/250,000 (D) 2,500/250,000 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+33,2,40-10-30-20,A,40,C,10,D,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is urban yellow fever (YF)? (A) Part of a cycle of mosquitoes biting humans in cities (B) Part of a cycle of mosquitoes biting humans and monkeys in forested areas (C) A mutant of the YF virus (D) A YF species that has adapted to new mosquitoes (40 points)
+2. The risk of perinatal transmission of HIV-1 infection during breast feeding is increased due to: (A) Mixed feeding (B) Very early introduction of solids (C) Both a and b (D) None of them (10 points)
+3. Which of the following is the most special characteristic of the adaptive immune system? (A) Antibodies (B) T cells (C) Memory T cells (D) Clonal expansion of pre-existing antibodies and/or T cells (30 points)
+4. Polio can be eradicated by which of the following? (A) Attention to sewage control and hygiene (B) Killed polio vaccine (C) Live polio vaccine (D) Combination of the killed and live vaccines. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+34,2,30-10-40-20,C,30,B,10,B,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The chance of acquiring HIV infection from factor VIII in the United States in 2011 is 0% primarily because: (A) All donors for factor VIII are screened (B) Factor VIII is subject to detergent “washing” prior to release (C) Factor VIII is made synthetically (D) Factor VIII is important from countries with no reported HIV (30 points)
+2. What is the most successful and most widely used 'travel' vaccine for international visitors? (A) Influenza (B) MMR (C) Yellow Fever (D) Rabies (10 points)
+3. A case-control study is conducted to assess the association between alcohol consumption and lung cancer patients with lung cancer and 100 controls are asked about their past alcohol consumption. According to the study results, alcohol consumption is strongly associated with lung cancer (OR = 2.5). The researchers then divide the study subjects into two groups: smokers and non-smokers. Subsequent statistical analysis does not reveal any association between alcohol consumption and lung cancer within either group. The scenario described is an example of which of the following? (A) Observer bias (B) Confounding (C) Placebo effect (D) Nonresponse bias (40 points)
+4. The successful anti-cancer HPV vaccine consists of: (A) Live virus attenuated by specific mutagenesis (B) Whole virus chemically inactivated vaccine (C) Self-assemble of virus L1 protein into VLP (D) Sub unit chemically inactivated vaccine (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+35,2,20-10-40-30,D,20,D,10,A,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Results of surveillance should be distributed to: (A) Decision makers (B) The public (C) The data collectors (D) All of the above (20 points)
+2. Structural interventions typically target: (A) Policies (B) The environment (C) Availability (D) All of the above (10 points)
+3. Randomization of study subjects in a clinical trial is most helpful for controlling for which of the following? (A) Placebo effect (B) Recall bias (C) Non-compliance (D) Effect modification (interaction) (40 points)
+4. An updated version of classification shows the parvovirus family as having how many genera? (A) Having 5 genera (B) A very large number of virus types (C) Only a single virus (D) Only three viruses (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+36,2,20-40-10-30,C,20,C,40,B,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. David Baltimore is a molecular biologist. What did he discover? (A) The structure of DNA (B) X-ray crystallographic techniques (C) The enzyme reverse transcriptase (D) The anti HIV drug zidovudine (20 points)
+2. The group that permits analysis of the entire natural history of HIV/AIDS is: (A) Persistent seronegatives (B) Long-term survivors (C) Seroconverters (D) Long-term survivors with low levels of CD4+ cells (40 points)
+3. Globally, the most deaths are caused by: (A) Respiratory infections (B) Diarrheal diseases (C) Malaria (D) Tuberculosis (10 points)
+4. How is next generation sequencing (NGS) most often used? (A) To identify a newly discovered virus (B) To search for drug resistant mutants (C) To identify quasi species viruses (D) Cannot be used (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+37,2,30-10-20-40,A,30,B,10,A,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The surveillance testing strategy associated with the least selection bias is: (A) Compulsory (B) Unlinked anonymous (C) Voluntary anonymous (D) Voluntary confidential (30 points)
+2. The largest Latino community in the U.S. is: (A) Puerto Rican (B) Mexican (C) Cuban (D) Brazilian (10 points)
+3. Disease can most often be prevented by which of the following: (A) Vaccines (B) Antivirals (C) Hygiene (D) mosquito nets (20 points)
+4. The most widespread and important retrovirus is HIV-1; which of the following is true? (A) Infecting only gay people (B) Infecting only males (C) Infecting every country in the world (D) Infecting only females (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+38,2,30-20-40-10,A,30,B,20,A,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Viruses have encouraged us to change our world, as we have now: (A) Eradicated smallpox (B) Eradicated polio (C) Increased hygiene (D) A better understanding of how cellular genes aid virus replication and so become a target for new drugs (30 points)
+2. Why do vigorous CD8 cell responses in chronically infected HIV-positive individuals fail to eliminate the virus? (A) CTL exhaustion (B) Epitope escape (C) Suboptimal CTL (D) Absence of dendritic cells (20 points)
+3. Genetic characteristics of the bunyavirus family include which one of the following? (A) Three segmented negative stranded RNA viruses with anti-sense expression (B) Highly mutable RNA viruses (C) Emerging viruses via arthropod vector (D) Use an RT enzyme (40 points)
+4. What is the main clinical picture of hepatitis A? (A) Rash (B) Limb paralysis (C) Jaundice and abdominal discomfort (D) Upper respiratory tract infection (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+39,3,40-30-20-10,C,40,C,30,B,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Picornavirus replication as a positive strand RNA virus is particularly typified by which of the following? (A) Virions carry RNA transcriptase enzyme into the cell (B) The virion RNA is translated into a single large polyprotein (C) The virion RNA acting as mRNA (D) The virus exits by apoptosis of the cell (40 points)
+2. What does the reproductive number of a virus tell us? (A) How virulent the infection will be (B) How many people will die (C) How many contacts will be infected from one case (D) How long the 'incubation period' will be (30 points)
+3. How are antibody producing cells stimulated? (A) Interacting with a virus short peptide (B) Interacting with a T helper cell. (C) Interacting with a plasma cell (D) Interacting with a virus infected cell (20 points)
+4. Which virus infection was not first identified by clinical observation? (A) HIV (B) Rubella teratogenicity (C) Microcephaly and Zika (D) Hepatitis C (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+40,3,30-40-20-10,D,30,B,40,C,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A good surveillance system should provide information about: (A) Who is being infected (B) Where the infected individuals are (C) How rapidly infection is spreading (D) All of the above (30 points)
+2. How does the papilloma family of viruses cause cancer? (A) Replicate in dividing cells and encodes three oncogenic proteins E5, E6 and E7 (B) Integrates viral genome into cellular DNA (C) Has an oncogene able to initiate cancer (D) Acts as a co factor for a cellular oncogene (40 points)
+3. How can the spread of filoviruses be restricted? (A) New antivirals (B) New humanised monoclonal antibodies (C) Hygiene and social distancing (D) New vaccines (20 points)
+4. How many people globally are currently infected with hepatitis B? (A) 350 million (B) 2 billion (C) 100,000 (D) 1 million (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+41,3,40-20-30-10,C,40,C,20,D,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Papillomaviruses cause warts and cancer but how do they most often infect humans? (A) Are water borne (B) Are airborne (C) Via scratches and breaks in the skin (D) Are nosocomial and spread in hospitals (40 points)
+2. Which of the following HPV viruses are known to cause cervical cancer? (A) Viruses of all 5 clades (B) Types 14, 16, 18, 31, 45 (C) None are oncogenic per se (D) Types 1-180 (20 points)
+3. What is the most important factor for virus classification? (A) The geometry of the virus (B) How many proteins the virus has (C) The disease a virus causes (D) Chemistry of the DNA and RNA (30 points)
+4. What is the usual direction of 'knowledge' in a cell? (A) From protein to DNA (B) From DNA to DNA (C) From DNA to RNA to protein (D) Random (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+42,3,20-10-30-40,D,20,D,10,A,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The parvoviruses have a rather unique genome; what form does it take? (A) Circular ds DNA (B) Small linear ss DNA (C) ds DNA genome (D) RNA genome with RT (20 points)
+2. A “benefit” of research may accrue: (A) To the participant (B) To his/her family (C) To society (D) All of the above (10 points)
+3. Poliovirus can most easily become more virulent by which of the following processes? (A) Mutation of the RNA genome at only a few positions (B) Recombining with another enterovirus (C) Altering its protein coat (D) Multiple nucleotide deletions and substitutions (30 points)
+4. Assembly is a vital late replication stage for a virus and is often accomplished by which of the following? (A) Use of cellular scaffolding in the nucleus and cytoplasm (B) Snatching cellular lipids and membranes (C) Master plan embedded in the viral genome (D) Random interactions between cellular and virus proteins (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+43,3,20-10-30-40,D,20,C,10,A,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The basic code of ethical research (respect for persons, beneficence, and justice) was first established by the: (A) Nuremberg Code (B) Declaration of Helsinki (C) CIOMS (D) Belmont Report (20 points)
+2. What is the genome structure of the polyomavirus family? (A) Circular ds DNA with T antigen coding regions (B) Circular ssDNA (C) RNA genome with RT (D) Segmented RNA genome (10 points)
+3. Which is a major characteristic of the bunyavirus family? (A) Amplify by persistent infection of midgets, mosquitoes, sand flies, ticks (B) Predominantly mosquito borne (C) Genetic recombination or reassortment (D) Spread to humans via bites of mice and rats (30 points)
+4. Newborn infants in countries with limited access to safe water and low levels of education should be: (A) Exclusively formula fed for six months (B) Exclusively breast fed for six months (C) Should receive both breast milk and other foods as tolerated in the first 6 (D) months (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+44,3,20-10-30-40,C,20,D,10,A,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. MERS has four special characteristics and here we have one exception - which is it? (A) Spread by faecal oral route (B) Aerosol droplet transmission (C) Reservoir in bats (D) A conduit to humans via camels (20 points)
+2. Which unique form does the rabies virus take? (A) The virion has a dumbbell appearance (B) It is shaped like a bullet from a gun (C) The virus is star shaped (D) The virion is very pleomorphic (10 points)
+3. The range of disease caused by the family is wide but identify the exception from the following: (A) Aplastic crisis in anaemia patients (B) Fifth disease at 'Slapped cheek' syndrome (C) Foetal infection with teratogenicity (D) Serious pneumonia (30 points)
+4. A new drug with in vitro activity against HIV is tested on a population of patients with Western-blot confirmed HIV infections. Out of the 200 individuals in the patient population, 100 are chosen by lottery to receive the drug. The drug, which is tasteless, is administered in a cup of orange juice; the other patients receive pure orange juice. Neither the nurses, doctors, nor the patients know which patients receive the drug. At the end of the study period, the number of CD4+ T cells is determined for all of the subjects. This is an example of a (A) Case-control study (B) Case report (C) Cohort study (D) Cross-sectional study (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+45,3,10-40-30-20,B,10,B,40,B,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Lassa and Ebola are emergent viruses in W. Africa. What is their origin? (A) Humans (B) Primates (C) Fruit bats (D) Pigs (10 points)
+2. The prevalence of HIV among Latino-Americans compared to other ethic groups in the U.S. is: (A) Highest (B) Higher than all other ethnic groups except African-Americans (C) Higher than in all other ethnic groups except African-Americans and (D) Native Americans (40 points)
+3. Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following? (A) Interferon and ribavirin (B) Lamivudine and ribavirin (C) Combinations of adefovir and entecavir and/or tenofovir (DAA) (D) Interferons alone (30 points)
+4. SARS is described as a zoonotic virus - what does this mean? (A) Such viruses are confined to animals (B) They do not cause disease in humans (C) They emerge from animals to cross the species barrier infrequently (D) They cause pandemics (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+46,3,40-30-20-10,B,40,B,30,D,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Why do emerging viruses like Zika and Ebola continue to plague us? (A) These viruses mutate and hence emerge (B) We disturb forests where they quietly exist as a zoonosis (C) Mosquitoes are the main culprit to encourage virus spread (D) The viruses can be halted by new vaccines (40 points)
+2. What is the most common way for a virus to kill a cell? (A) Dissolves the cellular membrane (B) Induces apoptosis via caspases (C) Fragments cellular DNA (D) Totally blocks cellular transcription (30 points)
+3. Which of the following is the cause of delay in HIV testing among the Latino population? (A) Stigma attached to the disease (B) Machismo (C) Drug abuse (D) All of the above (20 points)
+4. Which is the exception in the following range of disease symptoms caused by bunyaviruses? (A) Pneumonias (B) Haemorrhagic fever (C) Hepatitis (D) Impaired renal function (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+47,3,20-10-30-40,A,20,C,10,A,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The highest risk of HIV infection among drug users in the U.S. is in: (A) The east coast (B) The central United States (Kansas, Missouri etc.) (C) Southern California (D) The Pacific Northwest (Washington, Oregon, Idaho) (20 points)
+2. What is the morphology of the Dane particle? (A) Double shelled icosahedron (B) Lipid membrane free icosahedron (C) Flexuous and filamentous morphology (D) Numerous small particles (10 points)
+3. Papilloma viruses are characterised by what genetic feature? (A) A genome of ds circular DNA encoding around 8 ORF (B) A virus with RT able to integrate and cause cancer (C) A variable ds RNA virus (D) A large DNA containing virus (30 points)
+4. Officials at a large community hospital report an increased incidence of acute lymphocytic leukemia (ALL) among children aged 5 – 12. They point out that some households in the community are exposed to chemical waste from a nearby factory. They believe that chemical waste causes leukemia. If a study is designed to evaluate the hospital officials’ claim, which of the following subjects are most likely to comprise the control group? (A) Children exposed to the chemical waste who do not suffer from ALL (B) Children not exposed to the chemical waste who do not suffer from ALL (C) Children from the hospital’s outpatient clinic who do not suffer from ALL (D) Children not exposed to the chemical waste who suffer from ALL (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+48,3,20-40-10-30,B,20,A,40,A,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Describe the YF vaccine. (A) Killed virus vaccine (B) Live attenuated virus vaccine developed by Pasteurian passage (C) Live attenuated vaccine produced by direct mutation of the virus genome (D) Experimental vaccine only (20 points)
+2. In a medical class of 147 students, the distribution of scores on a biochemistry final examination has a mean equal to 67, a median equal to 76, a mode equal to 80, a standard deviation equal to 5.5, and a variance equal to 30.25. Three students were unable to take the test on the scheduled date and were given a different form of the exam 1 week later. Which parameter is most likely to be the least biased estimator of central tendency for this distribution of biochemistry test scores? (A) Mean (B) Median (C) Mode (D) Standard deviation (40 points)
+3. What has so far prevented polio being eradicated from the world? (A) Inability to vaccinate in some countries (B) Poor quality (unsafe) vaccines (C) Genetic variation (D) Expense (10 points)
+4. Describe the morphology of a togavirus. (A) Enveloped spherical particles with an icosahedral structure (B) Non-enveloped with an icosahedral structure (C) Filamentous virus with protruding glycoproteins (D) Small round viruses (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+49,3,10-30-20-40,C,10,B,30,A,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. There are 57 serotypes of adenovirus currently recognised. Which has the most important clinical impact? (A) Diarrhoea (B) Eye infections (C) Respiratory tract infections (D) Haemorrhagic cystitis (10 points)
+2. Which of the following is an unusual feature of the replication cycle in coronaviruses? (A) The RNAs all terminate in a common 3´ and produce nested set transcripts (B) They take advantage of recombination with the long RNA genome (C) They are not highly mutable (D) They use capped cellular mRNA's (30 points)
+3. Many virus infections result in immune pathology, this is caused predominantly by which of the following? (A) A cytokine storm (B) Antibody mediated reactions (C) A response of killer T cells (CD-8) (D) A decline in function of the immune system (20 points)
+4. A study is conducted to assess the relationship between race and end-stage renal disease pathologists independently study specimens from 1,000 kidney biopsies. The first group of pathologists is aware of the race of the patient from whom the biopsy came, while the second group is blinded as to the patient’s race. The first group reports ‘hypertensive nephropathy’ much more frequently for black patients than the second group. Which of the following types of bias is most likely present in this study? (A) Confounding (B) Nonresponse bias (C) Recall bias (D) Referral bias (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+50,3,10-40-20-30,A,10,A,40,B,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. PreP is most effective for which group: (A) Men with frequent unprotected sex (B) Men with infrequent unprotected sex (C) Women with frequent unprotected sex (D) Women with infrequent unprotected sex (10 points)
+2. What is the essential pathology of astroviruses? (A) Very restricted replication in the gut (B) Can cause infection of the central nervous system (C) Sequence diversity allows widespread replication (D) Can cause infection in the upper respiratory tract (40 points)
+3. Measles has been controlled in many countries by which of the following? (A) By hygiene (B) By MMR vaccine (C) By new molecular peptide vaccines (D) By humanised monoclonal antibodies to F protein (20 points)
+4. AIDS activism in the U.S. resulted in: (A) Food and Drug Administration reforms (B) Easier access to investigational drugs (C) Changes in the way medicine was practiced in the U.S. (D) All of the above (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+51,3,10-40-30-20,D,10,A,40,C,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How is next generation sequencing (NGS) most often used? (A) To identify a newly discovered virus (B) To search for drug resistant mutants (C) To identify quasi species viruses (D) Cannot be used (10 points)
+2. The range of disease caused by the family is wide but identify the exception from the following: (A) Aplastic crisis in anaemia patients (B) Fifth disease at 'Slapped cheek' syndrome (C) Foetal infection with teratogenicity (D) Serious pneumonia (40 points)
+3. In HIV-associated tuberculosis cases, treatment with antiretrovirals should begin: (A) Before antiretroviral drugs are started (B) After antiretroviral drugs are started (C) Concurrently with antiretroviral drugs (D) Doesn’t make any difference (30 points)
+4. An updated version of classification shows the parvovirus family as having how many genera? (A) Having 5 genera (B) A very large number of virus types (C) Only a single virus (D) Only three viruses (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+52,3,30-20-10-40,D,30,B,20,B,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the most important factor for virus classification? (A) The geometry of the virus (B) How many proteins the virus has (C) The disease a virus causes (D) Chemistry of the DNA and RNA (30 points)
+2. The major risk group for HIV infection among Latinos is: (A) Heterosexual males (B) Homosexual males (C) Females (D) Injection drug users (20 points)
+3. The first acquired immune cell to respond defensively to HIV infection is: (A) CD4+ (B) CD8+ (C) CD57 (D) NK cells (10 points)
+4. Measles has been controlled in many countries by which of the following? (A) By hygiene (B) By MMR vaccine (C) By new molecular peptide vaccines (D) By humanised monoclonal antibodies to F protein (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+53,3,10-40-30-20,C,10,D,40,D,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How can the spread of filoviruses be restricted? (A) New antivirals (B) New humanised monoclonal antibodies (C) Hygiene and social distancing (D) New vaccines (10 points)
+2. A city has a population of 250,000 cases and 400 deaths each year from this disease. There are 2,500 deaths per year from all causes. The prevalence of this disease is given by (A) 400/250,000 (B) 600/250,000 (C) 1,000/250,000 (D) 2,500/250,000 (40 points)
+3. Which of the following is the most special characteristic of the adaptive immune system? (A) Antibodies (B) T cells (C) Memory T cells (D) Clonal expansion of pre-existing antibodies and/or T cells (30 points)
+4. What is the most common way for a virus to kill a cell? (A) Dissolves the cellular membrane (B) Induces apoptosis via caspases (C) Fragments cellular DNA (D) Totally blocks cellular transcription (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+54,3,40-10-30-20,A,40,D,10,B,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the essential pathology of astroviruses? (A) Very restricted replication in the gut (B) Can cause infection of the central nervous system (C) Sequence diversity allows widespread replication (D) Can cause infection in the upper respiratory tract (40 points)
+2. Which virus infection was not first identified by clinical observation? (A) HIV (B) Rubella teratogenicity (C) Microcephaly and Zika (D) Hepatitis C (10 points)
+3. Describe the YF vaccine. (A) Killed virus vaccine (B) Live attenuated virus vaccine developed by Pasteurian passage (C) Live attenuated vaccine produced by direct mutation of the virus genome (D) Experimental vaccine only (30 points)
+4. What is the genome structure of the polyomavirus family? (A) Circular ds DNA with T antigen coding regions (B) Circular ssDNA (C) RNA genome with RT (D) Segmented RNA genome (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+55,3,40-20-30-10,A,40,B,20,C,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Why are members of the astrovirus family only recently recognised as significant enteric viruses for humans? (A) The genome has been identified by the new method of deep sequencing (B) A new vector has been discovered (C) They infect a wide range of domestic animals and so contaminate meat (D) Knowledge of their replication as positive sense ssRNA viruses is now complete (40 points)
+2. Why do vigorous CD8 cell responses in chronically infected HIV-positive individuals fail to eliminate the virus? (A) CTL exhaustion (B) Epitope escape (C) Suboptimal CTL (D) Absence of dendritic cells (20 points)
+3. MERS has four special characteristics and here we have one exception - which is it? (A) Spread by faecal oral route (B) Aerosol droplet transmission (C) Reservoir in bats (D) A conduit to humans via camels (30 points)
+4. The basic code of ethical research (respect for persons, beneficence, and justice) was first established by the: (A) Nuremberg Code (B) Declaration of Helsinki (C) CIOMS (D) Belmont Report (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+56,3,30-20-10-40,C,30,C,20,C,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Why are drug combinations essential for HIV? (A) Single drugs are not completely inhibitory (B) Mutations negate the effect of one drug (C) Combinations of antibiotics are effective versus TB (D) The virus cannot mutate vs a combination (30 points)
+2. What does the reproductive number of a virus tell us? (A) How virulent the infection will be (B) How many people will die (C) How many contacts will be infected from one case (D) How long the 'incubation period' will be (20 points)
+3. What is the main clinical picture of hepatitis A? (A) Rash (B) Limb paralysis (C) Jaundice and abdominal discomfort (D) Upper respiratory tract infection (10 points)
+4. The successful anti-cancer HPV vaccine consists of: (A) Live virus attenuated by specific mutagenesis (B) Whole virus chemically inactivated vaccine (C) Self-assemble of virus L1 protein into VLP (D) Sub unit chemically inactivated vaccine (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+57,3,10-40-20-30,A,10,A,40,A,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The most widespread and important retrovirus is HIV-1; which of the following is true? (A) Infecting only gay people (B) Infecting only males (C) Infecting every country in the world (D) Infecting only females (10 points)
+2. A new drug with in vitro activity against HIV is tested on a population of patients with Western-blot confirmed HIV infections. Out of the 200 individuals in the patient population, 100 are chosen by lottery to receive the drug. The drug, which is tasteless, is administered in a cup of orange juice; the other patients receive pure orange juice. Neither the nurses, doctors, nor the patients know which patients receive the drug. At the end of the study period, the number of CD4+ T cells is determined for all of the subjects. This is an example of a (A) Case-control study (B) Case report (C) Cohort study (D) Cross-sectional study (40 points)
+3. Which is a major characteristic of the bunyavirus family? (A) Amplify by persistent infection of midgets, mosquitoes, sand flies, ticks (B) Predominantly mosquito borne (C) Genetic recombination or reassortment (D) Spread to humans via bites of mice and rats (20 points)
+4. Newborn infants in countries with limited access to safe water and low levels of education should be: (A) Exclusively formula fed for six months (B) Exclusively breast fed for six months (C) Should receive both breast milk and other foods as tolerated in the first 6 (D) months (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+58,4,10-20-30-40,C,10,D,20,B,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the usual direction of 'knowledge' in a cell? (A) From protein to DNA (B) From DNA to DNA (C) From DNA to RNA to protein (D) Random (10 points)
+2. Determinants of acquiring an HIV infection from an infected person per sexual act include: (A) Viral RNA level (B) Presence of other infections (C) Condom use (D) All of the above (20 points)
+3. The current testing policy of the Centers for Disease Control and the World Health Organization is: (A) “Opt-in” (B) “Opt-out” (C) Mandatory testing of prisoners (D) Mandatory testing of high-risk groups (30 points)
+4. The prevalence of HIV among Latino-Americans compared to other ethic groups in the U.S. is: (A) Highest (B) Higher than all other ethnic groups except African-Americans (C) Higher than in all other ethnic groups except African-Americans and (D) Native Americans (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+59,4,10-30-20-40,C,10,B,30,A,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Papillomaviruses cause warts and cancer but how do they most often infect humans? (A) Are water borne (B) Are airborne (C) Via scratches and breaks in the skin (D) Are nosocomial and spread in hospitals (10 points)
+2. As regards the range of diseases caused by viruses: (A) Each member of the 'family' causes the same disease. (B) Members of many families can cause the same sort of disease. (C) Most virus disease are now controlled by vaccines. (D) Most viruses can cross placenta and be teratogenic. (30 points)
+3. Poliovirus can most easily become more virulent by which of the following processes? (A) Mutation of the RNA genome at only a few positions (B) Recombining with another enterovirus (C) Altering its protein coat (D) Multiple nucleotide deletions and substitutions (20 points)
+4. In a medical class of 147 students, the distribution of scores on a biochemistry final examination has a mean equal to 67, a median equal to 76, a mode equal to 80, a standard deviation equal to 5.5, and a variance equal to 30.25. Three students were unable to take the test on the scheduled date and were given a different form of the exam 1 week later. Which parameter is most likely to be the least biased estimator of central tendency for this distribution of biochemistry test scores? (A) Mean (B) Median (C) Mode (D) Standard deviation (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+60,4,30-40-10-20,D,30,B,40,B,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which unique form does the rabies virus take? (A) The virion has a dumbbell appearance (B) It is shaped like a bullet from a gun (C) The virus is star shaped (D) The virion is very pleomorphic (30 points)
+2. How are antibody producing cells stimulated? (A) Interacting with a virus short peptide (B) Interacting with a T helper cell. (C) Interacting with a plasma cell (D) Interacting with a virus infected cell (40 points)
+3. Most surveillance systems use which of the following study designs? (A) Cohort (B) Serial cross-sectional (C) Mortality (D) Syndromic (10 points)
+4. Clinical infection by an arenavirus is characterised by which one of the following? (A) Pantropic infection (B) Signs of malaria (C) Short (2-3 days) incubation (D) Hepatitis (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+61,4,30-10-20-40,B,30,D,10,C,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How does the papilloma family of viruses cause cancer? (A) Replicate in dividing cells and encodes three oncogenic proteins E5, E6 and E7 (B) Integrates viral genome into cellular DNA (C) Has an oncogene able to initiate cancer (D) Acts as a co factor for a cellular oncogene (30 points)
+2. The major issue for HIV infection among the Latino population is: (A) Late detection of HIV status (B) Cultural beliefs (C) Immigration (D) All of the above (10 points)
+3. What is a virus pandemic? (A) A sharp and rapid epidemic involving more than one country (B) An outbreak which recurs again and again (C) A rapid global outbreak starting from a single focus (D) A characteristic of common cold virus and HIV (20 points)
+4. Picornavirus replication as a positive strand RNA virus is particularly typified by which of the following? (A) Virions carry RNA transcriptase enzyme into the cell (B) The virion RNA is translated into a single large polyprotein (C) The virion RNA acting as mRNA (D) The virus exits by apoptosis of the cell (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+62,4,40-10-30-20,A,40,D,10,C,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A study is conducted to assess the relationship between race and end-stage renal disease pathologists independently study specimens from 1,000 kidney biopsies. The first group of pathologists is aware of the race of the patient from whom the biopsy came, while the second group is blinded as to the patient’s race. The first group reports ‘hypertensive nephropathy’ much more frequently for black patients than the second group. Which of the following types of bias is most likely present in this study? (A) Confounding (B) Nonresponse bias (C) Recall bias (D) Referral bias (40 points)
+2. Structural interventions typically target: (A) Policies (B) The environment (C) Availability (D) All of the above (10 points)
+3. The replication of hepatitis B includes which of the following stages? (A) Movement of intact virus to the cellular cytoplasm for replication (B) Conversion of relaxed circular viral DNA in to covalently closed circular (CCC) DNA in the nucleus (C) Virions produced in the cytoplasm by cellular DNA polymerase (D) Oncogenic activity to transform liver cells. (30 points)
+4. Describe the morphology of a togavirus. (A) Enveloped spherical particles with an icosahedral structure (B) Non-enveloped with an icosahedral structure (C) Filamentous virus with protruding glycoproteins (D) Small round viruses (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+63,4,10-40-20-30,B,10,A,40,A,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the most successful and most widely used 'travel' vaccine for international visitors? (A) Influenza (B) MMR (C) Yellow Fever (D) Rabies (10 points)
+2. Viruses have encouraged us to change our world, as we have now: (A) Eradicated smallpox (B) Eradicated polio (C) Increased hygiene (D) A better understanding of how cellular genes aid virus replication and so become a target for new drugs (40 points)
+3. What has so far prevented polio being eradicated from the world? (A) Inability to vaccinate in some countries (B) Poor quality (unsafe) vaccines (C) Genetic variation (D) Expense (20 points)
+4. Many virus infections result in immune pathology, this is caused predominantly by which of the following? (A) A cytokine storm (B) Antibody mediated reactions (C) A response of killer T cells (CD-8) (D) A decline in function of the immune system (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+64,4,20-10-30-40,B,20,B,10,B,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The rotavirus is an important cause of which of the following? (A) Respiratory infection in adults (B) Gastroenteritis in children (C) Diarrhoea and vomiting in adults (D) Cancer (20 points)
+2. The largest Latino community in the U.S. is: (A) Puerto Rican (B) Mexican (C) Cuban (D) Brazilian (10 points)
+3. Identify the most commonly used diagnostic technique in the virus laboratory: (A) Virus isolation in cell culture (B) Deep sequencing (NGS) (C) Reverse transcriptase (RT) PCR (D) Immuno-serology (30 points)
+4. The group that permits analysis of the entire natural history of HIV/AIDS is: (A) Persistent seronegatives (B) Long-term survivors (C) Seroconverters (D) Long-term survivors with low levels of CD4+ cells (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+65,4,10-40-20-30,A,10,A,40,D,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Disease can most often be prevented by which of the following: (A) Vaccines (B) Antivirals (C) Hygiene (D) mosquito nets (10 points)
+2. Assembly is a vital late replication stage for a virus and is often accomplished by which of the following? (A) Use of cellular scaffolding in the nucleus and cytoplasm (B) Snatching cellular lipids and membranes (C) Master plan embedded in the viral genome (D) Random interactions between cellular and virus proteins (40 points)
+3. The parvoviruses have a rather unique genome; what form does it take? (A) Circular ds DNA (B) Small linear ss DNA (C) ds DNA genome (D) RNA genome with RT (20 points)
+4. Randomization of study subjects in a clinical trial is most helpful for controlling for which of the following? (A) Placebo effect (B) Recall bias (C) Non-compliance (D) Effect modification (interaction) (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+66,4,20-40-10-30,C,20,B,40,A,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The chance of acquiring HIV infection from factor VIII in the United States in 2011 is 0% primarily because: (A) All donors for factor VIII are screened (B) Factor VIII is subject to detergent “washing” prior to release (C) Factor VIII is made synthetically (D) Factor VIII is important from countries with no reported HIV (20 points)
+2. Officials at a large community hospital report an increased incidence of acute lymphocytic leukemia (ALL) among children aged 5 – 12. They point out that some households in the community are exposed to chemical waste from a nearby factory. They believe that chemical waste causes leukemia. If a study is designed to evaluate the hospital officials’ claim, which of the following subjects are most likely to comprise the control group? (A) Children exposed to the chemical waste who do not suffer from ALL (B) Children not exposed to the chemical waste who do not suffer from ALL (C) Children from the hospital’s outpatient clinic who do not suffer from ALL (D) Children not exposed to the chemical waste who suffer from ALL (40 points)
+3. What is urban yellow fever (YF)? (A) Part of a cycle of mosquitoes biting humans in cities (B) Part of a cycle of mosquitoes biting humans and monkeys in forested areas (C) A mutant of the YF virus (D) A YF species that has adapted to new mosquitoes (10 points)
+4. A case-control study is conducted to assess the association between alcohol consumption and lung cancer patients with lung cancer and 100 controls are asked about their past alcohol consumption. According to the study results, alcohol consumption is strongly associated with lung cancer (OR = 2.5). The researchers then divide the study subjects into two groups: smokers and non-smokers. Subsequent statistical analysis does not reveal any association between alcohol consumption and lung cancer within either group. The scenario described is an example of which of the following? (A) Observer bias (B) Confounding (C) Placebo effect (D) Nonresponse bias (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+67,4,10-20-40-30,B,10,A,20,A,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the genetic structure of rotavirus? (A) Circular DNA containing virus (B) RNA virus with RT (C) ds RNA virus (D) ds RNA virus in segments (10 points)
+2. The surveillance testing strategy associated with the least selection bias is: (A) Compulsory (B) Unlinked anonymous (C) Voluntary anonymous (D) Voluntary confidential (20 points)
+3. Genetic characteristics of the bunyavirus family include which one of the following? (A) Three segmented negative stranded RNA viruses with anti-sense expression (B) Highly mutable RNA viruses (C) Emerging viruses via arthropod vector (D) Use an RT enzyme (40 points)
+4. David Baltimore is a molecular biologist. What did he discover? (A) The structure of DNA (B) X-ray crystallographic techniques (C) The enzyme reverse transcriptase (D) The anti HIV drug zidovudine (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+68,4,40-20-10-30,A,40,B,20,A,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. SARS is described as a zoonotic virus - what does this mean? (A) Such viruses are confined to animals (B) They do not cause disease in humans (C) They emerge from animals to cross the species barrier infrequently (D) They cause pandemics (40 points)
+2. If the human norovirus cannot be cultured in cell cultures how can it best be studied? (A) Animal models (B) Volunteer studies (C) In cells using replicon systems (D) Deductions from the 3 human ORF's of the virus genome (20 points)
+3. How many people globally are currently infected with hepatitis B? (A) 350 million (B) 2 billion (C) 100,000 (D) 1 million (10 points)
+4. The highest risk of HIV infection among drug users in the U.S. is in: (A) The east coast (B) The central United States (Kansas, Missouri etc.) (C) Southern California (D) The Pacific Northwest (Washington, Oregon, Idaho) (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+69,4,40-30-20-10,B,40,B,30,C,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is an unusual feature of the replication cycle in coronaviruses? (A) The RNAs all terminate in a common 3´ and produce nested set transcripts (B) They take advantage of recombination with the long RNA genome (C) They are not highly mutable (D) They use capped cellular mRNA's (40 points)
+2. What happens during the 'incubation period'? (A) The virus is cleared from the body by the immune system (B) Virus replication happens at an intracellular level (C) This period commonly lasts for a few days (D) This period commonly lasts for a few hours (30 points)
+3. Which of the following HPV viruses are known to cause cervical cancer? (A) Viruses of all 5 clades (B) Types 14, 16, 18, 31, 45 (C) None are oncogenic per se (D) Types 1-180 (20 points)
+4. A “benefit” of research may accrue: (A) To the participant (B) To his/her family (C) To society (D) All of the above (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+70,4,20-10-40-30,B,20,A,10,D,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Globally, the most deaths are caused by: (A) Respiratory infections (B) Diarrheal diseases (C) Malaria (D) Tuberculosis (20 points)
+2. How many human polyomaviruses are known at present? (A) 100 (B) 1 (C) 10 (D) unknown (10 points)
+3. A good surveillance system should provide information about: (A) Who is being infected (B) Where the infected individuals are (C) How rapidly infection is spreading (D) All of the above (40 points)
+4. Which of the following is the cause of delay in HIV testing among the Latino population? (A) Stigma attached to the disease (B) Machismo (C) Drug abuse (D) All of the above (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+71,4,30-10-40-20,A,30,A,10,C,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Polio can be eradicated by which of the following? (A) Attention to sewage control and hygiene (B) Killed polio vaccine (C) Live polio vaccine (D) Combination of the killed and live vaccines. (30 points)
+2. How are new polyomaviruses detailed (A) Shot gun sequencing (B) Cultivation in human neural cells (C) Deep pyro sequencing (NGS) (D) Monoclonal antibody techniques (10 points)
+3. There were no new cases of Ebola virus in the United States from January 1, 1997 through January 1, 1998. Which of the following epidemiologic terms does this statement describe? (A) Incidence (B) Lifetime expectancy (C) Lifetime prevalence (D) Period prevalence (40 points)
+4. How can the morphology of filoviruses be described? (A) Very large ball like structure (B) Long filamentous threads (C) Icosahedral virion (D) Floppy membranes without defined morphology (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+72,4,10-20-30-40,D,10,B,20,B,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which is the exception in the following range of disease symptoms caused by bunyaviruses? (A) Pneumonias (B) Haemorrhagic fever (C) Hepatitis (D) Impaired renal function (10 points)
+2. Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following? (A) Interferon and ribavirin (B) Lamivudine and ribavirin (C) Combinations of adefovir and entecavir and/or tenofovir (DAA) (D) Interferons alone (20 points)
+3. Why do emerging viruses like Zika and Ebola continue to plague us? (A) These viruses mutate and hence emerge (B) We disturb forests where they quietly exist as a zoonosis (C) Mosquitoes are the main culprit to encourage virus spread (D) The viruses can be halted by new vaccines (30 points)
+4. How does rubella cause foetal abnormalities? (A) By crossing the placenta early in pregnancy and infecting the foetus (B) By only infecting the placenta (C) By inducing cytokines and chemokines in the mother (D) By raising the temperature of the mother and inducing an abnormal immune reaction to the foetus (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+73,4,40-10-30-20,A,40,B,10,A,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Positive stranded RNA viruses have which of the following characteristics? (A) Their genome RNA can be translated directly as mRNA (B) They have to transcribe their genome RNA to a mirror image copy as a mRNA (C) This genome is circular (D) Their RNA genome is segmented (40 points)
+2. Lassa and Ebola are emergent viruses in W. Africa. What is their origin? (A) Humans (B) Primates (C) Fruit bats (D) Pigs (10 points)
+3. The treatment of hepatitis C has been revolutionised most recently by which of the following? (A) The use of interferon (B) A new vaccine (C) Monoclonal antibodies (D) Direct-acting Antivirals such as daclatasvir and sofosbuvir (30 points)
+4. The three countries with the most drug injectors are: (A) Bolivia, Argentina, Thailand (B) China, the U.S. and Russia (C) Afghanistan, Iraq and Myanmar (D) Lithuania, Estonia and Latvia (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+74,4,30-10-40-20,C,30,D,10,D,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. There are 57 serotypes of adenovirus currently recognised. Which has the most important clinical impact? (A) Diarrhoea (B) Eye infections (C) Respiratory tract infections (D) Haemorrhagic cystitis (30 points)
+2. Results of surveillance should be distributed to: (A) Decision makers (B) The public (C) The data collectors (D) All of the above (10 points)
+3. AIDS activism in the U.S. resulted in: (A) Food and Drug Administration reforms (B) Easier access to investigational drugs (C) Changes in the way medicine was practiced in the U.S. (D) All of the above (40 points)
+4. What is the morphology of the Dane particle? (A) Double shelled icosahedron (B) Lipid membrane free icosahedron (C) Flexuous and filamentous morphology (D) Numerous small particles (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+75,4,40-10-20-30,A,40,C,10,A,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Papilloma viruses are characterised by what genetic feature? (A) A genome of ds circular DNA encoding around 8 ORF (B) A virus with RT able to integrate and cause cancer (C) A variable ds RNA virus (D) A large DNA containing virus (40 points)
+2. The risk of perinatal transmission of HIV-1 infection during breast feeding is increased due to: (A) Mixed feeding (B) Very early introduction of solids (C) Both a and b (D) None of them (10 points)
+3. PreP is most effective for which group: (A) Men with frequent unprotected sex (B) Men with infrequent unprotected sex (C) Women with frequent unprotected sex (D) Women with infrequent unprotected sex (20 points)
+4. A quasi species virus such as influenza and HIV has which of the following characteristics? (A) A fragmented or segmented genome (B) Co-existence of innumerable genetic variants (C) Possesses RNA and DNA (D) A very large genome (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+76,4,40-30-10-20,A,40,C,30,A,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Poliovirus can most easily become more virulent by which of the following processes? (A) Mutation of the RNA genome at only a few positions (B) Recombining with another enterovirus (C) Altering its protein coat (D) Multiple nucleotide deletions and substitutions (40 points)
+2. The group that permits analysis of the entire natural history of HIV/AIDS is: (A) Persistent seronegatives (B) Long-term survivors (C) Seroconverters (D) Long-term survivors with low levels of CD4+ cells (30 points)
+3. How are new polyomaviruses detailed (A) Shot gun sequencing (B) Cultivation in human neural cells (C) Deep pyro sequencing (NGS) (D) Monoclonal antibody techniques (10 points)
+4. How are antibody producing cells stimulated? (A) Interacting with a virus short peptide (B) Interacting with a T helper cell. (C) Interacting with a plasma cell (D) Interacting with a virus infected cell (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+77,5,40-10-20-30,C,40,B,10,A,20,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Picornavirus replication as a positive strand RNA virus is particularly typified by which of the following? (A) Virions carry RNA transcriptase enzyme into the cell (B) The virion RNA is translated into a single large polyprotein (C) The virion RNA acting as mRNA (D) The virus exits by apoptosis of the cell (40 points)
+2. Lassa and Ebola are emergent viruses in W. Africa. What is their origin? (A) Humans (B) Primates (C) Fruit bats (D) Pigs (10 points)
+3. What has so far prevented polio being eradicated from the world? (A) Inability to vaccinate in some countries (B) Poor quality (unsafe) vaccines (C) Genetic variation (D) Expense (20 points)
+4. Papillomaviruses cause warts and cancer but how do they most often infect humans? (A) Are water borne (B) Are airborne (C) Via scratches and breaks in the skin (D) Are nosocomial and spread in hospitals (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+78,5,20-10-40-30,D,20,C,10,D,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the most important factor for virus classification? (A) The geometry of the virus (B) How many proteins the virus has (C) The disease a virus causes (D) Chemistry of the DNA and RNA (20 points)
+2. Which of the following HPV viruses are known to cause cervical cancer? (A) Viruses of all 5 clades (B) Types 14, 16, 18, 31, 45 (C) None are oncogenic per se (D) Types 1-180 (10 points)
+3. Which of the following is the most special characteristic of the adaptive immune system? (A) Antibodies (B) T cells (C) Memory T cells (D) Clonal expansion of pre-existing antibodies and/or T cells (40 points)
+4. The basic code of ethical research (respect for persons, beneficence, and justice) was first established by the: (A) Nuremberg Code (B) Declaration of Helsinki (C) CIOMS (D) Belmont Report (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+79,5,40-10-30-20,A,40,B,10,A,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Assembly is a vital late replication stage for a virus and is often accomplished by which of the following? (A) Use of cellular scaffolding in the nucleus and cytoplasm (B) Snatching cellular lipids and membranes (C) Master plan embedded in the viral genome (D) Random interactions between cellular and virus proteins (40 points)
+2. What is the most successful and most widely used 'travel' vaccine for international visitors? (A) Influenza (B) MMR (C) Yellow Fever (D) Rabies (10 points)
+3. Polio can be eradicated by which of the following? (A) Attention to sewage control and hygiene (B) Killed polio vaccine (C) Live polio vaccine (D) Combination of the killed and live vaccines. (30 points)
+4. What is the most common way for a virus to kill a cell? (A) Dissolves the cellular membrane (B) Induces apoptosis via caspases (C) Fragments cellular DNA (D) Totally blocks cellular transcription (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+80,5,40-20-10-30,C,40,C,20,D,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Why are drug combinations essential for HIV? (A) Single drugs are not completely inhibitory (B) Mutations negate the effect of one drug (C) Combinations of antibiotics are effective versus TB (D) The virus cannot mutate vs a combination (40 points)
+2. What is the main clinical picture of hepatitis A? (A) Rash (B) Limb paralysis (C) Jaundice and abdominal discomfort (D) Upper respiratory tract infection (20 points)
+3. A “benefit” of research may accrue: (A) To the participant (B) To his/her family (C) To society (D) All of the above (10 points)
+4. An updated version of classification shows the parvovirus family as having how many genera? (A) Having 5 genera (B) A very large number of virus types (C) Only a single virus (D) Only three viruses (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+81,5,40-30-20-10,C,40,A,30,A,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. There were no new cases of Ebola virus in the United States from January 1, 1997 through January 1, 1998. Which of the following epidemiologic terms does this statement describe? (A) Incidence (B) Lifetime expectancy (C) Lifetime prevalence (D) Period prevalence (40 points)
+2. The successful anti-cancer HPV vaccine consists of: (A) Live virus attenuated by specific mutagenesis (B) Whole virus chemically inactivated vaccine (C) Self-assemble of virus L1 protein into VLP (D) Sub unit chemically inactivated vaccine (30 points)
+3. Randomization of study subjects in a clinical trial is most helpful for controlling for which of the following? (A) Placebo effect (B) Recall bias (C) Non-compliance (D) Effect modification (interaction) (20 points)
+4. Determinants of acquiring an HIV infection from an infected person per sexual act include: (A) Viral RNA level (B) Presence of other infections (C) Condom use (D) All of the above (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+82,5,10-40-20-30,C,10,B,40,B,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the morphology of the Dane particle? (A) Double shelled icosahedron (B) Lipid membrane free icosahedron (C) Flexuous and filamentous morphology (D) Numerous small particles (10 points)
+2. The prevalence of HIV among Latino-Americans compared to other ethic groups in the U.S. is: (A) Highest (B) Higher than all other ethnic groups except African-Americans (C) Higher than in all other ethnic groups except African-Americans and (D) Native Americans (40 points)
+3. The three countries with the most drug injectors are: (A) Bolivia, Argentina, Thailand (B) China, the U.S. and Russia (C) Afghanistan, Iraq and Myanmar (D) Lithuania, Estonia and Latvia (20 points)
+4. The treatment of hepatitis C has been revolutionised most recently by which of the following? (A) The use of interferon (B) A new vaccine (C) Monoclonal antibodies (D) Direct-acting Antivirals such as daclatasvir and sofosbuvir (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+83,5,40-20-30-10,C,40,B,20,B,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The chance of acquiring HIV infection from factor VIII in the United States in 2011 is 0% primarily because: (A) All donors for factor VIII are screened (B) Factor VIII is subject to detergent “washing” prior to release (C) Factor VIII is made synthetically (D) Factor VIII is important from countries with no reported HIV (40 points)
+2. The current testing policy of the Centers for Disease Control and the World Health Organization is: (A) “Opt-in” (B) “Opt-out” (C) Mandatory testing of prisoners (D) Mandatory testing of high-risk groups (20 points)
+3. What happens during the 'incubation period'? (A) The virus is cleared from the body by the immune system (B) Virus replication happens at an intracellular level (C) This period commonly lasts for a few days (D) This period commonly lasts for a few hours (30 points)
+4. What is the genome structure of the polyomavirus family? (A) Circular ds DNA with T antigen coding regions (B) Circular ssDNA (C) RNA genome with RT (D) Segmented RNA genome (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+84,5,10-40-20-30,D,10,C,40,C,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A good surveillance system should provide information about: (A) Who is being infected (B) Where the infected individuals are (C) How rapidly infection is spreading (D) All of the above (10 points)
+2. In HIV-associated tuberculosis cases, treatment with antiretrovirals should begin: (A) Before antiretroviral drugs are started (B) After antiretroviral drugs are started (C) Concurrently with antiretroviral drugs (D) Doesn’t make any difference (40 points)
+3. There are 57 serotypes of adenovirus currently recognised. Which has the most important clinical impact? (A) Diarrhoea (B) Eye infections (C) Respiratory tract infections (D) Haemorrhagic cystitis (20 points)
+4. Why do vigorous CD8 cell responses in chronically infected HIV-positive individuals fail to eliminate the virus? (A) CTL exhaustion (B) Epitope escape (C) Suboptimal CTL (D) Absence of dendritic cells (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+85,5,10-40-20-30,C,10,B,40,A,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How can the spread of filoviruses be restricted? (A) New antivirals (B) New humanised monoclonal antibodies (C) Hygiene and social distancing (D) New vaccines (10 points)
+2. A case-control study is conducted to assess the association between alcohol consumption and lung cancer patients with lung cancer and 100 controls are asked about their past alcohol consumption. According to the study results, alcohol consumption is strongly associated with lung cancer (OR = 2.5). The researchers then divide the study subjects into two groups: smokers and non-smokers. Subsequent statistical analysis does not reveal any association between alcohol consumption and lung cancer within either group. The scenario described is an example of which of the following? (A) Observer bias (B) Confounding (C) Placebo effect (D) Nonresponse bias (40 points)
+3. Genetic characteristics of the bunyavirus family include which one of the following? (A) Three segmented negative stranded RNA viruses with anti-sense expression (B) Highly mutable RNA viruses (C) Emerging viruses via arthropod vector (D) Use an RT enzyme (20 points)
+4. As regards the range of diseases caused by viruses: (A) Each member of the 'family' causes the same disease. (B) Members of many families can cause the same sort of disease. (C) Most virus disease are now controlled by vaccines. (D) Most viruses can cross placenta and be teratogenic. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+86,5,30-10-20-40,A,30,A,10,C,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. PreP is most effective for which group: (A) Men with frequent unprotected sex (B) Men with infrequent unprotected sex (C) Women with frequent unprotected sex (D) Women with infrequent unprotected sex (30 points)
+2. How many people globally are currently infected with hepatitis B? (A) 350 million (B) 2 billion (C) 100,000 (D) 1 million (10 points)
+3. How can the morphology of filoviruses be described? (A) Very large ball like structure (B) Long filamentous threads (C) Icosahedral virion (D) Floppy membranes without defined morphology (20 points)
+4. Positive stranded RNA viruses have which of the following characteristics? (A) Their genome RNA can be translated directly as mRNA (B) They have to transcribe their genome RNA to a mirror image copy as a mRNA (C) This genome is circular (D) Their RNA genome is segmented (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+87,5,30-20-10-40,A,30,C,20,B,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Describe the morphology of a togavirus. (A) Enveloped spherical particles with an icosahedral structure (B) Non-enveloped with an icosahedral structure (C) Filamentous virus with protruding glycoproteins (D) Small round viruses (30 points)
+2. What is the usual direction of 'knowledge' in a cell? (A) From protein to DNA (B) From DNA to DNA (C) From DNA to RNA to protein (D) Random (20 points)
+3. The major risk group for HIV infection among Latinos is: (A) Heterosexual males (B) Homosexual males (C) Females (D) Injection drug users (10 points)
+4. A new drug with in vitro activity against HIV is tested on a population of patients with Western-blot confirmed HIV infections. Out of the 200 individuals in the patient population, 100 are chosen by lottery to receive the drug. The drug, which is tasteless, is administered in a cup of orange juice; the other patients receive pure orange juice. Neither the nurses, doctors, nor the patients know which patients receive the drug. At the end of the study period, the number of CD4+ T cells is determined for all of the subjects. This is an example of a (A) Case-control study (B) Case report (C) Cohort study (D) Cross-sectional study (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+88,5,30-10-20-40,C,30,B,10,A,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. MERS has four special characteristics and here we have one exception - which is it? (A) Spread by faecal oral route (B) Aerosol droplet transmission (C) Reservoir in bats (D) A conduit to humans via camels (30 points)
+2. Most surveillance systems use which of the following study designs? (A) Cohort (B) Serial cross-sectional (C) Mortality (D) Syndromic (10 points)
+3. Clinical infection by an arenavirus is characterised by which one of the following? (A) Pantropic infection (B) Signs of malaria (C) Short (2-3 days) incubation (D) Hepatitis (20 points)
+4. Newborn infants in countries with limited access to safe water and low levels of education should be: (A) Exclusively formula fed for six months (B) Exclusively breast fed for six months (C) Should receive both breast milk and other foods as tolerated in the first 6 (D) months (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+89,5,20-10-40-30,B,20,D,10,A,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Measles has been controlled in many countries by which of the following? (A) By hygiene (B) By MMR vaccine (C) By new molecular peptide vaccines (D) By humanised monoclonal antibodies to F protein (20 points)
+2. Structural interventions typically target: (A) Policies (B) The environment (C) Availability (D) All of the above (10 points)
+3. A study is conducted to assess the relationship between race and end-stage renal disease pathologists independently study specimens from 1,000 kidney biopsies. The first group of pathologists is aware of the race of the patient from whom the biopsy came, while the second group is blinded as to the patient’s race. The first group reports ‘hypertensive nephropathy’ much more frequently for black patients than the second group. Which of the following types of bias is most likely present in this study? (A) Confounding (B) Nonresponse bias (C) Recall bias (D) Referral bias (40 points)
+4. AIDS activism in the U.S. resulted in: (A) Food and Drug Administration reforms (B) Easier access to investigational drugs (C) Changes in the way medicine was practiced in the U.S. (D) All of the above (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+90,5,10-30-20-40,D,10,A,30,B,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The major issue for HIV infection among the Latino population is: (A) Late detection of HIV status (B) Cultural beliefs (C) Immigration (D) All of the above (10 points)
+2. How does rubella cause foetal abnormalities? (A) By crossing the placenta early in pregnancy and infecting the foetus (B) By only infecting the placenta (C) By inducing cytokines and chemokines in the mother (D) By raising the temperature of the mother and inducing an abnormal immune reaction to the foetus (30 points)
+3. Identify the most commonly used diagnostic technique in the virus laboratory: (A) Virus isolation in cell culture (B) Deep sequencing (NGS) (C) Reverse transcriptase (RT) PCR (D) Immuno-serology (20 points)
+4. The replication of hepatitis B includes which of the following stages? (A) Movement of intact virus to the cellular cytoplasm for replication (B) Conversion of relaxed circular viral DNA in to covalently closed circular (CCC) DNA in the nucleus (C) Virions produced in the cytoplasm by cellular DNA polymerase (D) Oncogenic activity to transform liver cells. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+91,5,30-10-40-20,B,30,B,10,B,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Describe the YF vaccine. (A) Killed virus vaccine (B) Live attenuated virus vaccine developed by Pasteurian passage (C) Live attenuated vaccine produced by direct mutation of the virus genome (D) Experimental vaccine only (30 points)
+2. The first acquired immune cell to respond defensively to HIV infection is: (A) CD4+ (B) CD8+ (C) CD57 (D) NK cells (10 points)
+3. Officials at a large community hospital report an increased incidence of acute lymphocytic leukemia (ALL) among children aged 5 – 12. They point out that some households in the community are exposed to chemical waste from a nearby factory. They believe that chemical waste causes leukemia. If a study is designed to evaluate the hospital officials’ claim, which of the following subjects are most likely to comprise the control group? (A) Children exposed to the chemical waste who do not suffer from ALL (B) Children not exposed to the chemical waste who do not suffer from ALL (C) Children from the hospital’s outpatient clinic who do not suffer from ALL (D) Children not exposed to the chemical waste who suffer from ALL (40 points)
+4. The parvoviruses have a rather unique genome; what form does it take? (A) Circular ds DNA (B) Small linear ss DNA (C) ds DNA genome (D) RNA genome with RT (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+92,5,40-10-30-20,A,40,B,10,A,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In a medical class of 147 students, the distribution of scores on a biochemistry final examination has a mean equal to 67, a median equal to 76, a mode equal to 80, a standard deviation equal to 5.5, and a variance equal to 30.25. Three students were unable to take the test on the scheduled date and were given a different form of the exam 1 week later. Which parameter is most likely to be the least biased estimator of central tendency for this distribution of biochemistry test scores? (A) Mean (B) Median (C) Mode (D) Standard deviation (40 points)
+2. If the human norovirus cannot be cultured in cell cultures how can it best be studied? (A) Animal models (B) Volunteer studies (C) In cells using replicon systems (D) Deductions from the 3 human ORF's of the virus genome (10 points)
+3. Why are members of the astrovirus family only recently recognised as significant enteric viruses for humans? (A) The genome has been identified by the new method of deep sequencing (B) A new vector has been discovered (C) They infect a wide range of domestic animals and so contaminate meat (D) Knowledge of their replication as positive sense ssRNA viruses is now complete (30 points)
+4. The range of disease caused by the family is wide but identify the exception from the following: (A) Aplastic crisis in anaemia patients (B) Fifth disease at 'Slapped cheek' syndrome (C) Foetal infection with teratogenicity (D) Serious pneumonia (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+93,5,10-30-40-20,D,10,C,30,B,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which virus infection was not first identified by clinical observation? (A) HIV (B) Rubella teratogenicity (C) Microcephaly and Zika (D) Hepatitis C (10 points)
+2. The risk of perinatal transmission of HIV-1 infection during breast feeding is increased due to: (A) Mixed feeding (B) Very early introduction of solids (C) Both a and b (D) None of them (30 points)
+3. How does the papilloma family of viruses cause cancer? (A) Replicate in dividing cells and encodes three oncogenic proteins E5, E6 and E7 (B) Integrates viral genome into cellular DNA (C) Has an oncogene able to initiate cancer (D) Acts as a co factor for a cellular oncogene (40 points)
+4. The surveillance testing strategy associated with the least selection bias is: (A) Compulsory (B) Unlinked anonymous (C) Voluntary anonymous (D) Voluntary confidential (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+94,5,30-10-20-40,B,30,B,10,B,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following? (A) Interferon and ribavirin (B) Lamivudine and ribavirin (C) Combinations of adefovir and entecavir and/or tenofovir (DAA) (D) Interferons alone (30 points)
+2. The rotavirus is an important cause of which of the following? (A) Respiratory infection in adults (B) Gastroenteritis in children (C) Diarrhoea and vomiting in adults (D) Cancer (10 points)
+3. A quasi species virus such as influenza and HIV has which of the following characteristics? (A) A fragmented or segmented genome (B) Co-existence of innumerable genetic variants (C) Possesses RNA and DNA (D) A very large genome (20 points)
+4. Why do emerging viruses like Zika and Ebola continue to plague us? (A) These viruses mutate and hence emerge (B) We disturb forests where they quietly exist as a zoonosis (C) Mosquitoes are the main culprit to encourage virus spread (D) The viruses can be halted by new vaccines (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+95,5,40-30-20-10,A,40,A,30,A,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Viruses have encouraged us to change our world, as we have now: (A) Eradicated smallpox (B) Eradicated polio (C) Increased hygiene (D) A better understanding of how cellular genes aid virus replication and so become a target for new drugs (40 points)
+2. What is urban yellow fever (YF)? (A) Part of a cycle of mosquitoes biting humans in cities (B) Part of a cycle of mosquitoes biting humans and monkeys in forested areas (C) A mutant of the YF virus (D) A YF species that has adapted to new mosquitoes (30 points)
+3. What is the essential pathology of astroviruses? (A) Very restricted replication in the gut (B) Can cause infection of the central nervous system (C) Sequence diversity allows widespread replication (D) Can cause infection in the upper respiratory tract (20 points)
+4. Which of the following is the cause of delay in HIV testing among the Latino population? (A) Stigma attached to the disease (B) Machismo (C) Drug abuse (D) All of the above (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+96,5,40-30-20-10,A,40,A,30,C,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which is a major characteristic of the bunyavirus family? (A) Amplify by persistent infection of midgets, mosquitoes, sand flies, ticks (B) Predominantly mosquito borne (C) Genetic recombination or reassortment (D) Spread to humans via bites of mice and rats (40 points)
+2. SARS is described as a zoonotic virus - what does this mean? (A) Such viruses are confined to animals (B) They do not cause disease in humans (C) They emerge from animals to cross the species barrier infrequently (D) They cause pandemics (30 points)
+3. What is a virus pandemic? (A) A sharp and rapid epidemic involving more than one country (B) An outbreak which recurs again and again (C) A rapid global outbreak starting from a single focus (D) A characteristic of common cold virus and HIV (20 points)
+4. Globally, the most deaths are caused by: (A) Respiratory infections (B) Diarrheal diseases (C) Malaria (D) Tuberculosis (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."

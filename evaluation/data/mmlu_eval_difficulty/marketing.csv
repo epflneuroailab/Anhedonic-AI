@@ -1,0 +1,961 @@
+ID,Subset,Reward_Order,Correct_Answer_1,Reward_1,Correct_Answer_2,Reward_2,Correct_Answer_3,Reward_3,Correct_Answer_4,Reward_4,Full_Prompt
+1,1,30-20-10-40,B,30,A,20,A,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to the British Government, which of the following is not a marketing function? (A) Promote marketing intelligence. (B) Develop sales tactics. (C) Develop the customer proposition. (D) Work with other business functions and third parties. (30 points)
+2. It has been claimed that the three major outcomes from the development of relationship trust are satisfaction, ___________, and continuity (Pavlou, 2002). (A) Reduced perceived risk. (B) Service recovery. (C) Service processes. (D) Efficiency. (20 points)
+3. With this pricing approach, the pricing process begins with the customer; not the cost of the product offering: (A) Value-based pricing. (B) Cost-based pricing. (C) Customer-led pricing. (D) Sales pricing. (10 points)
+4. This level of branding can be seen when a customer attaches a name, term, or other feature that enables them to identify one seller's good or service as distinct from those of other sellers. This branding is known as: (A) Corporate brand. (B) Family branding. (C) Customer branding. (D) International brand. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+2,1,30-10-20-40,D,30,D,10,A,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The action of presenting persuasive communication and the action of audiences in interpreting that communication to assimilate it into their existing understanding is referred to as: (A) Needs identifying. (B) Innovating. (C) Advertising. (D) Framing. (30 points)
+2. A marketing philosophy summarized by the phrase 'a stronger focus on social and ethical concerns in marketing' is characteristic of the _________ period. (A) Production. (B) Sales. (C) Marketing. (D) societal marketing. (10 points)
+3. Where the winning bidder obtains an unprofitable contract that he/she is duty bound to deliver because their bid price was set so low, this is known as: (A) Winner's curse. (B) Winner's price. (C) Winner's reward. (D) Loss-leader pricing. (20 points)
+4. ________________reflect a purchaser's high level of involvement in the purchase decision. There is high perceived risk in these decisions so consumers spend a great deal of time, care, and energy searching, formulating, and making the final decision. (A) Durable goods. (B) Non-durable goods. (C) Convenience products. (D) Services. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+3,1,10-40-30-20,A,10,C,40,C,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Types of non-random samples include: (A) Convenience and quota samples. (B) Cluster and convenience samples. (C) Stratified and convenience samples. (D) Random and cluster samples. (10 points)
+2. The management and execution of marketing using digital electronic technologies and channels (e.g. web, email, digital TV, wireless media) and digital data about user/customer characteristics and behaviour is referred to as: (A) E-marketing. (B) Social marketing. (C) Digital marketing (D) Internet marketing. (40 points)
+3. This business-to-business pricing approach seeks to understand customers' needs before pricing the offering according to those needs in order to generate a long-term relationship. This is referred to as: (A) Geographical pricing. (B) Discount pricing. (C) Relationship pricing. (D) Value-in-use pricing. (30 points)
+4. These objectives are often the most suitable when firms operate in a market dominated by a major competitor and where their financial resources are limited. (A) Divest objectives. (B) Harvest objectives. (C) Hold objectives. (D) Niche objectives (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+4,1,20-10-40-30,D,20,D,10,C,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Marketing period, 1950s-1980s - characterized by a more advanced focus on the ___________. (A) Society and ethics. (B) Personal selling. (C) Physical production. (D) Customer's needs. (20 points)
+2. Which of the following gives the owner exclusive rights by law to use a brand? (A) Brand loyalty (B) Brand mark (C) Trade name (D) Trademark (10 points)
+3. A method of marketing by electronic mail wherein the recipient of the message has consented to receive it is called: (A) Search marketing. (B) Internet advertising. (C) Permission-based email marketing. (D) Social web marketing. (40 points)
+4. Providing free samples of perfumes (scent) in magazines is an example of which of the following? (A) Classical conditioning. (B) Operant conditioning. (C) Social learning. (D) Behavioural learning. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+5,1,20-40-10-30,C,20,D,40,D,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. This is when a product or service is offered together with another typically complementary product or service: (A) Product pricing. (B) Price differentiation. (C) Pure price bundling. (D) Odd-Number pricing. (20 points)
+2. The term 'marketing mix' describes: (A) A composite analysis of all environmental factors inside and outside the firm. (B) A series of business decisions that aid in selling a product. (C) The relationship between a firm's marketing strengths and its business weaknesses. (D) A blending of four strategic elements to satisfy specific target markets. (40 points)
+3. Which element of the promotional mix handles unfavorable stories and events and promotes a good corporate image? (A) Personal selling (B) Sales promotion (C) Direct marketing (D) Public relations (10 points)
+4. This is part of the communication process where receivers unpack the various components of the message, and begin to make sense and give the message meaning: (A) Encoding. (B) Decoding. (C) Transfer. (D) Noise. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+6,1,30-10-20-40,B,30,C,10,C,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In B2B contexts, ___________ occurs in large organizations where considerable internal dealing between different company divisions occurs, often across national boundaries. (A) Price gouging. (B) Transfer pricing. (C) Pay what you want pricing. (D) EVC pricing. (30 points)
+2. What is the term used to describe how consistent or stable the ratings generated by a scale are? (A) Replication. (B) Pre-code. (C) Reliability. (D) Convenience. (10 points)
+3. Which of the following consumer buying behaviours requires the least effort? (A) High involvement buying situation. (B) New buying situation. (C) Routine buying. (D) Impulsive buying. (20 points)
+4. These objectives are often employed in mature markets as firms/products enter a decline phase. The goal is to maximize short-term profits and stimulate a positive cash flow. (A) Divest objectives. (B) Hold objectives. (C) Growth objectives. (D) Harvesting objectives. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+7,1,10-20-40-30,A,10,C,20,A,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. These are costs which do not vary according to the number of units of product made or service sold: (A) Fixed costs. (B) Moving assets. (C) Working capital. (D) Fixed capital. (10 points)
+2. This is something that at some time in the future may destabilize and/or reduce the potential performance of the organization. (A) Strength. (B) Weakness. (C) Threat. (D) Opportunities. (20 points)
+3. Which of the following is the most appropriate pricing strategy to use when introducing a new and unique product to the market? (A) Price skimming (B) Promotional pricing (C) Psychological pricing (D) Penetration pricing (40 points)
+4. ____________ distribute the product. They offer value through services associated with selling inventory, credit, and aftersales service. (A) Distributors. (B) Agents. (C) Merchants. (D) Franchises. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+8,1,10-20-30-40,D,10,B,20,A,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. These sell directly to end consumers and may purchase directly from manufacturers and/or deal with wholesalers: (A) Distributors. (B) Franchising. (C) Merchant. (D) Retailers. (10 points)
+2. ________________is used to influence the way an organization is perceived by various groups of stakeholders. (A) Direct marketing. (B) Public relations. (C) Sale promotion. (D) Advertising (20 points)
+3. This is a form of targeted advertising, on websites, with advertisements selected and served by automated systems based on the content displayed to the user. (A) Contextual advertising. (B) Interactive marketing. (C) Internet advertising. (D) Direct marketing. (30 points)
+4. A key benefit of the STP process is: (A) More effective and efficient matching of company resources to targeted market segments promising the greatest ROMI. (B) Enhancing a company's competitive position by providing direction and focus for marketing strategies. (C) Examining and identifying growth opportunities in the market through the identification of new customers, growth segments, or new product uses. (D) All of the above. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+9,1,40-10-20-30,B,40,B,10,D,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. To be effective, the process of market segmentation must meet which of the following basic requirements? (A) The firm must avoid focusing on non-variables such as profitability and volume. (B) The market segment must have measurable purchasing power and size. (C) The company must expand beyond its marketing capabilities to capture growing markets. (D) The market segment must reflect the population's changing attitudes and lifestyles. (40 points)
+2. Salespeople who view a situation as a customer sees it are exhibiting (A) cooperation (B) empathy (C) responsibility (D) tolerance (10 points)
+3. This is part of the communication process and refers to the responses offered by receivers: (A) Encoding. (B) Decoding. (C) Transfer. (D) Feedback. (20 points)
+4. Which of the following is an example of costbased pricing? (A) Basing the price on what the customer is willing to pay (B) Basing the price on the psychological expectations of the customer (C) Basing the price on the features and benefits of the product (D) Basing the price on the full cost of production plus the required profit (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+10,1,40-20-10-30,A,40,A,20,B,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is the communication model that depicts information flowing via various media channels, to particular types of people, to whom other members of the audience refer for information and guidance? (A) Two-step. (B) Three-step. (C) Multi-step. (D) One-step. (40 points)
+2. _______________ is concerned with the development of knowledge that is specific to the parties involved and is referred to as 'learning together'. (A) Dialogue. (B) Personal influencer. (C) Feedback. (D) Message. (20 points)
+3. ____________ is very effective at delivering messages to target audiences as it allows for explanation in a way that most other media cannot. (A) Digital. (B) Print. (C) Broadcast. (D) Outdoor. (10 points)
+4. In conducting international market research, there are three types of equivalence. Which of the following is NOT one of the equivalences? (A) Conceptual equivalence. (B) Market equivalence. (C) Functional equivalence. (D) Translation equivalence. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+11,1,30-40-20-10,C,30,C,40,A,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A person who is in the position of attempting to satisfy their needs at the most basic level is operating at the level of Maslow's needs hierarchy called the need for: (A) Self-actualization. (B) Esteem. (C) Physiological needs. (D) Belongingness. (30 points)
+2. The purpose of evaluating the attractiveness of the differing market segments identified in the second stage of the market segmentation process is to: (A) Identify the specific members of each segment to be able to contact each of them directly. (B) Determine the level of resources that must be committed to each segment. (C) Evaluate the market potential within each segment. (D) Design marketing strategy and tactics to reinforce the firm's image. (40 points)
+3. ________ is the process of marketing accomplished or facilitated via the use of Internet technologies (e.g. web, email, intranet, extranets, etc.). (A) Internet marketing. (B) Search marketing. (C) E-marketing. (D) Mobile marketing. (20 points)
+4. SWOT is an acronym for: (A) Strengths, weaknesses, opportunities, threats. (B) Strategy, work, openness, toughness. (C) Strategy, weakness, opinions, tactics. (D) Strategy, working, opinion, tactical. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+12,1,30-20-10-40,C,30,D,20,C,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A marketing research firm contracts with clients to conduct a complete marketing research project from data collection, analysis, and reporting. It is a__________ firm. (A) Consultant. (B) Field agency. (C) Full-service agency. (D) Tabulation agency. (30 points)
+2. Which of the following is not an example of a behavioural variable? (A) Product usage. (B) Media usage. (C) Purchase occasion. (D) Personality. (20 points)
+3. In marketing terms, ___________ refers to what we get for what we pay: (A) Revenue. (B) Cost. (C) Value. (D) Product. (10 points)
+4. Why is market segmentation carried out? (A) To break down large markets into smaller markets. (B) To provide an opportunity to surpass competitors. (C) By grouping together customers with similar needs, it provides a commercially viable method of serving these customers. (D) To allow the achievement of greater market share. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+13,1,10-20-30-40,D,10,B,20,C,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. ____________________ are those who address the same target market but provide a different offering to satisfy the market need, for example Spotify, Sony, and Apple's iPod. (A) Direct competitions. (B) Direct suppliers. (C) Indirect distributors. (D) Indirect competitions. (10 points)
+2. Four competing philosophies strongly influence the role of marketing and marketing activities within an organization. Which if the following is not a component of market orientation? (A) Customer orientation. (B) Profitability orientation. (C) Interfunctional coordination. (D) Competitor orientation. (20 points)
+3. A form of marketing communications that uses the Internet for the purpose of advertising, aiming to increase website traffic and/or encourage product trial, purchase, and repeat purchase activity is called: (A) Search marketing. (B) E-mail marketing. (C) Internet advertising. (D) Social web marketing. (30 points)
+4. These are chains of organizations that are concerned with the management of the processes and activities involved in creating and moving products from producers and manufacturers to end-user customers. The organizations involved with any one journey, are collectively termed as a: (A) Distribution. (B) Vendor. (C) Communication. (D) Selling. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+14,1,10-20-40-30,C,10,B,20,B,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is not an element of the marketing mix? (A) Promotion. (B) Product. (C) Target market. (D) Pricing. (10 points)
+2. _______________can be defined as the aspect of our psyche that determines the way in which we respond to our environment in a relatively stable way over time. (A) Perception. (B) Personality. (C) Learning. (D) Memory. (20 points)
+3. The Internet has led to the development of an information intermediary. Here the key role is to manage information to improve the efficiency and effectiveness of the distribution channel. This is referred to as: (A) Time utility. (B) Information utility. (C) Ownership utility. (D) Place utility. (40 points)
+4. Which of the following means placing your product or service in as many outlets or locations as possible, in order to maximize the opportunity for customers to find the good or service? (A) Exclusive distribution. (B) Intensive distribution. (C) Selective distribution. (D) Direct distribution. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+15,1,10-20-40-30,B,10,D,20,C,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. This is a group of people in the process of diffusion who enjoy being at the leading edge of innovation and buy into new products at an early stage: (A) Late majority. (B) Early adopter. (C) Early majority. (D) Laggards. (10 points)
+2. The pricing approach where prices are set based on what customers believe to offer value is called the: (A) Cost-oriented approach. (B) Demand-oriented approach. (C) Competitor-oriented approach. (D) Value-oriented approach. (20 points)
+3. An important characteristic of services is that they are produced and consumed by people, simultaneously, as a single event. One of the outcomes of this unique process is that it is exceedingly difficult to standardize the delivery of services around the blueprint model. Which characteristic of service is this referred to? (A) Intangibility. (B) Inseparability. (C) Variability. (D) Perishability. (40 points)
+4. The extent to which a service envelops a product varies according to a number of factors. Which of the following is NOT one of the factors? (A) The level of tangibility associated with the type of product. (B) Performance-value. (C) Variations in supply and demand. (D) The way in which the service is delivered. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+16,1,20-10-30-40,C,20,D,10,A,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The term marketing refers to: (A) new product concepts and improvements. (B) advertising and promotion activities. (C) a philosophy that stresses customer value and satisfaction. (D) planning sales campaigns. (20 points)
+2. These goods are bought infrequently, used repeatedly, and involve a reasonably high level of consumer risk: (A) Impulse goods. (B) Luxury goods. (C) Non-durable goods. (D) Durable goods. (10 points)
+3. This form of marketing communications tool is referred to as 'a paid, mediated form of communication from an identifiable source, designed to persuade the receiver to take some action, now or in the future'. This is referred to as: (A) Advertising. (B) Personal selling. (C) Public relations. (D) Publicity. (30 points)
+4. If an advertisement shows the interior of a train with comfortable seats and plenty of space yet a customer boards a train only to find a lack of space and hard seating. This is an example of: (A) GAP 4-the gap between service delivery and external communications. (B) GAP 2-the gap between management perception and service-quality specification (C) GAP1-the gap between the customer's expectations and management perception. (D) GAP 3-the gap between service-quality specifications and service delivery. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+17,1,10-20-40-30,B,10,A,20,D,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Intermediaries assist end-users by bringing a product produced a long way away to a more convenient location for purchase and consumption. This is referred to as: (A) Time utility. (B) Place utility. (C) Ownership utility. (D) Information utility. (10 points)
+2. According to Maslow's Hierarchy of Needs theory, the need for fulfilment, for realizing one's own potential, and for fully using one's talents and capabilities are examples of __________ needs. (A) Self-actualization. (B) Physiological. (C) Social. (D) Esteem. (20 points)
+3. Secondary data has two important advantages over primary data. It is: (A) Capable of compensating for rapid environmental changes and technical improvements. (B) Always available and complete. (C) Seldom obsolete and usually fits the dimensions of your problem. (D) Generally cheaper to gather than primary data and takes less time to find. (40 points)
+4. In the _________ stage in the adoption process, consumers become aware of the new proposition. They have little information and have yet to develop any particular attitudes towards the product. Indeed, at this stage consumers are not interested in finding out any more information. (A) Persuasion (B) Confirmation (C) Knowledge (D) Implementation (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+18,1,10-30-40-20,D,10,C,30,D,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is not one of the categories of research design? (A) Exploratory research. (B) Descriptive research. (C) Causal research. (D) Desk research. (10 points)
+2. ________________ occur(s) where there is no prior history of exchange and no future exchanges are expected between a buyer and seller. (A) Relationship marketing. (B) Service mix. (C) Market exchanges. (D) Service failure. (30 points)
+3. This approach has been used to convey particular information and help educate large target audiences through television and radio programmes. This approach is referred to as: (A) Opinion followers. (B) Opinion formers. (C) Public relations. (D) Opinion leaders. (40 points)
+4. Which of the following elements is not part of Porter's Five Forces model for industry competitiveness? (A) Threat of substitutes. (B) Threat of suppliers. (C) Power of buyers. (D) Threat from government. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+19,1,10-20-30-40,D,10,C,20,B,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is not part of the consumer proposition acquisition process? (A) Motive development. (B) Information gathering. (C) Proposition evaluation. (D) Perception. (10 points)
+2. What type of media has the primary objective to get the attention of shoppers and to stimulate them to make a purchase? (Examples include point-of-purchase displays and packaging.) (A) Broadcast media. (B) Interactive media. (C) In-store media. (D) Support media. (20 points)
+3. Marketing that moves away from a transaction-based effort to a conversation (i.e. two-way dialogue) and can be described as a situation or mechanism through which marketers and a customer (e.g. stakeholders) interact usually in real-time is known as: (A) Digital marketing. (B) Interactive marketing. (C) Direct marketing. (D) Electronic marketing. (30 points)
+4. Marketing research: (A) Is work undertaken to understand how to make specific marketing strategy decisions. (B) Is the collection and analysis of data from a sample or census of individuals or organizations. (C) Includes all forms of market, opinion, and social research such as consumer and industrial surveys. (D) Is work undertaken to determine either structural characteristics of the industry of concern. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+20,2,20-30-10-40,A,20,D,30,C,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The primary objective of team-based selling is to (A) match various functional areas of the company with customer needs (B) distribute the work involved in managing an account (C) equitably manage the sales bonus pool (D) create multiple points of contact between the customer and the company (20 points)
+2. A company builds its sales message, advertising message, and promotion theme to influence how a particular market sector perceives a good or service in comparison with the competition. The company is primarily engaged in (A) segmentation (B) mass customization (C) concentrated targeting (D) positioning (30 points)
+3. Which of the following is the investigation of the hedonic consumption of products? (A) Social interaction perspective. (B) Functional utilization perspective. (C) Experiential consumption. (D) Brand management perspective. (10 points)
+4. Which of the following is typically not a result of recognizing the importance of ethnic groups by marketers? (A) Use of an undifferentiated one-size-fits-all marketing strategy. (B) Adaptation of the advertising, particularly the use of foreign languages, to the target ethnic market. (C) Variations in product offerings to suit the wants of a particular group. (D) Study of ethnic buying habits to isolate market segments. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+21,2,10-40-30-20,B,10,C,40,C,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A commonly used basis for segmenting consumer markets is: (A) Organizational size. (B) Demographics. (C) Product type. (D) Price. (10 points)
+2. To highlight the variation in approaches to purchasing behaviour, Svahn and Westerlund (2009) identify six principal purchasing strategies used by organizations. The __________ strategy refers to a buyer's efficiency orientation where the main purchasing goal is to seek the lowest price for the offering. To help achieve this, the buyer actively promotes competition among several potential suppliers. (A) 'Bargainer' purchasing. (B) The 'adaptator' purchasing. (C) Price minimizer' purchasing. (D) The 'projector' purchasing. (40 points)
+3. ____________ is a form of digital marketing that describes the use of the social web and social media (e.g. social networks, online communities, blogs or wikis) or any online collaborative technology for marketing activities, be it sales, public relations, research, distribution, or customer service. (A) Pay per click (PPC) (B) Digital asset optimization (DAO) (C) Social media marketing (SMM) (D) Search engine optimization (SEO) (30 points)
+4. The process that creates changes in behaviour is called: (A) Selective adaptation. (B) Learning. (C) Involvement manipulation. (D) Attitude adjustment. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+22,2,20-40-10-30,B,20,D,40,A,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. This branding policy requires that all the products use the organization's name, either entirely or in part, e.g. Microsoft, Heinz, and Kellogg's (A) Individual branding. (B) Family branding. (C) Corporate brands. (D) Manufacturer brand. (20 points)
+2. Psychographic segmentation is based on: (A) The quantitative side of consumer demographic analysis. (B) The quantitative side of consumer geographic analysis. (C) Individuals' residential patterns and life-cycle preferences. (D) Grouping people according to their psychological characteristics, values, and lifestyles. (40 points)
+3. A database of information that is maintained by human editors and lists websites by category and subcategory with categorization is known as: (A) A search directory. (B) Automated voice response (AVR). (C) Apps. (D) SEO. (10 points)
+4. This is where the perception on the part of a channel member is that its goal attainment is being impeded by another, with stress or tension the result: (A) Channel communication. (B) Channel conflict. (C) Channel relationships. (D) Customer conflict. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+23,2,30-10-40-20,A,30,C,10,C,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. This is where intermediaries are given exclusive rights to market the good or service within a defined 'territory', thus using a very limited number of intermediaries: (A) Exclusive. (B) Intensive. (C) Selective. (D) Direct. (30 points)
+2. The importance and significance of customer experience to both individuals and society is referred to as: (A) Knowledge economy. (B) Service economy. (C) Experience economy. (D) Customer economy. (10 points)
+3. Firms that view themselves as market leaders in product quality frequently adopt a (A) market share strategy (B) penetration pricing strategy (C) strategy that focuses on non-price benefits (D) strategy to expand the overall market (40 points)
+4. Newsletters, catalogues, and invitations to organization-sponsored events are most closely associated with the marketing mix activity of: (A) Pricing. (B) Distribution. (C) Product development. (D) Promotion. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+24,2,20-30-10-40,B,20,A,30,A,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Organizational characteristics, such as organizational size and location, are sometimes referred to as___________. (A) DMU. (B) Firmographics. (C) ACORN (D) Product usage. (20 points)
+2. The process of keeping a running account of merchandise on hand is referred to as (A) perpetual inventory (B) economic order quantity (C) book inventory (D) physical inventory (30 points)
+3. What channel structure is it where the product goes directly from the producer to the final customer? (A) Direct. (B) Indirect. (C) Hybrid. (D) None of the above. (10 points)
+4. Many brands are deliberately imbued with human characteristics, to the point that they are identified as having particular personalities. This is referred to as: (A) Branding pyramid. (B) Brand value. (C) Brand names. (D) Brand personalities. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+25,2,10-20-40-30,B,10,A,20,A,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. McDonald's and KFC are good examples of: (A) Distributors. (B) Franchising. (C) Merchant. (D) Retailers. (10 points)
+2. Internet-based organizations designed to provide information to channel members, including end-users are referred to as: (A) Infomediaries. (B) Retailers. (C) Department stores. (D) Wholesalers. (20 points)
+3. ____________ is also a form of sponsorship and represents a relationship between film/TV producers and managers of brands. Through this arrangement, brand managers are able, for a fee, to present their brands 'naturally' within a film or entertainment event. Such placement is designed to increase brand awareness, develop positive brand attitudes, and possibly lead to purchase activity. (A) Brand placement. (B) Field marketing. (C) Exhibition. (D) Viral marketing. (40 points)
+4. _________ enable different types of uncertainty to be lowered in several ways (Fill and McKee, 2012). These include reducing the complexity, increasing value and competitive advantage, routinization, and providing specialization. (A) Warehouse. (B) Distribution. (C) Supply chain. (D) Marketing channels. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+26,2,20-10-30-40,B,20,A,10,B,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following means placing your product or service in as many outlets or locations as possible, in order to maximize the opportunity for customers to find the good or service? (A) Exclusive distribution. (B) Intensive distribution. (C) Selective distribution. (D) Direct distribution. (20 points)
+2. A database of information that is maintained by human editors and lists websites by category and subcategory with categorization is known as: (A) A search directory. (B) Automated voice response (AVR). (C) Apps. (D) SEO. (10 points)
+3. Marketing that moves away from a transaction-based effort to a conversation (i.e. two-way dialogue) and can be described as a situation or mechanism through which marketers and a customer (e.g. stakeholders) interact usually in real-time is known as: (A) Digital marketing. (B) Interactive marketing. (C) Direct marketing. (D) Electronic marketing. (30 points)
+4. An important characteristic of services is that they are produced and consumed by people, simultaneously, as a single event. One of the outcomes of this unique process is that it is exceedingly difficult to standardize the delivery of services around the blueprint model. Which characteristic of service is this referred to? (A) Intangibility. (B) Inseparability. (C) Variability. (D) Perishability. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+27,2,10-40-30-20,A,10,B,40,D,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. ____________ distribute the product. They offer value through services associated with selling inventory, credit, and aftersales service. (A) Distributors. (B) Agents. (C) Merchants. (D) Franchises. (10 points)
+2. The extent to which a service envelops a product varies according to a number of factors. Which of the following is NOT one of the factors? (A) The level of tangibility associated with the type of product. (B) Performance-value. (C) Variations in supply and demand. (D) The way in which the service is delivered. (40 points)
+3. These objectives are often the most suitable when firms operate in a market dominated by a major competitor and where their financial resources are limited. (A) Divest objectives. (B) Harvest objectives. (C) Hold objectives. (D) Niche objectives (30 points)
+4. Many brands are deliberately imbued with human characteristics, to the point that they are identified as having particular personalities. This is referred to as: (A) Branding pyramid. (B) Brand value. (C) Brand names. (D) Brand personalities. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+28,2,20-10-40-30,C,20,B,10,B,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The importance and significance of customer experience to both individuals and society is referred to as: (A) Knowledge economy. (B) Service economy. (C) Experience economy. (D) Customer economy. (20 points)
+2. A commonly used basis for segmenting consumer markets is: (A) Organizational size. (B) Demographics. (C) Product type. (D) Price. (10 points)
+3. Four competing philosophies strongly influence the role of marketing and marketing activities within an organization. Which if the following is not a component of market orientation? (A) Customer orientation. (B) Profitability orientation. (C) Interfunctional coordination. (D) Competitor orientation. (40 points)
+4. Which of the following is the investigation of the hedonic consumption of products? (A) Social interaction perspective. (B) Functional utilization perspective. (C) Experiential consumption. (D) Brand management perspective. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+29,2,20-30-10-40,D,20,A,30,B,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. _________ enable different types of uncertainty to be lowered in several ways (Fill and McKee, 2012). These include reducing the complexity, increasing value and competitive advantage, routinization, and providing specialization. (A) Warehouse. (B) Distribution. (C) Supply chain. (D) Marketing channels. (20 points)
+2. ________________reflect a purchaser's high level of involvement in the purchase decision. There is high perceived risk in these decisions so consumers spend a great deal of time, care, and energy searching, formulating, and making the final decision. (A) Durable goods. (B) Non-durable goods. (C) Convenience products. (D) Services. (30 points)
+3. ____________ is very effective at delivering messages to target audiences as it allows for explanation in a way that most other media cannot. (A) Digital. (B) Print. (C) Broadcast. (D) Outdoor. (10 points)
+4. A key benefit of the STP process is: (A) More effective and efficient matching of company resources to targeted market segments promising the greatest ROMI. (B) Enhancing a company's competitive position by providing direction and focus for marketing strategies. (C) Examining and identifying growth opportunities in the market through the identification of new customers, growth segments, or new product uses. (D) All of the above. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+30,2,40-30-10-20,B,40,D,30,A,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. This branding policy requires that all the products use the organization's name, either entirely or in part, e.g. Microsoft, Heinz, and Kellogg's (A) Individual branding. (B) Family branding. (C) Corporate brands. (D) Manufacturer brand. (40 points)
+2. The pricing approach where prices are set based on what customers believe to offer value is called the: (A) Cost-oriented approach. (B) Demand-oriented approach. (C) Competitor-oriented approach. (D) Value-oriented approach. (30 points)
+3. The process of keeping a running account of merchandise on hand is referred to as (A) perpetual inventory (B) economic order quantity (C) book inventory (D) physical inventory (10 points)
+4. The term marketing refers to: (A) new product concepts and improvements. (B) advertising and promotion activities. (C) a philosophy that stresses customer value and satisfaction. (D) planning sales campaigns. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+31,2,40-30-10-20,D,40,C,30,D,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. ____________________ are those who address the same target market but provide a different offering to satisfy the market need, for example Spotify, Sony, and Apple's iPod. (A) Direct competitions. (B) Direct suppliers. (C) Indirect distributors. (D) Indirect competitions. (40 points)
+2. A marketing research firm contracts with clients to conduct a complete marketing research project from data collection, analysis, and reporting. It is a__________ firm. (A) Consultant. (B) Field agency. (C) Full-service agency. (D) Tabulation agency. (30 points)
+3. Marketing period, 1950s-1980s - characterized by a more advanced focus on the ___________. (A) Society and ethics. (B) Personal selling. (C) Physical production. (D) Customer's needs. (10 points)
+4. A marketing philosophy summarized by the phrase 'a stronger focus on social and ethical concerns in marketing' is characteristic of the _________ period. (A) Production. (B) Sales. (C) Marketing. (D) societal marketing. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+32,2,30-20-10-40,B,30,C,20,A,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In B2B contexts, ___________ occurs in large organizations where considerable internal dealing between different company divisions occurs, often across national boundaries. (A) Price gouging. (B) Transfer pricing. (C) Pay what you want pricing. (D) EVC pricing. (30 points)
+2. This is when a product or service is offered together with another typically complementary product or service: (A) Product pricing. (B) Price differentiation. (C) Pure price bundling. (D) Odd-Number pricing. (20 points)
+3. Types of non-random samples include: (A) Convenience and quota samples. (B) Cluster and convenience samples. (C) Stratified and convenience samples. (D) Random and cluster samples. (10 points)
+4. This form of marketing communications tool is referred to as 'a paid, mediated form of communication from an identifiable source, designed to persuade the receiver to take some action, now or in the future'. This is referred to as: (A) Advertising. (B) Personal selling. (C) Public relations. (D) Publicity. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+33,2,40-30-10-20,A,40,D,30,B,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is typically not a result of recognizing the importance of ethnic groups by marketers? (A) Use of an undifferentiated one-size-fits-all marketing strategy. (B) Adaptation of the advertising, particularly the use of foreign languages, to the target ethnic market. (C) Variations in product offerings to suit the wants of a particular group. (D) Study of ethnic buying habits to isolate market segments. (40 points)
+2. Psychographic segmentation is based on: (A) The quantitative side of consumer demographic analysis. (B) The quantitative side of consumer geographic analysis. (C) Individuals' residential patterns and life-cycle preferences. (D) Grouping people according to their psychological characteristics, values, and lifestyles. (30 points)
+3. This is where the perception on the part of a channel member is that its goal attainment is being impeded by another, with stress or tension the result: (A) Channel communication. (B) Channel conflict. (C) Channel relationships. (D) Customer conflict. (10 points)
+4. The primary objective of team-based selling is to (A) match various functional areas of the company with customer needs (B) distribute the work involved in managing an account (C) equitably manage the sales bonus pool (D) create multiple points of contact between the customer and the company (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+34,2,10-40-30-20,C,10,A,40,C,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following consumer buying behaviours requires the least effort? (A) High involvement buying situation. (B) New buying situation. (C) Routine buying. (D) Impulsive buying. (10 points)
+2. It has been claimed that the three major outcomes from the development of relationship trust are satisfaction, ___________, and continuity (Pavlou, 2002). (A) Reduced perceived risk. (B) Service recovery. (C) Service processes. (D) Efficiency. (40 points)
+3. ________________ occur(s) where there is no prior history of exchange and no future exchanges are expected between a buyer and seller. (A) Relationship marketing. (B) Service mix. (C) Market exchanges. (D) Service failure. (30 points)
+4. _______________ is concerned with the development of knowledge that is specific to the parties involved and is referred to as 'learning together'. (A) Dialogue. (B) Personal influencer. (C) Feedback. (D) Message. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+35,2,20-10-30-40,A,20,A,10,C,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is the communication model that depicts information flowing via various media channels, to particular types of people, to whom other members of the audience refer for information and guidance? (A) Two-step. (B) Three-step. (C) Multi-step. (D) One-step. (20 points)
+2. SWOT is an acronym for: (A) Strengths, weaknesses, opportunities, threats. (B) Strategy, work, openness, toughness. (C) Strategy, weakness, opinions, tactics. (D) Strategy, working, opinion, tactical. (10 points)
+3. In the _________ stage in the adoption process, consumers become aware of the new proposition. They have little information and have yet to develop any particular attitudes towards the product. Indeed, at this stage consumers are not interested in finding out any more information. (A) Persuasion (B) Confirmation (C) Knowledge (D) Implementation (30 points)
+4. To highlight the variation in approaches to purchasing behaviour, Svahn and Westerlund (2009) identify six principal purchasing strategies used by organizations. The __________ strategy refers to a buyer's efficiency orientation where the main purchasing goal is to seek the lowest price for the offering. To help achieve this, the buyer actively promotes competition among several potential suppliers. (A) 'Bargainer' purchasing. (B) The 'adaptator' purchasing. (C) Price minimizer' purchasing. (D) The 'projector' purchasing. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+36,2,40-20-10-30,C,40,C,20,D,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A person who is in the position of attempting to satisfy their needs at the most basic level is operating at the level of Maslow's needs hierarchy called the need for: (A) Self-actualization. (B) Esteem. (C) Physiological needs. (D) Belongingness. (40 points)
+2. What is the term used to describe how consistent or stable the ratings generated by a scale are? (A) Replication. (B) Pre-code. (C) Reliability. (D) Convenience. (20 points)
+3. Which of the following is not an example of a behavioural variable? (A) Product usage. (B) Media usage. (C) Purchase occasion. (D) Personality. (10 points)
+4. Which element of the promotional mix handles unfavorable stories and events and promotes a good corporate image? (A) Personal selling (B) Sales promotion (C) Direct marketing (D) Public relations (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+37,2,10-40-30-20,D,10,A,40,A,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following gives the owner exclusive rights by law to use a brand? (A) Brand loyalty (B) Brand mark (C) Trade name (D) Trademark (10 points)
+2. Marketing research: (A) Is work undertaken to understand how to make specific marketing strategy decisions. (B) Is the collection and analysis of data from a sample or census of individuals or organizations. (C) Includes all forms of market, opinion, and social research such as consumer and industrial surveys. (D) Is work undertaken to determine either structural characteristics of the industry of concern. (40 points)
+3. Where the winning bidder obtains an unprofitable contract that he/she is duty bound to deliver because their bid price was set so low, this is known as: (A) Winner's curse. (B) Winner's price. (C) Winner's reward. (D) Loss-leader pricing. (30 points)
+4. With this pricing approach, the pricing process begins with the customer; not the cost of the product offering: (A) Value-based pricing. (B) Cost-based pricing. (C) Customer-led pricing. (D) Sales pricing. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+38,2,40-30-10-20,C,40,A,30,D,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. This level of branding can be seen when a customer attaches a name, term, or other feature that enables them to identify one seller's good or service as distinct from those of other sellers. This branding is known as: (A) Corporate brand. (B) Family branding. (C) Customer branding. (D) International brand. (40 points)
+2. Internet-based organizations designed to provide information to channel members, including end-users are referred to as: (A) Infomediaries. (B) Retailers. (C) Department stores. (D) Wholesalers. (30 points)
+3. These sell directly to end consumers and may purchase directly from manufacturers and/or deal with wholesalers: (A) Distributors. (B) Franchising. (C) Merchant. (D) Retailers. (10 points)
+4. This is something that at some time in the future may destabilize and/or reduce the potential performance of the organization. (A) Strength. (B) Weakness. (C) Threat. (D) Opportunities. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+39,3,30-40-10-20,C,30,C,40,A,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Firms that view themselves as market leaders in product quality frequently adopt a (A) market share strategy (B) penetration pricing strategy (C) strategy that focuses on non-price benefits (D) strategy to expand the overall market (30 points)
+2. Why is market segmentation carried out? (A) To break down large markets into smaller markets. (B) To provide an opportunity to surpass competitors. (C) By grouping together customers with similar needs, it provides a commercially viable method of serving these customers. (D) To allow the achievement of greater market share. (40 points)
+3. These are costs which do not vary according to the number of units of product made or service sold: (A) Fixed costs. (B) Moving assets. (C) Working capital. (D) Fixed capital. (10 points)
+4. Which of the following is the most appropriate pricing strategy to use when introducing a new and unique product to the market? (A) Price skimming (B) Promotional pricing (C) Psychological pricing (D) Penetration pricing (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+40,3,20-10-40-30,B,20,C,10,B,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. This is part of the communication process where receivers unpack the various components of the message, and begin to make sense and give the message meaning: (A) Encoding. (B) Decoding. (C) Transfer. (D) Noise. (20 points)
+2. In marketing terms, ___________ refers to what we get for what we pay: (A) Revenue. (B) Cost. (C) Value. (D) Product. (10 points)
+3. To be effective, the process of market segmentation must meet which of the following basic requirements? (A) The firm must avoid focusing on non-variables such as profitability and volume. (B) The market segment must have measurable purchasing power and size. (C) The company must expand beyond its marketing capabilities to capture growing markets. (D) The market segment must reflect the population's changing attitudes and lifestyles. (40 points)
+4. This is where intermediaries are given exclusive rights to market the good or service within a defined 'territory', thus using a very limited number of intermediaries: (A) Exclusive. (B) Intensive. (C) Selective. (D) Direct. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+41,3,10-30-40-20,B,10,D,30,D,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to the British Government, which of the following is not a marketing function? (A) Promote marketing intelligence. (B) Develop sales tactics. (C) Develop the customer proposition. (D) Work with other business functions and third parties. (10 points)
+2. A company builds its sales message, advertising message, and promotion theme to influence how a particular market sector perceives a good or service in comparison with the competition. The company is primarily engaged in (A) segmentation (B) mass customization (C) concentrated targeting (D) positioning (30 points)
+3. Which of the following is an example of costbased pricing? (A) Basing the price on what the customer is willing to pay (B) Basing the price on the psychological expectations of the customer (C) Basing the price on the features and benefits of the product (D) Basing the price on the full cost of production plus the required profit (40 points)
+4. According to Maslow's Hierarchy of Needs theory, the need for fulfilment, for realizing one's own potential, and for fully using one's talents and capabilities are examples of __________ needs. (A) Self-actualization. (B) Physiological. (C) Social. (D) Esteem. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+42,3,40-10-30-20,A,40,A,10,C,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If an advertisement shows the interior of a train with comfortable seats and plenty of space yet a customer boards a train only to find a lack of space and hard seating. This is an example of: (A) GAP 4-the gap between service delivery and external communications. (B) GAP 2-the gap between management perception and service-quality specification (C) GAP1-the gap between the customer's expectations and management perception. (D) GAP 3-the gap between service-quality specifications and service delivery. (40 points)
+2. ________ is the process of marketing accomplished or facilitated via the use of Internet technologies (e.g. web, email, intranet, extranets, etc.). (A) Internet marketing. (B) Search marketing. (C) E-marketing. (D) Mobile marketing. (10 points)
+3. This business-to-business pricing approach seeks to understand customers' needs before pricing the offering according to those needs in order to generate a long-term relationship. This is referred to as: (A) Geographical pricing. (B) Discount pricing. (C) Relationship pricing. (D) Value-in-use pricing. (30 points)
+4. This is a form of targeted advertising, on websites, with advertisements selected and served by automated systems based on the content displayed to the user. (A) Contextual advertising. (B) Interactive marketing. (C) Internet advertising. (D) Direct marketing. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+43,3,10-30-20-40,D,10,B,30,C,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is not one of the categories of research design? (A) Exploratory research. (B) Descriptive research. (C) Causal research. (D) Desk research. (10 points)
+2. In conducting international market research, there are three types of equivalence. Which of the following is NOT one of the equivalences? (A) Conceptual equivalence. (B) Market equivalence. (C) Functional equivalence. (D) Translation equivalence. (30 points)
+3. A method of marketing by electronic mail wherein the recipient of the message has consented to receive it is called: (A) Search marketing. (B) Internet advertising. (C) Permission-based email marketing. (D) Social web marketing. (20 points)
+4. The management and execution of marketing using digital electronic technologies and channels (e.g. web, email, digital TV, wireless media) and digital data about user/customer characteristics and behaviour is referred to as: (A) E-marketing. (B) Social marketing. (C) Digital marketing (D) Internet marketing. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+44,3,40-30-20-10,A,40,C,30,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. ____________ is also a form of sponsorship and represents a relationship between film/TV producers and managers of brands. Through this arrangement, brand managers are able, for a fee, to present their brands 'naturally' within a film or entertainment event. Such placement is designed to increase brand awareness, develop positive brand attitudes, and possibly lead to purchase activity. (A) Brand placement. (B) Field marketing. (C) Exhibition. (D) Viral marketing. (40 points)
+2. A form of marketing communications that uses the Internet for the purpose of advertising, aiming to increase website traffic and/or encourage product trial, purchase, and repeat purchase activity is called: (A) Search marketing. (B) E-mail marketing. (C) Internet advertising. (D) Social web marketing. (30 points)
+3. These objectives are often employed in mature markets as firms/products enter a decline phase. The goal is to maximize short-term profits and stimulate a positive cash flow. (A) Divest objectives. (B) Hold objectives. (C) Growth objectives. (D) Harvesting objectives. (20 points)
+4. Providing free samples of perfumes (scent) in magazines is an example of which of the following? (A) Classical conditioning. (B) Operant conditioning. (C) Social learning. (D) Behavioural learning. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+45,3,30-20-10-40,D,30,B,20,D,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The action of presenting persuasive communication and the action of audiences in interpreting that communication to assimilate it into their existing understanding is referred to as: (A) Needs identifying. (B) Innovating. (C) Advertising. (D) Framing. (30 points)
+2. ________________is used to influence the way an organization is perceived by various groups of stakeholders. (A) Direct marketing. (B) Public relations. (C) Sale promotion. (D) Advertising (20 points)
+3. These goods are bought infrequently, used repeatedly, and involve a reasonably high level of consumer risk: (A) Impulse goods. (B) Luxury goods. (C) Non-durable goods. (D) Durable goods. (10 points)
+4. The term 'marketing mix' describes: (A) A composite analysis of all environmental factors inside and outside the firm. (B) A series of business decisions that aid in selling a product. (C) The relationship between a firm's marketing strengths and its business weaknesses. (D) A blending of four strategic elements to satisfy specific target markets. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+46,3,30-10-20-40,B,30,B,10,B,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. _______________can be defined as the aspect of our psyche that determines the way in which we respond to our environment in a relatively stable way over time. (A) Perception. (B) Personality. (C) Learning. (D) Memory. (30 points)
+2. McDonald's and KFC are good examples of: (A) Distributors. (B) Franchising. (C) Merchant. (D) Retailers. (10 points)
+3. The process that creates changes in behaviour is called: (A) Selective adaptation. (B) Learning. (C) Involvement manipulation. (D) Attitude adjustment. (20 points)
+4. Intermediaries assist end-users by bringing a product produced a long way away to a more convenient location for purchase and consumption. This is referred to as: (A) Time utility. (B) Place utility. (C) Ownership utility. (D) Information utility. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+47,3,20-40-10-30,C,20,D,40,D,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What type of media has the primary objective to get the attention of shoppers and to stimulate them to make a purchase? (Examples include point-of-purchase displays and packaging.) (A) Broadcast media. (B) Interactive media. (C) In-store media. (D) Support media. (20 points)
+2. Secondary data has two important advantages over primary data. It is: (A) Capable of compensating for rapid environmental changes and technical improvements. (B) Always available and complete. (C) Seldom obsolete and usually fits the dimensions of your problem. (D) Generally cheaper to gather than primary data and takes less time to find. (40 points)
+3. This is part of the communication process and refers to the responses offered by receivers: (A) Encoding. (B) Decoding. (C) Transfer. (D) Feedback. (10 points)
+4. The Internet has led to the development of an information intermediary. Here the key role is to manage information to improve the efficiency and effectiveness of the distribution channel. This is referred to as: (A) Time utility. (B) Information utility. (C) Ownership utility. (D) Place utility. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+48,3,40-30-20-10,C,40,C,30,D,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The purpose of evaluating the attractiveness of the differing market segments identified in the second stage of the market segmentation process is to: (A) Identify the specific members of each segment to be able to contact each of them directly. (B) Determine the level of resources that must be committed to each segment. (C) Evaluate the market potential within each segment. (D) Design marketing strategy and tactics to reinforce the firm's image. (40 points)
+2. ____________ is a form of digital marketing that describes the use of the social web and social media (e.g. social networks, online communities, blogs or wikis) or any online collaborative technology for marketing activities, be it sales, public relations, research, distribution, or customer service. (A) Pay per click (PPC) (B) Digital asset optimization (DAO) (C) Social media marketing (SMM) (D) Search engine optimization (SEO) (30 points)
+3. Newsletters, catalogues, and invitations to organization-sponsored events are most closely associated with the marketing mix activity of: (A) Pricing. (B) Distribution. (C) Product development. (D) Promotion. (20 points)
+4. Salespeople who view a situation as a customer sees it are exhibiting (A) cooperation (B) empathy (C) responsibility (D) tolerance (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+49,3,10-40-20-30,C,10,A,40,A,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is not an element of the marketing mix? (A) Promotion. (B) Product. (C) Target market. (D) Pricing. (10 points)
+2. These are chains of organizations that are concerned with the management of the processes and activities involved in creating and moving products from producers and manufacturers to end-user customers. The organizations involved with any one journey, are collectively termed as a: (A) Distribution. (B) Vendor. (C) Communication. (D) Selling. (40 points)
+3. What channel structure is it where the product goes directly from the producer to the final customer? (A) Direct. (B) Indirect. (C) Hybrid. (D) None of the above. (20 points)
+4. Which of the following is not part of the consumer proposition acquisition process? (A) Motive development. (B) Information gathering. (C) Proposition evaluation. (D) Perception. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+50,3,20-10-40-30,D,20,B,10,D,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following elements is not part of Porter's Five Forces model for industry competitiveness? (A) Threat of substitutes. (B) Threat of suppliers. (C) Power of buyers. (D) Threat from government. (20 points)
+2. Organizational characteristics, such as organizational size and location, are sometimes referred to as___________. (A) DMU. (B) Firmographics. (C) ACORN (D) Product usage. (10 points)
+3. This approach has been used to convey particular information and help educate large target audiences through television and radio programmes. This approach is referred to as: (A) Opinion followers. (B) Opinion formers. (C) Public relations. (D) Opinion leaders. (40 points)
+4. This is a group of people in the process of diffusion who enjoy being at the leading edge of innovation and buy into new products at an early stage: (A) Late majority. (B) Early adopter. (C) Early majority. (D) Laggards. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+51,3,30-40-20-10,B,30,D,40,D,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to the British Government, which of the following is not a marketing function? (A) Promote marketing intelligence. (B) Develop sales tactics. (C) Develop the customer proposition. (D) Work with other business functions and third parties. (30 points)
+2. These objectives are often employed in mature markets as firms/products enter a decline phase. The goal is to maximize short-term profits and stimulate a positive cash flow. (A) Divest objectives. (B) Hold objectives. (C) Growth objectives. (D) Harvesting objectives. (40 points)
+3. The action of presenting persuasive communication and the action of audiences in interpreting that communication to assimilate it into their existing understanding is referred to as: (A) Needs identifying. (B) Innovating. (C) Advertising. (D) Framing. (20 points)
+4. Which element of the promotional mix handles unfavorable stories and events and promotes a good corporate image? (A) Personal selling (B) Sales promotion (C) Direct marketing (D) Public relations (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+52,3,30-40-10-20,D,30,D,40,B,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is not part of the consumer proposition acquisition process? (A) Motive development. (B) Information gathering. (C) Proposition evaluation. (D) Perception. (30 points)
+2. A key benefit of the STP process is: (A) More effective and efficient matching of company resources to targeted market segments promising the greatest ROMI. (B) Enhancing a company's competitive position by providing direction and focus for marketing strategies. (C) Examining and identifying growth opportunities in the market through the identification of new customers, growth segments, or new product uses. (D) All of the above. (40 points)
+3. A commonly used basis for segmenting consumer markets is: (A) Organizational size. (B) Demographics. (C) Product type. (D) Price. (10 points)
+4. The process of keeping a running account of merchandise on hand is referred to as (A) perpetual inventory (B) economic order quantity (C) book inventory (D) physical inventory (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+53,3,30-10-40-20,C,30,C,10,C,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A person who is in the position of attempting to satisfy their needs at the most basic level is operating at the level of Maslow's needs hierarchy called the need for: (A) Self-actualization. (B) Esteem. (C) Physiological needs. (D) Belongingness. (30 points)
+2. What is the term used to describe how consistent or stable the ratings generated by a scale are? (A) Replication. (B) Pre-code. (C) Reliability. (D) Convenience. (10 points)
+3. What type of media has the primary objective to get the attention of shoppers and to stimulate them to make a purchase? (Examples include point-of-purchase displays and packaging.) (A) Broadcast media. (B) Interactive media. (C) In-store media. (D) Support media. (40 points)
+4. Providing free samples of perfumes (scent) in magazines is an example of which of the following? (A) Classical conditioning. (B) Operant conditioning. (C) Social learning. (D) Behavioural learning. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+54,3,30-40-20-10,B,30,D,40,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Four competing philosophies strongly influence the role of marketing and marketing activities within an organization. Which if the following is not a component of market orientation? (A) Customer orientation. (B) Profitability orientation. (C) Interfunctional coordination. (D) Competitor orientation. (30 points)
+2. A company builds its sales message, advertising message, and promotion theme to influence how a particular market sector perceives a good or service in comparison with the competition. The company is primarily engaged in (A) segmentation (B) mass customization (C) concentrated targeting (D) positioning (40 points)
+3. ____________________ are those who address the same target market but provide a different offering to satisfy the market need, for example Spotify, Sony, and Apple's iPod. (A) Direct competitions. (B) Direct suppliers. (C) Indirect distributors. (D) Indirect competitions. (20 points)
+4. These are costs which do not vary according to the number of units of product made or service sold: (A) Fixed costs. (B) Moving assets. (C) Working capital. (D) Fixed capital. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+55,3,30-40-10-20,C,30,C,40,C,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. ____________ is a form of digital marketing that describes the use of the social web and social media (e.g. social networks, online communities, blogs or wikis) or any online collaborative technology for marketing activities, be it sales, public relations, research, distribution, or customer service. (A) Pay per click (PPC) (B) Digital asset optimization (DAO) (C) Social media marketing (SMM) (D) Search engine optimization (SEO) (30 points)
+2. To highlight the variation in approaches to purchasing behaviour, Svahn and Westerlund (2009) identify six principal purchasing strategies used by organizations. The __________ strategy refers to a buyer's efficiency orientation where the main purchasing goal is to seek the lowest price for the offering. To help achieve this, the buyer actively promotes competition among several potential suppliers. (A) 'Bargainer' purchasing. (B) The 'adaptator' purchasing. (C) Price minimizer' purchasing. (D) The 'projector' purchasing. (40 points)
+3. Why is market segmentation carried out? (A) To break down large markets into smaller markets. (B) To provide an opportunity to surpass competitors. (C) By grouping together customers with similar needs, it provides a commercially viable method of serving these customers. (D) To allow the achievement of greater market share. (10 points)
+4. Secondary data has two important advantages over primary data. It is: (A) Capable of compensating for rapid environmental changes and technical improvements. (B) Always available and complete. (C) Seldom obsolete and usually fits the dimensions of your problem. (D) Generally cheaper to gather than primary data and takes less time to find. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+56,3,20-30-40-10,A,20,A,30,A,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. ____________ distribute the product. They offer value through services associated with selling inventory, credit, and aftersales service. (A) Distributors. (B) Agents. (C) Merchants. (D) Franchises. (20 points)
+2. With this pricing approach, the pricing process begins with the customer; not the cost of the product offering: (A) Value-based pricing. (B) Cost-based pricing. (C) Customer-led pricing. (D) Sales pricing. (30 points)
+3. Which of the following is the communication model that depicts information flowing via various media channels, to particular types of people, to whom other members of the audience refer for information and guidance? (A) Two-step. (B) Three-step. (C) Multi-step. (D) One-step. (40 points)
+4. What channel structure is it where the product goes directly from the producer to the final customer? (A) Direct. (B) Indirect. (C) Hybrid. (D) None of the above. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+57,3,40-20-30-10,D,40,A,20,A,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. _________ enable different types of uncertainty to be lowered in several ways (Fill and McKee, 2012). These include reducing the complexity, increasing value and competitive advantage, routinization, and providing specialization. (A) Warehouse. (B) Distribution. (C) Supply chain. (D) Marketing channels. (40 points)
+2. It has been claimed that the three major outcomes from the development of relationship trust are satisfaction, ___________, and continuity (Pavlou, 2002). (A) Reduced perceived risk. (B) Service recovery. (C) Service processes. (D) Efficiency. (20 points)
+3. According to Maslow's Hierarchy of Needs theory, the need for fulfilment, for realizing one's own potential, and for fully using one's talents and capabilities are examples of __________ needs. (A) Self-actualization. (B) Physiological. (C) Social. (D) Esteem. (30 points)
+4. This is where intermediaries are given exclusive rights to market the good or service within a defined 'territory', thus using a very limited number of intermediaries: (A) Exclusive. (B) Intensive. (C) Selective. (D) Direct. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+58,4,20-10-30-40,A,20,D,10,A,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. _______________ is concerned with the development of knowledge that is specific to the parties involved and is referred to as 'learning together'. (A) Dialogue. (B) Personal influencer. (C) Feedback. (D) Message. (20 points)
+2. These sell directly to end consumers and may purchase directly from manufacturers and/or deal with wholesalers: (A) Distributors. (B) Franchising. (C) Merchant. (D) Retailers. (10 points)
+3. Which of the following is the most appropriate pricing strategy to use when introducing a new and unique product to the market? (A) Price skimming (B) Promotional pricing (C) Psychological pricing (D) Penetration pricing (30 points)
+4. A database of information that is maintained by human editors and lists websites by category and subcategory with categorization is known as: (A) A search directory. (B) Automated voice response (AVR). (C) Apps. (D) SEO. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+59,4,30-20-10-40,B,30,C,20,B,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In conducting international market research, there are three types of equivalence. Which of the following is NOT one of the equivalences? (A) Conceptual equivalence. (B) Market equivalence. (C) Functional equivalence. (D) Translation equivalence. (30 points)
+2. Firms that view themselves as market leaders in product quality frequently adopt a (A) market share strategy (B) penetration pricing strategy (C) strategy that focuses on non-price benefits (D) strategy to expand the overall market (20 points)
+3. ________________is used to influence the way an organization is perceived by various groups of stakeholders. (A) Direct marketing. (B) Public relations. (C) Sale promotion. (D) Advertising (10 points)
+4. The primary objective of team-based selling is to (A) match various functional areas of the company with customer needs (B) distribute the work involved in managing an account (C) equitably manage the sales bonus pool (D) create multiple points of contact between the customer and the company (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+60,4,20-30-10-40,C,20,B,30,B,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. This is when a product or service is offered together with another typically complementary product or service: (A) Product pricing. (B) Price differentiation. (C) Pure price bundling. (D) Odd-Number pricing. (20 points)
+2. This is part of the communication process where receivers unpack the various components of the message, and begin to make sense and give the message meaning: (A) Encoding. (B) Decoding. (C) Transfer. (D) Noise. (30 points)
+3. Organizational characteristics, such as organizational size and location, are sometimes referred to as___________. (A) DMU. (B) Firmographics. (C) ACORN (D) Product usage. (10 points)
+4. ________ is the process of marketing accomplished or facilitated via the use of Internet technologies (e.g. web, email, intranet, extranets, etc.). (A) Internet marketing. (B) Search marketing. (C) E-marketing. (D) Mobile marketing. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+61,4,40-30-20-10,D,40,B,30,B,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The term 'marketing mix' describes: (A) A composite analysis of all environmental factors inside and outside the firm. (B) A series of business decisions that aid in selling a product. (C) The relationship between a firm's marketing strengths and its business weaknesses. (D) A blending of four strategic elements to satisfy specific target markets. (40 points)
+2. Which of the following means placing your product or service in as many outlets or locations as possible, in order to maximize the opportunity for customers to find the good or service? (A) Exclusive distribution. (B) Intensive distribution. (C) Selective distribution. (D) Direct distribution. (30 points)
+3. Salespeople who view a situation as a customer sees it are exhibiting (A) cooperation (B) empathy (C) responsibility (D) tolerance (20 points)
+4. Which of the following is not an element of the marketing mix? (A) Promotion. (B) Product. (C) Target market. (D) Pricing. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+62,4,10-30-20-40,B,10,C,30,A,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. ____________ is very effective at delivering messages to target audiences as it allows for explanation in a way that most other media cannot. (A) Digital. (B) Print. (C) Broadcast. (D) Outdoor. (10 points)
+2. Which of the following is the investigation of the hedonic consumption of products? (A) Social interaction perspective. (B) Functional utilization perspective. (C) Experiential consumption. (D) Brand management perspective. (30 points)
+3. SWOT is an acronym for: (A) Strengths, weaknesses, opportunities, threats. (B) Strategy, work, openness, toughness. (C) Strategy, weakness, opinions, tactics. (D) Strategy, working, opinion, tactical. (20 points)
+4. This is where the perception on the part of a channel member is that its goal attainment is being impeded by another, with stress or tension the result: (A) Channel communication. (B) Channel conflict. (C) Channel relationships. (D) Customer conflict. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+63,4,20-40-10-30,D,20,C,40,C,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is not an example of a behavioural variable? (A) Product usage. (B) Media usage. (C) Purchase occasion. (D) Personality. (20 points)
+2. The purpose of evaluating the attractiveness of the differing market segments identified in the second stage of the market segmentation process is to: (A) Identify the specific members of each segment to be able to contact each of them directly. (B) Determine the level of resources that must be committed to each segment. (C) Evaluate the market potential within each segment. (D) Design marketing strategy and tactics to reinforce the firm's image. (40 points)
+3. In marketing terms, ___________ refers to what we get for what we pay: (A) Revenue. (B) Cost. (C) Value. (D) Product. (10 points)
+4. The process that creates changes in behaviour is called: (A) Selective adaptation. (B) Learning. (C) Involvement manipulation. (D) Attitude adjustment. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+64,4,10-20-40-30,B,10,C,20,D,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. McDonald's and KFC are good examples of: (A) Distributors. (B) Franchising. (C) Merchant. (D) Retailers. (10 points)
+2. Which of the following consumer buying behaviours requires the least effort? (A) High involvement buying situation. (B) New buying situation. (C) Routine buying. (D) Impulsive buying. (20 points)
+3. A marketing philosophy summarized by the phrase 'a stronger focus on social and ethical concerns in marketing' is characteristic of the _________ period. (A) Production. (B) Sales. (C) Marketing. (D) societal marketing. (40 points)
+4. Internet-based organizations designed to provide information to channel members, including end-users are referred to as: (A) Infomediaries. (B) Retailers. (C) Department stores. (D) Wholesalers. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+65,4,10-20-30-40,D,10,C,20,C,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Marketing period, 1950s-1980s - characterized by a more advanced focus on the ___________. (A) Society and ethics. (B) Personal selling. (C) Physical production. (D) Customer's needs. (10 points)
+2. ________________ occur(s) where there is no prior history of exchange and no future exchanges are expected between a buyer and seller. (A) Relationship marketing. (B) Service mix. (C) Market exchanges. (D) Service failure. (20 points)
+3. This level of branding can be seen when a customer attaches a name, term, or other feature that enables them to identify one seller's good or service as distinct from those of other sellers. This branding is known as: (A) Corporate brand. (B) Family branding. (C) Customer branding. (D) International brand. (30 points)
+4. ____________ is also a form of sponsorship and represents a relationship between film/TV producers and managers of brands. Through this arrangement, brand managers are able, for a fee, to present their brands 'naturally' within a film or entertainment event. Such placement is designed to increase brand awareness, develop positive brand attitudes, and possibly lead to purchase activity. (A) Brand placement. (B) Field marketing. (C) Exhibition. (D) Viral marketing. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+66,4,10-20-40-30,B,10,A,20,A,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. _______________can be defined as the aspect of our psyche that determines the way in which we respond to our environment in a relatively stable way over time. (A) Perception. (B) Personality. (C) Learning. (D) Memory. (10 points)
+2. Where the winning bidder obtains an unprofitable contract that he/she is duty bound to deliver because their bid price was set so low, this is known as: (A) Winner's curse. (B) Winner's price. (C) Winner's reward. (D) Loss-leader pricing. (20 points)
+3. This form of marketing communications tool is referred to as 'a paid, mediated form of communication from an identifiable source, designed to persuade the receiver to take some action, now or in the future'. This is referred to as: (A) Advertising. (B) Personal selling. (C) Public relations. (D) Publicity. (40 points)
+4. A form of marketing communications that uses the Internet for the purpose of advertising, aiming to increase website traffic and/or encourage product trial, purchase, and repeat purchase activity is called: (A) Search marketing. (B) E-mail marketing. (C) Internet advertising. (D) Social web marketing. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+67,4,10-20-40-30,D,10,C,20,C,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The pricing approach where prices are set based on what customers believe to offer value is called the: (A) Cost-oriented approach. (B) Demand-oriented approach. (C) Competitor-oriented approach. (D) Value-oriented approach. (10 points)
+2. A method of marketing by electronic mail wherein the recipient of the message has consented to receive it is called: (A) Search marketing. (B) Internet advertising. (C) Permission-based email marketing. (D) Social web marketing. (20 points)
+3. An important characteristic of services is that they are produced and consumed by people, simultaneously, as a single event. One of the outcomes of this unique process is that it is exceedingly difficult to standardize the delivery of services around the blueprint model. Which characteristic of service is this referred to? (A) Intangibility. (B) Inseparability. (C) Variability. (D) Perishability. (40 points)
+4. Intermediaries assist end-users by bringing a product produced a long way away to a more convenient location for purchase and consumption. This is referred to as: (A) Time utility. (B) Place utility. (C) Ownership utility. (D) Information utility. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+68,4,10-30-40-20,A,10,C,30,A,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Types of non-random samples include: (A) Convenience and quota samples. (B) Cluster and convenience samples. (C) Stratified and convenience samples. (D) Random and cluster samples. (10 points)
+2. In the _________ stage in the adoption process, consumers become aware of the new proposition. They have little information and have yet to develop any particular attitudes towards the product. Indeed, at this stage consumers are not interested in finding out any more information. (A) Persuasion (B) Confirmation (C) Knowledge (D) Implementation (30 points)
+3. If an advertisement shows the interior of a train with comfortable seats and plenty of space yet a customer boards a train only to find a lack of space and hard seating. This is an example of: (A) GAP 4-the gap between service delivery and external communications. (B) GAP 2-the gap between management perception and service-quality specification (C) GAP1-the gap between the customer's expectations and management perception. (D) GAP 3-the gap between service-quality specifications and service delivery. (40 points)
+4. Which of the following elements is not part of Porter's Five Forces model for industry competitiveness? (A) Threat of substitutes. (B) Threat of suppliers. (C) Power of buyers. (D) Threat from government. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+69,4,40-10-30-20,A,40,B,10,C,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Marketing research: (A) Is work undertaken to understand how to make specific marketing strategy decisions. (B) Is the collection and analysis of data from a sample or census of individuals or organizations. (C) Includes all forms of market, opinion, and social research such as consumer and industrial surveys. (D) Is work undertaken to determine either structural characteristics of the industry of concern. (40 points)
+2. This branding policy requires that all the products use the organization's name, either entirely or in part, e.g. Microsoft, Heinz, and Kellogg's (A) Individual branding. (B) Family branding. (C) Corporate brands. (D) Manufacturer brand. (10 points)
+3. The management and execution of marketing using digital electronic technologies and channels (e.g. web, email, digital TV, wireless media) and digital data about user/customer characteristics and behaviour is referred to as: (A) E-marketing. (B) Social marketing. (C) Digital marketing (D) Internet marketing. (30 points)
+4. These objectives are often the most suitable when firms operate in a market dominated by a major competitor and where their financial resources are limited. (A) Divest objectives. (B) Harvest objectives. (C) Hold objectives. (D) Niche objectives (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+70,4,20-40-10-30,C,20,A,40,C,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The term marketing refers to: (A) new product concepts and improvements. (B) advertising and promotion activities. (C) a philosophy that stresses customer value and satisfaction. (D) planning sales campaigns. (20 points)
+2. These are chains of organizations that are concerned with the management of the processes and activities involved in creating and moving products from producers and manufacturers to end-user customers. The organizations involved with any one journey, are collectively termed as a: (A) Distribution. (B) Vendor. (C) Communication. (D) Selling. (40 points)
+3. The importance and significance of customer experience to both individuals and society is referred to as: (A) Knowledge economy. (B) Service economy. (C) Experience economy. (D) Customer economy. (10 points)
+4. Psychographic segmentation is based on: (A) The quantitative side of consumer demographic analysis. (B) The quantitative side of consumer geographic analysis. (C) Individuals' residential patterns and life-cycle preferences. (D) Grouping people according to their psychological characteristics, values, and lifestyles. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+71,4,20-10-30-40,B,20,C,10,C,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The Internet has led to the development of an information intermediary. Here the key role is to manage information to improve the efficiency and effectiveness of the distribution channel. This is referred to as: (A) Time utility. (B) Information utility. (C) Ownership utility. (D) Place utility. (20 points)
+2. This is something that at some time in the future may destabilize and/or reduce the potential performance of the organization. (A) Strength. (B) Weakness. (C) Threat. (D) Opportunities. (10 points)
+3. This business-to-business pricing approach seeks to understand customers' needs before pricing the offering according to those needs in order to generate a long-term relationship. This is referred to as: (A) Geographical pricing. (B) Discount pricing. (C) Relationship pricing. (D) Value-in-use pricing. (30 points)
+4. Which of the following is an example of costbased pricing? (A) Basing the price on what the customer is willing to pay (B) Basing the price on the psychological expectations of the customer (C) Basing the price on the features and benefits of the product (D) Basing the price on the full cost of production plus the required profit (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+72,4,20-10-30-40,C,20,D,10,A,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A marketing research firm contracts with clients to conduct a complete marketing research project from data collection, analysis, and reporting. It is a__________ firm. (A) Consultant. (B) Field agency. (C) Full-service agency. (D) Tabulation agency. (20 points)
+2. Many brands are deliberately imbued with human characteristics, to the point that they are identified as having particular personalities. This is referred to as: (A) Branding pyramid. (B) Brand value. (C) Brand names. (D) Brand personalities. (10 points)
+3. ________________reflect a purchaser's high level of involvement in the purchase decision. There is high perceived risk in these decisions so consumers spend a great deal of time, care, and energy searching, formulating, and making the final decision. (A) Durable goods. (B) Non-durable goods. (C) Convenience products. (D) Services. (30 points)
+4. To be effective, the process of market segmentation must meet which of the following basic requirements? (A) The firm must avoid focusing on non-variables such as profitability and volume. (B) The market segment must have measurable purchasing power and size. (C) The company must expand beyond its marketing capabilities to capture growing markets. (D) The market segment must reflect the population's changing attitudes and lifestyles. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+73,4,30-20-40-10,D,30,D,20,D,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. These goods are bought infrequently, used repeatedly, and involve a reasonably high level of consumer risk: (A) Impulse goods. (B) Luxury goods. (C) Non-durable goods. (D) Durable goods. (30 points)
+2. Which of the following is not one of the categories of research design? (A) Exploratory research. (B) Descriptive research. (C) Causal research. (D) Desk research. (20 points)
+3. Newsletters, catalogues, and invitations to organization-sponsored events are most closely associated with the marketing mix activity of: (A) Pricing. (B) Distribution. (C) Product development. (D) Promotion. (40 points)
+4. This is part of the communication process and refers to the responses offered by receivers: (A) Encoding. (B) Decoding. (C) Transfer. (D) Feedback. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+74,4,40-20-10-30,A,40,A,20,D,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is typically not a result of recognizing the importance of ethnic groups by marketers? (A) Use of an undifferentiated one-size-fits-all marketing strategy. (B) Adaptation of the advertising, particularly the use of foreign languages, to the target ethnic market. (C) Variations in product offerings to suit the wants of a particular group. (D) Study of ethnic buying habits to isolate market segments. (40 points)
+2. This is a form of targeted advertising, on websites, with advertisements selected and served by automated systems based on the content displayed to the user. (A) Contextual advertising. (B) Interactive marketing. (C) Internet advertising. (D) Direct marketing. (20 points)
+3. Which of the following gives the owner exclusive rights by law to use a brand? (A) Brand loyalty (B) Brand mark (C) Trade name (D) Trademark (10 points)
+4. In B2B contexts, ___________ occurs in large organizations where considerable internal dealing between different company divisions occurs, often across national boundaries. (A) Price gouging. (B) Transfer pricing. (C) Pay what you want pricing. (D) EVC pricing. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+75,4,40-30-20-10,B,40,B,30,D,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Marketing that moves away from a transaction-based effort to a conversation (i.e. two-way dialogue) and can be described as a situation or mechanism through which marketers and a customer (e.g. stakeholders) interact usually in real-time is known as: (A) Digital marketing. (B) Interactive marketing. (C) Direct marketing. (D) Electronic marketing. (40 points)
+2. The extent to which a service envelops a product varies according to a number of factors. Which of the following is NOT one of the factors? (A) The level of tangibility associated with the type of product. (B) Performance-value. (C) Variations in supply and demand. (D) The way in which the service is delivered. (30 points)
+3. This approach has been used to convey particular information and help educate large target audiences through television and radio programmes. This approach is referred to as: (A) Opinion followers. (B) Opinion formers. (C) Public relations. (D) Opinion leaders. (20 points)
+4. This is a group of people in the process of diffusion who enjoy being at the leading edge of innovation and buy into new products at an early stage: (A) Late majority. (B) Early adopter. (C) Early majority. (D) Laggards. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+76,4,30-10-40-20,B,30,D,10,A,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to the British Government, which of the following is not a marketing function? (A) Promote marketing intelligence. (B) Develop sales tactics. (C) Develop the customer proposition. (D) Work with other business functions and third parties. (30 points)
+2. This is part of the communication process and refers to the responses offered by receivers: (A) Encoding. (B) Decoding. (C) Transfer. (D) Feedback. (10 points)
+3. ________________reflect a purchaser's high level of involvement in the purchase decision. There is high perceived risk in these decisions so consumers spend a great deal of time, care, and energy searching, formulating, and making the final decision. (A) Durable goods. (B) Non-durable goods. (C) Convenience products. (D) Services. (40 points)
+4. Where the winning bidder obtains an unprofitable contract that he/she is duty bound to deliver because their bid price was set so low, this is known as: (A) Winner's curse. (B) Winner's price. (C) Winner's reward. (D) Loss-leader pricing. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+77,5,30-40-20-10,C,30,D,40,A,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is the investigation of the hedonic consumption of products? (A) Social interaction perspective. (B) Functional utilization perspective. (C) Experiential consumption. (D) Brand management perspective. (30 points)
+2. The action of presenting persuasive communication and the action of audiences in interpreting that communication to assimilate it into their existing understanding is referred to as: (A) Needs identifying. (B) Innovating. (C) Advertising. (D) Framing. (40 points)
+3. SWOT is an acronym for: (A) Strengths, weaknesses, opportunities, threats. (B) Strategy, work, openness, toughness. (C) Strategy, weakness, opinions, tactics. (D) Strategy, working, opinion, tactical. (20 points)
+4. The process of keeping a running account of merchandise on hand is referred to as (A) perpetual inventory (B) economic order quantity (C) book inventory (D) physical inventory (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+78,5,20-40-10-30,C,20,C,40,D,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A method of marketing by electronic mail wherein the recipient of the message has consented to receive it is called: (A) Search marketing. (B) Internet advertising. (C) Permission-based email marketing. (D) Social web marketing. (20 points)
+2. The management and execution of marketing using digital electronic technologies and channels (e.g. web, email, digital TV, wireless media) and digital data about user/customer characteristics and behaviour is referred to as: (A) E-marketing. (B) Social marketing. (C) Digital marketing (D) Internet marketing. (40 points)
+3. Which of the following is not an example of a behavioural variable? (A) Product usage. (B) Media usage. (C) Purchase occasion. (D) Personality. (10 points)
+4. According to Maslow's Hierarchy of Needs theory, the need for fulfilment, for realizing one's own potential, and for fully using one's talents and capabilities are examples of __________ needs. (A) Self-actualization. (B) Physiological. (C) Social. (D) Esteem. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+79,5,20-10-40-30,D,20,C,10,D,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. These sell directly to end consumers and may purchase directly from manufacturers and/or deal with wholesalers: (A) Distributors. (B) Franchising. (C) Merchant. (D) Retailers. (20 points)
+2. What is the term used to describe how consistent or stable the ratings generated by a scale are? (A) Replication. (B) Pre-code. (C) Reliability. (D) Convenience. (10 points)
+3. The term 'marketing mix' describes: (A) A composite analysis of all environmental factors inside and outside the firm. (B) A series of business decisions that aid in selling a product. (C) The relationship between a firm's marketing strengths and its business weaknesses. (D) A blending of four strategic elements to satisfy specific target markets. (40 points)
+4. Psychographic segmentation is based on: (A) The quantitative side of consumer demographic analysis. (B) The quantitative side of consumer geographic analysis. (C) Individuals' residential patterns and life-cycle preferences. (D) Grouping people according to their psychological characteristics, values, and lifestyles. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+80,5,20-40-30-10,A,20,C,40,D,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A database of information that is maintained by human editors and lists websites by category and subcategory with categorization is known as: (A) A search directory. (B) Automated voice response (AVR). (C) Apps. (D) SEO. (20 points)
+2. The purpose of evaluating the attractiveness of the differing market segments identified in the second stage of the market segmentation process is to: (A) Identify the specific members of each segment to be able to contact each of them directly. (B) Determine the level of resources that must be committed to each segment. (C) Evaluate the market potential within each segment. (D) Design marketing strategy and tactics to reinforce the firm's image. (40 points)
+3. This approach has been used to convey particular information and help educate large target audiences through television and radio programmes. This approach is referred to as: (A) Opinion followers. (B) Opinion formers. (C) Public relations. (D) Opinion leaders. (30 points)
+4. ________________ occur(s) where there is no prior history of exchange and no future exchanges are expected between a buyer and seller. (A) Relationship marketing. (B) Service mix. (C) Market exchanges. (D) Service failure. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+81,5,20-10-40-30,A,20,B,10,A,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. This form of marketing communications tool is referred to as 'a paid, mediated form of communication from an identifiable source, designed to persuade the receiver to take some action, now or in the future'. This is referred to as: (A) Advertising. (B) Personal selling. (C) Public relations. (D) Publicity. (20 points)
+2. The Internet has led to the development of an information intermediary. Here the key role is to manage information to improve the efficiency and effectiveness of the distribution channel. This is referred to as: (A) Time utility. (B) Information utility. (C) Ownership utility. (D) Place utility. (10 points)
+3. Marketing research: (A) Is work undertaken to understand how to make specific marketing strategy decisions. (B) Is the collection and analysis of data from a sample or census of individuals or organizations. (C) Includes all forms of market, opinion, and social research such as consumer and industrial surveys. (D) Is work undertaken to determine either structural characteristics of the industry of concern. (40 points)
+4. An important characteristic of services is that they are produced and consumed by people, simultaneously, as a single event. One of the outcomes of this unique process is that it is exceedingly difficult to standardize the delivery of services around the blueprint model. Which characteristic of service is this referred to? (A) Intangibility. (B) Inseparability. (C) Variability. (D) Perishability. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+82,5,10-40-20-30,C,10,B,40,B,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following consumer buying behaviours requires the least effort? (A) High involvement buying situation. (B) New buying situation. (C) Routine buying. (D) Impulsive buying. (10 points)
+2. Which of the following means placing your product or service in as many outlets or locations as possible, in order to maximize the opportunity for customers to find the good or service? (A) Exclusive distribution. (B) Intensive distribution. (C) Selective distribution. (D) Direct distribution. (40 points)
+3. ____________ is very effective at delivering messages to target audiences as it allows for explanation in a way that most other media cannot. (A) Digital. (B) Print. (C) Broadcast. (D) Outdoor. (20 points)
+4. Newsletters, catalogues, and invitations to organization-sponsored events are most closely associated with the marketing mix activity of: (A) Pricing. (B) Distribution. (C) Product development. (D) Promotion. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+83,5,30-40-20-10,C,30,C,40,C,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. This level of branding can be seen when a customer attaches a name, term, or other feature that enables them to identify one seller's good or service as distinct from those of other sellers. This branding is known as: (A) Corporate brand. (B) Family branding. (C) Customer branding. (D) International brand. (30 points)
+2. ____________ is a form of digital marketing that describes the use of the social web and social media (e.g. social networks, online communities, blogs or wikis) or any online collaborative technology for marketing activities, be it sales, public relations, research, distribution, or customer service. (A) Pay per click (PPC) (B) Digital asset optimization (DAO) (C) Social media marketing (SMM) (D) Search engine optimization (SEO) (40 points)
+3. What type of media has the primary objective to get the attention of shoppers and to stimulate them to make a purchase? (Examples include point-of-purchase displays and packaging.) (A) Broadcast media. (B) Interactive media. (C) In-store media. (D) Support media. (20 points)
+4. The importance and significance of customer experience to both individuals and society is referred to as: (A) Knowledge economy. (B) Service economy. (C) Experience economy. (D) Customer economy. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+84,5,30-40-10-20,D,30,D,40,B,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Marketing period, 1950s-1980s - characterized by a more advanced focus on the ___________. (A) Society and ethics. (B) Personal selling. (C) Physical production. (D) Customer's needs. (30 points)
+2. Many brands are deliberately imbued with human characteristics, to the point that they are identified as having particular personalities. This is referred to as: (A) Branding pyramid. (B) Brand value. (C) Brand names. (D) Brand personalities. (40 points)
+3. Salespeople who view a situation as a customer sees it are exhibiting (A) cooperation (B) empathy (C) responsibility (D) tolerance (10 points)
+4. Which of the following is not part of the consumer proposition acquisition process? (A) Motive development. (B) Information gathering. (C) Proposition evaluation. (D) Perception. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+85,5,40-10-30-20,A,40,D,10,D,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is typically not a result of recognizing the importance of ethnic groups by marketers? (A) Use of an undifferentiated one-size-fits-all marketing strategy. (B) Adaptation of the advertising, particularly the use of foreign languages, to the target ethnic market. (C) Variations in product offerings to suit the wants of a particular group. (D) Study of ethnic buying habits to isolate market segments. (40 points)
+2. Which element of the promotional mix handles unfavorable stories and events and promotes a good corporate image? (A) Personal selling (B) Sales promotion (C) Direct marketing (D) Public relations (10 points)
+3. Secondary data has two important advantages over primary data. It is: (A) Capable of compensating for rapid environmental changes and technical improvements. (B) Always available and complete. (C) Seldom obsolete and usually fits the dimensions of your problem. (D) Generally cheaper to gather than primary data and takes less time to find. (30 points)
+4. _________ enable different types of uncertainty to be lowered in several ways (Fill and McKee, 2012). These include reducing the complexity, increasing value and competitive advantage, routinization, and providing specialization. (A) Warehouse. (B) Distribution. (C) Supply chain. (D) Marketing channels. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+86,5,10-30-20-40,B,10,A,30,B,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. McDonald's and KFC are good examples of: (A) Distributors. (B) Franchising. (C) Merchant. (D) Retailers. (10 points)
+2. This is a form of targeted advertising, on websites, with advertisements selected and served by automated systems based on the content displayed to the user. (A) Contextual advertising. (B) Interactive marketing. (C) Internet advertising. (D) Direct marketing. (30 points)
+3. _______________can be defined as the aspect of our psyche that determines the way in which we respond to our environment in a relatively stable way over time. (A) Perception. (B) Personality. (C) Learning. (D) Memory. (20 points)
+4. In B2B contexts, ___________ occurs in large organizations where considerable internal dealing between different company divisions occurs, often across national boundaries. (A) Price gouging. (B) Transfer pricing. (C) Pay what you want pricing. (D) EVC pricing. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+87,5,10-30-40-20,B,10,D,30,D,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The process that creates changes in behaviour is called: (A) Selective adaptation. (B) Learning. (C) Involvement manipulation. (D) Attitude adjustment. (10 points)
+2. A company builds its sales message, advertising message, and promotion theme to influence how a particular market sector perceives a good or service in comparison with the competition. The company is primarily engaged in (A) segmentation (B) mass customization (C) concentrated targeting (D) positioning (30 points)
+3. A key benefit of the STP process is: (A) More effective and efficient matching of company resources to targeted market segments promising the greatest ROMI. (B) Enhancing a company's competitive position by providing direction and focus for marketing strategies. (C) Examining and identifying growth opportunities in the market through the identification of new customers, growth segments, or new product uses. (D) All of the above. (40 points)
+4. What channel structure is it where the product goes directly from the producer to the final customer? (A) Direct. (B) Indirect. (C) Hybrid. (D) None of the above. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+88,5,20-10-30-40,B,20,B,10,A,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. This is part of the communication process where receivers unpack the various components of the message, and begin to make sense and give the message meaning: (A) Encoding. (B) Decoding. (C) Transfer. (D) Noise. (20 points)
+2. ________________is used to influence the way an organization is perceived by various groups of stakeholders. (A) Direct marketing. (B) Public relations. (C) Sale promotion. (D) Advertising (10 points)
+3. This is where intermediaries are given exclusive rights to market the good or service within a defined 'territory', thus using a very limited number of intermediaries: (A) Exclusive. (B) Intensive. (C) Selective. (D) Direct. (30 points)
+4. A marketing research firm contracts with clients to conduct a complete marketing research project from data collection, analysis, and reporting. It is a__________ firm. (A) Consultant. (B) Field agency. (C) Full-service agency. (D) Tabulation agency. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+89,5,40-30-20-10,A,40,D,30,C,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. These are chains of organizations that are concerned with the management of the processes and activities involved in creating and moving products from producers and manufacturers to end-user customers. The organizations involved with any one journey, are collectively termed as a: (A) Distribution. (B) Vendor. (C) Communication. (D) Selling. (40 points)
+2. A marketing philosophy summarized by the phrase 'a stronger focus on social and ethical concerns in marketing' is characteristic of the _________ period. (A) Production. (B) Sales. (C) Marketing. (D) societal marketing. (30 points)
+3. This is when a product or service is offered together with another typically complementary product or service: (A) Product pricing. (B) Price differentiation. (C) Pure price bundling. (D) Odd-Number pricing. (20 points)
+4. With this pricing approach, the pricing process begins with the customer; not the cost of the product offering: (A) Value-based pricing. (B) Cost-based pricing. (C) Customer-led pricing. (D) Sales pricing. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+90,5,40-10-20-30,C,40,C,10,A,20,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. To highlight the variation in approaches to purchasing behaviour, Svahn and Westerlund (2009) identify six principal purchasing strategies used by organizations. The __________ strategy refers to a buyer's efficiency orientation where the main purchasing goal is to seek the lowest price for the offering. To help achieve this, the buyer actively promotes competition among several potential suppliers. (A) 'Bargainer' purchasing. (B) The 'adaptator' purchasing. (C) Price minimizer' purchasing. (D) The 'projector' purchasing. (40 points)
+2. In marketing terms, ___________ refers to what we get for what we pay: (A) Revenue. (B) Cost. (C) Value. (D) Product. (10 points)
+3. Which of the following is the communication model that depicts information flowing via various media channels, to particular types of people, to whom other members of the audience refer for information and guidance? (A) Two-step. (B) Three-step. (C) Multi-step. (D) One-step. (20 points)
+4. In the _________ stage in the adoption process, consumers become aware of the new proposition. They have little information and have yet to develop any particular attitudes towards the product. Indeed, at this stage consumers are not interested in finding out any more information. (A) Persuasion (B) Confirmation (C) Knowledge (D) Implementation (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+91,5,10-40-30-20,D,10,C,40,B,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following elements is not part of Porter's Five Forces model for industry competitiveness? (A) Threat of substitutes. (B) Threat of suppliers. (C) Power of buyers. (D) Threat from government. (10 points)
+2. Why is market segmentation carried out? (A) To break down large markets into smaller markets. (B) To provide an opportunity to surpass competitors. (C) By grouping together customers with similar needs, it provides a commercially viable method of serving these customers. (D) To allow the achievement of greater market share. (40 points)
+3. This branding policy requires that all the products use the organization's name, either entirely or in part, e.g. Microsoft, Heinz, and Kellogg's (A) Individual branding. (B) Family branding. (C) Corporate brands. (D) Manufacturer brand. (30 points)
+4. Firms that view themselves as market leaders in product quality frequently adopt a (A) market share strategy (B) penetration pricing strategy (C) strategy that focuses on non-price benefits (D) strategy to expand the overall market (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+92,5,10-30-40-20,B,10,B,30,B,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Organizational characteristics, such as organizational size and location, are sometimes referred to as___________. (A) DMU. (B) Firmographics. (C) ACORN (D) Product usage. (10 points)
+2. The extent to which a service envelops a product varies according to a number of factors. Which of the following is NOT one of the factors? (A) The level of tangibility associated with the type of product. (B) Performance-value. (C) Variations in supply and demand. (D) The way in which the service is delivered. (30 points)
+3. To be effective, the process of market segmentation must meet which of the following basic requirements? (A) The firm must avoid focusing on non-variables such as profitability and volume. (B) The market segment must have measurable purchasing power and size. (C) The company must expand beyond its marketing capabilities to capture growing markets. (D) The market segment must reflect the population's changing attitudes and lifestyles. (40 points)
+4. The primary objective of team-based selling is to (A) match various functional areas of the company with customer needs (B) distribute the work involved in managing an account (C) equitably manage the sales bonus pool (D) create multiple points of contact between the customer and the company (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+93,5,20-40-30-10,D,20,A,40,D,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. These objectives are often employed in mature markets as firms/products enter a decline phase. The goal is to maximize short-term profits and stimulate a positive cash flow. (A) Divest objectives. (B) Hold objectives. (C) Growth objectives. (D) Harvesting objectives. (20 points)
+2. If an advertisement shows the interior of a train with comfortable seats and plenty of space yet a customer boards a train only to find a lack of space and hard seating. This is an example of: (A) GAP 4-the gap between service delivery and external communications. (B) GAP 2-the gap between management perception and service-quality specification (C) GAP1-the gap between the customer's expectations and management perception. (D) GAP 3-the gap between service-quality specifications and service delivery. (40 points)
+3. Which of the following is an example of costbased pricing? (A) Basing the price on what the customer is willing to pay (B) Basing the price on the psychological expectations of the customer (C) Basing the price on the features and benefits of the product (D) Basing the price on the full cost of production plus the required profit (30 points)
+4. These are costs which do not vary according to the number of units of product made or service sold: (A) Fixed costs. (B) Moving assets. (C) Working capital. (D) Fixed capital. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+94,5,40-20-10-30,A,40,B,20,D,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. ____________ is also a form of sponsorship and represents a relationship between film/TV producers and managers of brands. Through this arrangement, brand managers are able, for a fee, to present their brands 'naturally' within a film or entertainment event. Such placement is designed to increase brand awareness, develop positive brand attitudes, and possibly lead to purchase activity. (A) Brand placement. (B) Field marketing. (C) Exhibition. (D) Viral marketing. (40 points)
+2. This is where the perception on the part of a channel member is that its goal attainment is being impeded by another, with stress or tension the result: (A) Channel communication. (B) Channel conflict. (C) Channel relationships. (D) Customer conflict. (20 points)
+3. Which of the following is not one of the categories of research design? (A) Exploratory research. (B) Descriptive research. (C) Causal research. (D) Desk research. (10 points)
+4. ____________________ are those who address the same target market but provide a different offering to satisfy the market need, for example Spotify, Sony, and Apple's iPod. (A) Direct competitions. (B) Direct suppliers. (C) Indirect distributors. (D) Indirect competitions. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+95,5,30-20-40-10,A,30,C,20,B,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. ________ is the process of marketing accomplished or facilitated via the use of Internet technologies (e.g. web, email, intranet, extranets, etc.). (A) Internet marketing. (B) Search marketing. (C) E-marketing. (D) Mobile marketing. (30 points)
+2. The term marketing refers to: (A) new product concepts and improvements. (B) advertising and promotion activities. (C) a philosophy that stresses customer value and satisfaction. (D) planning sales campaigns. (20 points)
+3. Intermediaries assist end-users by bringing a product produced a long way away to a more convenient location for purchase and consumption. This is referred to as: (A) Time utility. (B) Place utility. (C) Ownership utility. (D) Information utility. (40 points)
+4. A commonly used basis for segmenting consumer markets is: (A) Organizational size. (B) Demographics. (C) Product type. (D) Price. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+96,5,20-30-40-10,D,20,D,30,A,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following gives the owner exclusive rights by law to use a brand? (A) Brand loyalty (B) Brand mark (C) Trade name (D) Trademark (20 points)
+2. These goods are bought infrequently, used repeatedly, and involve a reasonably high level of consumer risk: (A) Impulse goods. (B) Luxury goods. (C) Non-durable goods. (D) Durable goods. (30 points)
+3. Which of the following is the most appropriate pricing strategy to use when introducing a new and unique product to the market? (A) Price skimming (B) Promotional pricing (C) Psychological pricing (D) Penetration pricing (40 points)
+4. Which of the following is not an element of the marketing mix? (A) Promotion. (B) Product. (C) Target market. (D) Pricing. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."

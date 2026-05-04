@@ -1,0 +1,961 @@
+ID,Subset,Reward_Order,Correct_Answer_1,Reward_1,Correct_Answer_2,Reward_2,Correct_Answer_3,Reward_3,Correct_Answer_4,Reward_4,Full_Prompt
+1,1,30-20-10-40,B,30,B,20,D,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Aesthetic values have to do with _______ (A) the moral value of works of art and other objects that could be judged beautiful (B) good and bad works of art and other objects that could be judged beautiful (C) the moral values of artists and critics (D) pragmatic decisions regarding the display of art (30 points)
+2. Aristotle saw his theory of the virtues as: (A) final and complete. (B) open-ended and revisable. (C) relative to his culture. (D) applicable only to himself. (20 points)
+3. Moore defines good as: (A) pleasure. (B) that which we desire. (C) that which we desire to desire. (D) none of the above. (10 points)
+4. For Socrates, the belief that ""virtue is knowledge"" is related to his claim that ""the unexamined life is not worth living,"" because he believes that: (A) the unexamined life is one in which we live day to day without asking questions about who we are and why we are here in the first place. (B) the Delphic oracle identified Socrates as the wisest person on earth because he claimed to know nothing. (C) by questioning traditional beliefs, we learn to recognize how some answers seem to be more satisfactory than others. (D) the only way to be a good or worthwhile person is to know how human beings should behave based on universal norms or values. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+2,1,20-10-40-30,D,20,A,10,B,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Augustine claims that Academic skepticism: (A) is true, and can be proven. (B) is true, but cannot be proven (C) is false but cannot be refuted. (D) is false and can be refuted. (20 points)
+2. Logical behaviorism is at odds with our commonsense intuition that mental states _____. (A) cause behavior (B) never cause behavior (C) exist (D) do not exist (10 points)
+3. Feinberg claims that the story about Abraham Lincoln: (A) provides some evidence for psychological egoism. (B) provides some evidence against psychological egoism. (C) provides no evidence for or against psychological egoism. (D) actually involves a confusion between ethical egoism and psychological egoism. (40 points)
+4. Stevenson claims that the primary use of ethical judgments is to: (A) state facts. (B) influence the interests of others. (C) describe one’s own approval of things. (D) none of the above. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+3,1,40-20-10-30,D,40,D,20,A,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Nussbaum claims that our modern debates about homosexuality: (A) are continuations of the very same debate about sexual activity that went on in the Greek world. (B) are interminable because there is no objective answer as to whether homosexuality is immoral. (C) are carried out in a manner that is not virtuous. (D) none of the above. (40 points)
+2. Which of the following is a form of harm that might be suffered by research participants? (A) Physical injury (B) Stress and anxiety (C) Impaired development (D) All of the above (20 points)
+3. Bentham claims that nature has placed mankind under two sovereign masters: (A) pain and pleasure. (B) good and evil. (C) God and the devil. (D) duty and self-interest. (10 points)
+4. Soft determinism entails that _____. (A) we are free to choose our desires (B) there are no restraints on human behavior (C) the thesis of determinism is false (D) the thesis of determinism is true (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+4,1,30-20-40-10,C,30,B,20,A,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. For the soft determinist, to say that you could have done otherwise is to say that you would have done otherwise if _____. (A) your desires were always the same (B) your desires were completely under your control (C) your desires had been different (D) your desires played no role in your decisions (30 points)
+2. According to Socrates, justice is when a soul is ruled by its: (A) respect for the law. (B) rational part. (C) desire for honor. (D) none of the above. (20 points)
+3. ""When a person starts on the discovery of the absolute by the light of reason only, and without any assistance of sense, and perseveres until by pure intelligence he arrives at the perception of the absolute good, he at last finds himself at the end of the intellectual world. . . . Dialectic, and dialectic alone, goes directly to the first principle and is the only science which does away with hypotheses in order to make her ground secure.""  Here Plato indicates how hypothetical knowledge cannot provide the foundation of dialectical knowledge, insofar as hypotheses simply: (A) explain sense experiences in terms of general concepts which themselves are not explained. (B) show how particular objects of experience cause us to recall innate ideas. (C) describe sense experience without providing an explanation for dialectical methods. (D) reject the use of reason, preferring instead dialectic, to achieve knowledge. (40 points)
+4. To argue that he is obliged to obey the laws of Athens, Socrates compares the city to: (A) an employer. (B) a parent. (C) a friend. (D) a spouse. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+5,1,20-30-10-40,D,20,C,30,C,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Descartes says that the chief characteristic of physical things is that _____. (A) they cannot be measured (B) science can study them (C) they do not have extension (D) they have extension (20 points)
+2. Hare claims that a person who refuses to make any positive moral judgments: (A) is irrational. (B) is immoral. (C) cannot coherently invoke morality to protect one’s own interests. (D) couldn’t possibly exist. (30 points)
+3. The biblical account of the soul is at odds with _____. (A) a unitary concept of the soul (B) the identity theory (C) soul-body dualism (D) the idea of a monistic soul (10 points)
+4. In the Inquiry, Hume claims that our final verdicts on moral matters are derived from: (A) reason. (B) a moral sense that is unique to each person. (C) a moral sense that is universal in our species. (D) emotion. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+6,1,30-10-20-40,C,30,D,10,B,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A prominent view is that an object has aesthetic value if it _____. (A) cannot be defined (B) has no utility (C) serves some important function (D) has no meaning (30 points)
+2. Butler claims that, strictly speaking, the only thing that anyone has a right to is: (A) life. (B) liberty. (C) property. (D) happiness. (10 points)
+3. According to Sartre, there is at least one being in whom existence precedes essence, and this being is _____. (A) God (B) man (C) primitive man (D) future man (20 points)
+4. Why is it ""easier said than done"" to ensure that the principle of informed consent is adhered to? (A) It is not practicable to present every participant with all the information about the study. (B) Sometimes it is desirable to withhold certain pieces of information, such as the length of time an interview will take. (C) If the participants knew exactly what the researcher was intending to study, they might change their behavior. (D) All of the above. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+7,1,10-20-30-40,C,10,A,20,C,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following concepts can be defined, according to Moore? (A) good (B) yellow (C) horse (D) all of the above (10 points)
+2. According to Parfit, the obligation to give priority to the welfare of one’s children is: (A) agent-relative. (B) agent-neutral. (C) absolute. (D) none of the above. (20 points)
+3. According to Brandt’s theory, an ideal moral rule is one that would: (A) maximize positive utility, ignoring negative utility. (B) minimize negative utility, ignoring positive utility. (C) maximize utility, with both positive and negative utilities being counted. (D) take no account of either positive or negative utility. (30 points)
+4. In spite of the fact that Socrates claims to be ignorant of the essence or nature of certain things like justice, he is wise insofar as he recognizes that without such knowledge actions are rationally unjustified.  That is, his wisdom consists in his recognition not only that he is ignorant of such essences but also that: (A) justice, like knowledge, requires that we admit that we know nothing and never will. (B) he knows what he is supposed to be looking for--knowledge of the essences of things. (C) knowledge of the essences of things is impossible, because that would require that we know what we are looking for before we know what it is we are looking for. (D) his method of asking questions about essences is itself unjustified because he does not know why he engages in such a practice. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+8,1,10-30-40-20,A,10,B,30,B,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Da Vinci's Mona Lisa is_____. (A) representational (B) abstract (C) obscure (D) nonrepresentational (10 points)
+2. The idea that mental states are dispositions to behave in particular ways in certain circumstances is known as _____. (A) logical nominalism (B) logical behaviorism (C) methodological behaviorism (D) eliminative materialism (30 points)
+3. How many categories of ethical principles do Diener and Crandell refer to? (A) Three: harm to students; lack of informed consent; invasion of privacy on social media. (B) Four: harm to participants; lack of informed consent; invasion of privacy; involvement of deception (C) Two: ethical and unethical (D) Two: right and wrong (40 points)
+4. Baggini accuses pessimists of mixing up the two senses of _____. (A) philosophy (B) religion (C) meaning (D) time (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+9,1,10-40-30-20,B,10,C,40,D,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Ross, our prima facie duties: (A) can be proven. (B) are self-evident. (C) cannot be known. (D) are not objective. (10 points)
+2. To Kant, making a lying promise would be wrong because _____. (A) lying to people can cause them harm (B) lying to people harms society (C) you could not consistently will that everyone should make lying promises (D) most people condemn the practice (40 points)
+3. According to Butler, it is impossible to: (A) approve of the actions of others without imitating them. (B) do something of which one does not oneself approve. (C) be motivated by genuine benevolence. (D) do that which is good and not to approve of it. (30 points)
+4. Aquinas says that the first efficient cause of everything is _____. (A) the universe (B) God (C) nature (D) an infinite series (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+10,1,10-30-40-20,A,10,B,30,A,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Epicurus claims that all other virtues spring from: (A) prudence. (B) temperance. (C) justice. (D) courage. (10 points)
+2. Singer claims that famine relief organizations direct our aid to distant refugees: (A) more effectively than we could get it to our close neighbors. (B) almost as effectively as we could get it to our close neighbors. (C) quite inefficiently, but they are still worth donating to. (D) very inefficiently, and are therefore not worth donating to. (30 points)
+3. Ross claims that we learn of our prima facie duties: (A) by seeing the prima facie rightness of particular acts, and then apprehending general principles. (B) by apprehending general principles, and then inferring the prima facie rightness of particular acts. (C) by proving them philosophically. (D) from the explicit moral instruction we receive as children. (40 points)
+4. In Book II of the Republic, Glaucon claims that justice originates from: (A) a social agreement. (B) nature. (C) the gods. (D) the powerful. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+11,1,20-10-40-30,C,20,A,10,B,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Augustine claims that all created things are: (A) eternally and unchangeably good. (B) good when taken together, but not good separately. (C) good, even taken separately. (D) none of the above. (20 points)
+2. According to Stevenson, moral disagreements involve: (A) disagreement in interest. (B) disagreement in belief. (C) disagreement in theory. (D) disagreement in practice. (10 points)
+3. A prima facie duty is a characteristic of an act in virtue of which the act: (A) seems to be right, although this might be illusory. (B) tends to be right, although this might be outweighed by other considerations. (C) is right. (D) is the first thing that an agent ought to do, above all else. (40 points)
+4. According to Bentham, a moral sanction is: (A) pleasure or pain inflicted by chance members of the community. (B) pleasure or pain inflicted by a judge in accordance with a rule. (C) pleasure or pain that it is permissible to inflict on someone. (D) none of the above. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+12,1,40-10-30-20,D,40,B,10,A,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. One objection to Singer’s theory that he considers is that it: (A) does not do enough to address suffering in other countries besides our own. (B) inappropriately makes proximity morally important. (C) does not account for the fact that we have stricter obligations to our loved ones than to strangers. (D) requires too drastic a revision to our moral scheme. (40 points)
+2. Hobbes defines injustice as: (A) taking more than one’s share of a good. (B) failure to perform one’s covenant. (C) treating another person as a mere means. (D) violating a law of nature. (10 points)
+3. A Loving Saint is someone: (A) whose happiness lies in the happiness of others. (B) who pays little or no attention to his own happiness, in light of the overriding importance of morality. (C) loves all human beings equally. (D) is morally perfect only in relation to those he loves. (30 points)
+4. Baier claims that ethical skepticism is often due to: (A) confused metaphysical theories. (B) confused epistemological theories. (C) confused religious views. (D) confused scientific theories. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+13,1,40-10-20-30,D,40,B,10,C,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Nagel claims that most skeptical arguments: (A) are the result of applying arbitrarily stringent standards. (B) are based on linguistic confusions. (C) are logically self-refuting. (D) grow from the consistent application of ordinary standards. (40 points)
+2. Kant claims that the moral law is given to each person by: (A) society. (B) one’s own will. (C) God. (D) Nature. (10 points)
+3. According to Hobbes, the definition of injustice is _____. (A) disobedience to a sovereign (B) disobedience to God's law (C) failure to abide by a contract (D) failure to respect inherent rights (20 points)
+4. Stevenson’s primary aim in this paper is to: (A) provide an account of what makes right actions right. (B) establish which things are good in themselves. (C) develop a theory of good moral character. (D) make ethical questions clear. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+14,1,40-20-10-30,C,40,D,20,C,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How does Stevenson respond to the objection that his theory does not account for the kind of goodness that is objective and is known a priori? (A) He claims to have proven that such a property does not exist. (B) He claims to have offered an account of just such a property. (C) He claims he does not understand such a property. (D) None of the above. (40 points)
+2. According to Socrates, a clear sign that a person has _____ is her exclusive pursuit of social status, wealth, power, and pleasure. (A) philosophical ambition (B) worldly wisdom (C) exceptional desires (D) an unhealthy soul (20 points)
+3. Epictetus claims that if the wife and children of a virtuous man were to die, he should feel: (A) righteous indignation. (B) moderate grief. (C) undisturbed. (D) envy of those who still have their loved ones. (10 points)
+4. According to Parfit, both Taurek and Lewis assume that for there to be a “sum of pain,” it must be: (A) all felt at a single time. (B) all felt by a single person. (C) all be caused by a single source. (D) all of the above. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+15,1,20-40-10-30,D,20,B,40,D,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. By “animal motion,” Hobbes means: (A) involuntary operations such as heartbeat and breathing. (B) instinctive behavior, such as nursing young. (C) irrational behavior. (D) all voluntary behavior. (20 points)
+2. According to Nagel, the problem of moral luck arises because: (A) philosophers try to apply arbitrarily stringent standards to moral responsibility. (B) the self is threatened with dissolution by the absorption of its acts into the class of events. (C) our moral theories are hopelessly off track. (D) our theories of human action are hopelessly off track. (40 points)
+3. Critics of the divine command theory have argued that the theory implies that God's commands are _____. (A) well supported (B) unclear (C) unknowable (D) arbitrary (10 points)
+4. According to Rawls, behind the veil of ignorance, the principles of justice are _____. (A) the result of coercion (B) impractical (C) chosen arbitrarily (D) the result of a fair agreement or bargain (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+16,1,30-40-10-20,D,30,B,40,D,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Gauthier, deliberative justification: (A) is refuted by moral requirements. (B) is replaced once we acknowledge moral requirements. (C) refutes morality. (D) ignores morality and seemingly replaces it. (30 points)
+2. ""There is no rationale for myth because it is through myth that reason itself is defined.""  This means that: (A) mythos is ultimately based on logos, just as myth is ultimately based on reasoning or thinking. (B) myth does not ""explain"" how things are related as much as it simply reveals them as related. (C) metaphysicians are justified in reasoning as they do because there is only one true answer about being. (D) myth and reason are the same: ""myth"" defines ""reason,"" and ""reason"" defines ""myth."" (40 points)
+3. Berkeley insists that heat and cold are _____. (A) illusions (B) physical objects (C) only things existing apart from our minds (D) only sensations existing in our minds (10 points)
+4. Anselm assumes that a being that exists in reality is greater than a being that _____. (A) is worshipped (B) is embodied (C) exists only in the understanding (D) exists without flaws (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+17,1,40-20-10-30,B,40,B,20,D,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Socrates, the task of the wise and virtuous person is not simply to learn various examples of just or virtuous actions but to learn the essence of justice or virtue, because: (A) by knowing enough examples of justice or virtue, we will live a worthwhile life even if we do not know what makes them examples of justice or virtue. (B) knowledge of individual examples alone would not prepare someone for situations of justice or virtue to which the examples do not immediately apply. (C) what makes an action just or virtuous can be known only by asking people for their opinions and respecting each answer as equally valuable. (D) justice and virtue are universal goals of all human beings, even if people do not always agree on how to achieve those ends. (40 points)
+2. Hare claims that the two essential features of the logic of moral judgments are: (A) consequentialism and hedonism. (B) universalizability and prescriptivity. (C) contractualism and rule-following. (D) consistency and coherence. (20 points)
+3. Feinberg takes his remarks about the two different senses of pleasure to refute: (A) psychological egoism. (B) psychological egoistic hedonism. (C) ethical egoism. (D) all of the above. (10 points)
+4. If the world that we individually perceive is limited to an internal perspective, then there is no way that we could determine whether our own perspective is useful, true, or valuable because: (A) we know whether our internal perspective is correct only by comparing it with an objective, external perspective (the ""real"" world). (B) whatever we appeal to in order to prove that our perspective is right itself would be part of the standard we use in evaluating that perspective. (C) scientific research that reveals facts about the world would cause us to challenge our perceptions in a dreamworld of our own making. (D) without limiting our perspective to an internal dreamworld, we cannot achieve any objective, external knowledge of the real world. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+18,1,20-40-10-30,D,20,D,40,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Augustine claims that there can be no evil where there is no: (A) hatred. (B) greed. (C) love. (D) good. (20 points)
+2. Kant claims that the natural purpose of reason is to: (A) produce happiness. (B) produce pleasure. (C) produce knowledge. (D) produce a good will. (40 points)
+3. According to Cicero, it is expedient to be: (A) just. (B) generous. (C) kind. (D) all of the above. (10 points)
+4. Aristotle ends the Ethics with a segue to a discussion of: (A) aesthetics. (B) theology. (C) politics. (D) natural science. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+19,1,40-30-10-20,B,40,A,30,D,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In Aristotle’s terminology, incontinence is when: (A) one does not know that one’s actions are wrong. (B) one knows that one’s actions are wrong, but does them anyway. (C) one knows that one’s feelings are inappropriate, and does not act on them. (D) one does the right action, but for the wrong reason. (40 points)
+2. According to Epicurus, the wealth required for a good life is: (A) easily procured. (B) attainable for everyone, but only through great effort. (C) available only to the rich. (D) available only to the gods. (30 points)
+3. Aesthetics addresses questions that interest _____. (A) only philosophers (B) only critics (C) no one (D) philosophers and nonphilosophers (10 points)
+4. According to Hobbes, in the condition of man in which there is a state of war of everyone against everyone, every man has a right to _____. (A) some things (B) lawful treatment (C) due process (D) everything (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+20,2,40-10-20-30,C,40,C,10,B,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Mill defines “utility” as: (A) usefulness for some craft. (B) usefulness to society. (C) pleasure and the absence of pain. (D) it promotes the interests of all and does not harm anyone. (40 points)
+2. Descartes believed that interaction between body and mind took place in _____. (A) ectoplasm (B) the brain stem (C) the pineal gland (D) the nervous system (10 points)
+3. An important moral criterion of adequacy is known as _____. (A) simplicity (B) consistency with our considered moral judgments (C) fruitfulness (D) fallibility (20 points)
+4. Baier claims that for a rule to belong the morality of a group, the rule must be: (A) part of the mores of the group. (B) universally teachable. (C) not merely a taboo. (D) all of the above. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+21,2,10-30-20-40,A,10,A,30,A,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Berkeley believes that sensible things cannot exist except in _____. (A) a mind (B) absolute existence (C) material substance (D) a material universe (10 points)
+2. Nussbaum claims that recent anthropological work has shown that fear is: (A) partially learned and culturally variant. (B) universally experienced in roughly the same way. (C) not present in certain societies. (D) none of the above. (30 points)
+3. A moral theory explains _____. (A) why an action is right or wrong (B) why one moral event caused another (C) where a moral agent got her values (D) why people do what they do (20 points)
+4. ""Is there anything you would be willing to die for?"" is a philosophical question insofar as: (A) it does not have any right or wrong answer because it is a meaningless question. (B) it is a meaningless question because everyone could have a different answer to it. (C) it forces us to articulate and justify our beliefs about what we know and ought to do. (D) it is more concerned with one's religious beliefs than with factual claims about the world. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+22,2,20-10-40-30,C,20,D,10,D,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The version of utilitarianism that Brandt defends makes rightness a function of: (A) the consequences of particular acts. (B) the actual and recognized rules of society. (C) ideal rules. (D) whether or not one’s maxim can be universalized. (20 points)
+2. Craig says an actually infinite number of things _____. (A) is possible (B) is meaningless (C) exists somewhere (D) cannot exist (10 points)
+3. Plato distinguishes knowledge from mere belief or opinion by saying that knowledge must be a true belief for which one can give a justification, a rationale, or ""logos.""  In terms of his image of the Divided Line, for Plato, knowledge is attained only when our sensible experience is: (A) grounded ultimately in what our senses reveal to us about the world of becoming. (B) based on images of the good, beauty, and truth obtained from particular objects and on which the concepts and Forms depend. (C) replaced by what we sincerely believe is true or have come to believe based on our upbringing. (D) understood in terms of concepts or innate ideas (Forms) that are perceived as rationally ordered. (40 points)
+4. Philosophy is concerned primarily with identifying beliefs about human existence and evaluating arguments that support those beliefs.  These activities can be summarized in two questions that drive philosophical investigations: (A) why should we bother? and what are the consequences of our believing one thing over another? (B) what do you mean? and how do you know? (C) who really believes X? and how can we explain differences in people's beliefs? (D) how do philosophers argue? and are their differences important? (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+23,2,10-20-30-40,C,10,C,20,D,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Cicero, the most practical branch of philosophy deals with: (A) logic. (B) natural science. (C) moral duties. (D) expedience. (10 points)
+2. Moore defines the naturalistic fallacy as the view that: (A) everything that is natural is good. (B) everything that is good is natural. (C) good is identical to a natural property. (D) all of the above. (20 points)
+3. Feinberg claims that most arguments for psychological egoism: (A) make reference to neuroscience. (B) are based on controlled studies. (C) are based on interviews and surveys. (D) are nonempirical in character. (30 points)
+4. Aristotle says  that what makes things be what they are--their essence--does not exist apart from individ-uals that exist in the world.  So if all the members of a species were destroyed, then their essence or form: (A) would likewise be destroyed. (B) would be destroyed only if there were no one around to remember the species. (C) would continue existing (as with Plato's Forms) in some other realm of being. (D) would not be destroyed because there was no essence or form originally to be destroyed; there are only individuals, not universal essences or natures of things. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+24,2,40-20-30-10,A,40,B,20,C,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Before his conversion, what was Tolstoy surrounded by? (A) what is considered complete happiness (B) things that no one would want (C) what is considered heavenly bliss (D) what is considered deep insight (40 points)
+2. Augustine claims that to be happy, one must know: (A) the causes of natural occurrences. (B) the causes of good and evil. (C) both a and b. (D) neither a nor b. (20 points)
+3. According to Kant, the supreme principle of morality is: (A) analytic and a priori. (B) analytic and a posteriori. (C) synthetic and a priori. (D) synthetic and a posteriori. (30 points)
+4. Leo Tolstoy says that art is _____. (A) expression (B) form (C) representation (D) abstract (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+25,2,20-10-40-30,C,20,D,10,D,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Baier asserts that when we ask for moral advice, we are asking for others to: (A) issue commands. (B) inform us of their preferences. (C) deliberate with us. (D) empathize with us. (20 points)
+2. An important formal characteristic of art is_____. (A) social meaning (B) faithful representation (C) its power to evoke strong emotions (D) coherence (10 points)
+3. According to Singer, compliance with his principle requires: (A) modest changes to our personal habits, but not to our society as a whole. (B) modest changes to our personal habits, as well as to society. (C) drastic changes to our personal habits, but not to our society. (D) drastic changes to both our personal habits and to our society. (40 points)
+4. Which method is most commonly associated with a lack of informed consent? (A) Qualitative content analysis (B) In-depth interviewing (C) Covert observation (D) Structured interviewing (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+26,2,30-20-10-40,A,30,C,20,C,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Bentham, a moral sanction is: (A) pleasure or pain inflicted by chance members of the community. (B) pleasure or pain inflicted by a judge in accordance with a rule. (C) pleasure or pain that it is permissible to inflict on someone. (D) none of the above. (30 points)
+2. The version of utilitarianism that Brandt defends makes rightness a function of: (A) the consequences of particular acts. (B) the actual and recognized rules of society. (C) ideal rules. (D) whether or not one’s maxim can be universalized. (20 points)
+3. In the Inquiry, Hume claims that our final verdicts on moral matters are derived from: (A) reason. (B) a moral sense that is unique to each person. (C) a moral sense that is universal in our species. (D) emotion. (10 points)
+4. ""Is there anything you would be willing to die for?"" is a philosophical question insofar as: (A) it does not have any right or wrong answer because it is a meaningless question. (B) it is a meaningless question because everyone could have a different answer to it. (C) it forces us to articulate and justify our beliefs about what we know and ought to do. (D) it is more concerned with one's religious beliefs than with factual claims about the world. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+27,2,20-10-40-30,B,20,D,10,D,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Feinberg claims that the story about Abraham Lincoln: (A) provides some evidence for psychological egoism. (B) provides some evidence against psychological egoism. (C) provides no evidence for or against psychological egoism. (D) actually involves a confusion between ethical egoism and psychological egoism. (20 points)
+2. Kant claims that the natural purpose of reason is to: (A) produce happiness. (B) produce pleasure. (C) produce knowledge. (D) produce a good will. (10 points)
+3. One objection to Singer’s theory that he considers is that it: (A) does not do enough to address suffering in other countries besides our own. (B) inappropriately makes proximity morally important. (C) does not account for the fact that we have stricter obligations to our loved ones than to strangers. (D) requires too drastic a revision to our moral scheme. (40 points)
+4. According to Nagel, the problem of moral luck arises because: (A) philosophers try to apply arbitrarily stringent standards to moral responsibility. (B) the self is threatened with dissolution by the absorption of its acts into the class of events. (C) our moral theories are hopelessly off track. (D) our theories of human action are hopelessly off track. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+28,2,40-30-20-10,B,40,D,30,D,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Socrates, the task of the wise and virtuous person is not simply to learn various examples of just or virtuous actions but to learn the essence of justice or virtue, because: (A) by knowing enough examples of justice or virtue, we will live a worthwhile life even if we do not know what makes them examples of justice or virtue. (B) knowledge of individual examples alone would not prepare someone for situations of justice or virtue to which the examples do not immediately apply. (C) what makes an action just or virtuous can be known only by asking people for their opinions and respecting each answer as equally valuable. (D) justice and virtue are universal goals of all human beings, even if people do not always agree on how to achieve those ends. (40 points)
+2. For Socrates, the belief that ""virtue is knowledge"" is related to his claim that ""the unexamined life is not worth living,"" because he believes that: (A) the unexamined life is one in which we live day to day without asking questions about who we are and why we are here in the first place. (B) the Delphic oracle identified Socrates as the wisest person on earth because he claimed to know nothing. (C) by questioning traditional beliefs, we learn to recognize how some answers seem to be more satisfactory than others. (D) the only way to be a good or worthwhile person is to know how human beings should behave based on universal norms or values. (30 points)
+3. According to Singer, compliance with his principle requires: (A) modest changes to our personal habits, but not to our society as a whole. (B) modest changes to our personal habits, as well as to society. (C) drastic changes to our personal habits, but not to our society. (D) drastic changes to both our personal habits and to our society. (20 points)
+4. According to Gauthier, deliberative justification: (A) is refuted by moral requirements. (B) is replaced once we acknowledge moral requirements. (C) refutes morality. (D) ignores morality and seemingly replaces it. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+29,2,30-40-10-20,C,30,D,40,A,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Hare claims that a person who refuses to make any positive moral judgments: (A) is irrational. (B) is immoral. (C) cannot coherently invoke morality to protect one’s own interests. (D) couldn’t possibly exist. (30 points)
+2. According to Socrates, a clear sign that a person has _____ is her exclusive pursuit of social status, wealth, power, and pleasure. (A) philosophical ambition (B) worldly wisdom (C) exceptional desires (D) an unhealthy soul (40 points)
+3. Epicurus claims that all other virtues spring from: (A) prudence. (B) temperance. (C) justice. (D) courage. (10 points)
+4. Kant claims that the moral law is given to each person by: (A) society. (B) one’s own will. (C) God. (D) Nature. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+30,2,40-20-10-30,D,40,D,20,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Nagel claims that most skeptical arguments: (A) are the result of applying arbitrarily stringent standards. (B) are based on linguistic confusions. (C) are logically self-refuting. (D) grow from the consistent application of ordinary standards. (40 points)
+2. Which of the following is a form of harm that might be suffered by research participants? (A) Physical injury (B) Stress and anxiety (C) Impaired development (D) All of the above (20 points)
+3. Berkeley insists that heat and cold are _____. (A) illusions (B) physical objects (C) only things existing apart from our minds (D) only sensations existing in our minds (10 points)
+4. Which method is most commonly associated with a lack of informed consent? (A) Qualitative content analysis (B) In-depth interviewing (C) Covert observation (D) Structured interviewing (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+31,2,40-20-10-30,A,40,B,20,B,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Nussbaum claims that recent anthropological work has shown that fear is: (A) partially learned and culturally variant. (B) universally experienced in roughly the same way. (C) not present in certain societies. (D) none of the above. (40 points)
+2. Augustine claims that to be happy, one must know: (A) the causes of natural occurrences. (B) the causes of good and evil. (C) both a and b. (D) neither a nor b. (20 points)
+3. According to Sartre, there is at least one being in whom existence precedes essence, and this being is _____. (A) God (B) man (C) primitive man (D) future man (10 points)
+4. Stevenson claims that the primary use of ethical judgments is to: (A) state facts. (B) influence the interests of others. (C) describe one’s own approval of things. (D) none of the above. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+32,2,40-20-30-10,B,40,C,20,C,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Parfit, both Taurek and Lewis assume that for there to be a “sum of pain,” it must be: (A) all felt at a single time. (B) all felt by a single person. (C) all be caused by a single source. (D) all of the above. (40 points)
+2. According to Cicero, the most practical branch of philosophy deals with: (A) logic. (B) natural science. (C) moral duties. (D) expedience. (20 points)
+3. According to Hobbes, the definition of injustice is _____. (A) disobedience to a sovereign (B) disobedience to God's law (C) failure to abide by a contract (D) failure to respect inherent rights (30 points)
+4. Butler claims that, strictly speaking, the only thing that anyone has a right to is: (A) life. (B) liberty. (C) property. (D) happiness. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+33,2,30-20-40-10,C,30,B,20,D,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Augustine claims that all created things are: (A) eternally and unchangeably good. (B) good when taken together, but not good separately. (C) good, even taken separately. (D) none of the above. (30 points)
+2. Hobbes defines injustice as: (A) taking more than one’s share of a good. (B) failure to perform one’s covenant. (C) treating another person as a mere means. (D) violating a law of nature. (20 points)
+3. Stevenson’s primary aim in this paper is to: (A) provide an account of what makes right actions right. (B) establish which things are good in themselves. (C) develop a theory of good moral character. (D) make ethical questions clear. (40 points)
+4. Descartes believed that interaction between body and mind took place in _____. (A) ectoplasm (B) the brain stem (C) the pineal gland (D) the nervous system (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+34,2,10-40-30-20,D,10,A,40,C,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Moore defines good as: (A) pleasure. (B) that which we desire. (C) that which we desire to desire. (D) none of the above. (10 points)
+2. Ross claims that we learn of our prima facie duties: (A) by seeing the prima facie rightness of particular acts, and then apprehending general principles. (B) by apprehending general principles, and then inferring the prima facie rightness of particular acts. (C) by proving them philosophically. (D) from the explicit moral instruction we receive as children. (40 points)
+3. A prominent view is that an object has aesthetic value if it _____. (A) cannot be defined (B) has no utility (C) serves some important function (D) has no meaning (30 points)
+4. Berkeley believes that sensible things cannot exist except in _____. (A) a mind (B) absolute existence (C) material substance (D) a material universe (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+35,2,20-10-40-30,B,20,C,10,D,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Ross, our prima facie duties: (A) can be proven. (B) are self-evident. (C) cannot be known. (D) are not objective. (20 points)
+2. Aristotle ends the Ethics with a segue to a discussion of: (A) aesthetics. (B) theology. (C) politics. (D) natural science. (10 points)
+3. An important formal characteristic of art is_____. (A) social meaning (B) faithful representation (C) its power to evoke strong emotions (D) coherence (40 points)
+4. To argue that he is obliged to obey the laws of Athens, Socrates compares the city to: (A) an employer. (B) a parent. (C) a friend. (D) a spouse. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+36,2,40-30-20-10,D,40,B,30,B,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Plato distinguishes knowledge from mere belief or opinion by saying that knowledge must be a true belief for which one can give a justification, a rationale, or ""logos.""  In terms of his image of the Divided Line, for Plato, knowledge is attained only when our sensible experience is: (A) grounded ultimately in what our senses reveal to us about the world of becoming. (B) based on images of the good, beauty, and truth obtained from particular objects and on which the concepts and Forms depend. (C) replaced by what we sincerely believe is true or have come to believe based on our upbringing. (D) understood in terms of concepts or innate ideas (Forms) that are perceived as rationally ordered. (40 points)
+2. ""There is no rationale for myth because it is through myth that reason itself is defined.""  This means that: (A) mythos is ultimately based on logos, just as myth is ultimately based on reasoning or thinking. (B) myth does not ""explain"" how things are related as much as it simply reveals them as related. (C) metaphysicians are justified in reasoning as they do because there is only one true answer about being. (D) myth and reason are the same: ""myth"" defines ""reason,"" and ""reason"" defines ""myth."" (30 points)
+3. The idea that mental states are dispositions to behave in particular ways in certain circumstances is known as _____. (A) logical nominalism (B) logical behaviorism (C) methodological behaviorism (D) eliminative materialism (20 points)
+4. Mill defines “utility” as: (A) usefulness for some craft. (B) usefulness to society. (C) pleasure and the absence of pain. (D) it promotes the interests of all and does not harm anyone. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+37,2,10-20-30-40,C,10,A,20,C,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following concepts can be defined, according to Moore? (A) good (B) yellow (C) horse (D) all of the above (10 points)
+2. Bentham claims that nature has placed mankind under two sovereign masters: (A) pain and pleasure. (B) good and evil. (C) God and the devil. (D) duty and self-interest. (20 points)
+3. According to Kant, the supreme principle of morality is: (A) analytic and a priori. (B) analytic and a posteriori. (C) synthetic and a priori. (D) synthetic and a posteriori. (30 points)
+4. Hare claims that the two essential features of the logic of moral judgments are: (A) consequentialism and hedonism. (B) universalizability and prescriptivity. (C) contractualism and rule-following. (D) consistency and coherence. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+38,2,20-40-30-10,A,20,A,40,C,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Stevenson, moral disagreements involve: (A) disagreement in interest. (B) disagreement in belief. (C) disagreement in theory. (D) disagreement in practice. (20 points)
+2. Aristotle says  that what makes things be what they are--their essence--does not exist apart from individ-uals that exist in the world.  So if all the members of a species were destroyed, then their essence or form: (A) would likewise be destroyed. (B) would be destroyed only if there were no one around to remember the species. (C) would continue existing (as with Plato's Forms) in some other realm of being. (D) would not be destroyed because there was no essence or form originally to be destroyed; there are only individuals, not universal essences or natures of things. (40 points)
+3. For the soft determinist, to say that you could have done otherwise is to say that you would have done otherwise if _____. (A) your desires were always the same (B) your desires were completely under your control (C) your desires had been different (D) your desires played no role in your decisions (30 points)
+4. Aquinas says that the first efficient cause of everything is _____. (A) the universe (B) God (C) nature (D) an infinite series (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+39,3,20-30-10-40,C,20,A,30,D,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Baggini accuses pessimists of mixing up the two senses of _____. (A) philosophy (B) religion (C) meaning (D) time (20 points)
+2. According to Parfit, the obligation to give priority to the welfare of one’s children is: (A) agent-relative. (B) agent-neutral. (C) absolute. (D) none of the above. (30 points)
+3. Augustine claims that there can be no evil where there is no: (A) hatred. (B) greed. (C) love. (D) good. (10 points)
+4. How does Stevenson respond to the objection that his theory does not account for the kind of goodness that is objective and is known a priori? (A) He claims to have proven that such a property does not exist. (B) He claims to have offered an account of just such a property. (C) He claims he does not understand such a property. (D) None of the above. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+40,3,40-30-20-10,B,40,C,30,D,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In Aristotle’s terminology, incontinence is when: (A) one does not know that one’s actions are wrong. (B) one knows that one’s actions are wrong, but does them anyway. (C) one knows that one’s feelings are inappropriate, and does not act on them. (D) one does the right action, but for the wrong reason. (40 points)
+2. To Kant, making a lying promise would be wrong because _____. (A) lying to people can cause them harm (B) lying to people harms society (C) you could not consistently will that everyone should make lying promises (D) most people condemn the practice (30 points)
+3. Feinberg claims that most arguments for psychological egoism: (A) make reference to neuroscience. (B) are based on controlled studies. (C) are based on interviews and surveys. (D) are nonempirical in character. (20 points)
+4. According to Cicero, it is expedient to be: (A) just. (B) generous. (C) kind. (D) all of the above. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+41,3,10-20-30-40,D,10,C,20,A,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Craig says an actually infinite number of things _____. (A) is possible (B) is meaningless (C) exists somewhere (D) cannot exist (10 points)
+2. The biblical account of the soul is at odds with _____. (A) a unitary concept of the soul (B) the identity theory (C) soul-body dualism (D) the idea of a monistic soul (20 points)
+3. A moral theory explains _____. (A) why an action is right or wrong (B) why one moral event caused another (C) where a moral agent got her values (D) why people do what they do (30 points)
+4. According to Butler, it is impossible to: (A) approve of the actions of others without imitating them. (B) do something of which one does not oneself approve. (C) be motivated by genuine benevolence. (D) do that which is good and not to approve of it. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+42,3,40-30-20-10,D,40,B,30,B,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Why is it ""easier said than done"" to ensure that the principle of informed consent is adhered to? (A) It is not practicable to present every participant with all the information about the study. (B) Sometimes it is desirable to withhold certain pieces of information, such as the length of time an interview will take. (C) If the participants knew exactly what the researcher was intending to study, they might change their behavior. (D) All of the above. (40 points)
+2. Singer claims that famine relief organizations direct our aid to distant refugees: (A) more effectively than we could get it to our close neighbors. (B) almost as effectively as we could get it to our close neighbors. (C) quite inefficiently, but they are still worth donating to. (D) very inefficiently, and are therefore not worth donating to. (30 points)
+3. According to Socrates, justice is when a soul is ruled by its: (A) respect for the law. (B) rational part. (C) desire for honor. (D) none of the above. (20 points)
+4. Da Vinci's Mona Lisa is_____. (A) representational (B) abstract (C) obscure (D) nonrepresentational (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+43,3,40-30-10-20,B,40,A,30,B,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Philosophy is concerned primarily with identifying beliefs about human existence and evaluating arguments that support those beliefs.  These activities can be summarized in two questions that drive philosophical investigations: (A) why should we bother? and what are the consequences of our believing one thing over another? (B) what do you mean? and how do you know? (C) who really believes X? and how can we explain differences in people's beliefs? (D) how do philosophers argue? and are their differences important? (40 points)
+2. Before his conversion, what was Tolstoy surrounded by? (A) what is considered complete happiness (B) things that no one would want (C) what is considered heavenly bliss (D) what is considered deep insight (30 points)
+3. An important moral criterion of adequacy is known as _____. (A) simplicity (B) consistency with our considered moral judgments (C) fruitfulness (D) fallibility (10 points)
+4. Descartes says that the chief characteristic of physical things is that _____. (A) they cannot be measured (B) science can study them (C) they do not have extension (D) they have extension (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+44,3,30-20-40-10,D,30,D,20,C,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Hobbes, in the condition of man in which there is a state of war of everyone against everyone, every man has a right to _____. (A) some things (B) lawful treatment (C) due process (D) everything (30 points)
+2. Feinberg takes his remarks about the two different senses of pleasure to refute: (A) psychological egoism. (B) psychological egoistic hedonism. (C) ethical egoism. (D) all of the above. (20 points)
+3. Moore defines the naturalistic fallacy as the view that: (A) everything that is natural is good. (B) everything that is good is natural. (C) good is identical to a natural property. (D) all of the above. (40 points)
+4. Aesthetics addresses questions that interest _____. (A) only philosophers (B) only critics (C) no one (D) philosophers and nonphilosophers (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+45,3,10-30-40-20,A,10,C,30,B,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In Book II of the Republic, Glaucon claims that justice originates from: (A) a social agreement. (B) nature. (C) the gods. (D) the powerful. (10 points)
+2. According to Brandt’s theory, an ideal moral rule is one that would: (A) maximize positive utility, ignoring negative utility. (B) minimize negative utility, ignoring positive utility. (C) maximize utility, with both positive and negative utilities being counted. (D) take no account of either positive or negative utility. (30 points)
+3. In spite of the fact that Socrates claims to be ignorant of the essence or nature of certain things like justice, he is wise insofar as he recognizes that without such knowledge actions are rationally unjustified.  That is, his wisdom consists in his recognition not only that he is ignorant of such essences but also that: (A) justice, like knowledge, requires that we admit that we know nothing and never will. (B) he knows what he is supposed to be looking for--knowledge of the essences of things. (C) knowledge of the essences of things is impossible, because that would require that we know what we are looking for before we know what it is we are looking for. (D) his method of asking questions about essences is itself unjustified because he does not know why he engages in such a practice. (40 points)
+4. Critics of the divine command theory have argued that the theory implies that God's commands are _____. (A) well supported (B) unclear (C) unknowable (D) arbitrary (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+46,3,40-20-10-30,A,40,A,20,D,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. ""When a person starts on the discovery of the absolute by the light of reason only, and without any assistance of sense, and perseveres until by pure intelligence he arrives at the perception of the absolute good, he at last finds himself at the end of the intellectual world. . . . Dialectic, and dialectic alone, goes directly to the first principle and is the only science which does away with hypotheses in order to make her ground secure.""  Here Plato indicates how hypothetical knowledge cannot provide the foundation of dialectical knowledge, insofar as hypotheses simply: (A) explain sense experiences in terms of general concepts which themselves are not explained. (B) show how particular objects of experience cause us to recall innate ideas. (C) describe sense experience without providing an explanation for dialectical methods. (D) reject the use of reason, preferring instead dialectic, to achieve knowledge. (40 points)
+2. A Loving Saint is someone: (A) whose happiness lies in the happiness of others. (B) who pays little or no attention to his own happiness, in light of the overriding importance of morality. (C) loves all human beings equally. (D) is morally perfect only in relation to those he loves. (20 points)
+3. Augustine claims that Academic skepticism: (A) is true, and can be proven. (B) is true, but cannot be proven (C) is false but cannot be refuted. (D) is false and can be refuted. (10 points)
+4. A prima facie duty is a characteristic of an act in virtue of which the act: (A) seems to be right, although this might be illusory. (B) tends to be right, although this might be outweighed by other considerations. (C) is right. (D) is the first thing that an agent ought to do, above all else. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+47,3,40-20-10-30,B,40,D,20,D,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If the world that we individually perceive is limited to an internal perspective, then there is no way that we could determine whether our own perspective is useful, true, or valuable because: (A) we know whether our internal perspective is correct only by comparing it with an objective, external perspective (the ""real"" world). (B) whatever we appeal to in order to prove that our perspective is right itself would be part of the standard we use in evaluating that perspective. (C) scientific research that reveals facts about the world would cause us to challenge our perceptions in a dreamworld of our own making. (D) without limiting our perspective to an internal dreamworld, we cannot achieve any objective, external knowledge of the real world. (40 points)
+2. By “animal motion,” Hobbes means: (A) involuntary operations such as heartbeat and breathing. (B) instinctive behavior, such as nursing young. (C) irrational behavior. (D) all voluntary behavior. (20 points)
+3. Soft determinism entails that _____. (A) we are free to choose our desires (B) there are no restraints on human behavior (C) the thesis of determinism is false (D) the thesis of determinism is true (10 points)
+4. How many categories of ethical principles do Diener and Crandell refer to? (A) Three: harm to students; lack of informed consent; invasion of privacy on social media. (B) Four: harm to participants; lack of informed consent; invasion of privacy; involvement of deception (C) Two: ethical and unethical (D) Two: right and wrong (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+48,3,20-10-30-40,B,20,A,10,C,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Aristotle saw his theory of the virtues as: (A) final and complete. (B) open-ended and revisable. (C) relative to his culture. (D) applicable only to himself. (20 points)
+2. Leo Tolstoy says that art is _____. (A) expression (B) form (C) representation (D) abstract (10 points)
+3. Epictetus claims that if the wife and children of a virtuous man were to die, he should feel: (A) righteous indignation. (B) moderate grief. (C) undisturbed. (D) envy of those who still have their loved ones. (30 points)
+4. Nussbaum claims that our modern debates about homosexuality: (A) are continuations of the very same debate about sexual activity that went on in the Greek world. (B) are interminable because there is no objective answer as to whether homosexuality is immoral. (C) are carried out in a manner that is not virtuous. (D) none of the above. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+49,3,20-40-30-10,C,20,B,40,C,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Baier asserts that when we ask for moral advice, we are asking for others to: (A) issue commands. (B) inform us of their preferences. (C) deliberate with us. (D) empathize with us. (20 points)
+2. Baier claims that ethical skepticism is often due to: (A) confused metaphysical theories. (B) confused epistemological theories. (C) confused religious views. (D) confused scientific theories. (40 points)
+3. Anselm assumes that a being that exists in reality is greater than a being that _____. (A) is worshipped (B) is embodied (C) exists only in the understanding (D) exists without flaws (30 points)
+4. Logical behaviorism is at odds with our commonsense intuition that mental states _____. (A) cause behavior (B) never cause behavior (C) exist (D) do not exist (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+50,3,20-30-10-40,D,20,A,30,D,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Rawls, behind the veil of ignorance, the principles of justice are _____. (A) the result of coercion (B) impractical (C) chosen arbitrarily (D) the result of a fair agreement or bargain (20 points)
+2. According to Epicurus, the wealth required for a good life is: (A) easily procured. (B) attainable for everyone, but only through great effort. (C) available only to the rich. (D) available only to the gods. (30 points)
+3. Baier claims that for a rule to belong the morality of a group, the rule must be: (A) part of the mores of the group. (B) universally teachable. (C) not merely a taboo. (D) all of the above. (10 points)
+4. Aesthetic values have to do with _______ (A) the moral value of works of art and other objects that could be judged beautiful (B) good and bad works of art and other objects that could be judged beautiful (C) the moral values of artists and critics (D) pragmatic decisions regarding the display of art (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+51,3,40-20-10-30,B,40,B,20,D,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Feinberg claims that the story about Abraham Lincoln: (A) provides some evidence for psychological egoism. (B) provides some evidence against psychological egoism. (C) provides no evidence for or against psychological egoism. (D) actually involves a confusion between ethical egoism and psychological egoism. (40 points)
+2. According to Parfit, both Taurek and Lewis assume that for there to be a “sum of pain,” it must be: (A) all felt at a single time. (B) all felt by a single person. (C) all be caused by a single source. (D) all of the above. (20 points)
+3. Feinberg claims that most arguments for psychological egoism: (A) make reference to neuroscience. (B) are based on controlled studies. (C) are based on interviews and surveys. (D) are nonempirical in character. (10 points)
+4. Aesthetic values have to do with _______ (A) the moral value of works of art and other objects that could be judged beautiful (B) good and bad works of art and other objects that could be judged beautiful (C) the moral values of artists and critics (D) pragmatic decisions regarding the display of art (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+52,3,30-20-10-40,B,30,C,20,A,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Stevenson claims that the primary use of ethical judgments is to: (A) state facts. (B) influence the interests of others. (C) describe one’s own approval of things. (D) none of the above. (30 points)
+2. The biblical account of the soul is at odds with _____. (A) a unitary concept of the soul (B) the identity theory (C) soul-body dualism (D) the idea of a monistic soul (20 points)
+3. Logical behaviorism is at odds with our commonsense intuition that mental states _____. (A) cause behavior (B) never cause behavior (C) exist (D) do not exist (10 points)
+4. Soft determinism entails that _____. (A) we are free to choose our desires (B) there are no restraints on human behavior (C) the thesis of determinism is false (D) the thesis of determinism is true (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+53,3,40-10-30-20,D,40,D,10,A,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Plato distinguishes knowledge from mere belief or opinion by saying that knowledge must be a true belief for which one can give a justification, a rationale, or ""logos.""  In terms of his image of the Divided Line, for Plato, knowledge is attained only when our sensible experience is: (A) grounded ultimately in what our senses reveal to us about the world of becoming. (B) based on images of the good, beauty, and truth obtained from particular objects and on which the concepts and Forms depend. (C) replaced by what we sincerely believe is true or have come to believe based on our upbringing. (D) understood in terms of concepts or innate ideas (Forms) that are perceived as rationally ordered. (40 points)
+2. Critics of the divine command theory have argued that the theory implies that God's commands are _____. (A) well supported (B) unclear (C) unknowable (D) arbitrary (10 points)
+3. According to Epicurus, the wealth required for a good life is: (A) easily procured. (B) attainable for everyone, but only through great effort. (C) available only to the rich. (D) available only to the gods. (30 points)
+4. Augustine claims that all created things are: (A) eternally and unchangeably good. (B) good when taken together, but not good separately. (C) good, even taken separately. (D) none of the above. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+54,3,20-40-10-30,A,20,D,40,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Berkeley believes that sensible things cannot exist except in _____. (A) a mind (B) absolute existence (C) material substance (D) a material universe (20 points)
+2. Why is it ""easier said than done"" to ensure that the principle of informed consent is adhered to? (A) It is not practicable to present every participant with all the information about the study. (B) Sometimes it is desirable to withhold certain pieces of information, such as the length of time an interview will take. (C) If the participants knew exactly what the researcher was intending to study, they might change their behavior. (D) All of the above. (40 points)
+3. According to Cicero, it is expedient to be: (A) just. (B) generous. (C) kind. (D) all of the above. (10 points)
+4. Baier asserts that when we ask for moral advice, we are asking for others to: (A) issue commands. (B) inform us of their preferences. (C) deliberate with us. (D) empathize with us. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+55,3,10-30-40-20,A,10,D,30,D,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Da Vinci's Mona Lisa is_____. (A) representational (B) abstract (C) obscure (D) nonrepresentational (10 points)
+2. Augustine claims that Academic skepticism: (A) is true, and can be proven. (B) is true, but cannot be proven (C) is false but cannot be refuted. (D) is false and can be refuted. (30 points)
+3. Descartes says that the chief characteristic of physical things is that _____. (A) they cannot be measured (B) science can study them (C) they do not have extension (D) they have extension (40 points)
+4. An important formal characteristic of art is_____. (A) social meaning (B) faithful representation (C) its power to evoke strong emotions (D) coherence (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+56,3,20-10-40-30,B,20,C,10,A,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Aristotle saw his theory of the virtues as: (A) final and complete. (B) open-ended and revisable. (C) relative to his culture. (D) applicable only to himself. (20 points)
+2. Baggini accuses pessimists of mixing up the two senses of _____. (A) philosophy (B) religion (C) meaning (D) time (10 points)
+3. Before his conversion, what was Tolstoy surrounded by? (A) what is considered complete happiness (B) things that no one would want (C) what is considered heavenly bliss (D) what is considered deep insight (40 points)
+4. Hobbes defines injustice as: (A) taking more than one’s share of a good. (B) failure to perform one’s covenant. (C) treating another person as a mere means. (D) violating a law of nature. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+57,3,10-40-30-20,C,10,B,40,C,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Aristotle ends the Ethics with a segue to a discussion of: (A) aesthetics. (B) theology. (C) politics. (D) natural science. (10 points)
+2. A prima facie duty is a characteristic of an act in virtue of which the act: (A) seems to be right, although this might be illusory. (B) tends to be right, although this might be outweighed by other considerations. (C) is right. (D) is the first thing that an agent ought to do, above all else. (40 points)
+3. According to Hobbes, the definition of injustice is _____. (A) disobedience to a sovereign (B) disobedience to God's law (C) failure to abide by a contract (D) failure to respect inherent rights (30 points)
+4. A prominent view is that an object has aesthetic value if it _____. (A) cannot be defined (B) has no utility (C) serves some important function (D) has no meaning (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+58,4,10-30-40-20,A,10,D,30,B,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In Book II of the Republic, Glaucon claims that justice originates from: (A) a social agreement. (B) nature. (C) the gods. (D) the powerful. (10 points)
+2. According to Butler, it is impossible to: (A) approve of the actions of others without imitating them. (B) do something of which one does not oneself approve. (C) be motivated by genuine benevolence. (D) do that which is good and not to approve of it. (30 points)
+3. How many categories of ethical principles do Diener and Crandell refer to? (A) Three: harm to students; lack of informed consent; invasion of privacy on social media. (B) Four: harm to participants; lack of informed consent; invasion of privacy; involvement of deception (C) Two: ethical and unethical (D) Two: right and wrong (40 points)
+4. Stevenson’s primary aim in this paper is to: (A) provide an account of what makes right actions right. (B) establish which things are good in themselves. (C) develop a theory of good moral character. (D) make ethical questions clear. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+59,4,10-20-40-30,A,10,D,20,B,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Leo Tolstoy says that art is _____. (A) expression (B) form (C) representation (D) abstract (10 points)
+2. Aesthetics addresses questions that interest _____. (A) only philosophers (B) only critics (C) no one (D) philosophers and nonphilosophers (20 points)
+3. ""There is no rationale for myth because it is through myth that reason itself is defined.""  This means that: (A) mythos is ultimately based on logos, just as myth is ultimately based on reasoning or thinking. (B) myth does not ""explain"" how things are related as much as it simply reveals them as related. (C) metaphysicians are justified in reasoning as they do because there is only one true answer about being. (D) myth and reason are the same: ""myth"" defines ""reason,"" and ""reason"" defines ""myth."" (40 points)
+4. According to Sartre, there is at least one being in whom existence precedes essence, and this being is _____. (A) God (B) man (C) primitive man (D) future man (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+60,4,10-20-30-40,D,10,D,20,D,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Augustine claims that there can be no evil where there is no: (A) hatred. (B) greed. (C) love. (D) good. (10 points)
+2. According to Gauthier, deliberative justification: (A) is refuted by moral requirements. (B) is replaced once we acknowledge moral requirements. (C) refutes morality. (D) ignores morality and seemingly replaces it. (20 points)
+3. According to Socrates, a clear sign that a person has _____ is her exclusive pursuit of social status, wealth, power, and pleasure. (A) philosophical ambition (B) worldly wisdom (C) exceptional desires (D) an unhealthy soul (30 points)
+4. In Aristotle’s terminology, incontinence is when: (A) one does not know that one’s actions are wrong. (B) one knows that one’s actions are wrong, but does them anyway. (C) one knows that one’s feelings are inappropriate, and does not act on them. (D) one does the right action, but for the wrong reason. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+61,4,40-30-20-10,C,40,D,30,D,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How does Stevenson respond to the objection that his theory does not account for the kind of goodness that is objective and is known a priori? (A) He claims to have proven that such a property does not exist. (B) He claims to have offered an account of just such a property. (C) He claims he does not understand such a property. (D) None of the above. (40 points)
+2. According to Singer, compliance with his principle requires: (A) modest changes to our personal habits, but not to our society as a whole. (B) modest changes to our personal habits, as well as to society. (C) drastic changes to our personal habits, but not to our society. (D) drastic changes to both our personal habits and to our society. (30 points)
+3. Baier claims that for a rule to belong the morality of a group, the rule must be: (A) part of the mores of the group. (B) universally teachable. (C) not merely a taboo. (D) all of the above. (20 points)
+4. Which method is most commonly associated with a lack of informed consent? (A) Qualitative content analysis (B) In-depth interviewing (C) Covert observation (D) Structured interviewing (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+62,4,40-20-30-10,C,40,D,20,D,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. To Kant, making a lying promise would be wrong because _____. (A) lying to people can cause them harm (B) lying to people harms society (C) you could not consistently will that everyone should make lying promises (D) most people condemn the practice (40 points)
+2. Moore defines good as: (A) pleasure. (B) that which we desire. (C) that which we desire to desire. (D) none of the above. (20 points)
+3. Craig says an actually infinite number of things _____. (A) is possible (B) is meaningless (C) exists somewhere (D) cannot exist (30 points)
+4. Epicurus claims that all other virtues spring from: (A) prudence. (B) temperance. (C) justice. (D) courage. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+63,4,20-40-10-30,D,20,B,40,C,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Rawls, behind the veil of ignorance, the principles of justice are _____. (A) the result of coercion (B) impractical (C) chosen arbitrarily (D) the result of a fair agreement or bargain (20 points)
+2. Hare claims that the two essential features of the logic of moral judgments are: (A) consequentialism and hedonism. (B) universalizability and prescriptivity. (C) contractualism and rule-following. (D) consistency and coherence. (40 points)
+3. According to Cicero, the most practical branch of philosophy deals with: (A) logic. (B) natural science. (C) moral duties. (D) expedience. (10 points)
+4. Hare claims that a person who refuses to make any positive moral judgments: (A) is irrational. (B) is immoral. (C) cannot coherently invoke morality to protect one’s own interests. (D) couldn’t possibly exist. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+64,4,20-40-30-10,B,20,A,40,D,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Augustine claims that to be happy, one must know: (A) the causes of natural occurrences. (B) the causes of good and evil. (C) both a and b. (D) neither a nor b. (20 points)
+2. A Loving Saint is someone: (A) whose happiness lies in the happiness of others. (B) who pays little or no attention to his own happiness, in light of the overriding importance of morality. (C) loves all human beings equally. (D) is morally perfect only in relation to those he loves. (40 points)
+3. Feinberg takes his remarks about the two different senses of pleasure to refute: (A) psychological egoism. (B) psychological egoistic hedonism. (C) ethical egoism. (D) all of the above. (30 points)
+4. Butler claims that, strictly speaking, the only thing that anyone has a right to is: (A) life. (B) liberty. (C) property. (D) happiness. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+65,4,40-10-30-20,A,40,B,10,C,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Ross claims that we learn of our prima facie duties: (A) by seeing the prima facie rightness of particular acts, and then apprehending general principles. (B) by apprehending general principles, and then inferring the prima facie rightness of particular acts. (C) by proving them philosophically. (D) from the explicit moral instruction we receive as children. (40 points)
+2. According to Socrates, justice is when a soul is ruled by its: (A) respect for the law. (B) rational part. (C) desire for honor. (D) none of the above. (10 points)
+3. Anselm assumes that a being that exists in reality is greater than a being that _____. (A) is worshipped (B) is embodied (C) exists only in the understanding (D) exists without flaws (30 points)
+4. According to Stevenson, moral disagreements involve: (A) disagreement in interest. (B) disagreement in belief. (C) disagreement in theory. (D) disagreement in practice. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+66,4,20-30-10-40,D,20,B,30,B,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Nussbaum claims that our modern debates about homosexuality: (A) are continuations of the very same debate about sexual activity that went on in the Greek world. (B) are interminable because there is no objective answer as to whether homosexuality is immoral. (C) are carried out in a manner that is not virtuous. (D) none of the above. (20 points)
+2. According to Nagel, the problem of moral luck arises because: (A) philosophers try to apply arbitrarily stringent standards to moral responsibility. (B) the self is threatened with dissolution by the absorption of its acts into the class of events. (C) our moral theories are hopelessly off track. (D) our theories of human action are hopelessly off track. (30 points)
+3. The idea that mental states are dispositions to behave in particular ways in certain circumstances is known as _____. (A) logical nominalism (B) logical behaviorism (C) methodological behaviorism (D) eliminative materialism (10 points)
+4. One objection to Singer’s theory that he considers is that it: (A) does not do enough to address suffering in other countries besides our own. (B) inappropriately makes proximity morally important. (C) does not account for the fact that we have stricter obligations to our loved ones than to strangers. (D) requires too drastic a revision to our moral scheme. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+67,4,40-20-10-30,A,40,B,20,B,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. ""When a person starts on the discovery of the absolute by the light of reason only, and without any assistance of sense, and perseveres until by pure intelligence he arrives at the perception of the absolute good, he at last finds himself at the end of the intellectual world. . . . Dialectic, and dialectic alone, goes directly to the first principle and is the only science which does away with hypotheses in order to make her ground secure.""  Here Plato indicates how hypothetical knowledge cannot provide the foundation of dialectical knowledge, insofar as hypotheses simply: (A) explain sense experiences in terms of general concepts which themselves are not explained. (B) show how particular objects of experience cause us to recall innate ideas. (C) describe sense experience without providing an explanation for dialectical methods. (D) reject the use of reason, preferring instead dialectic, to achieve knowledge. (40 points)
+2. Baier claims that ethical skepticism is often due to: (A) confused metaphysical theories. (B) confused epistemological theories. (C) confused religious views. (D) confused scientific theories. (20 points)
+3. To argue that he is obliged to obey the laws of Athens, Socrates compares the city to: (A) an employer. (B) a parent. (C) a friend. (D) a spouse. (10 points)
+4. Nagel claims that most skeptical arguments: (A) are the result of applying arbitrarily stringent standards. (B) are based on linguistic confusions. (C) are logically self-refuting. (D) grow from the consistent application of ordinary standards. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+68,4,40-20-10-30,A,40,C,20,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Aristotle says  that what makes things be what they are--their essence--does not exist apart from individ-uals that exist in the world.  So if all the members of a species were destroyed, then their essence or form: (A) would likewise be destroyed. (B) would be destroyed only if there were no one around to remember the species. (C) would continue existing (as with Plato's Forms) in some other realm of being. (D) would not be destroyed because there was no essence or form originally to be destroyed; there are only individuals, not universal essences or natures of things. (40 points)
+2. Descartes believed that interaction between body and mind took place in _____. (A) ectoplasm (B) the brain stem (C) the pineal gland (D) the nervous system (20 points)
+3. Kant claims that the natural purpose of reason is to: (A) produce happiness. (B) produce pleasure. (C) produce knowledge. (D) produce a good will. (10 points)
+4. Epictetus claims that if the wife and children of a virtuous man were to die, he should feel: (A) righteous indignation. (B) moderate grief. (C) undisturbed. (D) envy of those who still have their loved ones. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+69,4,20-10-40-30,A,20,B,10,B,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Bentham claims that nature has placed mankind under two sovereign masters: (A) pain and pleasure. (B) good and evil. (C) God and the devil. (D) duty and self-interest. (20 points)
+2. According to Ross, our prima facie duties: (A) can be proven. (B) are self-evident. (C) cannot be known. (D) are not objective. (10 points)
+3. According to Socrates, the task of the wise and virtuous person is not simply to learn various examples of just or virtuous actions but to learn the essence of justice or virtue, because: (A) by knowing enough examples of justice or virtue, we will live a worthwhile life even if we do not know what makes them examples of justice or virtue. (B) knowledge of individual examples alone would not prepare someone for situations of justice or virtue to which the examples do not immediately apply. (C) what makes an action just or virtuous can be known only by asking people for their opinions and respecting each answer as equally valuable. (D) justice and virtue are universal goals of all human beings, even if people do not always agree on how to achieve those ends. (40 points)
+4. According to Brandt’s theory, an ideal moral rule is one that would: (A) maximize positive utility, ignoring negative utility. (B) minimize negative utility, ignoring positive utility. (C) maximize utility, with both positive and negative utilities being counted. (D) take no account of either positive or negative utility. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+70,4,10-20-30-40,B,10,C,20,D,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Kant claims that the moral law is given to each person by: (A) society. (B) one’s own will. (C) God. (D) Nature. (10 points)
+2. Which of the following concepts can be defined, according to Moore? (A) good (B) yellow (C) horse (D) all of the above (20 points)
+3. Which of the following is a form of harm that might be suffered by research participants? (A) Physical injury (B) Stress and anxiety (C) Impaired development (D) All of the above (30 points)
+4. By “animal motion,” Hobbes means: (A) involuntary operations such as heartbeat and breathing. (B) instinctive behavior, such as nursing young. (C) irrational behavior. (D) all voluntary behavior. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+71,4,10-40-30-20,D,10,B,40,B,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Berkeley insists that heat and cold are _____. (A) illusions (B) physical objects (C) only things existing apart from our minds (D) only sensations existing in our minds (10 points)
+2. In spite of the fact that Socrates claims to be ignorant of the essence or nature of certain things like justice, he is wise insofar as he recognizes that without such knowledge actions are rationally unjustified.  That is, his wisdom consists in his recognition not only that he is ignorant of such essences but also that: (A) justice, like knowledge, requires that we admit that we know nothing and never will. (B) he knows what he is supposed to be looking for--knowledge of the essences of things. (C) knowledge of the essences of things is impossible, because that would require that we know what we are looking for before we know what it is we are looking for. (D) his method of asking questions about essences is itself unjustified because he does not know why he engages in such a practice. (40 points)
+3. If the world that we individually perceive is limited to an internal perspective, then there is no way that we could determine whether our own perspective is useful, true, or valuable because: (A) we know whether our internal perspective is correct only by comparing it with an objective, external perspective (the ""real"" world). (B) whatever we appeal to in order to prove that our perspective is right itself would be part of the standard we use in evaluating that perspective. (C) scientific research that reveals facts about the world would cause us to challenge our perceptions in a dreamworld of our own making. (D) without limiting our perspective to an internal dreamworld, we cannot achieve any objective, external knowledge of the real world. (30 points)
+4. For Socrates, the belief that ""virtue is knowledge"" is related to his claim that ""the unexamined life is not worth living,"" because he believes that: (A) the unexamined life is one in which we live day to day without asking questions about who we are and why we are here in the first place. (B) the Delphic oracle identified Socrates as the wisest person on earth because he claimed to know nothing. (C) by questioning traditional beliefs, we learn to recognize how some answers seem to be more satisfactory than others. (D) the only way to be a good or worthwhile person is to know how human beings should behave based on universal norms or values. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+72,4,40-30-10-20,C,40,C,30,C,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. ""Is there anything you would be willing to die for?"" is a philosophical question insofar as: (A) it does not have any right or wrong answer because it is a meaningless question. (B) it is a meaningless question because everyone could have a different answer to it. (C) it forces us to articulate and justify our beliefs about what we know and ought to do. (D) it is more concerned with one's religious beliefs than with factual claims about the world. (40 points)
+2. For the soft determinist, to say that you could have done otherwise is to say that you would have done otherwise if _____. (A) your desires were always the same (B) your desires were completely under your control (C) your desires had been different (D) your desires played no role in your decisions (30 points)
+3. According to Kant, the supreme principle of morality is: (A) analytic and a priori. (B) analytic and a posteriori. (C) synthetic and a priori. (D) synthetic and a posteriori. (10 points)
+4. In the Inquiry, Hume claims that our final verdicts on moral matters are derived from: (A) reason. (B) a moral sense that is unique to each person. (C) a moral sense that is universal in our species. (D) emotion. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+73,4,10-20-30-40,B,10,A,20,A,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Aquinas says that the first efficient cause of everything is _____. (A) the universe (B) God (C) nature (D) an infinite series (10 points)
+2. According to Parfit, the obligation to give priority to the welfare of one’s children is: (A) agent-relative. (B) agent-neutral. (C) absolute. (D) none of the above. (20 points)
+3. Nussbaum claims that recent anthropological work has shown that fear is: (A) partially learned and culturally variant. (B) universally experienced in roughly the same way. (C) not present in certain societies. (D) none of the above. (30 points)
+4. Philosophy is concerned primarily with identifying beliefs about human existence and evaluating arguments that support those beliefs.  These activities can be summarized in two questions that drive philosophical investigations: (A) why should we bother? and what are the consequences of our believing one thing over another? (B) what do you mean? and how do you know? (C) who really believes X? and how can we explain differences in people's beliefs? (D) how do philosophers argue? and are their differences important? (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+74,4,30-40-20-10,C,30,A,40,D,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Moore defines the naturalistic fallacy as the view that: (A) everything that is natural is good. (B) everything that is good is natural. (C) good is identical to a natural property. (D) all of the above. (30 points)
+2. According to Bentham, a moral sanction is: (A) pleasure or pain inflicted by chance members of the community. (B) pleasure or pain inflicted by a judge in accordance with a rule. (C) pleasure or pain that it is permissible to inflict on someone. (D) none of the above. (40 points)
+3. According to Hobbes, in the condition of man in which there is a state of war of everyone against everyone, every man has a right to _____. (A) some things (B) lawful treatment (C) due process (D) everything (20 points)
+4. Mill defines “utility” as: (A) usefulness for some craft. (B) usefulness to society. (C) pleasure and the absence of pain. (D) it promotes the interests of all and does not harm anyone. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+75,4,20-40-10-30,A,20,B,40,B,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A moral theory explains _____. (A) why an action is right or wrong (B) why one moral event caused another (C) where a moral agent got her values (D) why people do what they do (20 points)
+2. Singer claims that famine relief organizations direct our aid to distant refugees: (A) more effectively than we could get it to our close neighbors. (B) almost as effectively as we could get it to our close neighbors. (C) quite inefficiently, but they are still worth donating to. (D) very inefficiently, and are therefore not worth donating to. (40 points)
+3. An important moral criterion of adequacy is known as _____. (A) simplicity (B) consistency with our considered moral judgments (C) fruitfulness (D) fallibility (10 points)
+4. The version of utilitarianism that Brandt defends makes rightness a function of: (A) the consequences of particular acts. (B) the actual and recognized rules of society. (C) ideal rules. (D) whether or not one’s maxim can be universalized. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+76,4,40-10-20-30,B,40,A,10,A,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If the world that we individually perceive is limited to an internal perspective, then there is no way that we could determine whether our own perspective is useful, true, or valuable because: (A) we know whether our internal perspective is correct only by comparing it with an objective, external perspective (the ""real"" world). (B) whatever we appeal to in order to prove that our perspective is right itself would be part of the standard we use in evaluating that perspective. (C) scientific research that reveals facts about the world would cause us to challenge our perceptions in a dreamworld of our own making. (D) without limiting our perspective to an internal dreamworld, we cannot achieve any objective, external knowledge of the real world. (40 points)
+2. Da Vinci's Mona Lisa is_____. (A) representational (B) abstract (C) obscure (D) nonrepresentational (10 points)
+3. According to Epicurus, the wealth required for a good life is: (A) easily procured. (B) attainable for everyone, but only through great effort. (C) available only to the rich. (D) available only to the gods. (20 points)
+4. One objection to Singer’s theory that he considers is that it: (A) does not do enough to address suffering in other countries besides our own. (B) inappropriately makes proximity morally important. (C) does not account for the fact that we have stricter obligations to our loved ones than to strangers. (D) requires too drastic a revision to our moral scheme. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+77,5,40-30-20-10,C,40,D,30,A,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. To Kant, making a lying promise would be wrong because _____. (A) lying to people can cause them harm (B) lying to people harms society (C) you could not consistently will that everyone should make lying promises (D) most people condemn the practice (40 points)
+2. According to Hobbes, in the condition of man in which there is a state of war of everyone against everyone, every man has a right to _____. (A) some things (B) lawful treatment (C) due process (D) everything (30 points)
+3. Berkeley believes that sensible things cannot exist except in _____. (A) a mind (B) absolute existence (C) material substance (D) a material universe (20 points)
+4. Which of the following concepts can be defined, according to Moore? (A) good (B) yellow (C) horse (D) all of the above (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+78,5,30-10-40-20,C,30,B,10,D,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Anselm assumes that a being that exists in reality is greater than a being that _____. (A) is worshipped (B) is embodied (C) exists only in the understanding (D) exists without flaws (30 points)
+2. According to Socrates, justice is when a soul is ruled by its: (A) respect for the law. (B) rational part. (C) desire for honor. (D) none of the above. (10 points)
+3. By “animal motion,” Hobbes means: (A) involuntary operations such as heartbeat and breathing. (B) instinctive behavior, such as nursing young. (C) irrational behavior. (D) all voluntary behavior. (40 points)
+4. Descartes believed that interaction between body and mind took place in _____. (A) ectoplasm (B) the brain stem (C) the pineal gland (D) the nervous system (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+79,5,10-40-30-20,D,10,C,40,C,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Craig says an actually infinite number of things _____. (A) is possible (B) is meaningless (C) exists somewhere (D) cannot exist (10 points)
+2. ""Is there anything you would be willing to die for?"" is a philosophical question insofar as: (A) it does not have any right or wrong answer because it is a meaningless question. (B) it is a meaningless question because everyone could have a different answer to it. (C) it forces us to articulate and justify our beliefs about what we know and ought to do. (D) it is more concerned with one's religious beliefs than with factual claims about the world. (40 points)
+3. For the soft determinist, to say that you could have done otherwise is to say that you would have done otherwise if _____. (A) your desires were always the same (B) your desires were completely under your control (C) your desires had been different (D) your desires played no role in your decisions (30 points)
+4. Hare claims that a person who refuses to make any positive moral judgments: (A) is irrational. (B) is immoral. (C) cannot coherently invoke morality to protect one’s own interests. (D) couldn’t possibly exist. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+80,5,20-30-40-10,D,20,B,30,C,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Kant claims that the natural purpose of reason is to: (A) produce happiness. (B) produce pleasure. (C) produce knowledge. (D) produce a good will. (20 points)
+2. Stevenson claims that the primary use of ethical judgments is to: (A) state facts. (B) influence the interests of others. (C) describe one’s own approval of things. (D) none of the above. (30 points)
+3. Augustine claims that all created things are: (A) eternally and unchangeably good. (B) good when taken together, but not good separately. (C) good, even taken separately. (D) none of the above. (40 points)
+4. Baggini accuses pessimists of mixing up the two senses of _____. (A) philosophy (B) religion (C) meaning (D) time (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+81,5,40-30-10-20,A,40,C,30,D,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. ""When a person starts on the discovery of the absolute by the light of reason only, and without any assistance of sense, and perseveres until by pure intelligence he arrives at the perception of the absolute good, he at last finds himself at the end of the intellectual world. . . . Dialectic, and dialectic alone, goes directly to the first principle and is the only science which does away with hypotheses in order to make her ground secure.""  Here Plato indicates how hypothetical knowledge cannot provide the foundation of dialectical knowledge, insofar as hypotheses simply: (A) explain sense experiences in terms of general concepts which themselves are not explained. (B) show how particular objects of experience cause us to recall innate ideas. (C) describe sense experience without providing an explanation for dialectical methods. (D) reject the use of reason, preferring instead dialectic, to achieve knowledge. (40 points)
+2. Mill defines “utility” as: (A) usefulness for some craft. (B) usefulness to society. (C) pleasure and the absence of pain. (D) it promotes the interests of all and does not harm anyone. (30 points)
+3. According to Cicero, it is expedient to be: (A) just. (B) generous. (C) kind. (D) all of the above. (10 points)
+4. Baier claims that ethical skepticism is often due to: (A) confused metaphysical theories. (B) confused epistemological theories. (C) confused religious views. (D) confused scientific theories. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+82,5,30-20-10-40,D,30,A,20,C,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Socrates, a clear sign that a person has _____ is her exclusive pursuit of social status, wealth, power, and pleasure. (A) philosophical ambition (B) worldly wisdom (C) exceptional desires (D) an unhealthy soul (30 points)
+2. Before his conversion, what was Tolstoy surrounded by? (A) what is considered complete happiness (B) things that no one would want (C) what is considered heavenly bliss (D) what is considered deep insight (20 points)
+3. Baier asserts that when we ask for moral advice, we are asking for others to: (A) issue commands. (B) inform us of their preferences. (C) deliberate with us. (D) empathize with us. (10 points)
+4. How does Stevenson respond to the objection that his theory does not account for the kind of goodness that is objective and is known a priori? (A) He claims to have proven that such a property does not exist. (B) He claims to have offered an account of just such a property. (C) He claims he does not understand such a property. (D) None of the above. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+83,5,30-20-40-10,B,30,C,20,B,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A prima facie duty is a characteristic of an act in virtue of which the act: (A) seems to be right, although this might be illusory. (B) tends to be right, although this might be outweighed by other considerations. (C) is right. (D) is the first thing that an agent ought to do, above all else. (30 points)
+2. Moore defines the naturalistic fallacy as the view that: (A) everything that is natural is good. (B) everything that is good is natural. (C) good is identical to a natural property. (D) all of the above. (20 points)
+3. Philosophy is concerned primarily with identifying beliefs about human existence and evaluating arguments that support those beliefs.  These activities can be summarized in two questions that drive philosophical investigations: (A) why should we bother? and what are the consequences of our believing one thing over another? (B) what do you mean? and how do you know? (C) who really believes X? and how can we explain differences in people's beliefs? (D) how do philosophers argue? and are their differences important? (40 points)
+4. Augustine claims that to be happy, one must know: (A) the causes of natural occurrences. (B) the causes of good and evil. (C) both a and b. (D) neither a nor b. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+84,5,40-20-10-30,D,40,D,20,D,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Plato distinguishes knowledge from mere belief or opinion by saying that knowledge must be a true belief for which one can give a justification, a rationale, or ""logos.""  In terms of his image of the Divided Line, for Plato, knowledge is attained only when our sensible experience is: (A) grounded ultimately in what our senses reveal to us about the world of becoming. (B) based on images of the good, beauty, and truth obtained from particular objects and on which the concepts and Forms depend. (C) replaced by what we sincerely believe is true or have come to believe based on our upbringing. (D) understood in terms of concepts or innate ideas (Forms) that are perceived as rationally ordered. (40 points)
+2. Feinberg takes his remarks about the two different senses of pleasure to refute: (A) psychological egoism. (B) psychological egoistic hedonism. (C) ethical egoism. (D) all of the above. (20 points)
+3. Critics of the divine command theory have argued that the theory implies that God's commands are _____. (A) well supported (B) unclear (C) unknowable (D) arbitrary (10 points)
+4. Singer claims that famine relief organizations direct our aid to distant refugees: (A) more effectively than we could get it to our close neighbors. (B) almost as effectively as we could get it to our close neighbors. (C) quite inefficiently, but they are still worth donating to. (D) very inefficiently, and are therefore not worth donating to. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+85,5,40-20-30-10,B,40,C,20,C,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In Aristotle’s terminology, incontinence is when: (A) one does not know that one’s actions are wrong. (B) one knows that one’s actions are wrong, but does them anyway. (C) one knows that one’s feelings are inappropriate, and does not act on them. (D) one does the right action, but for the wrong reason. (40 points)
+2. The biblical account of the soul is at odds with _____. (A) a unitary concept of the soul (B) the identity theory (C) soul-body dualism (D) the idea of a monistic soul (20 points)
+3. Which method is most commonly associated with a lack of informed consent? (A) Qualitative content analysis (B) In-depth interviewing (C) Covert observation (D) Structured interviewing (30 points)
+4. Kant claims that the moral law is given to each person by: (A) society. (B) one’s own will. (C) God. (D) Nature. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+86,5,20-30-40-10,D,20,C,30,D,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Gauthier, deliberative justification: (A) is refuted by moral requirements. (B) is replaced once we acknowledge moral requirements. (C) refutes morality. (D) ignores morality and seemingly replaces it. (20 points)
+2. The version of utilitarianism that Brandt defends makes rightness a function of: (A) the consequences of particular acts. (B) the actual and recognized rules of society. (C) ideal rules. (D) whether or not one’s maxim can be universalized. (30 points)
+3. For Socrates, the belief that ""virtue is knowledge"" is related to his claim that ""the unexamined life is not worth living,"" because he believes that: (A) the unexamined life is one in which we live day to day without asking questions about who we are and why we are here in the first place. (B) the Delphic oracle identified Socrates as the wisest person on earth because he claimed to know nothing. (C) by questioning traditional beliefs, we learn to recognize how some answers seem to be more satisfactory than others. (D) the only way to be a good or worthwhile person is to know how human beings should behave based on universal norms or values. (40 points)
+4. To argue that he is obliged to obey the laws of Athens, Socrates compares the city to: (A) an employer. (B) a parent. (C) a friend. (D) a spouse. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+87,5,30-20-40-10,D,30,C,20,B,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Descartes says that the chief characteristic of physical things is that _____. (A) they cannot be measured (B) science can study them (C) they do not have extension (D) they have extension (30 points)
+2. According to Kant, the supreme principle of morality is: (A) analytic and a priori. (B) analytic and a posteriori. (C) synthetic and a priori. (D) synthetic and a posteriori. (20 points)
+3. Feinberg claims that the story about Abraham Lincoln: (A) provides some evidence for psychological egoism. (B) provides some evidence against psychological egoism. (C) provides no evidence for or against psychological egoism. (D) actually involves a confusion between ethical egoism and psychological egoism. (40 points)
+4. According to Cicero, the most practical branch of philosophy deals with: (A) logic. (B) natural science. (C) moral duties. (D) expedience. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+88,5,10-20-30-40,B,10,B,20,B,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Sartre, there is at least one being in whom existence precedes essence, and this being is _____. (A) God (B) man (C) primitive man (D) future man (10 points)
+2. Hobbes defines injustice as: (A) taking more than one’s share of a good. (B) failure to perform one’s covenant. (C) treating another person as a mere means. (D) violating a law of nature. (20 points)
+3. Hare claims that the two essential features of the logic of moral judgments are: (A) consequentialism and hedonism. (B) universalizability and prescriptivity. (C) contractualism and rule-following. (D) consistency and coherence. (30 points)
+4. According to Butler, it is impossible to: (A) approve of the actions of others without imitating them. (B) do something of which one does not oneself approve. (C) be motivated by genuine benevolence. (D) do that which is good and not to approve of it. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+89,5,30-20-10-40,D,30,D,20,A,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to Singer, compliance with his principle requires: (A) modest changes to our personal habits, but not to our society as a whole. (B) modest changes to our personal habits, as well as to society. (C) drastic changes to our personal habits, but not to our society. (D) drastic changes to both our personal habits and to our society. (30 points)
+2. Feinberg claims that most arguments for psychological egoism: (A) make reference to neuroscience. (B) are based on controlled studies. (C) are based on interviews and surveys. (D) are nonempirical in character. (20 points)
+3. A moral theory explains _____. (A) why an action is right or wrong (B) why one moral event caused another (C) where a moral agent got her values (D) why people do what they do (10 points)
+4. Ross claims that we learn of our prima facie duties: (A) by seeing the prima facie rightness of particular acts, and then apprehending general principles. (B) by apprehending general principles, and then inferring the prima facie rightness of particular acts. (C) by proving them philosophically. (D) from the explicit moral instruction we receive as children. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+90,5,10-40-30-20,D,10,D,40,D,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Augustine claims that there can be no evil where there is no: (A) hatred. (B) greed. (C) love. (D) good. (10 points)
+2. Why is it ""easier said than done"" to ensure that the principle of informed consent is adhered to? (A) It is not practicable to present every participant with all the information about the study. (B) Sometimes it is desirable to withhold certain pieces of information, such as the length of time an interview will take. (C) If the participants knew exactly what the researcher was intending to study, they might change their behavior. (D) All of the above. (40 points)
+3. According to Rawls, behind the veil of ignorance, the principles of justice are _____. (A) the result of coercion (B) impractical (C) chosen arbitrarily (D) the result of a fair agreement or bargain (30 points)
+4. Aquinas says that the first efficient cause of everything is _____. (A) the universe (B) God (C) nature (D) an infinite series (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+91,5,40-10-20-30,D,40,A,10,B,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Baier claims that for a rule to belong the morality of a group, the rule must be: (A) part of the mores of the group. (B) universally teachable. (C) not merely a taboo. (D) all of the above. (40 points)
+2. Leo Tolstoy says that art is _____. (A) expression (B) form (C) representation (D) abstract (10 points)
+3. According to Ross, our prima facie duties: (A) can be proven. (B) are self-evident. (C) cannot be known. (D) are not objective. (20 points)
+4. In Book II of the Republic, Glaucon claims that justice originates from: (A) a social agreement. (B) nature. (C) the gods. (D) the powerful. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+92,5,10-30-20-40,D,10,A,30,B,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Moore defines good as: (A) pleasure. (B) that which we desire. (C) that which we desire to desire. (D) none of the above. (10 points)
+2. A Loving Saint is someone: (A) whose happiness lies in the happiness of others. (B) who pays little or no attention to his own happiness, in light of the overriding importance of morality. (C) loves all human beings equally. (D) is morally perfect only in relation to those he loves. (30 points)
+3. Aristotle saw his theory of the virtues as: (A) final and complete. (B) open-ended and revisable. (C) relative to his culture. (D) applicable only to himself. (20 points)
+4. Nussbaum claims that our modern debates about homosexuality: (A) are continuations of the very same debate about sexual activity that went on in the Greek world. (B) are interminable because there is no objective answer as to whether homosexuality is immoral. (C) are carried out in a manner that is not virtuous. (D) none of the above. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+93,5,30-40-10-20,D,30,D,40,D,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Soft determinism entails that _____. (A) we are free to choose our desires (B) there are no restraints on human behavior (C) the thesis of determinism is false (D) the thesis of determinism is true (30 points)
+2. Stevenson’s primary aim in this paper is to: (A) provide an account of what makes right actions right. (B) establish which things are good in themselves. (C) develop a theory of good moral character. (D) make ethical questions clear. (40 points)
+3. An important formal characteristic of art is_____. (A) social meaning (B) faithful representation (C) its power to evoke strong emotions (D) coherence (10 points)
+4. Augustine claims that Academic skepticism: (A) is true, and can be proven. (B) is true, but cannot be proven (C) is false but cannot be refuted. (D) is false and can be refuted. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+94,5,20-40-30-10,D,20,B,40,B,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Butler claims that, strictly speaking, the only thing that anyone has a right to is: (A) life. (B) liberty. (C) property. (D) happiness. (20 points)
+2. Aesthetic values have to do with _______ (A) the moral value of works of art and other objects that could be judged beautiful (B) good and bad works of art and other objects that could be judged beautiful (C) the moral values of artists and critics (D) pragmatic decisions regarding the display of art (40 points)
+3. The idea that mental states are dispositions to behave in particular ways in certain circumstances is known as _____. (A) logical nominalism (B) logical behaviorism (C) methodological behaviorism (D) eliminative materialism (30 points)
+4. Epicurus claims that all other virtues spring from: (A) prudence. (B) temperance. (C) justice. (D) courage. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+95,5,20-30-40-10,D,20,A,30,D,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Aesthetics addresses questions that interest _____. (A) only philosophers (B) only critics (C) no one (D) philosophers and nonphilosophers (20 points)
+2. Bentham claims that nature has placed mankind under two sovereign masters: (A) pain and pleasure. (B) good and evil. (C) God and the devil. (D) duty and self-interest. (30 points)
+3. Which of the following is a form of harm that might be suffered by research participants? (A) Physical injury (B) Stress and anxiety (C) Impaired development (D) All of the above (40 points)
+4. Aristotle ends the Ethics with a segue to a discussion of: (A) aesthetics. (B) theology. (C) politics. (D) natural science. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+96,5,10-40-20-30,A,10,A,40,C,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Logical behaviorism is at odds with our commonsense intuition that mental states _____. (A) cause behavior (B) never cause behavior (C) exist (D) do not exist (10 points)
+2. Aristotle says  that what makes things be what they are--their essence--does not exist apart from individ-uals that exist in the world.  So if all the members of a species were destroyed, then their essence or form: (A) would likewise be destroyed. (B) would be destroyed only if there were no one around to remember the species. (C) would continue existing (as with Plato's Forms) in some other realm of being. (D) would not be destroyed because there was no essence or form originally to be destroyed; there are only individuals, not universal essences or natures of things. (40 points)
+3. A prominent view is that an object has aesthetic value if it _____. (A) cannot be defined (B) has no utility (C) serves some important function (D) has no meaning (20 points)
+4. Berkeley insists that heat and cold are _____. (A) illusions (B) physical objects (C) only things existing apart from our minds (D) only sensations existing in our minds (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."

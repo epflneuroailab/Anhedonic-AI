@@ -1,0 +1,961 @@
+ID,Subset,Reward_Order,Correct_Answer_1,Reward_1,Correct_Answer_2,Reward_2,Correct_Answer_3,Reward_3,Correct_Answer_4,Reward_4,Full_Prompt
+1,1,20-10-40-30,D,20,D,10,B,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. As a young biologist, Charles Darwin had expected the living plants of temperate South America would resemble those of temperate Europe, but he was surprised to find that they more closely resembled the plants of tropical South America. The biological explanation for this observation is most properly associated with the field of (A) meteorology. (B) embryology. (C) vertebrate anatomy. (D) biogeography. (20 points)
+2. This biome has cold winters and is known for its pine forests. (A) Desert (B) Tundra (C) Taiga (D) Deciduous forests (10 points)
+3. Yeast cells carry out both aerobic and anaerobic respiration. A yeast cell that is fed on glucose is moved from an aerobic to an anaerobic environment. Which of the following statements is correct and gives the correct reason for it? (A) The cell dies because it cannot make ATP. (B) The cell would need to consume glucose at a much greater rate because aerobic respiration is much more efficient as compared with anaerobic respiration. (C) The cell would need to consume another food source other than glucose because it will not be able to make adequate ATP with only glucose. (D) The cell will begin to divide rapidly because larger cells require more oxygen and glucose than smaller ones. (40 points)
+4. On Andros Islands in the Bahamas, populations of mosquito fish, Gambusia hubbsi, colonized a series of ponds. These ponds are no longer connected. However, the environments are very similar except that some ponds contain predatory fish, while others do not. In high predation ponds, selection has favored the evolution of a body shape that enables rapid bursts of speed. In low predation ponds, another body type is favored—one that is well-suited to swim for long periods of time. (A) Reproductive isolation caused geographic isolation. (B) Reproductive isolation was not complete. (C) Allopatric isolation brought about reproductive isolation. (D) Sympatric isolation brought about reproductive isolation. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+2,1,20-40-10-30,D,20,B,40,B,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Natural selection is based on all of the following except (A) genetic variation exists within populations. (B) the best-adapted individuals tend to leave the most offspring. (C) individuals who survive longer tend to leave more offspring than those who die young. (D) individuals adapt to their environments and, thereby, evolve. (20 points)
+2. A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. What kind of speciation does this example illustrate? (A) Allopatric (B) Sympatric (C) Isolated (D) Polyploidy (40 points)
+3. Fossil evidence indicates that horses have gradually increased in size over geologic time. Which of the following terms best describes this? (A) artificial selection (B) directional selection (C) stabilizing selection (D) disruptive selection (10 points)
+4. In a certain pond, there are long-finned fish and short-finned fish. A horrific summer thunderstorm leads to the death of a disproportionate number of long-finned fish to the point where the relative frequency of the two forms has drastically shifted. This is an example of (A) gene flow. (B) natural selection. (C) genetic drift. (D) stabilizing selection. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+3,1,20-10-40-30,B,20,D,10,A,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. All of the following statements are true EXCEPT (A) thyroxine increases the rate of metabolism (B) insulin decreases storage of glycogen (C) vasopressin stimulates water reabsorption in the kidney (D) epinephrine increases blood sugar levels and heart rate (20 points)
+2. Those being hunted adopt a coloring scheme that allows them to blend in to the colors of the environment. (A) Aposomatic coloration (B) Batesian mimicry (C) Deceptive markings (D) Cryptic coloration (10 points)
+3. DNA sequences in many human genes are very similar to the sequences of corresponding genes in chimpanzees. The most likely explanation for this result is that (A) humans and chimpanzees share a relatively recent common ancestor. (B) humans evolved from chimpanzees. (C) chimpanzees evolved from humans. (D) convergent evolution led to the DNA similarities. (40 points)
+4. Which of the following statements about meiosis is correct? (A) The daughter cells are genetically identical to the parent cells. (B) Homologues pair during prophase II. (C) DNA replication occurs before meiosis I and meiosis II. (D) The number of chromosomes is reduced. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+4,1,20-10-30-40,D,20,B,10,D,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The higher the proportion of loci that are ""fixed"" in a population, the lower is that population's (A) nucleotide variability. (B) genetic polyploidy. (C) average heterozygosity. (D) A and C only (20 points)
+2. Invertebrate immune systems possess which of the following? (A) Cytotoxic T-lymphocytes (B) Phagocytes (C) B-cells (D) Helper T-cells (10 points)
+3. All of the following are stimulated by the sympathetic nervous system EXCEPT (A) dilation of the pupil of the eye (B) constriction of blood vessels (C) increased secretion of the sweat glands (D) increased peristalsis in the gastrointestinal tract (30 points)
+4. All of the following are examples of events that can prevent interspecific breeding EXCEPT (A) the potential mates experience geographic isolation (B) the potential mates experience behavioral isolation (C) the potential mates have different courtship rituals (D) the potential mates have similar breeding seasons (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+5,1,20-10-30-40,D,20,A,10,D,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In vertebrate embryos, which of the following developmental processes most directly results in the formation of the three primary germ layers? (A) Neurulation (B) Blastula formation (C) Cleavage (D) Gastrulation (20 points)
+2. Which of the following is the source of oxygen produced during photosynthesis? (A) H2O (B) H2O2 (C) CO2 (D) CO (10 points)
+3. In reference to a segment of DNA, which of the following molecules contains the fewest number of nucleotides? (A) a single strand of the original DNA segment (B) a single strand of the original DNA segment after a point mutation (C) the primary RNA transcript (before splicing) from the original DNA (D) a single strand of complementary DNA (cDNA) made from the original DNA (30 points)
+4. Hydrangea flowers have one gene for flower color. Plants of the same genetic variety have flowers that range in color from blue to pink with the color varying due to the type of soil in which they are grown. Which of the following statement best explains this phenomenon? (A) The alleles for flower color show incomplete dominance where neither trait is dominant; expression of the genes shows a blending of traits. (B) The alleles for flower color are codominant; both traits show depending on the environment. (C) In this case, the environment alters the expression of a trait. (D) The genes for flower color show polygenic inheritance. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+6,1,30-10-20-40,D,30,B,10,D,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. DDT was once considered a ""silver bullet"" that would permanently eradicate insect pests. Today, instead, DDT is largely useless against many insects. Which of these would have been required for this pest eradication effort to be successful in the long run? (A) Larger doses of DDT should have been applied. (B) All habitats should have received applications of DDT at about the same time. (C) The frequency of DDT application should have been higher. (D) None of the individual insects should have possessed genomes that made them resistant to DDT. (30 points)
+2. The primary site of glucose reabsorption is the (A) glomerulus (B) proximal convoluted tubule (C) loop of Henle (D) collecting duct (10 points)
+3. The normal pH of the cytosol is about 7.2. Most enzymes in the lysosome, however, are only active at a pH of 5. This suggests that (A) only acidic substances can undergo enzymatic processing in lysosomes (B) most enzymes in the lysosome are incapable of catalyzing substrates inside the lysosome (C) enzymes in the lysosome are released to the cytosol (D) protons are actively pumped into the lysosome (20 points)
+4. Microtubules are protein filaments assembled from tubulin protein subunits. The chemical colchicine prevents the assembly of microtubules by binding to tubulin protein subunits. Which of the following cellular processes would be most impaired by the application of colchicine? (A) the alignment and separation of chromosomes during mitosis (B) the coordination of ribosomes and mRNA during protein synthesis (C) the movement of substances across the plasma membrane (D) the accumulation of protons inside the thylakoids of chloroplasts during chemiosmosis (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+7,1,20-10-30-40,B,20,B,10,D,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. All of the following play an important role in regulating respiration in humans EXCEPT (A) an increase in the amount of CO2 in the blood (B) a decrease in the amount of O2 in the blood (C) a decrease in the plasma pH level (D) strenuous exercise (20 points)
+2. The transfer of DNA between two bacterial cells connected by sex pili is known as (A) specialized transduction. (B) conjugation. (C) transformation. (D) generalized transduction. (10 points)
+3. Which of the following pairs of structures is least likely to represent homology? (A) The wings of a bat and the arms of a human (B) The hemoglobin of a baboon and that of a gorilla (C) The mitochondria of a plant and those of an animal (D) The wings of a bird and those of an insect (30 points)
+4. The pH of two lakes is measured. Lake A has a pH of 8.0; Lake B has a pH of 6.0. Which of the following statements is correct about these lakes? (A) Lake B is alkaline. (B) Lake B is 100 times more alkaline than Lake A. (C) The hydrogen ion concentration of Lake B is 104 M. (D) The pH of both lakes will decrease in response to acid rain. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+8,1,40-30-20-10,C,40,C,30,D,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following describes a symbiotic relationship? (A) A tapeworm feeds off of its host's nutrients causing the host to lose large amounts of weight. (B) Certain plants grow on trees in order to gain access to sunlight, not affecting the tree. (C) Remora fish eat parasites off of sharks; the sharks stay free of parasites, and the remora fish are protected from predators. (D) Meerkats sound alarm calls to warn other meerkats of predators. (40 points)
+2. When driving from east to west in the U.S. from a forest ecosystem to grasslands, trees gradually give way to grasses. Which of the following is the critical factor responsible for this shift? (A) Amount of sunlight (B) Availability of oxygen (C) Availability of water (D) Length of growing season (30 points)
+3. A healthy man and woman are worried about having children because they are both carriers of sickle-cell disease. If the couple have a biological child, what is the chance that the child will inherit sickle-cell disease? (A) 100% (B) 75% (C) 50% (D) 25% (20 points)
+4. Which of the following theories is based on the notion that mitochondria and chloroplasts evolved from prokaryotic cells? (A) Fluid mosaic model (B) Endosymbiotic model (C) Taxonomic model (D) Respiration feedback model (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+9,1,20-10-40-30,B,20,D,10,C,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Heterozygote advantage should be most closely linked to which of the following? (A) sexual selection (B) stabilizing selection (C) random selection (D) directional selection (20 points)
+2. During which phase of the cell cycle does the quantity of DNA in a eukaryotic cell typically double? (A) G_1 (B) G_2 (C) M (D) S (10 points)
+3. Recently, seasonal dead zones in low-oxygen waters have been occurring annually in the Gulf of Mexico near the mouth of the Mississippi River. The dead zones result from the rapid growth of photosynthetic phytoplankton (algal blooms) and their subsequent decay by oxygen-depleting microbes in the water column. Which of the following factors most likely triggers the algal blooms and the associated dead zones? (A) A decrease in the light level in surface waters as day length starts to shorten after the summer solstice (B) Increased predation by marine larvae and other zooplankton during the summer months (C) A summer influx of nutrients derived from chemical fertilizers that are high in nitrogen and phosphorus (D) Decreased competition from other marine phytoplankton during the summer months (40 points)
+4. Which of the following statements about the light-dependent reactions of photosynthesis is correct? (A) They provide the carbon that becomes incorporated into sugar. (B) They produce PGA, which is converted to glucose by carbon fixation in the light-independent reactions. (C) Water is split apart, providing hydrogen ions and electrons to NADP for temporary storage. (D) They occur in the stroma of chloroplasts. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+10,1,20-40-30-10,B,20,B,40,B,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. An organism exposed to wild temperature fluctuations shows very little, if any, change in its metabolic rate. This organism is most probably a (A) ectotherm. (B) endotherm. (C) thermophyle. (D) ascospore. (20 points)
+2. An eager AP Biology student interested in studying osmosis and the movement of water in solutions took a dialysis bag containing a 0.5 M solution and placed it into a beaker containing a 0.6 M solution. If this bag were instead placed into a beaker of distilled water, what would be the expected result? (A) There will be a net flow of water out of the bag, causing it to decrease in size. (B) There will be a net flow of water into the bag, causing it to swell in size. (C) The bag will remain the exact same size because no water will move at all. (D) The solute will flow out of the dialysis bag into the beaker. (40 points)
+3. A certain autosomal recessive trait is expressed in 1% of a population. Assuming that the population is in Hardy-Weinberg equilibrium, what percent of the population are carriers but do not express the trait? (A) 10% (B) 18% (C) 27% (D) 50% (30 points)
+4. All of the following organs in the digestive system secrete digestive enzymes EXCEPT the (A) mouth (B) stomach (C) gall bladder (D) small intestine (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+11,1,20-40-30-10,B,20,C,40,A,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The base composition of DNA varies from one species to another. Which of the following ratios would you expect to remain constant in the DNA? (A) Cytosine : Adenine (B) Pyrimidine : Purine (C) Adenine : Guanine (D) Guanine : Deoxyribose (20 points)
+2. Which of the following is correct about organisms that are the first to colonize a habitat undergoing ecological succession? (A) They are the fiercest competitors in the area. (B) They maintain the habitat as it is for their own kind. (C) They change the habitat in a way that makes it more habitable for other organisms. (D) They are small invertebrates. (40 points)
+3. Which of the following pairs of scientists pioneered the ecological discipline known as island biogeography? (A) Robert MacArthur and E. O. Wilson (B) James Watson and Francis Crick (C) Matthias Schleiden and Theodor Schwann (D) Alfred Hershey and Martha Chase (30 points)
+4. A heterotroph (A) obtains its energy from sunlight, harnessed by pigments (B) obtains its energy by oxidizing organic molecules (C) makes organic molecules from CO2 (D) obtains its energy by consuming exclusively autotrophs (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+12,1,10-20-40-30,C,10,C,20,B,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Chemical substances released by organisms that elicit a physiological or behavioral response in other members of the same species are known as (A) auxins (B) hormones (C) pheromones (D) enzymes (10 points)
+2. Females with Turner's syndrome have a high incidence of hemophilia, a recessive, X-linked trait. Based on this information, it can be inferred that females with this condition (A) have an extra X chromosome (B) have an extra Y chromosome (C) lack an X chromosome (D) have red blood cells that clump (20 points)
+3. Which of the following is not an observation or inference on which natural selection is based? (A) There is heritable variation among individuals. (B) Poorly adapted individuals never produce offspring. (C) Species produce more offspring than the environment can support. (D) Individuals whose characteristics are best suited to the environment generally leave more offspring than those whose characteristics are less suited. (40 points)
+4. Which of the following adaptive features would least likely be found in an animal living in a hot arid environment? (A) Long loops of Henle to maximize water reabsorption (B) Storage of water in fatty tissues (C) Large ears to aid in heat dispersion (D) Short loops of Henle to maximize water secretion (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+13,1,10-20-30-40,B,10,D,20,B,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. An animal cell that is permeable to water but not salts has an internal NaCl concentration of 10%. If placed in freshwater the cell will (A) plasmolyze (B) swell and eventually lyse (C) endocytose water into a large central vacuole (D) shrivel (10 points)
+2. In most ecosystems, net primary productivity is important because it represents the (A) energy available to producers (B) total solar energy converted to chemical energy by producers (C) biomass of all producers (D) energy available to heterotrophs (20 points)
+3. No two people are genetically identical, except for identical twins. The chief cause of genetic variation among human individuals is (A) new mutations that occurred in the preceding generation. (B) the reshuffling of alleles in sexual reproduction. (C) genetic drift due to the small size of the population. (D) geographic variation within the population. (30 points)
+4. In a hypothetical environment, fishes called pike-cichlids are visual predators of algae-eating fish (i.e., they locate their prey by sight). If a population of algae-eaters experiences predation pressure from pike-cichlids, which of the following should least likely be observed in the algae-eater population over the course of many generations? (A) Selection for drab coloration of the algae-eaters (B) Selection for nocturnal algae-eaters (active only at night) (C) Selection for larger female algae-eaters, bearing broods composed of more, and larger, young (D) Selection for algae-eaters that become sexually mature at smaller overall body sizes (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+14,1,40-10-20-30,C,40,C,10,D,20,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements about lipids is correct? (A) Unsaturated fatty acids are linked to heart disease. (B) Lipids make up most cell surface receptors. (C) Phospholipids are water soluble. (D) Steroids are lipids that consist of glycerol and fatty acids. (40 points)
+2. A reaction that includes energy as one of its reactants is called a(n) (A) exergonic reaction. (B) hydrolysis reaction. (C) endergonic reaction. (D) redox reaction. (10 points)
+3. Which describes an African butterfly species that exists in two strikingly different color patterns? (A) artificial selection (B) directional selection (C) stabilizing selection (D) disruptive selection (20 points)
+4. Which of the following about meiosis is NOT true? (A) Meiosis produces two haploid gametes. (B) Homologous chromosomes join during synapsis. (C) Sister chromatids separate during meiosis I. (D) Crossing-over increases genetic variation in gametes. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+15,1,20-40-30-10,D,20,D,40,B,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When a retrovirus inserted its DNA into the middle of a bacterial gene, it altered the normal reading frame by one base pair. This type of mutation is called (A) duplication (B) translocation (C) inversion (D) frameshift mutation (20 points)
+2. A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. Which of the following could possibly characterize the new variant? (A) Adaptive radiation (B) Divergent selection (C) Equilibrium (D) Polyploidy (40 points)
+3. The sequence of amino acids in hemoglobin molecules of humans is more similar to the hemoglobin of chimpanzees than it is to the hemoglobin of dogs. This similarity suggests that (A) humans and dogs are more closely related than humans and chimpanzees (B) humans and chimpanzees are more closely related than humans and dogs (C) humans are related to chimpanzees but not to dogs (D) humans and chimpanzees are closely analogous (30 points)
+4. This process has as its products NADP+, ADP, and sugar. (A) Glycolysis (B) Chemiosmosis (C) Fermentation (D) Calvin cycle (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+16,1,20-40-30-10,A,20,B,40,A,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Crossing-over occurs during which of the following phases in meiosis? (A) Prophase I (B) Metaphase I (C) Anaphase I (D) Prophase II (20 points)
+2. Easily produced genetic variation is key to the rapid evolution of viral and microbial populations. Furthermore, pathogens that need to escape the immune system rely on this variation to generate new surface antigens that go unrecognized by the host’s immune system. Which of the following is an example of this antigenic variation? (A) HIV, which can remain integrated into the host genome for many years (B) The flu virus, which changes its envelope proteins (C) MRSA, which has become resistant to many antibiotics (D) Multiple sclerosis, which attacks the cells of the nervous system (40 points)
+3. Two related species evolve in a way that makes them less similar. (A) Divergent evolution (B) Convergent evolution (C) Parallel evolution (D) Coevolution (30 points)
+4. This biome contains trees that drop their leaves during the winter months. (A) Desert (B) Tundra (C) Taiga (D) Deciduous forests (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+17,1,20-40-10-30,D,20,D,40,B,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is the correct characteristic of arteries? (A) They are thin-walled blood vessels. (B) They contain valves that prevent backflow. (C) They always carry oxygenated blood. (D) They carry blood away from the heart. (20 points)
+2. Which of the following is NOT a characteristic of asexual reproduction in animals? (A) Daughter cells have the same number of chromosomes as the parent cell. (B) Daughter cells are identical to the parent cell. (C) The parent cell produces diploid cells. (D) The daughter cells fuse to form a zygote. (40 points)
+3. Lampreys attach to the skin of lake trout and absorb nutrients from its body. This relationship is an example of (A) commensalism (B) parasitism (C) mutualism (D) gravitropism (10 points)
+4. In minks, the gene for brown fur (B) is dominant over the gene for silver fur (b). Which set of genotypes represents a cross that could produce offspring with silver fur from parents that both have brown fur? (A) BB BB (B) BB Bb (C) Bb Bb (D) Bb bb (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+18,1,20-10-30-40,D,20,D,10,B,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The resting membrane potential depends on which of the following? I. Active transport II. Selective permeability III. Differential distribution of ions across the axonal membrane (A) III only (B) I and II only (C) II and III only (D) I, II, and III (20 points)
+2. If neutral variation is truly ""neutral,"" then it should have no effect on (A) nucleotide diversity. (B) average heterozygosity. (C) our ability to measure the rate of evolution. (D) relative fitness. (10 points)
+3. Catastrophism, meaning the regular occurrence of geological or meteorological disturbances (catastrophes), was Cuvier's attempt to explain the existence of (A) evolution. (B) the fossil record. (C) uniformitarianism. (D) the origin of new species. (30 points)
+4. A new plant was discovered and determined to have an unusually low number of stomata on the undersides of its leaves. For what environment would this plant most likely be best adapted? (A) Cold and rainy (B) Humid and sunny (C) Hot and humid (D) Hot and dry (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+19,1,40-20-10-30,D,40,B,20,A,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Students are conducting a plant pigment separation exercise that requires them to use a closed chromatography chamber with a small amount of acetone in the bottom of the chamber. Safety warnings for acetone include the statement that it is an eye and skin irritant and has flammable vapors. Of the following‚ which safety precaution should the students take while conducting the exercise? (A) Putting on fire-retardant gloves to carry the chamber to a fume hood if the acetone catches fire (B) Placing the chamber in a closed, darkened cabinet for the duration of the pigment separation (C) Wearing leather gloves and covering the nose and mouth with a particle mask (D) Wearing goggles and nitrile-type gloves and keeping all acetone containers closed (40 points)
+2. Which of the following is most likely to increase the rate of diffusion of an uncharged solute across the plasma membrane of a cell? (A) Decreasing the number of different solutes in the solution that bathes the cells (B) Increasing the concentration gradient of the solute across the membrane (C) Increasing the ratio of phospholipids to proteins in the membrane (D) Decreasing the membrane potential across the membrane (20 points)
+3. Which of the following is an incorrect statement about gel electrophoresis? (A) DNA migrates from positive charge to negative charge. (B) Smaller DNA travels faster. (C) The DNA migrates only when the current is running. (D) The longer the current is running, the farther the DNA will travel. (10 points)
+4. During a study session about evolution, one of your fellow students remarks, ""The giraffe stretched its neck while reaching for higher leaves; its offspring inherited longer necks as a result."" Which statement is most likely to be helpful in correcting this student's misconception? (A) Characteristics acquired during an organism's life are generally not passed on through genes. (B) Spontaneous mutations can result in the appearance of new traits. (C) Only favorable adaptations have survival value. (D) Disuse of an organ may lead to its eventual disappearance. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+20,2,10-40-30-20,D,10,B,40,A,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements is correct? (A) Water flows from hypertonic to hypotonic. (B) Germinating seeds use less oxygen than do nongerminating seeds. (C) The rate of transpiration decreases with an increase in air movement. (D) Smaller DNA fragments migrate more rapidly than do larger DNA fragments on gel electrophoresis. (10 points)
+2. The structure of ATP synthase in the plasma membranes of bacteria is nearly identical to that in the mitochondria and chloroplasts of eukaryotic cells. This similarity best supports which of the following hypotheses? (A) Eukaryotic and prokaryotic cells share a common ancestor. (B) Mitochondria are derived from ancient aerobic bacteria, and chloroplasts are derived from ancient photosynthetic bacteria. (C) The similarity of ATP synthase in bacteria, mitochondria, and chloroplasts is an example of convergent evolution. (D) Mitochondria and chloroplasts escaped from eukaryotic cells and formed aerobic and photosynthetic prokaryotes. (40 points)
+3. Which of the following is the most likely benefit of periodic natural wildfires in some forest ecosystems? (A) The fires remove dead and decaying plant matter, reducing the risk of more intense and destructive fires. (B) The fires leach nutrients from the soil‚ preventing the germination of plants that might compete with native species. (C) The fires drive off herbivores whose plant-based diets reduce the amount of vegetation. (D) The fires dry out the soil and decrease the chance of flooding after heavy rains. (30 points)
+4. Compared to DNA viral replication, RNA viral replication is more susceptible to mutation because (A) RNA replication takes place in the cytoplasm, whereas DNA replication takes place in the nucleus. (B) RNA viruses replicate much faster than DNA viruses. (C) RNA viruses use uracil instead of thymine. (D) RNA replication lacks the proofreading functions characteristic of DNA replication. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+21,2,30-40-20-10,A,30,D,40,D,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Mules are relatively long-lived and hardy organisms that cannot, generally speaking, perform successful meiosis. Consequently, which statement about mules is true? (A) They have a relative evolutionary fitness of zero. (B) Their offspring have less genetic variation than the parents. (C) Mutations cannot occur in their genomes. (D) If crossing-over happens in mules, then it must be limited to prophase of mitosis. (30 points)
+2. Which statement about natural selection is most correct? (A) Adaptations beneficial in one habitat should generally be beneficial in all other habitats as well. (B) Different species that occupy the same habitat will adapt to that habitat by undergoing the same genetic changes. (C) Adaptations beneficial at one time should generally be beneficial during all other times as well. (D) Well-adapted individuals leave more offspring, and thus contribute more to the next generation's gene pool, than do poorly adapted individuals. (40 points)
+3. A plant grows in the opposite direction of the gravitational force. This is an example of (A) positive thignotropism (B) negative phototropism (C) positive phototropism (D) negative gravitropism (20 points)
+4. Chemiosmosis occurs in I.Mitochondria II. Nuclei III. Chloroplasts (A) I only (B) II only (C) III only (D) I and III (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+22,2,20-30-40-10,C,20,C,30,A,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The major difference between cartilage and bone is that cartilage (A) is a part of the skeletal system (B) is composed of collagen and salts (C) lacks blood vessels and nerves (D) secretes a matrix (20 points)
+2. Which of the following is a biotic factor that could affect the growth rate of a population? (A) Volcanic eruption (B) Glacier melting (C) Destruction of the ozone layer (D) Sudden reduction in the animal food resource (30 points)
+3. In the inherited disorder called Pompe disease, glycogen breakdown in the cytosol occurs normally and blood glucose levels are normal, yet glycogen accumulates in lysosomes. This suggests a malfunction with (A) enzymes in the lysosomes (B) enzymes in the mitochondria (C) membrane transport during exocytosis (D) membrane transport during endocytosis (40 points)
+4. Imagine an organism whose 2n = 96. Meiosis would leave this organism’s cells with how many chromosomes? (A) 192 (B) 96 (C) 48 (D) 24 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+23,2,40-20-30-10,D,40,D,20,B,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Two trees of the same species growing close together will use the same resources, such as light, water, and nutrients. If any of these resources becomes limiting, then each tree will receive less of it than if the trees were growing farther apart. This scenario is an example of which of the following? (A) Parasitism (B) Commensalism (C) Natural selection (D) Intraspecific competition (40 points)
+2. Which of the following statements is not correct about lipids? (A) Lipids consist of fatty acids and glycerol. (B) Steroids are examples of lipids. (C) The molecules of a saturated fatty acid are packed so close together that they form a solid at room temperature. (D) The head of a phospholipid is hydrophobic, and the tails are hydrophilic. (20 points)
+3. Which of the following best accounts for the ability of legumes to grow well in nitrogen-poor soils? (A) These plants make their own proteins. (B) These plants have a mutualistic relationship with nitrogen-fixing bacteria. (C) These plants are capable of directly converting nitrogen gas into nitrates. (D) These plants do not require nitrogen to make plant proteins. (30 points)
+4. Natural selection changes allele frequencies in populations because some ____ survive and reproduce more successfully than others. (A) alleles (B) loci (C) gene pools (D) individuals (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+24,2,40-20-30-10,B,40,C,20,A,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The geneticist Mary Lyon hypothesized the existence of structures visible just under the nuclear membrane in mammals, which were later named Barr bodies. Which of the following statement is NOT correct about Barr bodies? (A) In the early female embryo, one copy of the X chromosome becomes inactivated in every body cell. (B) The same chromosome in every cell of a normal female is inactivated. (C) A male with the XXY genotype will have one Barr body. (D) Barr bodies consist of highly methylated DNA. (40 points)
+2. Crossing-over during meiosis permits scientists to determine (A) the chance for variation in zygotes (B) the rate of mutations (C) the distance between genes on a chromosome (D) which traits are dominant or recessive (20 points)
+3. In modern terminology, diversity is understood to be a result of genetic variation. Sources of variation for evolution include all of the following except (A) mistakes in translation of structural genes. (B) mistakes in DNA replication. (C) translocations and mistakes in meiosis. (D) recombination at fertilization. (30 points)
+4. Viruses are considered an exception to the cell theory because they (A) are not independent organisms (B) have only a few genes (C) move about via their tails (D) have evolved from ancestral protists (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+25,2,30-10-20-40,D,30,C,10,A,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following best summarizes the process of allopatric speciation? (A) differential changes in allele frequencies → reproductive isolation → reproductive barriers → new species (B) catastrophic event → reproductive isolation → reproductive barriers → new species (C) reproductive isolation → differential changes in allele frequencies → reproductive barriers → new species (D) geographic isolation → reproductive isolation → differential changes in allele frequencies → reproductive barriers → new species (30 points)
+2. When oxygen becomes unavailable, this process regenerates NAD+, allowing respiration to continue. (A) Glycolysis (B) Chemiosmosis (C) Fermentation (D) Calvin cycle (10 points)
+3. Stomata allow gases, such as H2O and CO2, to exchange between the inside of a plant leaf and the surrounding environment. Which of the following occurs under normal daytime environmental conditions? (A) H2O diffuses out of the leaf faster than CO2 enters. (B) H2O diffuses out of the leaf slower than CO2 enters. (C) CO2 diffuses out of the leaf faster than H2O enters. (D) H2O exchanges with CO2 at equal rates. (20 points)
+4. All of the following support the endosymbiotic theory that ancestors of mitochondria and chloroplasts were once independent, free-living prokaryotes EXCEPT: (A) Mitochondria and chloroplasts divide independently of the eukaryotic host cell by a process similar to binary fission. (B) Mitochondria and chloroplasts have ribosomes that more closely resemble those of bacteria than of eukaryotic cells. (C) Mitochondria and chloroplasts function independently from the eukaryotic host cell. (D) Mitochondria, chloroplasts, and bacteria have a single, circular chromosome without histones or proteins. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+26,2,20-10-30-40,B,20,B,10,D,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is most likely to increase the rate of diffusion of an uncharged solute across the plasma membrane of a cell? (A) Decreasing the number of different solutes in the solution that bathes the cells (B) Increasing the concentration gradient of the solute across the membrane (C) Increasing the ratio of phospholipids to proteins in the membrane (D) Decreasing the membrane potential across the membrane (20 points)
+2. An organism exposed to wild temperature fluctuations shows very little, if any, change in its metabolic rate. This organism is most probably a (A) ectotherm. (B) endotherm. (C) thermophyle. (D) ascospore. (10 points)
+3. A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. Which of the following could possibly characterize the new variant? (A) Adaptive radiation (B) Divergent selection (C) Equilibrium (D) Polyploidy (30 points)
+4. Hydrangea flowers have one gene for flower color. Plants of the same genetic variety have flowers that range in color from blue to pink with the color varying due to the type of soil in which they are grown. Which of the following statement best explains this phenomenon? (A) The alleles for flower color show incomplete dominance where neither trait is dominant; expression of the genes shows a blending of traits. (B) The alleles for flower color are codominant; both traits show depending on the environment. (C) In this case, the environment alters the expression of a trait. (D) The genes for flower color show polygenic inheritance. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+27,2,10-30-40-20,D,10,D,30,C,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. This biome has cold winters and is known for its pine forests. (A) Desert (B) Tundra (C) Taiga (D) Deciduous forests (10 points)
+2. Which of the following statements about meiosis is correct? (A) The daughter cells are genetically identical to the parent cells. (B) Homologues pair during prophase II. (C) DNA replication occurs before meiosis I and meiosis II. (D) The number of chromosomes is reduced. (30 points)
+3. In a certain pond, there are long-finned fish and short-finned fish. A horrific summer thunderstorm leads to the death of a disproportionate number of long-finned fish to the point where the relative frequency of the two forms has drastically shifted. This is an example of (A) gene flow. (B) natural selection. (C) genetic drift. (D) stabilizing selection. (40 points)
+4. Invertebrate immune systems possess which of the following? (A) Cytotoxic T-lymphocytes (B) Phagocytes (C) B-cells (D) Helper T-cells (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+28,2,20-30-10-40,D,20,A,30,D,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements is correct? (A) Water flows from hypertonic to hypotonic. (B) Germinating seeds use less oxygen than do nongerminating seeds. (C) The rate of transpiration decreases with an increase in air movement. (D) Smaller DNA fragments migrate more rapidly than do larger DNA fragments on gel electrophoresis. (20 points)
+2. Stomata allow gases, such as H2O and CO2, to exchange between the inside of a plant leaf and the surrounding environment. Which of the following occurs under normal daytime environmental conditions? (A) H2O diffuses out of the leaf faster than CO2 enters. (B) H2O diffuses out of the leaf slower than CO2 enters. (C) CO2 diffuses out of the leaf faster than H2O enters. (D) H2O exchanges with CO2 at equal rates. (30 points)
+3. A plant grows in the opposite direction of the gravitational force. This is an example of (A) positive thignotropism (B) negative phototropism (C) positive phototropism (D) negative gravitropism (10 points)
+4. Which of the following is the most likely benefit of periodic natural wildfires in some forest ecosystems? (A) The fires remove dead and decaying plant matter, reducing the risk of more intense and destructive fires. (B) The fires leach nutrients from the soil‚ preventing the germination of plants that might compete with native species. (C) The fires drive off herbivores whose plant-based diets reduce the amount of vegetation. (D) The fires dry out the soil and decrease the chance of flooding after heavy rains. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+29,2,30-20-10-40,D,30,C,20,A,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The pH of two lakes is measured. Lake A has a pH of 8.0; Lake B has a pH of 6.0. Which of the following statements is correct about these lakes? (A) Lake B is alkaline. (B) Lake B is 100 times more alkaline than Lake A. (C) The hydrogen ion concentration of Lake B is 104 M. (D) The pH of both lakes will decrease in response to acid rain. (30 points)
+2. Which of the following about meiosis is NOT true? (A) Meiosis produces two haploid gametes. (B) Homologous chromosomes join during synapsis. (C) Sister chromatids separate during meiosis I. (D) Crossing-over increases genetic variation in gametes. (20 points)
+3. Crossing-over occurs during which of the following phases in meiosis? (A) Prophase I (B) Metaphase I (C) Anaphase I (D) Prophase II (10 points)
+4. Easily produced genetic variation is key to the rapid evolution of viral and microbial populations. Furthermore, pathogens that need to escape the immune system rely on this variation to generate new surface antigens that go unrecognized by the host’s immune system. Which of the following is an example of this antigenic variation? (A) HIV, which can remain integrated into the host genome for many years (B) The flu virus, which changes its envelope proteins (C) MRSA, which has become resistant to many antibiotics (D) Multiple sclerosis, which attacks the cells of the nervous system (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+30,2,30-40-20-10,D,30,D,40,C,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements is not correct about lipids? (A) Lipids consist of fatty acids and glycerol. (B) Steroids are examples of lipids. (C) The molecules of a saturated fatty acid are packed so close together that they form a solid at room temperature. (D) The head of a phospholipid is hydrophobic, and the tails are hydrophilic. (30 points)
+2. DDT was once considered a ""silver bullet"" that would permanently eradicate insect pests. Today, instead, DDT is largely useless against many insects. Which of these would have been required for this pest eradication effort to be successful in the long run? (A) Larger doses of DDT should have been applied. (B) All habitats should have received applications of DDT at about the same time. (C) The frequency of DDT application should have been higher. (D) None of the individual insects should have possessed genomes that made them resistant to DDT. (40 points)
+3. Females with Turner's syndrome have a high incidence of hemophilia, a recessive, X-linked trait. Based on this information, it can be inferred that females with this condition (A) have an extra X chromosome (B) have an extra Y chromosome (C) lack an X chromosome (D) have red blood cells that clump (20 points)
+4. Those being hunted adopt a coloring scheme that allows them to blend in to the colors of the environment. (A) Aposomatic coloration (B) Batesian mimicry (C) Deceptive markings (D) Cryptic coloration (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+31,2,20-30-10-40,B,20,D,30,C,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Heterozygote advantage should be most closely linked to which of the following? (A) sexual selection (B) stabilizing selection (C) random selection (D) directional selection (20 points)
+2. A healthy man and woman are worried about having children because they are both carriers of sickle-cell disease. If the couple have a biological child, what is the chance that the child will inherit sickle-cell disease? (A) 100% (B) 75% (C) 50% (D) 25% (30 points)
+3. Imagine an organism whose 2n = 96. Meiosis would leave this organism’s cells with how many chromosomes? (A) 192 (B) 96 (C) 48 (D) 24 (10 points)
+4. In most ecosystems, net primary productivity is important because it represents the (A) energy available to producers (B) total solar energy converted to chemical energy by producers (C) biomass of all producers (D) energy available to heterotrophs (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+32,2,20-40-10-30,B,20,C,40,D,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. An animal cell that is permeable to water but not salts has an internal NaCl concentration of 10%. If placed in freshwater the cell will (A) plasmolyze (B) swell and eventually lyse (C) endocytose water into a large central vacuole (D) shrivel (20 points)
+2. Which of the following statements about the light-dependent reactions of photosynthesis is correct? (A) They provide the carbon that becomes incorporated into sugar. (B) They produce PGA, which is converted to glucose by carbon fixation in the light-independent reactions. (C) Water is split apart, providing hydrogen ions and electrons to NADP for temporary storage. (D) They occur in the stroma of chloroplasts. (40 points)
+3. Chemiosmosis occurs in I.Mitochondria II. Nuclei III. Chloroplasts (A) I only (B) II only (C) III only (D) I and III (10 points)
+4. Two trees of the same species growing close together will use the same resources, such as light, water, and nutrients. If any of these resources becomes limiting, then each tree will receive less of it than if the trees were growing farther apart. This scenario is an example of which of the following? (A) Parasitism (B) Commensalism (C) Natural selection (D) Intraspecific competition (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+33,2,30-10-20-40,C,30,A,10,B,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following describes a symbiotic relationship? (A) A tapeworm feeds off of its host's nutrients causing the host to lose large amounts of weight. (B) Certain plants grow on trees in order to gain access to sunlight, not affecting the tree. (C) Remora fish eat parasites off of sharks; the sharks stay free of parasites, and the remora fish are protected from predators. (D) Meerkats sound alarm calls to warn other meerkats of predators. (30 points)
+2. Which of the following pairs of scientists pioneered the ecological discipline known as island biogeography? (A) Robert MacArthur and E. O. Wilson (B) James Watson and Francis Crick (C) Matthias Schleiden and Theodor Schwann (D) Alfred Hershey and Martha Chase (10 points)
+3. No two people are genetically identical, except for identical twins. The chief cause of genetic variation among human individuals is (A) new mutations that occurred in the preceding generation. (B) the reshuffling of alleles in sexual reproduction. (C) genetic drift due to the small size of the population. (D) geographic variation within the population. (20 points)
+4. All of the following support the endosymbiotic theory that ancestors of mitochondria and chloroplasts were once independent, free-living prokaryotes EXCEPT: (A) Mitochondria and chloroplasts divide independently of the eukaryotic host cell by a process similar to binary fission. (B) Mitochondria and chloroplasts have ribosomes that more closely resemble those of bacteria than of eukaryotic cells. (C) Mitochondria and chloroplasts function independently from the eukaryotic host cell. (D) Mitochondria, chloroplasts, and bacteria have a single, circular chromosome without histones or proteins. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+34,2,20-10-30-40,D,20,D,10,A,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. All of the following are stimulated by the sympathetic nervous system EXCEPT (A) dilation of the pupil of the eye (B) constriction of blood vessels (C) increased secretion of the sweat glands (D) increased peristalsis in the gastrointestinal tract (20 points)
+2. The higher the proportion of loci that are ""fixed"" in a population, the lower is that population's (A) nucleotide variability. (B) genetic polyploidy. (C) average heterozygosity. (D) A and C only (10 points)
+3. Mules are relatively long-lived and hardy organisms that cannot, generally speaking, perform successful meiosis. Consequently, which statement about mules is true? (A) They have a relative evolutionary fitness of zero. (B) Their offspring have less genetic variation than the parents. (C) Mutations cannot occur in their genomes. (D) If crossing-over happens in mules, then it must be limited to prophase of mitosis. (30 points)
+4. An eager AP Biology student interested in studying osmosis and the movement of water in solutions took a dialysis bag containing a 0.5 M solution and placed it into a beaker containing a 0.6 M solution. If this bag were instead placed into a beaker of distilled water, what would be the expected result? (A) There will be a net flow of water out of the bag, causing it to decrease in size. (B) There will be a net flow of water into the bag, causing it to swell in size. (C) The bag will remain the exact same size because no water will move at all. (D) The solute will flow out of the dialysis bag into the beaker. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+35,2,30-10-40-20,A,30,D,10,D,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is an incorrect statement about gel electrophoresis? (A) DNA migrates from positive charge to negative charge. (B) Smaller DNA travels faster. (C) The DNA migrates only when the current is running. (D) The longer the current is running, the farther the DNA will travel. (30 points)
+2. Natural selection changes allele frequencies in populations because some ____ survive and reproduce more successfully than others. (A) alleles (B) loci (C) gene pools (D) individuals (10 points)
+3. Students are conducting a plant pigment separation exercise that requires them to use a closed chromatography chamber with a small amount of acetone in the bottom of the chamber. Safety warnings for acetone include the statement that it is an eye and skin irritant and has flammable vapors. Of the following‚ which safety precaution should the students take while conducting the exercise? (A) Putting on fire-retardant gloves to carry the chamber to a fume hood if the acetone catches fire (B) Placing the chamber in a closed, darkened cabinet for the duration of the pigment separation (C) Wearing leather gloves and covering the nose and mouth with a particle mask (D) Wearing goggles and nitrile-type gloves and keeping all acetone containers closed (40 points)
+4. Which of the following statements about lipids is correct? (A) Unsaturated fatty acids are linked to heart disease. (B) Lipids make up most cell surface receptors. (C) Phospholipids are water soluble. (D) Steroids are lipids that consist of glycerol and fatty acids. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+36,2,30-10-20-40,A,30,D,10,C,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In modern terminology, diversity is understood to be a result of genetic variation. Sources of variation for evolution include all of the following except (A) mistakes in translation of structural genes. (B) mistakes in DNA replication. (C) translocations and mistakes in meiosis. (D) recombination at fertilization. (30 points)
+2. During which phase of the cell cycle does the quantity of DNA in a eukaryotic cell typically double? (A) G_1 (B) G_2 (C) M (D) S (10 points)
+3. Which of the following is a biotic factor that could affect the growth rate of a population? (A) Volcanic eruption (B) Glacier melting (C) Destruction of the ozone layer (D) Sudden reduction in the animal food resource (20 points)
+4. As a young biologist, Charles Darwin had expected the living plants of temperate South America would resemble those of temperate Europe, but he was surprised to find that they more closely resembled the plants of tropical South America. The biological explanation for this observation is most properly associated with the field of (A) meteorology. (B) embryology. (C) vertebrate anatomy. (D) biogeography. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+37,2,40-10-30-20,A,40,B,10,D,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In the inherited disorder called Pompe disease, glycogen breakdown in the cytosol occurs normally and blood glucose levels are normal, yet glycogen accumulates in lysosomes. This suggests a malfunction with (A) enzymes in the lysosomes (B) enzymes in the mitochondria (C) membrane transport during exocytosis (D) membrane transport during endocytosis (40 points)
+2. All of the following play an important role in regulating respiration in humans EXCEPT (A) an increase in the amount of CO2 in the blood (B) a decrease in the amount of O2 in the blood (C) a decrease in the plasma pH level (D) strenuous exercise (10 points)
+3. Natural selection is based on all of the following except (A) genetic variation exists within populations. (B) the best-adapted individuals tend to leave the most offspring. (C) individuals who survive longer tend to leave more offspring than those who die young. (D) individuals adapt to their environments and, thereby, evolve. (30 points)
+4. Which of the following adaptive features would least likely be found in an animal living in a hot arid environment? (A) Long loops of Henle to maximize water reabsorption (B) Storage of water in fatty tissues (C) Large ears to aid in heat dispersion (D) Short loops of Henle to maximize water secretion (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+38,2,40-10-30-20,D,40,B,10,B,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Compared to DNA viral replication, RNA viral replication is more susceptible to mutation because (A) RNA replication takes place in the cytoplasm, whereas DNA replication takes place in the nucleus. (B) RNA viruses replicate much faster than DNA viruses. (C) RNA viruses use uracil instead of thymine. (D) RNA replication lacks the proofreading functions characteristic of DNA replication. (40 points)
+2. A certain autosomal recessive trait is expressed in 1% of a population. Assuming that the population is in Hardy-Weinberg equilibrium, what percent of the population are carriers but do not express the trait? (A) 10% (B) 18% (C) 27% (D) 50% (10 points)
+3. Which of the following best accounts for the ability of legumes to grow well in nitrogen-poor soils? (A) These plants make their own proteins. (B) These plants have a mutualistic relationship with nitrogen-fixing bacteria. (C) These plants are capable of directly converting nitrogen gas into nitrates. (D) These plants do not require nitrogen to make plant proteins. (30 points)
+4. When driving from east to west in the U.S. from a forest ecosystem to grasslands, trees gradually give way to grasses. Which of the following is the critical factor responsible for this shift? (A) Amount of sunlight (B) Availability of oxygen (C) Availability of water (D) Length of growing season (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+39,3,40-10-20-30,B,40,C,10,D,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Yeast cells carry out both aerobic and anaerobic respiration. A yeast cell that is fed on glucose is moved from an aerobic to an anaerobic environment. Which of the following statements is correct and gives the correct reason for it? (A) The cell dies because it cannot make ATP. (B) The cell would need to consume glucose at a much greater rate because aerobic respiration is much more efficient as compared with anaerobic respiration. (C) The cell would need to consume another food source other than glucose because it will not be able to make adequate ATP with only glucose. (D) The cell will begin to divide rapidly because larger cells require more oxygen and glucose than smaller ones. (40 points)
+2. All of the following organs in the digestive system secrete digestive enzymes EXCEPT the (A) mouth (B) stomach (C) gall bladder (D) small intestine (10 points)
+3. Which statement about natural selection is most correct? (A) Adaptations beneficial in one habitat should generally be beneficial in all other habitats as well. (B) Different species that occupy the same habitat will adapt to that habitat by undergoing the same genetic changes. (C) Adaptations beneficial at one time should generally be beneficial during all other times as well. (D) Well-adapted individuals leave more offspring, and thus contribute more to the next generation's gene pool, than do poorly adapted individuals. (20 points)
+4. The structure of ATP synthase in the plasma membranes of bacteria is nearly identical to that in the mitochondria and chloroplasts of eukaryotic cells. This similarity best supports which of the following hypotheses? (A) Eukaryotic and prokaryotic cells share a common ancestor. (B) Mitochondria are derived from ancient aerobic bacteria, and chloroplasts are derived from ancient photosynthetic bacteria. (C) The similarity of ATP synthase in bacteria, mitochondria, and chloroplasts is an example of convergent evolution. (D) Mitochondria and chloroplasts escaped from eukaryotic cells and formed aerobic and photosynthetic prokaryotes. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+40,3,40-20-30-10,A,40,A,20,B,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Microtubules are protein filaments assembled from tubulin protein subunits. The chemical colchicine prevents the assembly of microtubules by binding to tubulin protein subunits. Which of the following cellular processes would be most impaired by the application of colchicine? (A) the alignment and separation of chromosomes during mitosis (B) the coordination of ribosomes and mRNA during protein synthesis (C) the movement of substances across the plasma membrane (D) the accumulation of protons inside the thylakoids of chloroplasts during chemiosmosis (40 points)
+2. Viruses are considered an exception to the cell theory because they (A) are not independent organisms (B) have only a few genes (C) move about via their tails (D) have evolved from ancestral protists (20 points)
+3. A heterotroph (A) obtains its energy from sunlight, harnessed by pigments (B) obtains its energy by oxidizing organic molecules (C) makes organic molecules from CO2 (D) obtains its energy by consuming exclusively autotrophs (30 points)
+4. This process has as its products NADP+, ADP, and sugar. (A) Glycolysis (B) Chemiosmosis (C) Fermentation (D) Calvin cycle (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+41,3,30-40-20-10,D,30,C,40,C,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. All of the following are examples of events that can prevent interspecific breeding EXCEPT (A) the potential mates experience geographic isolation (B) the potential mates experience behavioral isolation (C) the potential mates have different courtship rituals (D) the potential mates have similar breeding seasons (30 points)
+2. Recently, seasonal dead zones in low-oxygen waters have been occurring annually in the Gulf of Mexico near the mouth of the Mississippi River. The dead zones result from the rapid growth of photosynthetic phytoplankton (algal blooms) and their subsequent decay by oxygen-depleting microbes in the water column. Which of the following factors most likely triggers the algal blooms and the associated dead zones? (A) A decrease in the light level in surface waters as day length starts to shorten after the summer solstice (B) Increased predation by marine larvae and other zooplankton during the summer months (C) A summer influx of nutrients derived from chemical fertilizers that are high in nitrogen and phosphorus (D) Decreased competition from other marine phytoplankton during the summer months (40 points)
+3. Crossing-over during meiosis permits scientists to determine (A) the chance for variation in zygotes (B) the rate of mutations (C) the distance between genes on a chromosome (D) which traits are dominant or recessive (20 points)
+4. The major difference between cartilage and bone is that cartilage (A) is a part of the skeletal system (B) is composed of collagen and salts (C) lacks blood vessels and nerves (D) secretes a matrix (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+42,3,30-20-40-10,B,30,B,20,A,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The sequence of amino acids in hemoglobin molecules of humans is more similar to the hemoglobin of chimpanzees than it is to the hemoglobin of dogs. This similarity suggests that (A) humans and dogs are more closely related than humans and chimpanzees (B) humans and chimpanzees are more closely related than humans and dogs (C) humans are related to chimpanzees but not to dogs (D) humans and chimpanzees are closely analogous (30 points)
+2. Which of the following theories is based on the notion that mitochondria and chloroplasts evolved from prokaryotic cells? (A) Fluid mosaic model (B) Endosymbiotic model (C) Taxonomic model (D) Respiration feedback model (20 points)
+3. During a study session about evolution, one of your fellow students remarks, ""The giraffe stretched its neck while reaching for higher leaves; its offspring inherited longer necks as a result."" Which statement is most likely to be helpful in correcting this student's misconception? (A) Characteristics acquired during an organism's life are generally not passed on through genes. (B) Spontaneous mutations can result in the appearance of new traits. (C) Only favorable adaptations have survival value. (D) Disuse of an organ may lead to its eventual disappearance. (40 points)
+4. A reaction that includes energy as one of its reactants is called a(n) (A) exergonic reaction. (B) hydrolysis reaction. (C) endergonic reaction. (D) redox reaction. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+43,3,20-40-10-30,D,20,B,40,B,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When a retrovirus inserted its DNA into the middle of a bacterial gene, it altered the normal reading frame by one base pair. This type of mutation is called (A) duplication (B) translocation (C) inversion (D) frameshift mutation (20 points)
+2. A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. What kind of speciation does this example illustrate? (A) Allopatric (B) Sympatric (C) Isolated (D) Polyploidy (40 points)
+3. The transfer of DNA between two bacterial cells connected by sex pili is known as (A) specialized transduction. (B) conjugation. (C) transformation. (D) generalized transduction. (10 points)
+4. Fossil evidence indicates that horses have gradually increased in size over geologic time. Which of the following terms best describes this? (A) artificial selection (B) directional selection (C) stabilizing selection (D) disruptive selection (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+44,3,20-10-40-30,A,20,A,10,B,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Two related species evolve in a way that makes them less similar. (A) Divergent evolution (B) Convergent evolution (C) Parallel evolution (D) Coevolution (20 points)
+2. Which of the following is the source of oxygen produced during photosynthesis? (A) H2O (B) H2O2 (C) CO2 (D) CO (10 points)
+3. Which of the following is not an observation or inference on which natural selection is based? (A) There is heritable variation among individuals. (B) Poorly adapted individuals never produce offspring. (C) Species produce more offspring than the environment can support. (D) Individuals whose characteristics are best suited to the environment generally leave more offspring than those whose characteristics are less suited. (40 points)
+4. The normal pH of the cytosol is about 7.2. Most enzymes in the lysosome, however, are only active at a pH of 5. This suggests that (A) only acidic substances can undergo enzymatic processing in lysosomes (B) most enzymes in the lysosome are incapable of catalyzing substrates inside the lysosome (C) enzymes in the lysosome are released to the cytosol (D) protons are actively pumped into the lysosome (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+45,3,40-10-30-20,D,40,D,10,D,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In reference to a segment of DNA, which of the following molecules contains the fewest number of nucleotides? (A) a single strand of the original DNA segment (B) a single strand of the original DNA segment after a point mutation (C) the primary RNA transcript (before splicing) from the original DNA (D) a single strand of complementary DNA (cDNA) made from the original DNA (40 points)
+2. This biome contains trees that drop their leaves during the winter months. (A) Desert (B) Tundra (C) Taiga (D) Deciduous forests (10 points)
+3. Which describes an African butterfly species that exists in two strikingly different color patterns? (A) artificial selection (B) directional selection (C) stabilizing selection (D) disruptive selection (30 points)
+4. When oxygen becomes unavailable, this process regenerates NAD+, allowing respiration to continue. (A) Glycolysis (B) Chemiosmosis (C) Fermentation (D) Calvin cycle (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+46,3,10-20-40-30,B,10,B,20,C,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Catastrophism, meaning the regular occurrence of geological or meteorological disturbances (catastrophes), was Cuvier's attempt to explain the existence of (A) evolution. (B) the fossil record. (C) uniformitarianism. (D) the origin of new species. (10 points)
+2. All of the following statements are true EXCEPT (A) thyroxine increases the rate of metabolism (B) insulin decreases storage of glycogen (C) vasopressin stimulates water reabsorption in the kidney (D) epinephrine increases blood sugar levels and heart rate (20 points)
+3. In a hypothetical environment, fishes called pike-cichlids are visual predators of algae-eating fish (i.e., they locate their prey by sight). If a population of algae-eaters experiences predation pressure from pike-cichlids, which of the following should least likely be observed in the algae-eater population over the course of many generations? (A) Selection for drab coloration of the algae-eaters (B) Selection for nocturnal algae-eaters (active only at night) (C) Selection for larger female algae-eaters, bearing broods composed of more, and larger, young (D) Selection for algae-eaters that become sexually mature at smaller overall body sizes (40 points)
+4. Which of the following best summarizes the process of allopatric speciation? (A) differential changes in allele frequencies → reproductive isolation → reproductive barriers → new species (B) catastrophic event → reproductive isolation → reproductive barriers → new species (C) reproductive isolation → differential changes in allele frequencies → reproductive barriers → new species (D) geographic isolation → reproductive isolation → differential changes in allele frequencies → reproductive barriers → new species (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+47,3,30-20-10-40,D,30,C,20,B,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is NOT a characteristic of asexual reproduction in animals? (A) Daughter cells have the same number of chromosomes as the parent cell. (B) Daughter cells are identical to the parent cell. (C) The parent cell produces diploid cells. (D) The daughter cells fuse to form a zygote. (30 points)
+2. Chemical substances released by organisms that elicit a physiological or behavioral response in other members of the same species are known as (A) auxins (B) hormones (C) pheromones (D) enzymes (20 points)
+3. Lampreys attach to the skin of lake trout and absorb nutrients from its body. This relationship is an example of (A) commensalism (B) parasitism (C) mutualism (D) gravitropism (10 points)
+4. DNA sequences in many human genes are very similar to the sequences of corresponding genes in chimpanzees. The most likely explanation for this result is that (A) humans and chimpanzees share a relatively recent common ancestor. (B) humans evolved from chimpanzees. (C) chimpanzees evolved from humans. (D) convergent evolution led to the DNA similarities. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+48,3,40-10-30-20,C,40,D,10,B,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. On Andros Islands in the Bahamas, populations of mosquito fish, Gambusia hubbsi, colonized a series of ponds. These ponds are no longer connected. However, the environments are very similar except that some ponds contain predatory fish, while others do not. In high predation ponds, selection has favored the evolution of a body shape that enables rapid bursts of speed. In low predation ponds, another body type is favored—one that is well-suited to swim for long periods of time. (A) Reproductive isolation caused geographic isolation. (B) Reproductive isolation was not complete. (C) Allopatric isolation brought about reproductive isolation. (D) Sympatric isolation brought about reproductive isolation. (40 points)
+2. If neutral variation is truly ""neutral,"" then it should have no effect on (A) nucleotide diversity. (B) average heterozygosity. (C) our ability to measure the rate of evolution. (D) relative fitness. (10 points)
+3. The geneticist Mary Lyon hypothesized the existence of structures visible just under the nuclear membrane in mammals, which were later named Barr bodies. Which of the following statement is NOT correct about Barr bodies? (A) In the early female embryo, one copy of the X chromosome becomes inactivated in every body cell. (B) The same chromosome in every cell of a normal female is inactivated. (C) A male with the XXY genotype will have one Barr body. (D) Barr bodies consist of highly methylated DNA. (30 points)
+4. The resting membrane potential depends on which of the following? I. Active transport II. Selective permeability III. Differential distribution of ions across the axonal membrane (A) III only (B) I and II only (C) II and III only (D) I, II, and III (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+49,3,30-10-20-40,C,30,B,10,D,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In minks, the gene for brown fur (B) is dominant over the gene for silver fur (b). Which set of genotypes represents a cross that could produce offspring with silver fur from parents that both have brown fur? (A) BB BB (B) BB Bb (C) Bb Bb (D) Bb bb (30 points)
+2. The base composition of DNA varies from one species to another. Which of the following ratios would you expect to remain constant in the DNA? (A) Cytosine : Adenine (B) Pyrimidine : Purine (C) Adenine : Guanine (D) Guanine : Deoxyribose (10 points)
+3. A new plant was discovered and determined to have an unusually low number of stomata on the undersides of its leaves. For what environment would this plant most likely be best adapted? (A) Cold and rainy (B) Humid and sunny (C) Hot and humid (D) Hot and dry (20 points)
+4. Which of the following is correct about organisms that are the first to colonize a habitat undergoing ecological succession? (A) They are the fiercest competitors in the area. (B) They maintain the habitat as it is for their own kind. (C) They change the habitat in a way that makes it more habitable for other organisms. (D) They are small invertebrates. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+50,3,20-10-40-30,D,20,B,10,D,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In vertebrate embryos, which of the following developmental processes most directly results in the formation of the three primary germ layers? (A) Neurulation (B) Blastula formation (C) Cleavage (D) Gastrulation (20 points)
+2. The primary site of glucose reabsorption is the (A) glomerulus (B) proximal convoluted tubule (C) loop of Henle (D) collecting duct (10 points)
+3. Which of the following pairs of structures is least likely to represent homology? (A) The wings of a bat and the arms of a human (B) The hemoglobin of a baboon and that of a gorilla (C) The mitochondria of a plant and those of an animal (D) The wings of a bird and those of an insect (40 points)
+4. Which of the following is the correct characteristic of arteries? (A) They are thin-walled blood vessels. (B) They contain valves that prevent backflow. (C) They always carry oxygenated blood. (D) They carry blood away from the heart. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+51,3,10-40-30-20,B,10,B,40,A,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Invertebrate immune systems possess which of the following? (A) Cytotoxic T-lymphocytes (B) Phagocytes (C) B-cells (D) Helper T-cells (10 points)
+2. Easily produced genetic variation is key to the rapid evolution of viral and microbial populations. Furthermore, pathogens that need to escape the immune system rely on this variation to generate new surface antigens that go unrecognized by the host’s immune system. Which of the following is an example of this antigenic variation? (A) HIV, which can remain integrated into the host genome for many years (B) The flu virus, which changes its envelope proteins (C) MRSA, which has become resistant to many antibiotics (D) Multiple sclerosis, which attacks the cells of the nervous system (40 points)
+3. Which of the following is an incorrect statement about gel electrophoresis? (A) DNA migrates from positive charge to negative charge. (B) Smaller DNA travels faster. (C) The DNA migrates only when the current is running. (D) The longer the current is running, the farther the DNA will travel. (30 points)
+4. The resting membrane potential depends on which of the following? I. Active transport II. Selective permeability III. Differential distribution of ions across the axonal membrane (A) III only (B) I and II only (C) II and III only (D) I, II, and III (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+52,3,30-10-40-20,D,30,D,10,C,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When a retrovirus inserted its DNA into the middle of a bacterial gene, it altered the normal reading frame by one base pair. This type of mutation is called (A) duplication (B) translocation (C) inversion (D) frameshift mutation (30 points)
+2. This process has as its products NADP+, ADP, and sugar. (A) Glycolysis (B) Chemiosmosis (C) Fermentation (D) Calvin cycle (10 points)
+3. In a certain pond, there are long-finned fish and short-finned fish. A horrific summer thunderstorm leads to the death of a disproportionate number of long-finned fish to the point where the relative frequency of the two forms has drastically shifted. This is an example of (A) gene flow. (B) natural selection. (C) genetic drift. (D) stabilizing selection. (40 points)
+4. Lampreys attach to the skin of lake trout and absorb nutrients from its body. This relationship is an example of (A) commensalism (B) parasitism (C) mutualism (D) gravitropism (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+53,3,30-40-20-10,B,30,A,40,C,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. All of the following statements are true EXCEPT (A) thyroxine increases the rate of metabolism (B) insulin decreases storage of glycogen (C) vasopressin stimulates water reabsorption in the kidney (D) epinephrine increases blood sugar levels and heart rate (30 points)
+2. DNA sequences in many human genes are very similar to the sequences of corresponding genes in chimpanzees. The most likely explanation for this result is that (A) humans and chimpanzees share a relatively recent common ancestor. (B) humans evolved from chimpanzees. (C) chimpanzees evolved from humans. (D) convergent evolution led to the DNA similarities. (40 points)
+3. The major difference between cartilage and bone is that cartilage (A) is a part of the skeletal system (B) is composed of collagen and salts (C) lacks blood vessels and nerves (D) secretes a matrix (20 points)
+4. When oxygen becomes unavailable, this process regenerates NAD+, allowing respiration to continue. (A) Glycolysis (B) Chemiosmosis (C) Fermentation (D) Calvin cycle (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+54,3,10-40-30-20,D,10,B,40,C,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A healthy man and woman are worried about having children because they are both carriers of sickle-cell disease. If the couple have a biological child, what is the chance that the child will inherit sickle-cell disease? (A) 100% (B) 75% (C) 50% (D) 25% (10 points)
+2. The structure of ATP synthase in the plasma membranes of bacteria is nearly identical to that in the mitochondria and chloroplasts of eukaryotic cells. This similarity best supports which of the following hypotheses? (A) Eukaryotic and prokaryotic cells share a common ancestor. (B) Mitochondria are derived from ancient aerobic bacteria, and chloroplasts are derived from ancient photosynthetic bacteria. (C) The similarity of ATP synthase in bacteria, mitochondria, and chloroplasts is an example of convergent evolution. (D) Mitochondria and chloroplasts escaped from eukaryotic cells and formed aerobic and photosynthetic prokaryotes. (40 points)
+3. All of the following support the endosymbiotic theory that ancestors of mitochondria and chloroplasts were once independent, free-living prokaryotes EXCEPT: (A) Mitochondria and chloroplasts divide independently of the eukaryotic host cell by a process similar to binary fission. (B) Mitochondria and chloroplasts have ribosomes that more closely resemble those of bacteria than of eukaryotic cells. (C) Mitochondria and chloroplasts function independently from the eukaryotic host cell. (D) Mitochondria, chloroplasts, and bacteria have a single, circular chromosome without histones or proteins. (30 points)
+4. Which of the following statements about the light-dependent reactions of photosynthesis is correct? (A) They provide the carbon that becomes incorporated into sugar. (B) They produce PGA, which is converted to glucose by carbon fixation in the light-independent reactions. (C) Water is split apart, providing hydrogen ions and electrons to NADP for temporary storage. (D) They occur in the stroma of chloroplasts. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+55,3,20-10-40-30,D,20,C,10,A,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following adaptive features would least likely be found in an animal living in a hot arid environment? (A) Long loops of Henle to maximize water reabsorption (B) Storage of water in fatty tissues (C) Large ears to aid in heat dispersion (D) Short loops of Henle to maximize water secretion (20 points)
+2. Chemical substances released by organisms that elicit a physiological or behavioral response in other members of the same species are known as (A) auxins (B) hormones (C) pheromones (D) enzymes (10 points)
+3. Which of the following is the most likely benefit of periodic natural wildfires in some forest ecosystems? (A) The fires remove dead and decaying plant matter, reducing the risk of more intense and destructive fires. (B) The fires leach nutrients from the soil‚ preventing the germination of plants that might compete with native species. (C) The fires drive off herbivores whose plant-based diets reduce the amount of vegetation. (D) The fires dry out the soil and decrease the chance of flooding after heavy rains. (40 points)
+4. In reference to a segment of DNA, which of the following molecules contains the fewest number of nucleotides? (A) a single strand of the original DNA segment (B) a single strand of the original DNA segment after a point mutation (C) the primary RNA transcript (before splicing) from the original DNA (D) a single strand of complementary DNA (cDNA) made from the original DNA (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+56,3,30-10-20-40,C,30,B,10,D,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements about lipids is correct? (A) Unsaturated fatty acids are linked to heart disease. (B) Lipids make up most cell surface receptors. (C) Phospholipids are water soluble. (D) Steroids are lipids that consist of glycerol and fatty acids. (30 points)
+2. An organism exposed to wild temperature fluctuations shows very little, if any, change in its metabolic rate. This organism is most probably a (A) ectotherm. (B) endotherm. (C) thermophyle. (D) ascospore. (10 points)
+3. A new plant was discovered and determined to have an unusually low number of stomata on the undersides of its leaves. For what environment would this plant most likely be best adapted? (A) Cold and rainy (B) Humid and sunny (C) Hot and humid (D) Hot and dry (20 points)
+4. In a hypothetical environment, fishes called pike-cichlids are visual predators of algae-eating fish (i.e., they locate their prey by sight). If a population of algae-eaters experiences predation pressure from pike-cichlids, which of the following should least likely be observed in the algae-eater population over the course of many generations? (A) Selection for drab coloration of the algae-eaters (B) Selection for nocturnal algae-eaters (active only at night) (C) Selection for larger female algae-eaters, bearing broods composed of more, and larger, young (D) Selection for algae-eaters that become sexually mature at smaller overall body sizes (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+57,3,20-40-30-10,D,20,D,40,D,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Those being hunted adopt a coloring scheme that allows them to blend in to the colors of the environment. (A) Aposomatic coloration (B) Batesian mimicry (C) Deceptive markings (D) Cryptic coloration (20 points)
+2. The normal pH of the cytosol is about 7.2. Most enzymes in the lysosome, however, are only active at a pH of 5. This suggests that (A) only acidic substances can undergo enzymatic processing in lysosomes (B) most enzymes in the lysosome are incapable of catalyzing substrates inside the lysosome (C) enzymes in the lysosome are released to the cytosol (D) protons are actively pumped into the lysosome (40 points)
+3. Two trees of the same species growing close together will use the same resources, such as light, water, and nutrients. If any of these resources becomes limiting, then each tree will receive less of it than if the trees were growing farther apart. This scenario is an example of which of the following? (A) Parasitism (B) Commensalism (C) Natural selection (D) Intraspecific competition (30 points)
+4. The transfer of DNA between two bacterial cells connected by sex pili is known as (A) specialized transduction. (B) conjugation. (C) transformation. (D) generalized transduction. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+58,4,20-30-10-40,C,20,A,30,A,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Imagine an organism whose 2n = 96. Meiosis would leave this organism’s cells with how many chromosomes? (A) 192 (B) 96 (C) 48 (D) 24 (20 points)
+2. In the inherited disorder called Pompe disease, glycogen breakdown in the cytosol occurs normally and blood glucose levels are normal, yet glycogen accumulates in lysosomes. This suggests a malfunction with (A) enzymes in the lysosomes (B) enzymes in the mitochondria (C) membrane transport during exocytosis (D) membrane transport during endocytosis (30 points)
+3. Which of the following is the source of oxygen produced during photosynthesis? (A) H2O (B) H2O2 (C) CO2 (D) CO (10 points)
+4. A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. What kind of speciation does this example illustrate? (A) Allopatric (B) Sympatric (C) Isolated (D) Polyploidy (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+59,4,20-40-10-30,B,20,C,40,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following theories is based on the notion that mitochondria and chloroplasts evolved from prokaryotic cells? (A) Fluid mosaic model (B) Endosymbiotic model (C) Taxonomic model (D) Respiration feedback model (20 points)
+2. On Andros Islands in the Bahamas, populations of mosquito fish, Gambusia hubbsi, colonized a series of ponds. These ponds are no longer connected. However, the environments are very similar except that some ponds contain predatory fish, while others do not. In high predation ponds, selection has favored the evolution of a body shape that enables rapid bursts of speed. In low predation ponds, another body type is favored—one that is well-suited to swim for long periods of time. (A) Reproductive isolation caused geographic isolation. (B) Reproductive isolation was not complete. (C) Allopatric isolation brought about reproductive isolation. (D) Sympatric isolation brought about reproductive isolation. (40 points)
+3. During which phase of the cell cycle does the quantity of DNA in a eukaryotic cell typically double? (A) G_1 (B) G_2 (C) M (D) S (10 points)
+4. In minks, the gene for brown fur (B) is dominant over the gene for silver fur (b). Which set of genotypes represents a cross that could produce offspring with silver fur from parents that both have brown fur? (A) BB BB (B) BB Bb (C) Bb Bb (D) Bb bb (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+60,4,10-20-40-30,C,10,A,20,D,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. All of the following organs in the digestive system secrete digestive enzymes EXCEPT the (A) mouth (B) stomach (C) gall bladder (D) small intestine (10 points)
+2. Viruses are considered an exception to the cell theory because they (A) are not independent organisms (B) have only a few genes (C) move about via their tails (D) have evolved from ancestral protists (20 points)
+3. Students are conducting a plant pigment separation exercise that requires them to use a closed chromatography chamber with a small amount of acetone in the bottom of the chamber. Safety warnings for acetone include the statement that it is an eye and skin irritant and has flammable vapors. Of the following‚ which safety precaution should the students take while conducting the exercise? (A) Putting on fire-retardant gloves to carry the chamber to a fume hood if the acetone catches fire (B) Placing the chamber in a closed, darkened cabinet for the duration of the pigment separation (C) Wearing leather gloves and covering the nose and mouth with a particle mask (D) Wearing goggles and nitrile-type gloves and keeping all acetone containers closed (40 points)
+4. Which of the following pairs of scientists pioneered the ecological discipline known as island biogeography? (A) Robert MacArthur and E. O. Wilson (B) James Watson and Francis Crick (C) Matthias Schleiden and Theodor Schwann (D) Alfred Hershey and Martha Chase (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+61,4,20-40-30-10,B,20,C,40,D,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Catastrophism, meaning the regular occurrence of geological or meteorological disturbances (catastrophes), was Cuvier's attempt to explain the existence of (A) evolution. (B) the fossil record. (C) uniformitarianism. (D) the origin of new species. (20 points)
+2. Which of the following describes a symbiotic relationship? (A) A tapeworm feeds off of its host's nutrients causing the host to lose large amounts of weight. (B) Certain plants grow on trees in order to gain access to sunlight, not affecting the tree. (C) Remora fish eat parasites off of sharks; the sharks stay free of parasites, and the remora fish are protected from predators. (D) Meerkats sound alarm calls to warn other meerkats of predators. (40 points)
+3. Compared to DNA viral replication, RNA viral replication is more susceptible to mutation because (A) RNA replication takes place in the cytoplasm, whereas DNA replication takes place in the nucleus. (B) RNA viruses replicate much faster than DNA viruses. (C) RNA viruses use uracil instead of thymine. (D) RNA replication lacks the proofreading functions characteristic of DNA replication. (30 points)
+4. Crossing-over during meiosis permits scientists to determine (A) the chance for variation in zygotes (B) the rate of mutations (C) the distance between genes on a chromosome (D) which traits are dominant or recessive (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+62,4,10-40-30-20,B,10,D,40,D,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Heterozygote advantage should be most closely linked to which of the following? (A) sexual selection (B) stabilizing selection (C) random selection (D) directional selection (10 points)
+2. DDT was once considered a ""silver bullet"" that would permanently eradicate insect pests. Today, instead, DDT is largely useless against many insects. Which of these would have been required for this pest eradication effort to be successful in the long run? (A) Larger doses of DDT should have been applied. (B) All habitats should have received applications of DDT at about the same time. (C) The frequency of DDT application should have been higher. (D) None of the individual insects should have possessed genomes that made them resistant to DDT. (40 points)
+3. In most ecosystems, net primary productivity is important because it represents the (A) energy available to producers (B) total solar energy converted to chemical energy by producers (C) biomass of all producers (D) energy available to heterotrophs (30 points)
+4. Which of the following is the correct characteristic of arteries? (A) They are thin-walled blood vessels. (B) They contain valves that prevent backflow. (C) They always carry oxygenated blood. (D) They carry blood away from the heart. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+63,4,10-40-30-20,D,10,B,40,D,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The higher the proportion of loci that are ""fixed"" in a population, the lower is that population's (A) nucleotide variability. (B) genetic polyploidy. (C) average heterozygosity. (D) A and C only (10 points)
+2. No two people are genetically identical, except for identical twins. The chief cause of genetic variation among human individuals is (A) new mutations that occurred in the preceding generation. (B) the reshuffling of alleles in sexual reproduction. (C) genetic drift due to the small size of the population. (D) geographic variation within the population. (40 points)
+3. The pH of two lakes is measured. Lake A has a pH of 8.0; Lake B has a pH of 6.0. Which of the following statements is correct about these lakes? (A) Lake B is alkaline. (B) Lake B is 100 times more alkaline than Lake A. (C) The hydrogen ion concentration of Lake B is 104 M. (D) The pH of both lakes will decrease in response to acid rain. (30 points)
+4. A certain autosomal recessive trait is expressed in 1% of a population. Assuming that the population is in Hardy-Weinberg equilibrium, what percent of the population are carriers but do not express the trait? (A) 10% (B) 18% (C) 27% (D) 50% (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+64,4,20-40-30-10,B,20,B,40,D,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The primary site of glucose reabsorption is the (A) glomerulus (B) proximal convoluted tubule (C) loop of Henle (D) collecting duct (20 points)
+2. An animal cell that is permeable to water but not salts has an internal NaCl concentration of 10%. If placed in freshwater the cell will (A) plasmolyze (B) swell and eventually lyse (C) endocytose water into a large central vacuole (D) shrivel (40 points)
+3. Natural selection changes allele frequencies in populations because some ____ survive and reproduce more successfully than others. (A) alleles (B) loci (C) gene pools (D) individuals (30 points)
+4. Crossing-over occurs during which of the following phases in meiosis? (A) Prophase I (B) Metaphase I (C) Anaphase I (D) Prophase II (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+65,4,30-10-40-20,D,30,D,10,D,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements is correct? (A) Water flows from hypertonic to hypotonic. (B) Germinating seeds use less oxygen than do nongerminating seeds. (C) The rate of transpiration decreases with an increase in air movement. (D) Smaller DNA fragments migrate more rapidly than do larger DNA fragments on gel electrophoresis. (30 points)
+2. In vertebrate embryos, which of the following developmental processes most directly results in the formation of the three primary germ layers? (A) Neurulation (B) Blastula formation (C) Cleavage (D) Gastrulation (10 points)
+3. As a young biologist, Charles Darwin had expected the living plants of temperate South America would resemble those of temperate Europe, but he was surprised to find that they more closely resembled the plants of tropical South America. The biological explanation for this observation is most properly associated with the field of (A) meteorology. (B) embryology. (C) vertebrate anatomy. (D) biogeography. (40 points)
+4. All of the following play an important role in regulating respiration in humans EXCEPT (A) an increase in the amount of CO2 in the blood (B) a decrease in the amount of O2 in the blood (C) a decrease in the plasma pH level (D) strenuous exercise (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+66,4,20-10-30-40,C,20,D,10,A,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is a biotic factor that could affect the growth rate of a population? (A) Volcanic eruption (B) Glacier melting (C) Destruction of the ozone layer (D) Sudden reduction in the animal food resource (20 points)
+2. If neutral variation is truly ""neutral,"" then it should have no effect on (A) nucleotide diversity. (B) average heterozygosity. (C) our ability to measure the rate of evolution. (D) relative fitness. (10 points)
+3. In modern terminology, diversity is understood to be a result of genetic variation. Sources of variation for evolution include all of the following except (A) mistakes in translation of structural genes. (B) mistakes in DNA replication. (C) translocations and mistakes in meiosis. (D) recombination at fertilization. (30 points)
+4. Which of the following is correct about organisms that are the first to colonize a habitat undergoing ecological succession? (A) They are the fiercest competitors in the area. (B) They maintain the habitat as it is for their own kind. (C) They change the habitat in a way that makes it more habitable for other organisms. (D) They are small invertebrates. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+67,4,20-10-40-30,D,20,C,10,B,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which describes an African butterfly species that exists in two strikingly different color patterns? (A) artificial selection (B) directional selection (C) stabilizing selection (D) disruptive selection (20 points)
+2. A reaction that includes energy as one of its reactants is called a(n) (A) exergonic reaction. (B) hydrolysis reaction. (C) endergonic reaction. (D) redox reaction. (10 points)
+3. The sequence of amino acids in hemoglobin molecules of humans is more similar to the hemoglobin of chimpanzees than it is to the hemoglobin of dogs. This similarity suggests that (A) humans and dogs are more closely related than humans and chimpanzees (B) humans and chimpanzees are more closely related than humans and dogs (C) humans are related to chimpanzees but not to dogs (D) humans and chimpanzees are closely analogous (40 points)
+4. All of the following are stimulated by the sympathetic nervous system EXCEPT (A) dilation of the pupil of the eye (B) constriction of blood vessels (C) increased secretion of the sweat glands (D) increased peristalsis in the gastrointestinal tract (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+68,4,30-20-10-40,B,30,D,20,D,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is most likely to increase the rate of diffusion of an uncharged solute across the plasma membrane of a cell? (A) Decreasing the number of different solutes in the solution that bathes the cells (B) Increasing the concentration gradient of the solute across the membrane (C) Increasing the ratio of phospholipids to proteins in the membrane (D) Decreasing the membrane potential across the membrane (30 points)
+2. Which of the following statements is not correct about lipids? (A) Lipids consist of fatty acids and glycerol. (B) Steroids are examples of lipids. (C) The molecules of a saturated fatty acid are packed so close together that they form a solid at room temperature. (D) The head of a phospholipid is hydrophobic, and the tails are hydrophilic. (20 points)
+3. Natural selection is based on all of the following except (A) genetic variation exists within populations. (B) the best-adapted individuals tend to leave the most offspring. (C) individuals who survive longer tend to leave more offspring than those who die young. (D) individuals adapt to their environments and, thereby, evolve. (10 points)
+4. Yeast cells carry out both aerobic and anaerobic respiration. A yeast cell that is fed on glucose is moved from an aerobic to an anaerobic environment. Which of the following statements is correct and gives the correct reason for it? (A) The cell dies because it cannot make ATP. (B) The cell would need to consume glucose at a much greater rate because aerobic respiration is much more efficient as compared with anaerobic respiration. (C) The cell would need to consume another food source other than glucose because it will not be able to make adequate ATP with only glucose. (D) The cell will begin to divide rapidly because larger cells require more oxygen and glucose than smaller ones. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+69,4,20-10-40-30,B,20,C,10,A,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following best accounts for the ability of legumes to grow well in nitrogen-poor soils? (A) These plants make their own proteins. (B) These plants have a mutualistic relationship with nitrogen-fixing bacteria. (C) These plants are capable of directly converting nitrogen gas into nitrates. (D) These plants do not require nitrogen to make plant proteins. (20 points)
+2. Females with Turner's syndrome have a high incidence of hemophilia, a recessive, X-linked trait. Based on this information, it can be inferred that females with this condition (A) have an extra X chromosome (B) have an extra Y chromosome (C) lack an X chromosome (D) have red blood cells that clump (10 points)
+3. During a study session about evolution, one of your fellow students remarks, ""The giraffe stretched its neck while reaching for higher leaves; its offspring inherited longer necks as a result."" Which statement is most likely to be helpful in correcting this student's misconception? (A) Characteristics acquired during an organism's life are generally not passed on through genes. (B) Spontaneous mutations can result in the appearance of new traits. (C) Only favorable adaptations have survival value. (D) Disuse of an organ may lead to its eventual disappearance. (40 points)
+4. Microtubules are protein filaments assembled from tubulin protein subunits. The chemical colchicine prevents the assembly of microtubules by binding to tubulin protein subunits. Which of the following cellular processes would be most impaired by the application of colchicine? (A) the alignment and separation of chromosomes during mitosis (B) the coordination of ribosomes and mRNA during protein synthesis (C) the movement of substances across the plasma membrane (D) the accumulation of protons inside the thylakoids of chloroplasts during chemiosmosis (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+70,4,20-30-10-40,D,20,D,30,D,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is NOT a characteristic of asexual reproduction in animals? (A) Daughter cells have the same number of chromosomes as the parent cell. (B) Daughter cells are identical to the parent cell. (C) The parent cell produces diploid cells. (D) The daughter cells fuse to form a zygote. (20 points)
+2. All of the following are examples of events that can prevent interspecific breeding EXCEPT (A) the potential mates experience geographic isolation (B) the potential mates experience behavioral isolation (C) the potential mates have different courtship rituals (D) the potential mates have similar breeding seasons (30 points)
+3. Which of the following statements about meiosis is correct? (A) The daughter cells are genetically identical to the parent cells. (B) Homologues pair during prophase II. (C) DNA replication occurs before meiosis I and meiosis II. (D) The number of chromosomes is reduced. (10 points)
+4. Which of the following best summarizes the process of allopatric speciation? (A) differential changes in allele frequencies → reproductive isolation → reproductive barriers → new species (B) catastrophic event → reproductive isolation → reproductive barriers → new species (C) reproductive isolation → differential changes in allele frequencies → reproductive barriers → new species (D) geographic isolation → reproductive isolation → differential changes in allele frequencies → reproductive barriers → new species (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+71,4,30-40-20-10,D,30,C,40,B,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. Which of the following could possibly characterize the new variant? (A) Adaptive radiation (B) Divergent selection (C) Equilibrium (D) Polyploidy (30 points)
+2. Hydrangea flowers have one gene for flower color. Plants of the same genetic variety have flowers that range in color from blue to pink with the color varying due to the type of soil in which they are grown. Which of the following statement best explains this phenomenon? (A) The alleles for flower color show incomplete dominance where neither trait is dominant; expression of the genes shows a blending of traits. (B) The alleles for flower color are codominant; both traits show depending on the environment. (C) In this case, the environment alters the expression of a trait. (D) The genes for flower color show polygenic inheritance. (40 points)
+3. Which of the following is not an observation or inference on which natural selection is based? (A) There is heritable variation among individuals. (B) Poorly adapted individuals never produce offspring. (C) Species produce more offspring than the environment can support. (D) Individuals whose characteristics are best suited to the environment generally leave more offspring than those whose characteristics are less suited. (20 points)
+4. This biome contains trees that drop their leaves during the winter months. (A) Desert (B) Tundra (C) Taiga (D) Deciduous forests (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+72,4,10-30-40-20,D,10,B,30,D,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Chemiosmosis occurs in I.Mitochondria II. Nuclei III. Chloroplasts (A) I only (B) II only (C) III only (D) I and III (10 points)
+2. The base composition of DNA varies from one species to another. Which of the following ratios would you expect to remain constant in the DNA? (A) Cytosine : Adenine (B) Pyrimidine : Purine (C) Adenine : Guanine (D) Guanine : Deoxyribose (30 points)
+3. Which of the following pairs of structures is least likely to represent homology? (A) The wings of a bat and the arms of a human (B) The hemoglobin of a baboon and that of a gorilla (C) The mitochondria of a plant and those of an animal (D) The wings of a bird and those of an insect (40 points)
+4. A plant grows in the opposite direction of the gravitational force. This is an example of (A) positive thignotropism (B) negative phototropism (C) positive phototropism (D) negative gravitropism (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+73,4,10-40-20-30,C,10,B,40,A,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following about meiosis is NOT true? (A) Meiosis produces two haploid gametes. (B) Homologous chromosomes join during synapsis. (C) Sister chromatids separate during meiosis I. (D) Crossing-over increases genetic variation in gametes. (10 points)
+2. The geneticist Mary Lyon hypothesized the existence of structures visible just under the nuclear membrane in mammals, which were later named Barr bodies. Which of the following statement is NOT correct about Barr bodies? (A) In the early female embryo, one copy of the X chromosome becomes inactivated in every body cell. (B) The same chromosome in every cell of a normal female is inactivated. (C) A male with the XXY genotype will have one Barr body. (D) Barr bodies consist of highly methylated DNA. (40 points)
+3. Stomata allow gases, such as H2O and CO2, to exchange between the inside of a plant leaf and the surrounding environment. Which of the following occurs under normal daytime environmental conditions? (A) H2O diffuses out of the leaf faster than CO2 enters. (B) H2O diffuses out of the leaf slower than CO2 enters. (C) CO2 diffuses out of the leaf faster than H2O enters. (D) H2O exchanges with CO2 at equal rates. (20 points)
+4. Mules are relatively long-lived and hardy organisms that cannot, generally speaking, perform successful meiosis. Consequently, which statement about mules is true? (A) They have a relative evolutionary fitness of zero. (B) Their offspring have less genetic variation than the parents. (C) Mutations cannot occur in their genomes. (D) If crossing-over happens in mules, then it must be limited to prophase of mitosis. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+74,4,20-40-10-30,B,20,D,40,A,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Fossil evidence indicates that horses have gradually increased in size over geologic time. Which of the following terms best describes this? (A) artificial selection (B) directional selection (C) stabilizing selection (D) disruptive selection (20 points)
+2. Which statement about natural selection is most correct? (A) Adaptations beneficial in one habitat should generally be beneficial in all other habitats as well. (B) Different species that occupy the same habitat will adapt to that habitat by undergoing the same genetic changes. (C) Adaptations beneficial at one time should generally be beneficial during all other times as well. (D) Well-adapted individuals leave more offspring, and thus contribute more to the next generation's gene pool, than do poorly adapted individuals. (40 points)
+3. Two related species evolve in a way that makes them less similar. (A) Divergent evolution (B) Convergent evolution (C) Parallel evolution (D) Coevolution (10 points)
+4. When driving from east to west in the U.S. from a forest ecosystem to grasslands, trees gradually give way to grasses. Which of the following is the critical factor responsible for this shift? (A) Amount of sunlight (B) Availability of oxygen (C) Availability of water (D) Length of growing season (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+75,4,10-40-30-20,D,10,C,40,B,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. This biome has cold winters and is known for its pine forests. (A) Desert (B) Tundra (C) Taiga (D) Deciduous forests (10 points)
+2. Recently, seasonal dead zones in low-oxygen waters have been occurring annually in the Gulf of Mexico near the mouth of the Mississippi River. The dead zones result from the rapid growth of photosynthetic phytoplankton (algal blooms) and their subsequent decay by oxygen-depleting microbes in the water column. Which of the following factors most likely triggers the algal blooms and the associated dead zones? (A) A decrease in the light level in surface waters as day length starts to shorten after the summer solstice (B) Increased predation by marine larvae and other zooplankton during the summer months (C) A summer influx of nutrients derived from chemical fertilizers that are high in nitrogen and phosphorus (D) Decreased competition from other marine phytoplankton during the summer months (40 points)
+3. An eager AP Biology student interested in studying osmosis and the movement of water in solutions took a dialysis bag containing a 0.5 M solution and placed it into a beaker containing a 0.6 M solution. If this bag were instead placed into a beaker of distilled water, what would be the expected result? (A) There will be a net flow of water out of the bag, causing it to decrease in size. (B) There will be a net flow of water into the bag, causing it to swell in size. (C) The bag will remain the exact same size because no water will move at all. (D) The solute will flow out of the dialysis bag into the beaker. (30 points)
+4. A heterotroph (A) obtains its energy from sunlight, harnessed by pigments (B) obtains its energy by oxidizing organic molecules (C) makes organic molecules from CO2 (D) obtains its energy by consuming exclusively autotrophs (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+76,4,40-10-20-30,C,40,B,10,D,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. All of the following support the endosymbiotic theory that ancestors of mitochondria and chloroplasts were once independent, free-living prokaryotes EXCEPT: (A) Mitochondria and chloroplasts divide independently of the eukaryotic host cell by a process similar to binary fission. (B) Mitochondria and chloroplasts have ribosomes that more closely resemble those of bacteria than of eukaryotic cells. (C) Mitochondria and chloroplasts function independently from the eukaryotic host cell. (D) Mitochondria, chloroplasts, and bacteria have a single, circular chromosome without histones or proteins. (40 points)
+2. All of the following play an important role in regulating respiration in humans EXCEPT (A) an increase in the amount of CO2 in the blood (B) a decrease in the amount of O2 in the blood (C) a decrease in the plasma pH level (D) strenuous exercise (10 points)
+3. Natural selection is based on all of the following except (A) genetic variation exists within populations. (B) the best-adapted individuals tend to leave the most offspring. (C) individuals who survive longer tend to leave more offspring than those who die young. (D) individuals adapt to their environments and, thereby, evolve. (20 points)
+4. Which of the following statements is not correct about lipids? (A) Lipids consist of fatty acids and glycerol. (B) Steroids are examples of lipids. (C) The molecules of a saturated fatty acid are packed so close together that they form a solid at room temperature. (D) The head of a phospholipid is hydrophobic, and the tails are hydrophilic. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+77,5,30-20-10-40,A,30,D,20,A,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is an incorrect statement about gel electrophoresis? (A) DNA migrates from positive charge to negative charge. (B) Smaller DNA travels faster. (C) The DNA migrates only when the current is running. (D) The longer the current is running, the farther the DNA will travel. (30 points)
+2. Which of the following statements about meiosis is correct? (A) The daughter cells are genetically identical to the parent cells. (B) Homologues pair during prophase II. (C) DNA replication occurs before meiosis I and meiosis II. (D) The number of chromosomes is reduced. (20 points)
+3. Two related species evolve in a way that makes them less similar. (A) Divergent evolution (B) Convergent evolution (C) Parallel evolution (D) Coevolution (10 points)
+4. A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. What kind of speciation does this example illustrate? (A) Allopatric (B) Sympatric (C) Isolated (D) Polyploidy (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+78,5,40-10-20-30,C,40,A,10,C,20,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In a hypothetical environment, fishes called pike-cichlids are visual predators of algae-eating fish (i.e., they locate their prey by sight). If a population of algae-eaters experiences predation pressure from pike-cichlids, which of the following should least likely be observed in the algae-eater population over the course of many generations? (A) Selection for drab coloration of the algae-eaters (B) Selection for nocturnal algae-eaters (active only at night) (C) Selection for larger female algae-eaters, bearing broods composed of more, and larger, young (D) Selection for algae-eaters that become sexually mature at smaller overall body sizes (40 points)
+2. Crossing-over occurs during which of the following phases in meiosis? (A) Prophase I (B) Metaphase I (C) Anaphase I (D) Prophase II (10 points)
+3. A reaction that includes energy as one of its reactants is called a(n) (A) exergonic reaction. (B) hydrolysis reaction. (C) endergonic reaction. (D) redox reaction. (20 points)
+4. Which of the following describes a symbiotic relationship? (A) A tapeworm feeds off of its host's nutrients causing the host to lose large amounts of weight. (B) Certain plants grow on trees in order to gain access to sunlight, not affecting the tree. (C) Remora fish eat parasites off of sharks; the sharks stay free of parasites, and the remora fish are protected from predators. (D) Meerkats sound alarm calls to warn other meerkats of predators. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+79,5,40-30-20-10,B,40,D,30,C,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. No two people are genetically identical, except for identical twins. The chief cause of genetic variation among human individuals is (A) new mutations that occurred in the preceding generation. (B) the reshuffling of alleles in sexual reproduction. (C) genetic drift due to the small size of the population. (D) geographic variation within the population. (40 points)
+2. Which of the following adaptive features would least likely be found in an animal living in a hot arid environment? (A) Long loops of Henle to maximize water reabsorption (B) Storage of water in fatty tissues (C) Large ears to aid in heat dispersion (D) Short loops of Henle to maximize water secretion (30 points)
+3. Which of the following statements about lipids is correct? (A) Unsaturated fatty acids are linked to heart disease. (B) Lipids make up most cell surface receptors. (C) Phospholipids are water soluble. (D) Steroids are lipids that consist of glycerol and fatty acids. (20 points)
+4. Fossil evidence indicates that horses have gradually increased in size over geologic time. Which of the following terms best describes this? (A) artificial selection (B) directional selection (C) stabilizing selection (D) disruptive selection (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+80,5,10-30-20-40,D,10,D,30,D,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Natural selection changes allele frequencies in populations because some ____ survive and reproduce more successfully than others. (A) alleles (B) loci (C) gene pools (D) individuals (10 points)
+2. All of the following are stimulated by the sympathetic nervous system EXCEPT (A) dilation of the pupil of the eye (B) constriction of blood vessels (C) increased secretion of the sweat glands (D) increased peristalsis in the gastrointestinal tract (30 points)
+3. Those being hunted adopt a coloring scheme that allows them to blend in to the colors of the environment. (A) Aposomatic coloration (B) Batesian mimicry (C) Deceptive markings (D) Cryptic coloration (20 points)
+4. Which of the following is the most likely benefit of periodic natural wildfires in some forest ecosystems? (A) The fires remove dead and decaying plant matter, reducing the risk of more intense and destructive fires. (B) The fires leach nutrients from the soil‚ preventing the germination of plants that might compete with native species. (C) The fires drive off herbivores whose plant-based diets reduce the amount of vegetation. (D) The fires dry out the soil and decrease the chance of flooding after heavy rains. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+81,5,30-40-10-20,D,30,A,40,B,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In most ecosystems, net primary productivity is important because it represents the (A) energy available to producers (B) total solar energy converted to chemical energy by producers (C) biomass of all producers (D) energy available to heterotrophs (30 points)
+2. Mules are relatively long-lived and hardy organisms that cannot, generally speaking, perform successful meiosis. Consequently, which statement about mules is true? (A) They have a relative evolutionary fitness of zero. (B) Their offspring have less genetic variation than the parents. (C) Mutations cannot occur in their genomes. (D) If crossing-over happens in mules, then it must be limited to prophase of mitosis. (40 points)
+3. Lampreys attach to the skin of lake trout and absorb nutrients from its body. This relationship is an example of (A) commensalism (B) parasitism (C) mutualism (D) gravitropism (10 points)
+4. Chemical substances released by organisms that elicit a physiological or behavioral response in other members of the same species are known as (A) auxins (B) hormones (C) pheromones (D) enzymes (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+82,5,20-30-40-10,D,20,D,30,B,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is the correct characteristic of arteries? (A) They are thin-walled blood vessels. (B) They contain valves that prevent backflow. (C) They always carry oxygenated blood. (D) They carry blood away from the heart. (20 points)
+2. As a young biologist, Charles Darwin had expected the living plants of temperate South America would resemble those of temperate Europe, but he was surprised to find that they more closely resembled the plants of tropical South America. The biological explanation for this observation is most properly associated with the field of (A) meteorology. (B) embryology. (C) vertebrate anatomy. (D) biogeography. (30 points)
+3. Which of the following is most likely to increase the rate of diffusion of an uncharged solute across the plasma membrane of a cell? (A) Decreasing the number of different solutes in the solution that bathes the cells (B) Increasing the concentration gradient of the solute across the membrane (C) Increasing the ratio of phospholipids to proteins in the membrane (D) Decreasing the membrane potential across the membrane (40 points)
+4. The primary site of glucose reabsorption is the (A) glomerulus (B) proximal convoluted tubule (C) loop of Henle (D) collecting duct (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+83,5,20-30-10-40,C,20,D,30,D,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The major difference between cartilage and bone is that cartilage (A) is a part of the skeletal system (B) is composed of collagen and salts (C) lacks blood vessels and nerves (D) secretes a matrix (20 points)
+2. Which of the following statements is correct? (A) Water flows from hypertonic to hypotonic. (B) Germinating seeds use less oxygen than do nongerminating seeds. (C) The rate of transpiration decreases with an increase in air movement. (D) Smaller DNA fragments migrate more rapidly than do larger DNA fragments on gel electrophoresis. (30 points)
+3. Chemiosmosis occurs in I.Mitochondria II. Nuclei III. Chloroplasts (A) I only (B) II only (C) III only (D) I and III (10 points)
+4. The pH of two lakes is measured. Lake A has a pH of 8.0; Lake B has a pH of 6.0. Which of the following statements is correct about these lakes? (A) Lake B is alkaline. (B) Lake B is 100 times more alkaline than Lake A. (C) The hydrogen ion concentration of Lake B is 104 M. (D) The pH of both lakes will decrease in response to acid rain. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+84,5,20-10-30-40,C,20,D,10,D,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Females with Turner's syndrome have a high incidence of hemophilia, a recessive, X-linked trait. Based on this information, it can be inferred that females with this condition (A) have an extra X chromosome (B) have an extra Y chromosome (C) lack an X chromosome (D) have red blood cells that clump (20 points)
+2. This biome contains trees that drop their leaves during the winter months. (A) Desert (B) Tundra (C) Taiga (D) Deciduous forests (10 points)
+3. Which of the following is NOT a characteristic of asexual reproduction in animals? (A) Daughter cells have the same number of chromosomes as the parent cell. (B) Daughter cells are identical to the parent cell. (C) The parent cell produces diploid cells. (D) The daughter cells fuse to form a zygote. (30 points)
+4. During a study session about evolution, one of your fellow students remarks, ""The giraffe stretched its neck while reaching for higher leaves; its offspring inherited longer necks as a result."" Which statement is most likely to be helpful in correcting this student's misconception? (A) Characteristics acquired during an organism's life are generally not passed on through genes. (B) Spontaneous mutations can result in the appearance of new traits. (C) Only favorable adaptations have survival value. (D) Disuse of an organ may lead to its eventual disappearance. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+85,5,30-20-10-40,C,30,C,20,A,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements about the light-dependent reactions of photosynthesis is correct? (A) They provide the carbon that becomes incorporated into sugar. (B) They produce PGA, which is converted to glucose by carbon fixation in the light-independent reactions. (C) Water is split apart, providing hydrogen ions and electrons to NADP for temporary storage. (D) They occur in the stroma of chloroplasts. (30 points)
+2. Which of the following about meiosis is NOT true? (A) Meiosis produces two haploid gametes. (B) Homologous chromosomes join during synapsis. (C) Sister chromatids separate during meiosis I. (D) Crossing-over increases genetic variation in gametes. (20 points)
+3. Viruses are considered an exception to the cell theory because they (A) are not independent organisms (B) have only a few genes (C) move about via their tails (D) have evolved from ancestral protists (10 points)
+4. On Andros Islands in the Bahamas, populations of mosquito fish, Gambusia hubbsi, colonized a series of ponds. These ponds are no longer connected. However, the environments are very similar except that some ponds contain predatory fish, while others do not. In high predation ponds, selection has favored the evolution of a body shape that enables rapid bursts of speed. In low predation ponds, another body type is favored—one that is well-suited to swim for long periods of time. (A) Reproductive isolation caused geographic isolation. (B) Reproductive isolation was not complete. (C) Allopatric isolation brought about reproductive isolation. (D) Sympatric isolation brought about reproductive isolation. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+86,5,20-10-30-40,D,20,B,10,D,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which describes an African butterfly species that exists in two strikingly different color patterns? (A) artificial selection (B) directional selection (C) stabilizing selection (D) disruptive selection (20 points)
+2. Heterozygote advantage should be most closely linked to which of the following? (A) sexual selection (B) stabilizing selection (C) random selection (D) directional selection (10 points)
+3. In vertebrate embryos, which of the following developmental processes most directly results in the formation of the three primary germ layers? (A) Neurulation (B) Blastula formation (C) Cleavage (D) Gastrulation (30 points)
+4. Which of the following pairs of scientists pioneered the ecological discipline known as island biogeography? (A) Robert MacArthur and E. O. Wilson (B) James Watson and Francis Crick (C) Matthias Schleiden and Theodor Schwann (D) Alfred Hershey and Martha Chase (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+87,5,40-20-30-10,A,40,B,20,D,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In the inherited disorder called Pompe disease, glycogen breakdown in the cytosol occurs normally and blood glucose levels are normal, yet glycogen accumulates in lysosomes. This suggests a malfunction with (A) enzymes in the lysosomes (B) enzymes in the mitochondria (C) membrane transport during exocytosis (D) membrane transport during endocytosis (40 points)
+2. An organism exposed to wild temperature fluctuations shows very little, if any, change in its metabolic rate. This organism is most probably a (A) ectotherm. (B) endotherm. (C) thermophyle. (D) ascospore. (20 points)
+3. The resting membrane potential depends on which of the following? I. Active transport II. Selective permeability III. Differential distribution of ions across the axonal membrane (A) III only (B) I and II only (C) II and III only (D) I, II, and III (30 points)
+4. When oxygen becomes unavailable, this process regenerates NAD+, allowing respiration to continue. (A) Glycolysis (B) Chemiosmosis (C) Fermentation (D) Calvin cycle (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+88,5,30-40-20-10,A,30,D,40,C,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In modern terminology, diversity is understood to be a result of genetic variation. Sources of variation for evolution include all of the following except (A) mistakes in translation of structural genes. (B) mistakes in DNA replication. (C) translocations and mistakes in meiosis. (D) recombination at fertilization. (30 points)
+2. A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. Which of the following could possibly characterize the new variant? (A) Adaptive radiation (B) Divergent selection (C) Equilibrium (D) Polyploidy (40 points)
+3. When driving from east to west in the U.S. from a forest ecosystem to grasslands, trees gradually give way to grasses. Which of the following is the critical factor responsible for this shift? (A) Amount of sunlight (B) Availability of oxygen (C) Availability of water (D) Length of growing season (20 points)
+4. The higher the proportion of loci that are ""fixed"" in a population, the lower is that population's (A) nucleotide variability. (B) genetic polyploidy. (C) average heterozygosity. (D) A and C only (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+89,5,40-30-20-10,B,40,D,30,B,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The structure of ATP synthase in the plasma membranes of bacteria is nearly identical to that in the mitochondria and chloroplasts of eukaryotic cells. This similarity best supports which of the following hypotheses? (A) Eukaryotic and prokaryotic cells share a common ancestor. (B) Mitochondria are derived from ancient aerobic bacteria, and chloroplasts are derived from ancient photosynthetic bacteria. (C) The similarity of ATP synthase in bacteria, mitochondria, and chloroplasts is an example of convergent evolution. (D) Mitochondria and chloroplasts escaped from eukaryotic cells and formed aerobic and photosynthetic prokaryotes. (40 points)
+2. The normal pH of the cytosol is about 7.2. Most enzymes in the lysosome, however, are only active at a pH of 5. This suggests that (A) only acidic substances can undergo enzymatic processing in lysosomes (B) most enzymes in the lysosome are incapable of catalyzing substrates inside the lysosome (C) enzymes in the lysosome are released to the cytosol (D) protons are actively pumped into the lysosome (30 points)
+3. The base composition of DNA varies from one species to another. Which of the following ratios would you expect to remain constant in the DNA? (A) Cytosine : Adenine (B) Pyrimidine : Purine (C) Adenine : Guanine (D) Guanine : Deoxyribose (20 points)
+4. This biome has cold winters and is known for its pine forests. (A) Desert (B) Tundra (C) Taiga (D) Deciduous forests (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+90,5,40-20-10-30,B,40,B,20,D,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The sequence of amino acids in hemoglobin molecules of humans is more similar to the hemoglobin of chimpanzees than it is to the hemoglobin of dogs. This similarity suggests that (A) humans and dogs are more closely related than humans and chimpanzees (B) humans and chimpanzees are more closely related than humans and dogs (C) humans are related to chimpanzees but not to dogs (D) humans and chimpanzees are closely analogous (40 points)
+2. Catastrophism, meaning the regular occurrence of geological or meteorological disturbances (catastrophes), was Cuvier's attempt to explain the existence of (A) evolution. (B) the fossil record. (C) uniformitarianism. (D) the origin of new species. (20 points)
+3. This process has as its products NADP+, ADP, and sugar. (A) Glycolysis (B) Chemiosmosis (C) Fermentation (D) Calvin cycle (10 points)
+4. Stomata allow gases, such as H2O and CO2, to exchange between the inside of a plant leaf and the surrounding environment. Which of the following occurs under normal daytime environmental conditions? (A) H2O diffuses out of the leaf faster than CO2 enters. (B) H2O diffuses out of the leaf slower than CO2 enters. (C) CO2 diffuses out of the leaf faster than H2O enters. (D) H2O exchanges with CO2 at equal rates. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+91,5,30-40-10-20,D,30,B,40,B,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. DDT was once considered a ""silver bullet"" that would permanently eradicate insect pests. Today, instead, DDT is largely useless against many insects. Which of these would have been required for this pest eradication effort to be successful in the long run? (A) Larger doses of DDT should have been applied. (B) All habitats should have received applications of DDT at about the same time. (C) The frequency of DDT application should have been higher. (D) None of the individual insects should have possessed genomes that made them resistant to DDT. (30 points)
+2. Easily produced genetic variation is key to the rapid evolution of viral and microbial populations. Furthermore, pathogens that need to escape the immune system rely on this variation to generate new surface antigens that go unrecognized by the host’s immune system. Which of the following is an example of this antigenic variation? (A) HIV, which can remain integrated into the host genome for many years (B) The flu virus, which changes its envelope proteins (C) MRSA, which has become resistant to many antibiotics (D) Multiple sclerosis, which attacks the cells of the nervous system (40 points)
+3. All of the following statements are true EXCEPT (A) thyroxine increases the rate of metabolism (B) insulin decreases storage of glycogen (C) vasopressin stimulates water reabsorption in the kidney (D) epinephrine increases blood sugar levels and heart rate (10 points)
+4. In a certain pond, there are long-finned fish and short-finned fish. A horrific summer thunderstorm leads to the death of a disproportionate number of long-finned fish to the point where the relative frequency of the two forms has drastically shifted. This is an example of (A) gene flow. (B) natural selection. (C) genetic drift. (D) stabilizing selection. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+92,5,40-10-30-20,D,40,B,10,D,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Compared to DNA viral replication, RNA viral replication is more susceptible to mutation because (A) RNA replication takes place in the cytoplasm, whereas DNA replication takes place in the nucleus. (B) RNA viruses replicate much faster than DNA viruses. (C) RNA viruses use uracil instead of thymine. (D) RNA replication lacks the proofreading functions characteristic of DNA replication. (40 points)
+2. Invertebrate immune systems possess which of the following? (A) Cytotoxic T-lymphocytes (B) Phagocytes (C) B-cells (D) Helper T-cells (10 points)
+3. A healthy man and woman are worried about having children because they are both carriers of sickle-cell disease. If the couple have a biological child, what is the chance that the child will inherit sickle-cell disease? (A) 100% (B) 75% (C) 50% (D) 25% (30 points)
+4. The transfer of DNA between two bacterial cells connected by sex pili is known as (A) specialized transduction. (B) conjugation. (C) transformation. (D) generalized transduction. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+93,5,30-20-40-10,C,30,B,20,B,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is correct about organisms that are the first to colonize a habitat undergoing ecological succession? (A) They are the fiercest competitors in the area. (B) They maintain the habitat as it is for their own kind. (C) They change the habitat in a way that makes it more habitable for other organisms. (D) They are small invertebrates. (30 points)
+2. An animal cell that is permeable to water but not salts has an internal NaCl concentration of 10%. If placed in freshwater the cell will (A) plasmolyze (B) swell and eventually lyse (C) endocytose water into a large central vacuole (D) shrivel (20 points)
+3. Which of the following is not an observation or inference on which natural selection is based? (A) There is heritable variation among individuals. (B) Poorly adapted individuals never produce offspring. (C) Species produce more offspring than the environment can support. (D) Individuals whose characteristics are best suited to the environment generally leave more offspring than those whose characteristics are less suited. (40 points)
+4. Which of the following is a biotic factor that could affect the growth rate of a population? (A) Volcanic eruption (B) Glacier melting (C) Destruction of the ozone layer (D) Sudden reduction in the animal food resource (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+94,5,10-30-40-20,B,10,A,30,B,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following theories is based on the notion that mitochondria and chloroplasts evolved from prokaryotic cells? (A) Fluid mosaic model (B) Endosymbiotic model (C) Taxonomic model (D) Respiration feedback model (10 points)
+2. Microtubules are protein filaments assembled from tubulin protein subunits. The chemical colchicine prevents the assembly of microtubules by binding to tubulin protein subunits. Which of the following cellular processes would be most impaired by the application of colchicine? (A) the alignment and separation of chromosomes during mitosis (B) the coordination of ribosomes and mRNA during protein synthesis (C) the movement of substances across the plasma membrane (D) the accumulation of protons inside the thylakoids of chloroplasts during chemiosmosis (30 points)
+3. Yeast cells carry out both aerobic and anaerobic respiration. A yeast cell that is fed on glucose is moved from an aerobic to an anaerobic environment. Which of the following statements is correct and gives the correct reason for it? (A) The cell dies because it cannot make ATP. (B) The cell would need to consume glucose at a much greater rate because aerobic respiration is much more efficient as compared with anaerobic respiration. (C) The cell would need to consume another food source other than glucose because it will not be able to make adequate ATP with only glucose. (D) The cell will begin to divide rapidly because larger cells require more oxygen and glucose than smaller ones. (40 points)
+4. DNA sequences in many human genes are very similar to the sequences of corresponding genes in chimpanzees. The most likely explanation for this result is that (A) humans and chimpanzees share a relatively recent common ancestor. (B) humans evolved from chimpanzees. (C) chimpanzees evolved from humans. (D) convergent evolution led to the DNA similarities. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+95,5,10-20-40-30,D,10,C,20,C,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If neutral variation is truly ""neutral,"" then it should have no effect on (A) nucleotide diversity. (B) average heterozygosity. (C) our ability to measure the rate of evolution. (D) relative fitness. (10 points)
+2. Crossing-over during meiosis permits scientists to determine (A) the chance for variation in zygotes (B) the rate of mutations (C) the distance between genes on a chromosome (D) which traits are dominant or recessive (20 points)
+3. Recently, seasonal dead zones in low-oxygen waters have been occurring annually in the Gulf of Mexico near the mouth of the Mississippi River. The dead zones result from the rapid growth of photosynthetic phytoplankton (algal blooms) and their subsequent decay by oxygen-depleting microbes in the water column. Which of the following factors most likely triggers the algal blooms and the associated dead zones? (A) A decrease in the light level in surface waters as day length starts to shorten after the summer solstice (B) Increased predation by marine larvae and other zooplankton during the summer months (C) A summer influx of nutrients derived from chemical fertilizers that are high in nitrogen and phosphorus (D) Decreased competition from other marine phytoplankton during the summer months (40 points)
+4. In minks, the gene for brown fur (B) is dominant over the gene for silver fur (b). Which set of genotypes represents a cross that could produce offspring with silver fur from parents that both have brown fur? (A) BB BB (B) BB Bb (C) Bb Bb (D) Bb bb (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+96,5,30-10-20-40,D,30,D,10,B,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. All of the following are examples of events that can prevent interspecific breeding EXCEPT (A) the potential mates experience geographic isolation (B) the potential mates experience behavioral isolation (C) the potential mates have different courtship rituals (D) the potential mates have similar breeding seasons (30 points)
+2. During which phase of the cell cycle does the quantity of DNA in a eukaryotic cell typically double? (A) G_1 (B) G_2 (C) M (D) S (10 points)
+3. A certain autosomal recessive trait is expressed in 1% of a population. Assuming that the population is in Hardy-Weinberg equilibrium, what percent of the population are carriers but do not express the trait? (A) 10% (B) 18% (C) 27% (D) 50% (20 points)
+4. Which of the following best summarizes the process of allopatric speciation? (A) differential changes in allele frequencies → reproductive isolation → reproductive barriers → new species (B) catastrophic event → reproductive isolation → reproductive barriers → new species (C) reproductive isolation → differential changes in allele frequencies → reproductive barriers → new species (D) geographic isolation → reproductive isolation → differential changes in allele frequencies → reproductive barriers → new species (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."

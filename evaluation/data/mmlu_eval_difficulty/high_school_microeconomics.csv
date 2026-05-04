@@ -1,0 +1,961 @@
+ID,Subset,Reward_Order,Correct_Answer_1,Reward_1,Correct_Answer_2,Reward_2,Correct_Answer_3,Reward_3,Correct_Answer_4,Reward_4,Full_Prompt
+1,1,40-20-10-30,D,40,A,20,C,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is true about the relationship of the average total cost (ATC) curve and the marginal cost (MC) curve? (A) ATC and MC are always equal. (B) ATC and MC are never equal. (C) The ATC curve intersects the MC curve at the minimum point of the MC curve. (D) The MC curve intersects the ATC curve at the minimum point of the ATC curve. (40 points)
+2. If total product of labor is rising at an increasing rate, (A) marginal product of labor is rising. (B) marginal product of labor is at its minimum. (C) marginal product of labor is at its maximum. (D) marginal cost is rising. (20 points)
+3. When the cross-price elasticity of demand is negative, the goods in question are necessarily (A) normal (B) inferior (C) complements (D) substitutes (10 points)
+4. For the perfectly competitive firm, the profit-maximizing decision to shut down is made when the price (A) falls below minimum average total cost. (B) is greater than minimum average variable cost, but lower than minimum average total cost. (C) falls below minimum average variable cost. (D) is equal to minimum average total cost. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+2,1,40-20-10-30,D,40,D,20,B,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. One of the reasons that the government discourages and regulates monopolies is that (A) producer surplus is lost and consumer surplus is gained. (B) monopoly prices ensure productive efficiency but cost society allocative efficiency. (C) monopoly firms do not engage in significant research and development. (D) consumer surplus is lost with higher prices and lower levels of output. (40 points)
+2. With respect to the kinked demand curve, which of the following is NOT correct? (A) There is no price leader. (B) There are relatively equal shares of the market. (C) Price is greater than marginal costs. (D) The demand curve is of one continuous function. (20 points)
+3. The demand curve for labor is derived from (A) the market labor demand curve (B) the demand curve for the output produced by labor (C) the labor supply curve for the firm (D) the equilibrium wage in the labor market (10 points)
+4. A competitive market for coffee, a normal good, is currently in equilibrium. Which of the following would most likely result in an increase in the demand for coffee? (A) Consumer income falls. (B) The price of tea rises. (C) The wage of coffee plantation workers falls. (D) Technology in the harvesting of coffee beans improves. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+3,1,30-40-20-10,D,30,D,40,B,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Unlike a perfectly competitive firm, a monopoly (A) will charge the highest price it can on the demand curve (B) has a horizontal marginal revenue curve (C) has an upward sloping total revenue curve (D) faces a downward sloping demand curve (30 points)
+2. Which of the following is most likely to result in a shift to the right in the demand curve for orange juice? (A) A bumper crop of oranges in Florida (B) A decrease in the price of Tang (C) Expectations of lower future prices for orange juice (D) Expectations of higher future income among juice drinkers (40 points)
+3. Firms maximize their profits by producing a level of output at which (A) MC = AFC. (B) MC = MR. (C) P = ATC. (D) MR= AVC. (20 points)
+4. Land refers to (A) all productive resources. (B) all natural resources. (C) farmland only. (D) real estate. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+4,1,40-10-20-30,D,40,A,10,D,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If the perfectly competitive price is currently above minimum ATC, we can expect which of the following events in the long run? (A) Price rises as firms enter the industry. (B) Market equilibrium quantity rises as firms exit the industry. (C) Nothing. The industry is currently in long-run equilibrium. (D) Price falls as firms enter the industry. (40 points)
+2. Which of the following is true? (A) TC = (AVC + AFC)Q. (B) TFC = TC at all levels of output. (C) AVC + AFC = TC. (D) MC = TC - TFC. (10 points)
+3. Which of the following is most likely to be true in the long run for a monopoly firm? (A) P = MR = MC = ATC (B) P = MR = MC > ATC (C) P > MR = MC = ATC (D) P > ATC > MR = MC (20 points)
+4. If a monopsony labor market suddenly were transformed into a perfectly competitive labor market, how would the wage and employment change? (A) Both would increase. (B) Both would decrease. (C) The wage would remain constant, but employment would increase. (D) The wage would fall, but employment would increase. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+5,1,30-20-10-40,C,30,B,20,B,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Scarcity is best defined as (A) the difference between limited wants and limited economic resources. (B) the difference between the total benefit of an action and the total cost of that action. (C) the difference between unlimited wants and limited economic resources. (D) the opportunity cost of pursuing a given course of action. (30 points)
+2. Which of the following is true of equilibrium in a purely (or perfectly) competitive market for good X? (A) A shortage of good X exists. (B) The quantity demanded equals the quantity supplied of good X. (C) A surplus of good X exists. (D) The government regulates the quantity of good X produced at the market price. (20 points)
+3. An effective price ceiling in the market for good X likely results in (A) a persistent surplus of good X. (B) a persistent shortage of good X. (C) an increase in the demand for good Y, a substitute for good X. (D) a decrease in the demand for good Z, a complement with good X. (10 points)
+4. What is one reason why the government discourages collusion between large firms in the same industry? (A) Collusive output levels tend to increase, driving the price above competitive levels. (B) Consumer surplus falls as the price is driven downward. (C) Collusive output levels tend to decrease, driving the price down to competitive levels. (D) Joint profit maximization costs society consumer surplus as the price rises above competitive levels. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+6,1,40-20-30-10,A,40,D,20,B,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Nancy has the choice to spend one hour studying for an exam, mowing the lawn for one hour at a wage of $6, or babysitting her niece for one hour at a wage of $8. If we know that Nancy has chosen to study for the exam, which of the following is true? (A) The benefit received from studying is greater than the opportunity cost of $8. (B) The opportunity cost of studying is $14, which is less than the benefit received from studying. (C) Nancy is indifferent to both studying and mowing the lawn. (D) Nancy's behavior is irrational, since babysitting was clearly superior to all other options. (40 points)
+2. The law of increasing costs is useful in describing (A) a demand curve. (B) a marginal benefit curve. (C) a linear production possibility frontier. (D) a concave production possibility frontier. (20 points)
+3. The necessity for a monopoly to lower its price in order to sell more units of its product explains why (A) monopolies are common among public utilities (B) the marginal revenue curve is below the demand curve for a monopoly (C) the marginal cost curve for a monopoly slopes upward (D) monopolies are able to maintain market power (30 points)
+4. The individual firm, operating under perfect competition, is characterized as: (A) a price-maker. (B) one of a few sellers. (C) a price strategist. (D) a price-taker. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+7,1,40-30-10-20,D,40,D,30,C,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Good X is exchanged in a competitive market. Which of the following is true if an excise tax is now imposed on the production of good X? (A) If the demand curve is perfectly elastic, the price rises by the amount of the tax. (B) The consumer's burden of the tax rises as the demand curve is more elastic. (C) Consumer surplus rises as a result of the tax. (D) The consumer's burden of the tax rises as the demand curve is less elastic. (40 points)
+2. If the government wishes to regulate a natural monopoly so that it produces an allocatively efficient level of output, it would be at an output (A) where price is equal to average total cost. (B) where marginal revenue equals marginal cost. (C) where normal profits are made. (D) where price is equal to marginal cost. (30 points)
+3. What could the government do to most effectively avoid a free rider problem? (A) Enact stricter antitrust legislation (B) Provide more complete information about the relevant goods (C) Supply public goods using tax dollars (D) Tax those creating negative externalities (10 points)
+4. A tax imposed on a supplier will more likely be passed on to the consumer in the form of price increase if (A) price elasticity of demand is highly elastic. (B) price elasticity of demand is highly inelastic. (C) price elasticity of demand is unit elastic. (D) wage elasticity of demand is highly elastic. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+8,1,40-30-20-10,C,40,A,30,A,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The backward bending supply curve is characterized by which of the following? (A) As wage rates rise, the quantity of labor supplied continues to rise at every wage rate increase. (B) The labor-leisure trade-off continues to favor the supply of more jobs, or the substitution effect. (C) The labor-leisure trade-off favors the income effect or more leisure at higher wage rates. (D) inexperienced, low-income, younger workers at the backward bending portion. (40 points)
+2. Which of the following statements is most consistent with a capitalist market economy? (A) Economic resources are allocated according to the decisions of the central bank. (B) Private property is fundamental to innovation, growth, and trade. (C) A central government plans the production and distribution of goods. (D) Most wages and prices are legally controlled. (30 points)
+3. Which of the following is an example of an economic rent? (A) A superstar basketball player's $50 million earnings. (B) A social security retirement income. (C) A welfare payment from social services. (D) A check to a college student from a parent or guardian. (20 points)
+4. Which of the following is a characteristic of monopolistic competition? (A) Economically efficient in the long run. (B) Pricing at minimum ATC in long run. (C) Excess capacity. (D) Very few competitors. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+9,1,40-20-30-10,C,40,D,20,B,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Economics is best described as (A) the study of how scarce material wants are allocated between unlimited resources. (B) the study of how scarce labor can be replaced by unlimited capital. (C) the study of how decision makers choose the best way to satisfy their unlimited material wants with a scarce supply of resources. (D) the study of how unlimited material wants can best be satisfied by allocating limitless amounts of productive resources. (40 points)
+2. If one person has the only original signed copy of The Wealth of Nations by Adam Smith, which of the following would illustrate this situation? (A) A downward sloping demand curve. (B) An upward sloping supply curve. (C) An invisible hand. (D) A perfectly vertical supply curve. (20 points)
+3. In the absence of intervention, imperfect competition, externalities, public goods, and imperfect information all result in which of the following? (A) Demand curves that should be added vertically (B) Market failure (C) Prices that are too low (D) Quantities of output that are too high (30 points)
+4. Economics is a social science that (A) is primarily concerned with money. (B) is primarily concerned with how resources are used. (C) relies solely on the scientific method for analysis. (D) is primarily concerned with maximizing spiritual well-being. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+10,1,10-30-40-20,C,10,D,30,C,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The owner of a competitive firm making zero economic profit (A) should consider shutting down because she could make more elsewhere (B) is making less than normal profits (C) is making exactly what she would make in her next best alternative job (D) will most likely make more profits in the long run (10 points)
+2. Which of the following would best complete a short definition of economics? ""Economics is the study of . . ."" (A) how unlimited resources are allocated between scarce wants. (B) how money is circulated through the economy. (C) how corporations maximize the share price of their stock. (D) how scarce resources are allocated to satisfy unlimited wants. (30 points)
+3. Consider a profit-maximizing firm in a perfectly competitive market with several sellers and several buyers (i.e., the firm is a ""price taker"" of the goods it sells and a ""price taker"" of the hourly wages it pays its workers). If a technological innovation made by someone in this firm were to significantly raise the firm's marginal physical product (but not that of any other firm's), then this innovation would (A) reduce the firm’s employment level, because fewer workers are now needed (B) raise the workers’ hourly wage as they now contribute more marginal revenue (C) lead the firm to hire more workers but not to raise their wages (D) lead the firm to hire more workers and to pay them higher wages (40 points)
+4. The market demand curve for labor would shift to the left as the result of (A) an increase in the price of the good which the labor is producing (B) an increase in demand for the good which the labor is producing (C) an increase in the wage rate paid to workers (D) a decrease in the marginal product of labor (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+11,1,20-40-10-30,C,20,D,40,A,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A consequence of a price floor is (A) a persistent shortage of the good. (B) an increase in total welfare. (C) a persistent surplus of the good. (D) elimination of deadweight loss. (20 points)
+2. If the market price is above the perfectly competitive firm's average total cost curve, we expect that in the long run, (A) the industry contracts as firms exit the market. (B) the industry expands as firms exit the market. (C) the industry contracts as firms enter the market. (D) the industry expands as firms enter the market. (40 points)
+3. Which of the following is a characteristic of monopolistic competition? (A) P > MC. (B) Efficiency. (C) Mostly price competition. (D) P =MR. (10 points)
+4. Which of the following is NOT a source of wage differentials? (A) Differences in human capital stock. (B) Racial or gender discrimination. (C) Immobility of workers. (D) Decrease in the birth rate. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+12,1,10-20-30-40,C,10,C,20,A,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Labor, human capital, entrepreneurship, natural resources, and physical capital are all examples of which of the following? (A) Public goods (B) Inferior goods (C) Factors of production (D) Outputs (10 points)
+2. The ability for firms to enter and exit a market over time means that (A) the marginal cost is zero (B) the marginal revenue is zero (C) the long run supply curve is more elastic (D) the long run supply curve is more inelastic (20 points)
+3. If, for each additional unit of a variable input, the increases in output become smaller, which of the following correctly identifies the concept? (A) Diminishing marginal productivity. (B) Diminishing marginal utility. (C) Increasing marginal utility. (D) Increasing marginal productivity. (30 points)
+4. The apple market is in equilibrium. Suppose we observe that apple growers are using more pesticides to increase apple production. At the same time, we hear that the price of pears, a substitute for apples, is rising. Which of the following is a reasonable prediction for the new price and quantity of apples? (A) Price rises, but quantity is ambiguous. (B) Price falls, but quantity is ambiguous. (C) Price is ambiguous, but quantity rises. (D) Price is ambiguous, but quantity falls. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+13,1,30-10-20-40,C,30,D,10,A,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is an implicit cost for the owner of a small store in your hometown? (A) The wage that is paid to the assistant manager (B) The cost of purchasing canned goods from a wholesale food distributor (C) The value placed on the owner's skills in an alternative career (D) The cost of cooling the refrigerated meat display (30 points)
+2. What you give up to pursue another alternative is known as (A) capital. (B) land. (C) money cost. (D) opportunity cost. (10 points)
+3. When a perfectly competitive labor market is in equilibrium, (A) everyone who wants to work has the opportunity to do so (B) individual firms face downward sloping labor demand curves (C) unemployment can reach as high as 10-15 percent (D) individual firms face upward sloping labor demand curves (20 points)
+4. If corn is produced in a perfectly competitive market and the government placed a price ceiling above equilibrium, which of the following would be true? (A) There would be no change in the amount of corn demanded or supplied. (B) There would be a shortage created of corn. (C) There would be a surplus created of corn. (D) The producers of corn would lose revenue due to the decreased price. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+14,1,20-10-40-30,C,20,C,10,D,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following indicates that two goods are complements? (A) A positive income elasticity (B) A horizontal demand curve (C) A negative cross-price elasticity (D) A demand elasticity greater than one (20 points)
+2. Which of the following is not the basis for a wage differential? (A) Higher risk job. (B) Investment in human capital. (C) Increase in production of SUVs. (D) Racial discrimination. (10 points)
+3. Firms with the following market structure(s) maximize profits by producing where marginal cost equals marginal revenue, if at all. I. Perfect competition II. Oligopoly III. Monopoly IV. Monopolistic competition (A) I only (B) I and II only (C) I and III only (D) I, II, III, and IV (40 points)
+4. The supply curve for lawn-mowing services is likely to slope upward because of (A) decreasing marginal costs (B) increasing opportunity cost of time (C) diminishing marginal utility (D) increasing returns to scale (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+15,1,10-30-40-20,C,10,B,30,D,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Price times quantity measures (A) the international trade gap. (B) the budget deficit. (C) total revenue. (D) price elasticity of demand. (10 points)
+2. At a Nash equilibrium, (A) the supply curve intersects the demand curve (B) neither party has an incentive to deviate from his or her strategy (C) the marginal revenue curve intersects the marginal cost curve (D) the equilibrium is unstable and each party would like to switch strategies (30 points)
+3. Elsa values her time at $50 per hour, and tutors David for two hours. David is willing to pay $175 for two hours of tutoring, but they negotiate a price of $125 for the entire two hours. Which of the following statements is true about the transaction above: (A) Consumer surplus is greater than producer surplus by between $50 and $75. (B) Producer surplus is greater than consumer surplus by between $50 and $75. (C) Consumer surplus is greater than producer surplus by more than $75. (D) The difference between consumer and producer surplus is $25. (40 points)
+4. A competitive firm's demand for labor is determined directly by (A) profits (B) the opportunity cost of workers’ time (C) the wage and the average (physical) product of labor (D) the marginal (physical) product of labor and the output price (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+16,1,20-40-30-10,D,20,A,40,D,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Deadweight loss occurs in (A) monopolistic competition as P > MC. (B) monopoly markets because P > MC. (C) oligopoly markets because P > MC. (D) All of the above. (20 points)
+2. The market structures of perfect competition and monopolistic competition share which of the following characteristics? (A) Ease of entry and exit in the long run (B) Homogenous products (C) Perfectly elastic demand for the firm's product (D) Long-run positive profits (40 points)
+3. When opportunity cost is constant across all production levels, the productions possibilities frontier is (A) concave to the origin. (B) convex to the origin. (C) undefined. (D) a straight diagonal line sloping downward from left to right. (30 points)
+4. Which of the following is true in the long run in perfect competition? (A) P = MR = MC = ATC (B) P = MR = MC > ATC (C) P > MR = MC = ATC (D) P = MR > MC = ATC (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+17,1,10-20-30-40,D,10,D,20,B,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following goods is likely to provide both the largest total utility and the smallest marginal utility? (A) Plastic (B) Automobiles (C) Computers (D) Air (10 points)
+2. You are told that the cross-price elasticity between goods X and Y is +2.0. This means that (A) goods X and Y are normal goods. (B) goods X and Y are inferior goods. (C) goods X and Y are complementary goods. (D) goods X and Y are substitute goods. (20 points)
+3. If a market is organized by a cartel, we can expect (A) normal profits for all cartel firms. (B) an incentive for cartel firms to cheat on the cartel agreement. (C) profit maximization by individual firms in the cartel. (D) allocative efficiency. (30 points)
+4. Which of the following statements is true for a firm in a perfectly competitive industry? (A) Total revenue increases and then decreases. (B) Marginal revenue is decreasing. (C) Average revenue is initially negative and then becomes positive. (D) Average revenue equals marginal revenue. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+18,1,20-40-10-30,A,20,B,40,D,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Monopoly deadweight loss is the result of (A) setting the price above marginal cost. (B) setting the price above average total cost. (C) monopoly output being greater than the competitive output. (D) long-run normal profits. (20 points)
+2. In the short run, a firm employs labor and capital to produce gadgets. If the annual price of capital increases, what will happen to the short-run cost curves? (A) The marginal cost and average variable cost curves will shift upward. (B) The average fixed cost and average total cost curves will shift upward. (C) The marginal cost and average fixed cost curves will shift upward. (D) The marginal cost, average fixed cost, average variable cost, and average total cost curves will all shift upward. (40 points)
+3. A production possibility frontier will be a straight line when (A) efficiency is achieved (B) the goods on the axes are perfect substitutes in consumption (C) utility is maximized (D) resources are not specialized (10 points)
+4. Which of the following are associated with public goods? I. Free riders II. Adding demand curves vertically to find the demand curve for society III. Nonrivalry in consumption IV. Nonexcludability (A) I and II only (B) I and IV only (C) II and III only (D) I, II, III, and IV (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+19,1,40-30-20-10,B,40,A,30,A,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A student decides that, having already spent three hours studying for an exam, she should spend one more hour studying for the same exam. Which of the following is most likely true? (A) The marginal benefit of the fourth hour is certainly less than the marginal cost of the fourth hour. (B) The marginal benefit of the fourth hour is at least as great as the marginal cost of the fourth hour. (C) Without knowing the student’s opportunity cost of studying, we have no way of knowing whether or not her marginal benefits outweigh her marginal costs. (D) The marginal cost of the third hour was likely greater than the marginal cost of the fourth hour. (40 points)
+2. The market for Cincinnati Reds baseball tickets is currently in equilibrium. Which of the following events would most likely increase the consumer surplus received by Reds fans? (A) The Reds offer discounted parking for all home games. (B) The Reds increase hot dog prices to reflect a higher cost of buns. (C) The city of Cincinnati is undertaking a huge highway construction project that strands fans in pregame traffic jams for hours. (D) The Reds must increase ticket prices to afford the most talented players. (30 points)
+3. Which of these situations is not an example of price discrimination? (A) Brent works nights, so he chooses to buy bread at 7 a.m. rather than at 7 p.m. (B) Bob and Nancy each receive a ""$1 off"" coupon in the mail, but Bob redeems it while Nancy does not. (C) Katie buys 12 Cokes for $3, and Josh buys one Coke at a time for $1. (D) Velma likes to go to the movies at the lower afternoon matinee price, and Rosemary would rather pay more for the evening show. (20 points)
+4. In an oligopoly market, firms (A) cannot earn economic profits (B) are interdependent (C) are not subject to antitrust legislation (D) are large in number (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+20,2,10-40-20-30,C,10,D,40,B,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. An industry described as an oligopoly would most likely have (A) normal profits in the long run. (B) no opportunities for collusive behavior. (C) significant barriers to entry. (D) price-taking behavior. (10 points)
+2. With capital fixed at one unit with 1, 2, 3 units of labor added in equal successive units, production of the output increases from 300 (1 unit of labor), to 350 (2 units of labor) to 375 (3 units of labor). Which of the following is a correct interpretation? (A) This is long run increasing returns to scale. (B) This is long run decreasing returns to scale. (C) This is long run constant returns to scale. (D) This is short run diminishing marginal productivity. (40 points)
+3. Which of the following will increase wages for tuba makers? (A) An increase in the number of graduates at tuba maker training school (B) An increase in the price of tubas (C) An increase in the price of tuba lessons (D) An increase in the tax on tubas (20 points)
+4. In the design of a competitive market system, which of the following does NOT describe how resources are allocated? (A) Price signals that guide producers on what, when, how, and for whom to produce goods and services. (B) Active government ownership and direction of production. (C) Voluntary market exchange between buyers and sellers. (D) Distribution of income and goods on the basis of contribution or productivity. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+21,2,20-40-30-10,B,20,D,40,D,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. With the presence of a negative externality, which of the following would internalize (or correct) the externality? (A) A government subsidy. (B) A government tax. (C) A lower price. (D) A higher level of output. (20 points)
+2. Which of the following is correct about the demand for labor? (A) The demand for labor is independent of the demand for other inputs or resources. (B) The demand for labor is independent of the demand for the products produced by labor. (C) The demand for labor is independent of the availability of other inputs or resources. (D) The demand for labor is derived from the demand for the products produced by labor. (40 points)
+3. Which of the following is true about the pure public good? (A) The marginal cost of providing an additional unit of the good to additional citizens is greater than zero. (B) Consumers can be excluded from its benefits by not paying for it. (C) One more unit of a public good for some consumers means one less unit for other consumers. (D) The good cannot be divided into discrete units. (30 points)
+4. Which of the following tax systems is designed to redistribute income from the wealthy to the poor? (A) A progressive tax system (B) A regressive tax system (C) A proportional tax system (D) An excise tax system (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+22,2,40-20-10-30,C,40,A,20,B,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The price of labor is $2, and the price of capital is $1. The marginal product of labor is 200, and the marginal product of capital is 50. What should the firm do? (A) Increase capital and decrease labor so that the marginal product of capital falls and the marginal product of labor rises. (B) Increase capital and decrease labor so that the marginal product of capital rises and the marginal product of labor falls. (C) Decrease capital and increase labor so that the marginal product of capital rises and the marginal product of labor falls. (D) Decrease capital and increase labor so that the marginal product of capital falls and the marginal product of labor rises. (40 points)
+2. Which of the following statements accurately describes the relationship between average product (AP) and marginal product (MP) of labor? (A) AP rises when MP is above it and falls when MP is below it. (B) MP intersects AP at the maximum of MP. (C) AP and MP are always parallel to each other. (D) AP and MP are either both rising or both falling at all levels of labor. (20 points)
+3. If the wage paid to all units of labor is $4.50, how many units of labor are hired? (A) 1 (B) 2 (C) 3 (D) 4 (10 points)
+4. When the production or consumption of a good creates a positive externality, it is deemed a market failure because at the market quantity (A) the marginal social benefit exceeds the marginal social cost. (B) the marginal social cost exceeds the marginal social benefit. (C) society produces too much of the good. (D) the private benefits from consuming the good exceed the social benefits. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+23,2,40-20-30-10,B,40,B,20,C,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The United States is trading salmon to Peru in exchange for anchovies. If these nations are trading based upon relative opportunity costs, what must be the case? (A) The United States has comparative advantage in anchovy production, and Peru has comparative advantage in salmon production. (B) The United States has comparative advantage in salmon production, and Peru has comparative advantage in anchovy production. (C) The United States has absolute advantage in anchovy production, and Peru has absolute advantage in salmon production. (D) The United States has absolute advantage in salmon production, and Peru has absolute advantage in anchovy production. (40 points)
+2. The greater (higher) the wage elasticity of demand, the (A) greater the proportion of capital costs to labor costs in the production of goods. (B) greater the price elasticity for the product produced by labor. (C) the smaller the number of substitutes for labor. (D) the smaller the time period. (20 points)
+3. Opportunity costs or implicit costs of a ""Mom & Pop""-owned business are: (A) equal to accounting costs. (B) equal to accounting profits. (C) equal to earnings or profits that could have occurred using resources elsewhere. (D) equal to earnings or profits that occurred for Mom & Pop's business. (30 points)
+4. For a competitive firm, what is the most important thing to consider in deciding whether to shut down in the short run? (A) Compare AVC to MR. (B) Compare TR to TC. (C) Do not produce if the TFC is not covered by revenue. (D) Produce the highest quantity demanded regardless of price. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+24,2,20-30-40-10,C,20,B,30,D,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When the opportunity for price discrimination arises, (A) market segments with relatively elastic demand pay higher prices (B) market segments with relatively inelastic demand pay lower prices (C) consumer surplus decreases (D) demand is horizontal (20 points)
+2. Suppose that aluminum is a key production input in the production of bicycles. If the price of aluminum falls, and all other variables are held constant, we expect (A) the demand for aluminum to rise. (B) the supply of bicycles to rise. (C) the supply of bicycles to fall. (D) the demand for bicycles to rise. (30 points)
+3. The competitive market for gasoline, a normal good, is currently in a state of equilibrium. Which of the following would most likely increase the price of gasoline? (A) Household income falls. (B) Technology used to produce gasoline improves. (C) The price of subway tickets and other public transportation falls. (D) The price of crude oil, a raw material for gasoline, rises. (40 points)
+4. Compared to perfect competition in the long run, monopoly has (A) more choices of products for consumers. (B) more efficiency. (C) lower prices. (D) price greater than marginal revenue. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+25,2,30-40-20-10,D,30,D,40,A,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is an example of a transfer earning? (A) A superstar basketball player's $40 million earnings. (B) A social security retirement income. (C) A welfare payment from social services. (D) A cashier at a restaurant receiving the same $8 an hour that other cashiers receive. (30 points)
+2. If a business wants to increase its revenue and it knows that the demand price elasticity of its product is equal to 0.78, it should (A) decrease price because demand is elastic (B) decrease price because demand is unit elastic (C) decrease price because demand is inelastic (D) increase price because demand is inelastic (40 points)
+3. Which of the following is a characteristic of perfect competition? (A) Firms produce a homogeneous product. (B) Barriers to entry exist. (C) Firms are price-setting profit maximizers. (D) The government regulates the price so that deadweight loss is eliminated. (20 points)
+4. Consumer surplus is (A) the price of a good divided by its marginal utility. (B) the marginal utility of the good divided by its price. (C) the total utility of the good. (D) the difference between the consumer's value and the market price. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+26,2,10-30-20-40,D,10,A,30,B,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following are associated with public goods? I. Free riders II. Adding demand curves vertically to find the demand curve for society III. Nonrivalry in consumption IV. Nonexcludability (A) I and II only (B) I and IV only (C) II and III only (D) I, II, III, and IV (10 points)
+2. For a competitive firm, what is the most important thing to consider in deciding whether to shut down in the short run? (A) Compare AVC to MR. (B) Compare TR to TC. (C) Do not produce if the TFC is not covered by revenue. (D) Produce the highest quantity demanded regardless of price. (30 points)
+3. In the absence of intervention, imperfect competition, externalities, public goods, and imperfect information all result in which of the following? (A) Demand curves that should be added vertically (B) Market failure (C) Prices that are too low (D) Quantities of output that are too high (20 points)
+4. Good X is exchanged in a competitive market. Which of the following is true if an excise tax is now imposed on the production of good X? (A) If the demand curve is perfectly elastic, the price rises by the amount of the tax. (B) The consumer's burden of the tax rises as the demand curve is more elastic. (C) Consumer surplus rises as a result of the tax. (D) The consumer's burden of the tax rises as the demand curve is less elastic. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+27,2,20-40-10-30,C,20,D,40,A,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When the cross-price elasticity of demand is negative, the goods in question are necessarily (A) normal (B) inferior (C) complements (D) substitutes (20 points)
+2. Which of the following is correct about the demand for labor? (A) The demand for labor is independent of the demand for other inputs or resources. (B) The demand for labor is independent of the demand for the products produced by labor. (C) The demand for labor is independent of the availability of other inputs or resources. (D) The demand for labor is derived from the demand for the products produced by labor. (40 points)
+3. Which of the following is a characteristic of monopolistic competition? (A) P > MC. (B) Efficiency. (C) Mostly price competition. (D) P =MR. (10 points)
+4. Which of the following is an example of an economic rent? (A) A superstar basketball player's $50 million earnings. (B) A social security retirement income. (C) A welfare payment from social services. (D) A check to a college student from a parent or guardian. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+28,2,20-40-30-10,D,20,D,40,D,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Firms with the following market structure(s) maximize profits by producing where marginal cost equals marginal revenue, if at all. I. Perfect competition II. Oligopoly III. Monopoly IV. Monopolistic competition (A) I only (B) I and II only (C) I and III only (D) I, II, III, and IV (20 points)
+2. One of the reasons that the government discourages and regulates monopolies is that (A) producer surplus is lost and consumer surplus is gained. (B) monopoly prices ensure productive efficiency but cost society allocative efficiency. (C) monopoly firms do not engage in significant research and development. (D) consumer surplus is lost with higher prices and lower levels of output. (40 points)
+3. The competitive market for gasoline, a normal good, is currently in a state of equilibrium. Which of the following would most likely increase the price of gasoline? (A) Household income falls. (B) Technology used to produce gasoline improves. (C) The price of subway tickets and other public transportation falls. (D) The price of crude oil, a raw material for gasoline, rises. (30 points)
+4. A consequence of a price floor is (A) a persistent shortage of the good. (B) an increase in total welfare. (C) a persistent surplus of the good. (D) elimination of deadweight loss. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+29,2,40-20-30-10,A,40,A,20,B,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements is most consistent with a capitalist market economy? (A) Economic resources are allocated according to the decisions of the central bank. (B) Private property is fundamental to innovation, growth, and trade. (C) A central government plans the production and distribution of goods. (D) Most wages and prices are legally controlled. (40 points)
+2. Which of the following is a characteristic of perfect competition? (A) Firms produce a homogeneous product. (B) Barriers to entry exist. (C) Firms are price-setting profit maximizers. (D) The government regulates the price so that deadweight loss is eliminated. (20 points)
+3. Suppose that aluminum is a key production input in the production of bicycles. If the price of aluminum falls, and all other variables are held constant, we expect (A) the demand for aluminum to rise. (B) the supply of bicycles to rise. (C) the supply of bicycles to fall. (D) the demand for bicycles to rise. (30 points)
+4. Consumer surplus is (A) the price of a good divided by its marginal utility. (B) the marginal utility of the good divided by its price. (C) the total utility of the good. (D) the difference between the consumer's value and the market price. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+30,2,40-10-30-20,A,40,C,10,C,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When the production or consumption of a good creates a positive externality, it is deemed a market failure because at the market quantity (A) the marginal social benefit exceeds the marginal social cost. (B) the marginal social cost exceeds the marginal social benefit. (C) society produces too much of the good. (D) the private benefits from consuming the good exceed the social benefits. (40 points)
+2. Labor, human capital, entrepreneurship, natural resources, and physical capital are all examples of which of the following? (A) Public goods (B) Inferior goods (C) Factors of production (D) Outputs (10 points)
+3. What could the government do to most effectively avoid a free rider problem? (A) Enact stricter antitrust legislation (B) Provide more complete information about the relevant goods (C) Supply public goods using tax dollars (D) Tax those creating negative externalities (30 points)
+4. The law of increasing costs is useful in describing (A) a demand curve. (B) a marginal benefit curve. (C) a linear production possibility frontier. (D) a concave production possibility frontier. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+31,2,10-40-30-20,D,10,A,40,D,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Compared to perfect competition in the long run, monopoly has (A) more choices of products for consumers. (B) more efficiency. (C) lower prices. (D) price greater than marginal revenue. (10 points)
+2. Which of these situations is not an example of price discrimination? (A) Brent works nights, so he chooses to buy bread at 7 a.m. rather than at 7 p.m. (B) Bob and Nancy each receive a ""$1 off"" coupon in the mail, but Bob redeems it while Nancy does not. (C) Katie buys 12 Cokes for $3, and Josh buys one Coke at a time for $1. (D) Velma likes to go to the movies at the lower afternoon matinee price, and Rosemary would rather pay more for the evening show. (40 points)
+3. With capital fixed at one unit with 1, 2, 3 units of labor added in equal successive units, production of the output increases from 300 (1 unit of labor), to 350 (2 units of labor) to 375 (3 units of labor). Which of the following is a correct interpretation? (A) This is long run increasing returns to scale. (B) This is long run decreasing returns to scale. (C) This is long run constant returns to scale. (D) This is short run diminishing marginal productivity. (30 points)
+4. The ability for firms to enter and exit a market over time means that (A) the marginal cost is zero (B) the marginal revenue is zero (C) the long run supply curve is more elastic (D) the long run supply curve is more inelastic (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+32,2,20-40-10-30,A,20,A,40,B,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following tax systems is designed to redistribute income from the wealthy to the poor? (A) A progressive tax system (B) A regressive tax system (C) A proportional tax system (D) An excise tax system (20 points)
+2. The market for Cincinnati Reds baseball tickets is currently in equilibrium. Which of the following events would most likely increase the consumer surplus received by Reds fans? (A) The Reds offer discounted parking for all home games. (B) The Reds increase hot dog prices to reflect a higher cost of buns. (C) The city of Cincinnati is undertaking a huge highway construction project that strands fans in pregame traffic jams for hours. (D) The Reds must increase ticket prices to afford the most talented players. (40 points)
+3. If the wage paid to all units of labor is $4.50, how many units of labor are hired? (A) 1 (B) 2 (C) 3 (D) 4 (10 points)
+4. Which of the following is true of equilibrium in a purely (or perfectly) competitive market for good X? (A) A shortage of good X exists. (B) The quantity demanded equals the quantity supplied of good X. (C) A surplus of good X exists. (D) The government regulates the quantity of good X produced at the market price. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+33,2,20-30-10-40,D,20,D,30,B,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Unlike a perfectly competitive firm, a monopoly (A) will charge the highest price it can on the demand curve (B) has a horizontal marginal revenue curve (C) has an upward sloping total revenue curve (D) faces a downward sloping demand curve (20 points)
+2. A competitive firm's demand for labor is determined directly by (A) profits (B) the opportunity cost of workers’ time (C) the wage and the average (physical) product of labor (D) the marginal (physical) product of labor and the output price (30 points)
+3. With the presence of a negative externality, which of the following would internalize (or correct) the externality? (A) A government subsidy. (B) A government tax. (C) A lower price. (D) A higher level of output. (10 points)
+4. The price of labor is $2, and the price of capital is $1. The marginal product of labor is 200, and the marginal product of capital is 50. What should the firm do? (A) Increase capital and decrease labor so that the marginal product of capital falls and the marginal product of labor rises. (B) Increase capital and decrease labor so that the marginal product of capital rises and the marginal product of labor falls. (C) Decrease capital and increase labor so that the marginal product of capital rises and the marginal product of labor falls. (D) Decrease capital and increase labor so that the marginal product of capital falls and the marginal product of labor rises. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+34,2,40-10-30-20,B,40,D,10,D,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A competitive market for coffee, a normal good, is currently in equilibrium. Which of the following would most likely result in an increase in the demand for coffee? (A) Consumer income falls. (B) The price of tea rises. (C) The wage of coffee plantation workers falls. (D) Technology in the harvesting of coffee beans improves. (40 points)
+2. Which of the following is NOT a source of wage differentials? (A) Differences in human capital stock. (B) Racial or gender discrimination. (C) Immobility of workers. (D) Decrease in the birth rate. (10 points)
+3. Which of the following statements is true for a firm in a perfectly competitive industry? (A) Total revenue increases and then decreases. (B) Marginal revenue is decreasing. (C) Average revenue is initially negative and then becomes positive. (D) Average revenue equals marginal revenue. (30 points)
+4. If a market is organized by a cartel, we can expect (A) normal profits for all cartel firms. (B) an incentive for cartel firms to cheat on the cartel agreement. (C) profit maximization by individual firms in the cartel. (D) allocative efficiency. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+35,2,20-10-30-40,D,20,B,10,C,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If a business wants to increase its revenue and it knows that the demand price elasticity of its product is equal to 0.78, it should (A) decrease price because demand is elastic (B) decrease price because demand is unit elastic (C) decrease price because demand is inelastic (D) increase price because demand is inelastic (20 points)
+2. Firms maximize their profits by producing a level of output at which (A) MC = AFC. (B) MC = MR. (C) P = ATC. (D) MR= AVC. (10 points)
+3. Scarcity is best defined as (A) the difference between limited wants and limited economic resources. (B) the difference between the total benefit of an action and the total cost of that action. (C) the difference between unlimited wants and limited economic resources. (D) the opportunity cost of pursuing a given course of action. (30 points)
+4. The United States is trading salmon to Peru in exchange for anchovies. If these nations are trading based upon relative opportunity costs, what must be the case? (A) The United States has comparative advantage in anchovy production, and Peru has comparative advantage in salmon production. (B) The United States has comparative advantage in salmon production, and Peru has comparative advantage in anchovy production. (C) The United States has absolute advantage in anchovy production, and Peru has absolute advantage in salmon production. (D) The United States has absolute advantage in salmon production, and Peru has absolute advantage in anchovy production. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+36,2,10-30-20-40,B,10,B,30,D,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In an oligopoly market, firms (A) cannot earn economic profits (B) are interdependent (C) are not subject to antitrust legislation (D) are large in number (10 points)
+2. An effective price ceiling in the market for good X likely results in (A) a persistent surplus of good X. (B) a persistent shortage of good X. (C) an increase in the demand for good Y, a substitute for good X. (D) a decrease in the demand for good Z, a complement with good X. (30 points)
+3. Which of the following goods is likely to provide both the largest total utility and the smallest marginal utility? (A) Plastic (B) Automobiles (C) Computers (D) Air (20 points)
+4. At a Nash equilibrium, (A) the supply curve intersects the demand curve (B) neither party has an incentive to deviate from his or her strategy (C) the marginal revenue curve intersects the marginal cost curve (D) the equilibrium is unstable and each party would like to switch strategies (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+37,2,30-40-10-20,D,30,C,40,C,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is true about the pure public good? (A) The marginal cost of providing an additional unit of the good to additional citizens is greater than zero. (B) Consumers can be excluded from its benefits by not paying for it. (C) One more unit of a public good for some consumers means one less unit for other consumers. (D) The good cannot be divided into discrete units. (30 points)
+2. The apple market is in equilibrium. Suppose we observe that apple growers are using more pesticides to increase apple production. At the same time, we hear that the price of pears, a substitute for apples, is rising. Which of the following is a reasonable prediction for the new price and quantity of apples? (A) Price rises, but quantity is ambiguous. (B) Price falls, but quantity is ambiguous. (C) Price is ambiguous, but quantity rises. (D) Price is ambiguous, but quantity falls. (40 points)
+3. An industry described as an oligopoly would most likely have (A) normal profits in the long run. (B) no opportunities for collusive behavior. (C) significant barriers to entry. (D) price-taking behavior. (10 points)
+4. When the opportunity for price discrimination arises, (A) market segments with relatively elastic demand pay higher prices (B) market segments with relatively inelastic demand pay lower prices (C) consumer surplus decreases (D) demand is horizontal (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+38,2,20-10-40-30,A,20,D,10,D,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If, for each additional unit of a variable input, the increases in output become smaller, which of the following correctly identifies the concept? (A) Diminishing marginal productivity. (B) Diminishing marginal utility. (C) Increasing marginal utility. (D) Increasing marginal productivity. (20 points)
+2. Which of the following is most likely to be true in the long run for a monopoly firm? (A) P = MR = MC = ATC (B) P = MR = MC > ATC (C) P > MR = MC = ATC (D) P > ATC > MR = MC (10 points)
+3. Which of the following is true about the relationship of the average total cost (ATC) curve and the marginal cost (MC) curve? (A) ATC and MC are always equal. (B) ATC and MC are never equal. (C) The ATC curve intersects the MC curve at the minimum point of the MC curve. (D) The MC curve intersects the ATC curve at the minimum point of the ATC curve. (40 points)
+4. Which of the following is an implicit cost for the owner of a small store in your hometown? (A) The wage that is paid to the assistant manager (B) The cost of purchasing canned goods from a wholesale food distributor (C) The value placed on the owner's skills in an alternative career (D) The cost of cooling the refrigerated meat display (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+39,3,20-30-40-10,D,20,B,30,D,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If one person has the only original signed copy of The Wealth of Nations by Adam Smith, which of the following would illustrate this situation? (A) A downward sloping demand curve. (B) An upward sloping supply curve. (C) An invisible hand. (D) A perfectly vertical supply curve. (20 points)
+2. The necessity for a monopoly to lower its price in order to sell more units of its product explains why (A) monopolies are common among public utilities (B) the marginal revenue curve is below the demand curve for a monopoly (C) the marginal cost curve for a monopoly slopes upward (D) monopolies are able to maintain market power (30 points)
+3. Elsa values her time at $50 per hour, and tutors David for two hours. David is willing to pay $175 for two hours of tutoring, but they negotiate a price of $125 for the entire two hours. Which of the following statements is true about the transaction above: (A) Consumer surplus is greater than producer surplus by between $50 and $75. (B) Producer surplus is greater than consumer surplus by between $50 and $75. (C) Consumer surplus is greater than producer surplus by more than $75. (D) The difference between consumer and producer surplus is $25. (40 points)
+4. Which of the following will increase wages for tuba makers? (A) An increase in the number of graduates at tuba maker training school (B) An increase in the price of tubas (C) An increase in the price of tuba lessons (D) An increase in the tax on tubas (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+40,3,30-10-40-20,D,30,A,10,C,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The market demand curve for labor would shift to the left as the result of (A) an increase in the price of the good which the labor is producing (B) an increase in demand for the good which the labor is producing (C) an increase in the wage rate paid to workers (D) a decrease in the marginal product of labor (30 points)
+2. Which of the following is true in the long run in perfect competition? (A) P = MR = MC = ATC (B) P = MR = MC > ATC (C) P > MR = MC = ATC (D) P = MR > MC = ATC (10 points)
+3. Economics is best described as (A) the study of how scarce material wants are allocated between unlimited resources. (B) the study of how scarce labor can be replaced by unlimited capital. (C) the study of how decision makers choose the best way to satisfy their unlimited material wants with a scarce supply of resources. (D) the study of how unlimited material wants can best be satisfied by allocating limitless amounts of productive resources. (40 points)
+4. The owner of a competitive firm making zero economic profit (A) should consider shutting down because she could make more elsewhere (B) is making less than normal profits (C) is making exactly what she would make in her next best alternative job (D) will most likely make more profits in the long run (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+41,3,20-30-40-10,B,20,D,30,A,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The greater (higher) the wage elasticity of demand, the (A) greater the proportion of capital costs to labor costs in the production of goods. (B) greater the price elasticity for the product produced by labor. (C) the smaller the number of substitutes for labor. (D) the smaller the time period. (20 points)
+2. If the perfectly competitive price is currently above minimum ATC, we can expect which of the following events in the long run? (A) Price rises as firms enter the industry. (B) Market equilibrium quantity rises as firms exit the industry. (C) Nothing. The industry is currently in long-run equilibrium. (D) Price falls as firms enter the industry. (30 points)
+3. Which of the following statements accurately describes the relationship between average product (AP) and marginal product (MP) of labor? (A) AP rises when MP is above it and falls when MP is below it. (B) MP intersects AP at the maximum of MP. (C) AP and MP are always parallel to each other. (D) AP and MP are either both rising or both falling at all levels of labor. (40 points)
+4. What you give up to pursue another alternative is known as (A) capital. (B) land. (C) money cost. (D) opportunity cost. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+42,3,40-10-20-30,B,40,C,10,B,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A student decides that, having already spent three hours studying for an exam, she should spend one more hour studying for the same exam. Which of the following is most likely true? (A) The marginal benefit of the fourth hour is certainly less than the marginal cost of the fourth hour. (B) The marginal benefit of the fourth hour is at least as great as the marginal cost of the fourth hour. (C) Without knowing the student’s opportunity cost of studying, we have no way of knowing whether or not her marginal benefits outweigh her marginal costs. (D) The marginal cost of the third hour was likely greater than the marginal cost of the fourth hour. (40 points)
+2. Price times quantity measures (A) the international trade gap. (B) the budget deficit. (C) total revenue. (D) price elasticity of demand. (10 points)
+3. The supply curve for lawn-mowing services is likely to slope upward because of (A) decreasing marginal costs (B) increasing opportunity cost of time (C) diminishing marginal utility (D) increasing returns to scale (20 points)
+4. You are told that the cross-price elasticity between goods X and Y is +2.0. This means that (A) goods X and Y are normal goods. (B) goods X and Y are inferior goods. (C) goods X and Y are complementary goods. (D) goods X and Y are substitute goods. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+43,3,10-40-30-20,B,10,A,40,B,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Land refers to (A) all productive resources. (B) all natural resources. (C) farmland only. (D) real estate. (10 points)
+2. If total product of labor is rising at an increasing rate, (A) marginal product of labor is rising. (B) marginal product of labor is at its minimum. (C) marginal product of labor is at its maximum. (D) marginal cost is rising. (40 points)
+3. The demand curve for labor is derived from (A) the market labor demand curve (B) the demand curve for the output produced by labor (C) the labor supply curve for the firm (D) the equilibrium wage in the labor market (30 points)
+4. Which of the following indicates that two goods are complements? (A) A positive income elasticity (B) A horizontal demand curve (C) A negative cross-price elasticity (D) A demand elasticity greater than one (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+44,3,30-10-20-40,A,30,A,10,A,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If corn is produced in a perfectly competitive market and the government placed a price ceiling above equilibrium, which of the following would be true? (A) There would be no change in the amount of corn demanded or supplied. (B) There would be a shortage created of corn. (C) There would be a surplus created of corn. (D) The producers of corn would lose revenue due to the decreased price. (30 points)
+2. Which of the following is true? (A) TC = (AVC + AFC)Q. (B) TFC = TC at all levels of output. (C) AVC + AFC = TC. (D) MC = TC - TFC. (10 points)
+3. The market structures of perfect competition and monopolistic competition share which of the following characteristics? (A) Ease of entry and exit in the long run (B) Homogenous products (C) Perfectly elastic demand for the firm's product (D) Long-run positive profits (20 points)
+4. Consider a profit-maximizing firm in a perfectly competitive market with several sellers and several buyers (i.e., the firm is a ""price taker"" of the goods it sells and a ""price taker"" of the hourly wages it pays its workers). If a technological innovation made by someone in this firm were to significantly raise the firm's marginal physical product (but not that of any other firm's), then this innovation would (A) reduce the firm’s employment level, because fewer workers are now needed (B) raise the workers’ hourly wage as they now contribute more marginal revenue (C) lead the firm to hire more workers but not to raise their wages (D) lead the firm to hire more workers and to pay them higher wages (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+45,3,30-20-40-10,A,30,D,20,A,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If a monopsony labor market suddenly were transformed into a perfectly competitive labor market, how would the wage and employment change? (A) Both would increase. (B) Both would decrease. (C) The wage would remain constant, but employment would increase. (D) The wage would fall, but employment would increase. (30 points)
+2. When opportunity cost is constant across all production levels, the productions possibilities frontier is (A) concave to the origin. (B) convex to the origin. (C) undefined. (D) a straight diagonal line sloping downward from left to right. (20 points)
+3. Nancy has the choice to spend one hour studying for an exam, mowing the lawn for one hour at a wage of $6, or babysitting her niece for one hour at a wage of $8. If we know that Nancy has chosen to study for the exam, which of the following is true? (A) The benefit received from studying is greater than the opportunity cost of $8. (B) The opportunity cost of studying is $14, which is less than the benefit received from studying. (C) Nancy is indifferent to both studying and mowing the lawn. (D) Nancy's behavior is irrational, since babysitting was clearly superior to all other options. (40 points)
+4. Which of the following is not the basis for a wage differential? (A) Higher risk job. (B) Investment in human capital. (C) Increase in production of SUVs. (D) Racial discrimination. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+46,3,30-20-10-40,D,30,B,20,A,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following would best complete a short definition of economics? ""Economics is the study of . . ."" (A) how unlimited resources are allocated between scarce wants. (B) how money is circulated through the economy. (C) how corporations maximize the share price of their stock. (D) how scarce resources are allocated to satisfy unlimited wants. (30 points)
+2. A tax imposed on a supplier will more likely be passed on to the consumer in the form of price increase if (A) price elasticity of demand is highly elastic. (B) price elasticity of demand is highly inelastic. (C) price elasticity of demand is unit elastic. (D) wage elasticity of demand is highly elastic. (20 points)
+3. When a perfectly competitive labor market is in equilibrium, (A) everyone who wants to work has the opportunity to do so (B) individual firms face downward sloping labor demand curves (C) unemployment can reach as high as 10-15 percent (D) individual firms face upward sloping labor demand curves (10 points)
+4. In the short run, a firm employs labor and capital to produce gadgets. If the annual price of capital increases, what will happen to the short-run cost curves? (A) The marginal cost and average variable cost curves will shift upward. (B) The average fixed cost and average total cost curves will shift upward. (C) The marginal cost and average fixed cost curves will shift upward. (D) The marginal cost, average fixed cost, average variable cost, and average total cost curves will all shift upward. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+47,3,10-20-30-40,D,10,D,20,D,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A production possibility frontier will be a straight line when (A) efficiency is achieved (B) the goods on the axes are perfect substitutes in consumption (C) utility is maximized (D) resources are not specialized (10 points)
+2. With respect to the kinked demand curve, which of the following is NOT correct? (A) There is no price leader. (B) There are relatively equal shares of the market. (C) Price is greater than marginal costs. (D) The demand curve is of one continuous function. (20 points)
+3. Which of the following is an example of a transfer earning? (A) A superstar basketball player's $40 million earnings. (B) A social security retirement income. (C) A welfare payment from social services. (D) A cashier at a restaurant receiving the same $8 an hour that other cashiers receive. (30 points)
+4. For the perfectly competitive firm, the profit-maximizing decision to shut down is made when the price (A) falls below minimum average total cost. (B) is greater than minimum average variable cost, but lower than minimum average total cost. (C) falls below minimum average variable cost. (D) is equal to minimum average total cost. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+48,3,10-40-20-30,B,10,B,40,C,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Economics is a social science that (A) is primarily concerned with money. (B) is primarily concerned with how resources are used. (C) relies solely on the scientific method for analysis. (D) is primarily concerned with maximizing spiritual well-being. (10 points)
+2. In the design of a competitive market system, which of the following does NOT describe how resources are allocated? (A) Price signals that guide producers on what, when, how, and for whom to produce goods and services. (B) Active government ownership and direction of production. (C) Voluntary market exchange between buyers and sellers. (D) Distribution of income and goods on the basis of contribution or productivity. (40 points)
+3. Opportunity costs or implicit costs of a ""Mom & Pop""-owned business are: (A) equal to accounting costs. (B) equal to accounting profits. (C) equal to earnings or profits that could have occurred using resources elsewhere. (D) equal to earnings or profits that occurred for Mom & Pop's business. (20 points)
+4. Which of the following is most likely to result in a shift to the right in the demand curve for orange juice? (A) A bumper crop of oranges in Florida (B) A decrease in the price of Tang (C) Expectations of lower future prices for orange juice (D) Expectations of higher future income among juice drinkers (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+49,3,10-20-30-40,D,10,D,20,C,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Deadweight loss occurs in (A) monopolistic competition as P > MC. (B) monopoly markets because P > MC. (C) oligopoly markets because P > MC. (D) All of the above. (10 points)
+2. The individual firm, operating under perfect competition, is characterized as: (A) a price-maker. (B) one of a few sellers. (C) a price strategist. (D) a price-taker. (20 points)
+3. Which of the following is a characteristic of monopolistic competition? (A) Economically efficient in the long run. (B) Pricing at minimum ATC in long run. (C) Excess capacity. (D) Very few competitors. (30 points)
+4. The backward bending supply curve is characterized by which of the following? (A) As wage rates rise, the quantity of labor supplied continues to rise at every wage rate increase. (B) The labor-leisure trade-off continues to favor the supply of more jobs, or the substitution effect. (C) The labor-leisure trade-off favors the income effect or more leisure at higher wage rates. (D) inexperienced, low-income, younger workers at the backward bending portion. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+50,3,10-30-20-40,A,10,D,30,D,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Monopoly deadweight loss is the result of (A) setting the price above marginal cost. (B) setting the price above average total cost. (C) monopoly output being greater than the competitive output. (D) long-run normal profits. (10 points)
+2. If the market price is above the perfectly competitive firm's average total cost curve, we expect that in the long run, (A) the industry contracts as firms exit the market. (B) the industry expands as firms exit the market. (C) the industry contracts as firms enter the market. (D) the industry expands as firms enter the market. (30 points)
+3. If the government wishes to regulate a natural monopoly so that it produces an allocatively efficient level of output, it would be at an output (A) where price is equal to average total cost. (B) where marginal revenue equals marginal cost. (C) where normal profits are made. (D) where price is equal to marginal cost. (20 points)
+4. What is one reason why the government discourages collusion between large firms in the same industry? (A) Collusive output levels tend to increase, driving the price above competitive levels. (B) Consumer surplus falls as the price is driven downward. (C) Collusive output levels tend to decrease, driving the price down to competitive levels. (D) Joint profit maximization costs society consumer surplus as the price rises above competitive levels. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+51,3,40-10-30-20,D,40,C,10,A,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The competitive market for gasoline, a normal good, is currently in a state of equilibrium. Which of the following would most likely increase the price of gasoline? (A) Household income falls. (B) Technology used to produce gasoline improves. (C) The price of subway tickets and other public transportation falls. (D) The price of crude oil, a raw material for gasoline, rises. (40 points)
+2. Which of the following is a characteristic of monopolistic competition? (A) Economically efficient in the long run. (B) Pricing at minimum ATC in long run. (C) Excess capacity. (D) Very few competitors. (10 points)
+3. Which of the following is a characteristic of perfect competition? (A) Firms produce a homogeneous product. (B) Barriers to entry exist. (C) Firms are price-setting profit maximizers. (D) The government regulates the price so that deadweight loss is eliminated. (30 points)
+4. With respect to the kinked demand curve, which of the following is NOT correct? (A) There is no price leader. (B) There are relatively equal shares of the market. (C) Price is greater than marginal costs. (D) The demand curve is of one continuous function. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+52,3,20-40-30-10,D,20,A,40,C,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is an example of a transfer earning? (A) A superstar basketball player's $40 million earnings. (B) A social security retirement income. (C) A welfare payment from social services. (D) A cashier at a restaurant receiving the same $8 an hour that other cashiers receive. (20 points)
+2. The market for Cincinnati Reds baseball tickets is currently in equilibrium. Which of the following events would most likely increase the consumer surplus received by Reds fans? (A) The Reds offer discounted parking for all home games. (B) The Reds increase hot dog prices to reflect a higher cost of buns. (C) The city of Cincinnati is undertaking a huge highway construction project that strands fans in pregame traffic jams for hours. (D) The Reds must increase ticket prices to afford the most talented players. (40 points)
+3. The apple market is in equilibrium. Suppose we observe that apple growers are using more pesticides to increase apple production. At the same time, we hear that the price of pears, a substitute for apples, is rising. Which of the following is a reasonable prediction for the new price and quantity of apples? (A) Price rises, but quantity is ambiguous. (B) Price falls, but quantity is ambiguous. (C) Price is ambiguous, but quantity rises. (D) Price is ambiguous, but quantity falls. (30 points)
+4. Which of the following statements is true for a firm in a perfectly competitive industry? (A) Total revenue increases and then decreases. (B) Marginal revenue is decreasing. (C) Average revenue is initially negative and then becomes positive. (D) Average revenue equals marginal revenue. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+53,3,40-10-30-20,A,40,D,10,D,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements accurately describes the relationship between average product (AP) and marginal product (MP) of labor? (A) AP rises when MP is above it and falls when MP is below it. (B) MP intersects AP at the maximum of MP. (C) AP and MP are always parallel to each other. (D) AP and MP are either both rising or both falling at all levels of labor. (40 points)
+2. When opportunity cost is constant across all production levels, the productions possibilities frontier is (A) concave to the origin. (B) convex to the origin. (C) undefined. (D) a straight diagonal line sloping downward from left to right. (10 points)
+3. If the perfectly competitive price is currently above minimum ATC, we can expect which of the following events in the long run? (A) Price rises as firms enter the industry. (B) Market equilibrium quantity rises as firms exit the industry. (C) Nothing. The industry is currently in long-run equilibrium. (D) Price falls as firms enter the industry. (30 points)
+4. Which of the following is most likely to result in a shift to the right in the demand curve for orange juice? (A) A bumper crop of oranges in Florida (B) A decrease in the price of Tang (C) Expectations of lower future prices for orange juice (D) Expectations of higher future income among juice drinkers (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+54,3,10-40-30-20,A,10,A,40,A,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is a characteristic of monopolistic competition? (A) P > MC. (B) Efficiency. (C) Mostly price competition. (D) P =MR. (10 points)
+2. Which of the following statements is most consistent with a capitalist market economy? (A) Economic resources are allocated according to the decisions of the central bank. (B) Private property is fundamental to innovation, growth, and trade. (C) A central government plans the production and distribution of goods. (D) Most wages and prices are legally controlled. (40 points)
+3. When a perfectly competitive labor market is in equilibrium, (A) everyone who wants to work has the opportunity to do so (B) individual firms face downward sloping labor demand curves (C) unemployment can reach as high as 10-15 percent (D) individual firms face upward sloping labor demand curves (30 points)
+4. The demand curve for labor is derived from (A) the market labor demand curve (B) the demand curve for the output produced by labor (C) the labor supply curve for the firm (D) the equilibrium wage in the labor market (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+55,3,30-20-40-10,B,30,A,20,C,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In the short run, a firm employs labor and capital to produce gadgets. If the annual price of capital increases, what will happen to the short-run cost curves? (A) The marginal cost and average variable cost curves will shift upward. (B) The average fixed cost and average total cost curves will shift upward. (C) The marginal cost and average fixed cost curves will shift upward. (D) The marginal cost, average fixed cost, average variable cost, and average total cost curves will all shift upward. (30 points)
+2. For a competitive firm, what is the most important thing to consider in deciding whether to shut down in the short run? (A) Compare AVC to MR. (B) Compare TR to TC. (C) Do not produce if the TFC is not covered by revenue. (D) Produce the highest quantity demanded regardless of price. (20 points)
+3. The price of labor is $2, and the price of capital is $1. The marginal product of labor is 200, and the marginal product of capital is 50. What should the firm do? (A) Increase capital and decrease labor so that the marginal product of capital falls and the marginal product of labor rises. (B) Increase capital and decrease labor so that the marginal product of capital rises and the marginal product of labor falls. (C) Decrease capital and increase labor so that the marginal product of capital rises and the marginal product of labor falls. (D) Decrease capital and increase labor so that the marginal product of capital falls and the marginal product of labor rises. (40 points)
+4. A consequence of a price floor is (A) a persistent shortage of the good. (B) an increase in total welfare. (C) a persistent surplus of the good. (D) elimination of deadweight loss. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+56,3,20-30-10-40,D,20,B,30,B,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following goods is likely to provide both the largest total utility and the smallest marginal utility? (A) Plastic (B) Automobiles (C) Computers (D) Air (20 points)
+2. At a Nash equilibrium, (A) the supply curve intersects the demand curve (B) neither party has an incentive to deviate from his or her strategy (C) the marginal revenue curve intersects the marginal cost curve (D) the equilibrium is unstable and each party would like to switch strategies (30 points)
+3. Land refers to (A) all productive resources. (B) all natural resources. (C) farmland only. (D) real estate. (10 points)
+4. The necessity for a monopoly to lower its price in order to sell more units of its product explains why (A) monopolies are common among public utilities (B) the marginal revenue curve is below the demand curve for a monopoly (C) the marginal cost curve for a monopoly slopes upward (D) monopolies are able to maintain market power (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+57,3,20-40-10-30,D,20,A,40,A,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Firms with the following market structure(s) maximize profits by producing where marginal cost equals marginal revenue, if at all. I. Perfect competition II. Oligopoly III. Monopoly IV. Monopolistic competition (A) I only (B) I and II only (C) I and III only (D) I, II, III, and IV (20 points)
+2. If a monopsony labor market suddenly were transformed into a perfectly competitive labor market, how would the wage and employment change? (A) Both would increase. (B) Both would decrease. (C) The wage would remain constant, but employment would increase. (D) The wage would fall, but employment would increase. (40 points)
+3. The market structures of perfect competition and monopolistic competition share which of the following characteristics? (A) Ease of entry and exit in the long run (B) Homogenous products (C) Perfectly elastic demand for the firm's product (D) Long-run positive profits (10 points)
+4. A tax imposed on a supplier will more likely be passed on to the consumer in the form of price increase if (A) price elasticity of demand is highly elastic. (B) price elasticity of demand is highly inelastic. (C) price elasticity of demand is unit elastic. (D) wage elasticity of demand is highly elastic. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+58,4,30-20-40-10,B,30,D,20,C,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In the design of a competitive market system, which of the following does NOT describe how resources are allocated? (A) Price signals that guide producers on what, when, how, and for whom to produce goods and services. (B) Active government ownership and direction of production. (C) Voluntary market exchange between buyers and sellers. (D) Distribution of income and goods on the basis of contribution or productivity. (30 points)
+2. Which of the following is true about the pure public good? (A) The marginal cost of providing an additional unit of the good to additional citizens is greater than zero. (B) Consumers can be excluded from its benefits by not paying for it. (C) One more unit of a public good for some consumers means one less unit for other consumers. (D) The good cannot be divided into discrete units. (20 points)
+3. Economics is best described as (A) the study of how scarce material wants are allocated between unlimited resources. (B) the study of how scarce labor can be replaced by unlimited capital. (C) the study of how decision makers choose the best way to satisfy their unlimited material wants with a scarce supply of resources. (D) the study of how unlimited material wants can best be satisfied by allocating limitless amounts of productive resources. (40 points)
+4. If the wage paid to all units of labor is $4.50, how many units of labor are hired? (A) 1 (B) 2 (C) 3 (D) 4 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+59,4,40-20-10-30,D,40,D,20,B,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is one reason why the government discourages collusion between large firms in the same industry? (A) Collusive output levels tend to increase, driving the price above competitive levels. (B) Consumer surplus falls as the price is driven downward. (C) Collusive output levels tend to decrease, driving the price down to competitive levels. (D) Joint profit maximization costs society consumer surplus as the price rises above competitive levels. (40 points)
+2. Which of the following is NOT a source of wage differentials? (A) Differences in human capital stock. (B) Racial or gender discrimination. (C) Immobility of workers. (D) Decrease in the birth rate. (20 points)
+3. In an oligopoly market, firms (A) cannot earn economic profits (B) are interdependent (C) are not subject to antitrust legislation (D) are large in number (10 points)
+4. The market demand curve for labor would shift to the left as the result of (A) an increase in the price of the good which the labor is producing (B) an increase in demand for the good which the labor is producing (C) an increase in the wage rate paid to workers (D) a decrease in the marginal product of labor (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+60,4,40-20-30-10,A,40,A,20,B,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When the production or consumption of a good creates a positive externality, it is deemed a market failure because at the market quantity (A) the marginal social benefit exceeds the marginal social cost. (B) the marginal social cost exceeds the marginal social benefit. (C) society produces too much of the good. (D) the private benefits from consuming the good exceed the social benefits. (40 points)
+2. Which of the following is an example of an economic rent? (A) A superstar basketball player's $50 million earnings. (B) A social security retirement income. (C) A welfare payment from social services. (D) A check to a college student from a parent or guardian. (20 points)
+3. A competitive market for coffee, a normal good, is currently in equilibrium. Which of the following would most likely result in an increase in the demand for coffee? (A) Consumer income falls. (B) The price of tea rises. (C) The wage of coffee plantation workers falls. (D) Technology in the harvesting of coffee beans improves. (30 points)
+4. The individual firm, operating under perfect competition, is characterized as: (A) a price-maker. (B) one of a few sellers. (C) a price strategist. (D) a price-taker. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+61,4,30-10-20-40,D,30,C,10,C,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. One of the reasons that the government discourages and regulates monopolies is that (A) producer surplus is lost and consumer surplus is gained. (B) monopoly prices ensure productive efficiency but cost society allocative efficiency. (C) monopoly firms do not engage in significant research and development. (D) consumer surplus is lost with higher prices and lower levels of output. (30 points)
+2. What could the government do to most effectively avoid a free rider problem? (A) Enact stricter antitrust legislation (B) Provide more complete information about the relevant goods (C) Supply public goods using tax dollars (D) Tax those creating negative externalities (10 points)
+3. Which of the following is an implicit cost for the owner of a small store in your hometown? (A) The wage that is paid to the assistant manager (B) The cost of purchasing canned goods from a wholesale food distributor (C) The value placed on the owner's skills in an alternative career (D) The cost of cooling the refrigerated meat display (20 points)
+4. The United States is trading salmon to Peru in exchange for anchovies. If these nations are trading based upon relative opportunity costs, what must be the case? (A) The United States has comparative advantage in anchovy production, and Peru has comparative advantage in salmon production. (B) The United States has comparative advantage in salmon production, and Peru has comparative advantage in anchovy production. (C) The United States has absolute advantage in anchovy production, and Peru has absolute advantage in salmon production. (D) The United States has absolute advantage in salmon production, and Peru has absolute advantage in anchovy production. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+62,4,20-40-30-10,D,20,B,40,D,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Unlike a perfectly competitive firm, a monopoly (A) will charge the highest price it can on the demand curve (B) has a horizontal marginal revenue curve (C) has an upward sloping total revenue curve (D) faces a downward sloping demand curve (20 points)
+2. If a market is organized by a cartel, we can expect (A) normal profits for all cartel firms. (B) an incentive for cartel firms to cheat on the cartel agreement. (C) profit maximization by individual firms in the cartel. (D) allocative efficiency. (40 points)
+3. A competitive firm's demand for labor is determined directly by (A) profits (B) the opportunity cost of workers’ time (C) the wage and the average (physical) product of labor (D) the marginal (physical) product of labor and the output price (30 points)
+4. Deadweight loss occurs in (A) monopolistic competition as P > MC. (B) monopoly markets because P > MC. (C) oligopoly markets because P > MC. (D) All of the above. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+63,4,40-10-20-30,C,40,C,10,C,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Consider a profit-maximizing firm in a perfectly competitive market with several sellers and several buyers (i.e., the firm is a ""price taker"" of the goods it sells and a ""price taker"" of the hourly wages it pays its workers). If a technological innovation made by someone in this firm were to significantly raise the firm's marginal physical product (but not that of any other firm's), then this innovation would (A) reduce the firm’s employment level, because fewer workers are now needed (B) raise the workers’ hourly wage as they now contribute more marginal revenue (C) lead the firm to hire more workers but not to raise their wages (D) lead the firm to hire more workers and to pay them higher wages (40 points)
+2. Labor, human capital, entrepreneurship, natural resources, and physical capital are all examples of which of the following? (A) Public goods (B) Inferior goods (C) Factors of production (D) Outputs (10 points)
+3. For the perfectly competitive firm, the profit-maximizing decision to shut down is made when the price (A) falls below minimum average total cost. (B) is greater than minimum average variable cost, but lower than minimum average total cost. (C) falls below minimum average variable cost. (D) is equal to minimum average total cost. (20 points)
+4. Good X is exchanged in a competitive market. Which of the following is true if an excise tax is now imposed on the production of good X? (A) If the demand curve is perfectly elastic, the price rises by the amount of the tax. (B) The consumer's burden of the tax rises as the demand curve is more elastic. (C) Consumer surplus rises as a result of the tax. (D) The consumer's burden of the tax rises as the demand curve is less elastic. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+64,4,10-20-30-40,B,10,D,20,D,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The supply curve for lawn-mowing services is likely to slope upward because of (A) decreasing marginal costs (B) increasing opportunity cost of time (C) diminishing marginal utility (D) increasing returns to scale (10 points)
+2. A production possibility frontier will be a straight line when (A) efficiency is achieved (B) the goods on the axes are perfect substitutes in consumption (C) utility is maximized (D) resources are not specialized (20 points)
+3. If a business wants to increase its revenue and it knows that the demand price elasticity of its product is equal to 0.78, it should (A) decrease price because demand is elastic (B) decrease price because demand is unit elastic (C) decrease price because demand is inelastic (D) increase price because demand is inelastic (30 points)
+4. The backward bending supply curve is characterized by which of the following? (A) As wage rates rise, the quantity of labor supplied continues to rise at every wage rate increase. (B) The labor-leisure trade-off continues to favor the supply of more jobs, or the substitution effect. (C) The labor-leisure trade-off favors the income effect or more leisure at higher wage rates. (D) inexperienced, low-income, younger workers at the backward bending portion. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+65,4,30-40-10-20,D,30,A,40,D,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is true about the relationship of the average total cost (ATC) curve and the marginal cost (MC) curve? (A) ATC and MC are always equal. (B) ATC and MC are never equal. (C) The ATC curve intersects the MC curve at the minimum point of the MC curve. (D) The MC curve intersects the ATC curve at the minimum point of the ATC curve. (30 points)
+2. Which of these situations is not an example of price discrimination? (A) Brent works nights, so he chooses to buy bread at 7 a.m. rather than at 7 p.m. (B) Bob and Nancy each receive a ""$1 off"" coupon in the mail, but Bob redeems it while Nancy does not. (C) Katie buys 12 Cokes for $3, and Josh buys one Coke at a time for $1. (D) Velma likes to go to the movies at the lower afternoon matinee price, and Rosemary would rather pay more for the evening show. (40 points)
+3. The law of increasing costs is useful in describing (A) a demand curve. (B) a marginal benefit curve. (C) a linear production possibility frontier. (D) a concave production possibility frontier. (10 points)
+4. Which of the following tax systems is designed to redistribute income from the wealthy to the poor? (A) A progressive tax system (B) A regressive tax system (C) A proportional tax system (D) An excise tax system (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+66,4,30-20-10-40,B,30,C,20,D,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The greater (higher) the wage elasticity of demand, the (A) greater the proportion of capital costs to labor costs in the production of goods. (B) greater the price elasticity for the product produced by labor. (C) the smaller the number of substitutes for labor. (D) the smaller the time period. (30 points)
+2. Which of the following is not the basis for a wage differential? (A) Higher risk job. (B) Investment in human capital. (C) Increase in production of SUVs. (D) Racial discrimination. (20 points)
+3. Which of the following is most likely to be true in the long run for a monopoly firm? (A) P = MR = MC = ATC (B) P = MR = MC > ATC (C) P > MR = MC = ATC (D) P > ATC > MR = MC (10 points)
+4. A student decides that, having already spent three hours studying for an exam, she should spend one more hour studying for the same exam. Which of the following is most likely true? (A) The marginal benefit of the fourth hour is certainly less than the marginal cost of the fourth hour. (B) The marginal benefit of the fourth hour is at least as great as the marginal cost of the fourth hour. (C) Without knowing the student’s opportunity cost of studying, we have no way of knowing whether or not her marginal benefits outweigh her marginal costs. (D) The marginal cost of the third hour was likely greater than the marginal cost of the fourth hour. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+67,4,40-20-30-10,D,40,B,20,B,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is correct about the demand for labor? (A) The demand for labor is independent of the demand for other inputs or resources. (B) The demand for labor is independent of the demand for the products produced by labor. (C) The demand for labor is independent of the availability of other inputs or resources. (D) The demand for labor is derived from the demand for the products produced by labor. (40 points)
+2. An effective price ceiling in the market for good X likely results in (A) a persistent surplus of good X. (B) a persistent shortage of good X. (C) an increase in the demand for good Y, a substitute for good X. (D) a decrease in the demand for good Z, a complement with good X. (20 points)
+3. In the absence of intervention, imperfect competition, externalities, public goods, and imperfect information all result in which of the following? (A) Demand curves that should be added vertically (B) Market failure (C) Prices that are too low (D) Quantities of output that are too high (30 points)
+4. Which of the following indicates that two goods are complements? (A) A positive income elasticity (B) A horizontal demand curve (C) A negative cross-price elasticity (D) A demand elasticity greater than one (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+68,4,10-20-30-40,B,10,A,20,B,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. With the presence of a negative externality, which of the following would internalize (or correct) the externality? (A) A government subsidy. (B) A government tax. (C) A lower price. (D) A higher level of output. (10 points)
+2. Monopoly deadweight loss is the result of (A) setting the price above marginal cost. (B) setting the price above average total cost. (C) monopoly output being greater than the competitive output. (D) long-run normal profits. (20 points)
+3. Suppose that aluminum is a key production input in the production of bicycles. If the price of aluminum falls, and all other variables are held constant, we expect (A) the demand for aluminum to rise. (B) the supply of bicycles to rise. (C) the supply of bicycles to fall. (D) the demand for bicycles to rise. (30 points)
+4. If the government wishes to regulate a natural monopoly so that it produces an allocatively efficient level of output, it would be at an output (A) where price is equal to average total cost. (B) where marginal revenue equals marginal cost. (C) where normal profits are made. (D) where price is equal to marginal cost. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+69,4,10-20-40-30,D,10,C,20,D,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. You are told that the cross-price elasticity between goods X and Y is +2.0. This means that (A) goods X and Y are normal goods. (B) goods X and Y are inferior goods. (C) goods X and Y are complementary goods. (D) goods X and Y are substitute goods. (10 points)
+2. When the opportunity for price discrimination arises, (A) market segments with relatively elastic demand pay higher prices (B) market segments with relatively inelastic demand pay lower prices (C) consumer surplus decreases (D) demand is horizontal (20 points)
+3. Which of the following would best complete a short definition of economics? ""Economics is the study of . . ."" (A) how unlimited resources are allocated between scarce wants. (B) how money is circulated through the economy. (C) how corporations maximize the share price of their stock. (D) how scarce resources are allocated to satisfy unlimited wants. (40 points)
+4. If, for each additional unit of a variable input, the increases in output become smaller, which of the following correctly identifies the concept? (A) Diminishing marginal productivity. (B) Diminishing marginal utility. (C) Increasing marginal utility. (D) Increasing marginal productivity. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+70,4,20-10-40-30,B,20,D,10,D,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Economics is a social science that (A) is primarily concerned with money. (B) is primarily concerned with how resources are used. (C) relies solely on the scientific method for analysis. (D) is primarily concerned with maximizing spiritual well-being. (20 points)
+2. What you give up to pursue another alternative is known as (A) capital. (B) land. (C) money cost. (D) opportunity cost. (10 points)
+3. If the market price is above the perfectly competitive firm's average total cost curve, we expect that in the long run, (A) the industry contracts as firms exit the market. (B) the industry expands as firms exit the market. (C) the industry contracts as firms enter the market. (D) the industry expands as firms enter the market. (40 points)
+4. Which of the following are associated with public goods? I. Free riders II. Adding demand curves vertically to find the demand curve for society III. Nonrivalry in consumption IV. Nonexcludability (A) I and II only (B) I and IV only (C) II and III only (D) I, II, III, and IV (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+71,4,30-10-40-20,C,30,D,10,A,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The ability for firms to enter and exit a market over time means that (A) the marginal cost is zero (B) the marginal revenue is zero (C) the long run supply curve is more elastic (D) the long run supply curve is more inelastic (30 points)
+2. Compared to perfect competition in the long run, monopoly has (A) more choices of products for consumers. (B) more efficiency. (C) lower prices. (D) price greater than marginal revenue. (10 points)
+3. If corn is produced in a perfectly competitive market and the government placed a price ceiling above equilibrium, which of the following would be true? (A) There would be no change in the amount of corn demanded or supplied. (B) There would be a shortage created of corn. (C) There would be a surplus created of corn. (D) The producers of corn would lose revenue due to the decreased price. (40 points)
+4. An industry described as an oligopoly would most likely have (A) normal profits in the long run. (B) no opportunities for collusive behavior. (C) significant barriers to entry. (D) price-taking behavior. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+72,4,30-40-10-20,B,30,B,40,A,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following will increase wages for tuba makers? (A) An increase in the number of graduates at tuba maker training school (B) An increase in the price of tubas (C) An increase in the price of tuba lessons (D) An increase in the tax on tubas (30 points)
+2. Which of the following is true of equilibrium in a purely (or perfectly) competitive market for good X? (A) A shortage of good X exists. (B) The quantity demanded equals the quantity supplied of good X. (C) A surplus of good X exists. (D) The government regulates the quantity of good X produced at the market price. (40 points)
+3. Which of the following is true? (A) TC = (AVC + AFC)Q. (B) TFC = TC at all levels of output. (C) AVC + AFC = TC. (D) MC = TC - TFC. (10 points)
+4. Which of the following is true in the long run in perfect competition? (A) P = MR = MC = ATC (B) P = MR = MC > ATC (C) P > MR = MC = ATC (D) P = MR > MC = ATC (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+73,4,10-20-30-40,C,10,D,20,C,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Price times quantity measures (A) the international trade gap. (B) the budget deficit. (C) total revenue. (D) price elasticity of demand. (10 points)
+2. If one person has the only original signed copy of The Wealth of Nations by Adam Smith, which of the following would illustrate this situation? (A) A downward sloping demand curve. (B) An upward sloping supply curve. (C) An invisible hand. (D) A perfectly vertical supply curve. (20 points)
+3. The owner of a competitive firm making zero economic profit (A) should consider shutting down because she could make more elsewhere (B) is making less than normal profits (C) is making exactly what she would make in her next best alternative job (D) will most likely make more profits in the long run (30 points)
+4. Opportunity costs or implicit costs of a ""Mom & Pop""-owned business are: (A) equal to accounting costs. (B) equal to accounting profits. (C) equal to earnings or profits that could have occurred using resources elsewhere. (D) equal to earnings or profits that occurred for Mom & Pop's business. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+74,4,10-40-20-30,B,10,D,40,C,20,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Firms maximize their profits by producing a level of output at which (A) MC = AFC. (B) MC = MR. (C) P = ATC. (D) MR= AVC. (10 points)
+2. Elsa values her time at $50 per hour, and tutors David for two hours. David is willing to pay $175 for two hours of tutoring, but they negotiate a price of $125 for the entire two hours. Which of the following statements is true about the transaction above: (A) Consumer surplus is greater than producer surplus by between $50 and $75. (B) Producer surplus is greater than consumer surplus by between $50 and $75. (C) Consumer surplus is greater than producer surplus by more than $75. (D) The difference between consumer and producer surplus is $25. (40 points)
+3. When the cross-price elasticity of demand is negative, the goods in question are necessarily (A) normal (B) inferior (C) complements (D) substitutes (20 points)
+4. Scarcity is best defined as (A) the difference between limited wants and limited economic resources. (B) the difference between the total benefit of an action and the total cost of that action. (C) the difference between unlimited wants and limited economic resources. (D) the opportunity cost of pursuing a given course of action. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+75,4,20-10-40-30,D,20,A,10,A,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Consumer surplus is (A) the price of a good divided by its marginal utility. (B) the marginal utility of the good divided by its price. (C) the total utility of the good. (D) the difference between the consumer's value and the market price. (20 points)
+2. If total product of labor is rising at an increasing rate, (A) marginal product of labor is rising. (B) marginal product of labor is at its minimum. (C) marginal product of labor is at its maximum. (D) marginal cost is rising. (10 points)
+3. Nancy has the choice to spend one hour studying for an exam, mowing the lawn for one hour at a wage of $6, or babysitting her niece for one hour at a wage of $8. If we know that Nancy has chosen to study for the exam, which of the following is true? (A) The benefit received from studying is greater than the opportunity cost of $8. (B) The opportunity cost of studying is $14, which is less than the benefit received from studying. (C) Nancy is indifferent to both studying and mowing the lawn. (D) Nancy's behavior is irrational, since babysitting was clearly superior to all other options. (40 points)
+4. With capital fixed at one unit with 1, 2, 3 units of labor added in equal successive units, production of the output increases from 300 (1 unit of labor), to 350 (2 units of labor) to 375 (3 units of labor). Which of the following is a correct interpretation? (A) This is long run increasing returns to scale. (B) This is long run decreasing returns to scale. (C) This is long run constant returns to scale. (D) This is short run diminishing marginal productivity. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+76,4,40-30-10-20,C,40,C,30,A,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Consider a profit-maximizing firm in a perfectly competitive market with several sellers and several buyers (i.e., the firm is a ""price taker"" of the goods it sells and a ""price taker"" of the hourly wages it pays its workers). If a technological innovation made by someone in this firm were to significantly raise the firm's marginal physical product (but not that of any other firm's), then this innovation would (A) reduce the firm’s employment level, because fewer workers are now needed (B) raise the workers’ hourly wage as they now contribute more marginal revenue (C) lead the firm to hire more workers but not to raise their wages (D) lead the firm to hire more workers and to pay them higher wages (40 points)
+2. Scarcity is best defined as (A) the difference between limited wants and limited economic resources. (B) the difference between the total benefit of an action and the total cost of that action. (C) the difference between unlimited wants and limited economic resources. (D) the opportunity cost of pursuing a given course of action. (30 points)
+3. Which of the following is true in the long run in perfect competition? (A) P = MR = MC = ATC (B) P = MR = MC > ATC (C) P > MR = MC = ATC (D) P = MR > MC = ATC (10 points)
+4. Which of the following will increase wages for tuba makers? (A) An increase in the number of graduates at tuba maker training school (B) An increase in the price of tubas (C) An increase in the price of tuba lessons (D) An increase in the tax on tubas (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+77,5,10-30-40-20,C,10,D,30,B,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Price times quantity measures (A) the international trade gap. (B) the budget deficit. (C) total revenue. (D) price elasticity of demand. (10 points)
+2. Unlike a perfectly competitive firm, a monopoly (A) will charge the highest price it can on the demand curve (B) has a horizontal marginal revenue curve (C) has an upward sloping total revenue curve (D) faces a downward sloping demand curve (30 points)
+3. In the short run, a firm employs labor and capital to produce gadgets. If the annual price of capital increases, what will happen to the short-run cost curves? (A) The marginal cost and average variable cost curves will shift upward. (B) The average fixed cost and average total cost curves will shift upward. (C) The marginal cost and average fixed cost curves will shift upward. (D) The marginal cost, average fixed cost, average variable cost, and average total cost curves will all shift upward. (40 points)
+4. Which of the following indicates that two goods are complements? (A) A positive income elasticity (B) A horizontal demand curve (C) A negative cross-price elasticity (D) A demand elasticity greater than one (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+78,5,10-30-20-40,D,10,A,30,C,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. You are told that the cross-price elasticity between goods X and Y is +2.0. This means that (A) goods X and Y are normal goods. (B) goods X and Y are inferior goods. (C) goods X and Y are complementary goods. (D) goods X and Y are substitute goods. (10 points)
+2. Which of the following is a characteristic of perfect competition? (A) Firms produce a homogeneous product. (B) Barriers to entry exist. (C) Firms are price-setting profit maximizers. (D) The government regulates the price so that deadweight loss is eliminated. (30 points)
+3. When the opportunity for price discrimination arises, (A) market segments with relatively elastic demand pay higher prices (B) market segments with relatively inelastic demand pay lower prices (C) consumer surplus decreases (D) demand is horizontal (20 points)
+4. Which of the following is correct about the demand for labor? (A) The demand for labor is independent of the demand for other inputs or resources. (B) The demand for labor is independent of the demand for the products produced by labor. (C) The demand for labor is independent of the availability of other inputs or resources. (D) The demand for labor is derived from the demand for the products produced by labor. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+79,5,20-30-10-40,D,20,D,30,D,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If the government wishes to regulate a natural monopoly so that it produces an allocatively efficient level of output, it would be at an output (A) where price is equal to average total cost. (B) where marginal revenue equals marginal cost. (C) where normal profits are made. (D) where price is equal to marginal cost. (20 points)
+2. If a business wants to increase its revenue and it knows that the demand price elasticity of its product is equal to 0.78, it should (A) decrease price because demand is elastic (B) decrease price because demand is unit elastic (C) decrease price because demand is inelastic (D) increase price because demand is inelastic (30 points)
+3. Which of the following are associated with public goods? I. Free riders II. Adding demand curves vertically to find the demand curve for society III. Nonrivalry in consumption IV. Nonexcludability (A) I and II only (B) I and IV only (C) II and III only (D) I, II, III, and IV (10 points)
+4. The competitive market for gasoline, a normal good, is currently in a state of equilibrium. Which of the following would most likely increase the price of gasoline? (A) Household income falls. (B) Technology used to produce gasoline improves. (C) The price of subway tickets and other public transportation falls. (D) The price of crude oil, a raw material for gasoline, rises. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+80,5,40-20-30-10,C,40,C,20,B,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Opportunity costs or implicit costs of a ""Mom & Pop""-owned business are: (A) equal to accounting costs. (B) equal to accounting profits. (C) equal to earnings or profits that could have occurred using resources elsewhere. (D) equal to earnings or profits that occurred for Mom & Pop's business. (40 points)
+2. What could the government do to most effectively avoid a free rider problem? (A) Enact stricter antitrust legislation (B) Provide more complete information about the relevant goods (C) Supply public goods using tax dollars (D) Tax those creating negative externalities (20 points)
+3. In the absence of intervention, imperfect competition, externalities, public goods, and imperfect information all result in which of the following? (A) Demand curves that should be added vertically (B) Market failure (C) Prices that are too low (D) Quantities of output that are too high (30 points)
+4. Which of the following is most likely to be true in the long run for a monopoly firm? (A) P = MR = MC = ATC (B) P = MR = MC > ATC (C) P > MR = MC = ATC (D) P > ATC > MR = MC (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+81,5,40-10-30-20,A,40,C,10,B,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When a perfectly competitive labor market is in equilibrium, (A) everyone who wants to work has the opportunity to do so (B) individual firms face downward sloping labor demand curves (C) unemployment can reach as high as 10-15 percent (D) individual firms face upward sloping labor demand curves (40 points)
+2. When the cross-price elasticity of demand is negative, the goods in question are necessarily (A) normal (B) inferior (C) complements (D) substitutes (10 points)
+3. Economics is a social science that (A) is primarily concerned with money. (B) is primarily concerned with how resources are used. (C) relies solely on the scientific method for analysis. (D) is primarily concerned with maximizing spiritual well-being. (30 points)
+4. When opportunity cost is constant across all production levels, the productions possibilities frontier is (A) concave to the origin. (B) convex to the origin. (C) undefined. (D) a straight diagonal line sloping downward from left to right. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+82,5,30-10-40-20,D,30,D,10,B,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If the perfectly competitive price is currently above minimum ATC, we can expect which of the following events in the long run? (A) Price rises as firms enter the industry. (B) Market equilibrium quantity rises as firms exit the industry. (C) Nothing. The industry is currently in long-run equilibrium. (D) Price falls as firms enter the industry. (30 points)
+2. The individual firm, operating under perfect competition, is characterized as: (A) a price-maker. (B) one of a few sellers. (C) a price strategist. (D) a price-taker. (10 points)
+3. A student decides that, having already spent three hours studying for an exam, she should spend one more hour studying for the same exam. Which of the following is most likely true? (A) The marginal benefit of the fourth hour is certainly less than the marginal cost of the fourth hour. (B) The marginal benefit of the fourth hour is at least as great as the marginal cost of the fourth hour. (C) Without knowing the student’s opportunity cost of studying, we have no way of knowing whether or not her marginal benefits outweigh her marginal costs. (D) The marginal cost of the third hour was likely greater than the marginal cost of the fourth hour. (40 points)
+4. Which of the following is NOT a source of wage differentials? (A) Differences in human capital stock. (B) Racial or gender discrimination. (C) Immobility of workers. (D) Decrease in the birth rate. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+83,5,10-40-20-30,C,10,A,40,B,20,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A consequence of a price floor is (A) a persistent shortage of the good. (B) an increase in total welfare. (C) a persistent surplus of the good. (D) elimination of deadweight loss. (10 points)
+2. If a monopsony labor market suddenly were transformed into a perfectly competitive labor market, how would the wage and employment change? (A) Both would increase. (B) Both would decrease. (C) The wage would remain constant, but employment would increase. (D) The wage would fall, but employment would increase. (40 points)
+3. With the presence of a negative externality, which of the following would internalize (or correct) the externality? (A) A government subsidy. (B) A government tax. (C) A lower price. (D) A higher level of output. (20 points)
+4. The ability for firms to enter and exit a market over time means that (A) the marginal cost is zero (B) the marginal revenue is zero (C) the long run supply curve is more elastic (D) the long run supply curve is more inelastic (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+84,5,10-40-30-20,A,10,A,40,D,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is true? (A) TC = (AVC + AFC)Q. (B) TFC = TC at all levels of output. (C) AVC + AFC = TC. (D) MC = TC - TFC. (10 points)
+2. Nancy has the choice to spend one hour studying for an exam, mowing the lawn for one hour at a wage of $6, or babysitting her niece for one hour at a wage of $8. If we know that Nancy has chosen to study for the exam, which of the following is true? (A) The benefit received from studying is greater than the opportunity cost of $8. (B) The opportunity cost of studying is $14, which is less than the benefit received from studying. (C) Nancy is indifferent to both studying and mowing the lawn. (D) Nancy's behavior is irrational, since babysitting was clearly superior to all other options. (40 points)
+3. The market demand curve for labor would shift to the left as the result of (A) an increase in the price of the good which the labor is producing (B) an increase in demand for the good which the labor is producing (C) an increase in the wage rate paid to workers (D) a decrease in the marginal product of labor (30 points)
+4. If one person has the only original signed copy of The Wealth of Nations by Adam Smith, which of the following would illustrate this situation? (A) A downward sloping demand curve. (B) An upward sloping supply curve. (C) An invisible hand. (D) A perfectly vertical supply curve. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+85,5,20-10-30-40,C,20,D,10,C,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is not the basis for a wage differential? (A) Higher risk job. (B) Investment in human capital. (C) Increase in production of SUVs. (D) Racial discrimination. (20 points)
+2. Which of the following goods is likely to provide both the largest total utility and the smallest marginal utility? (A) Plastic (B) Automobiles (C) Computers (D) Air (10 points)
+3. The owner of a competitive firm making zero economic profit (A) should consider shutting down because she could make more elsewhere (B) is making less than normal profits (C) is making exactly what she would make in her next best alternative job (D) will most likely make more profits in the long run (30 points)
+4. Which of the following is true about the pure public good? (A) The marginal cost of providing an additional unit of the good to additional citizens is greater than zero. (B) Consumers can be excluded from its benefits by not paying for it. (C) One more unit of a public good for some consumers means one less unit for other consumers. (D) The good cannot be divided into discrete units. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+86,5,30-40-20-10,C,30,A,40,D,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Economics is best described as (A) the study of how scarce material wants are allocated between unlimited resources. (B) the study of how scarce labor can be replaced by unlimited capital. (C) the study of how decision makers choose the best way to satisfy their unlimited material wants with a scarce supply of resources. (D) the study of how unlimited material wants can best be satisfied by allocating limitless amounts of productive resources. (30 points)
+2. The market for Cincinnati Reds baseball tickets is currently in equilibrium. Which of the following events would most likely increase the consumer surplus received by Reds fans? (A) The Reds offer discounted parking for all home games. (B) The Reds increase hot dog prices to reflect a higher cost of buns. (C) The city of Cincinnati is undertaking a huge highway construction project that strands fans in pregame traffic jams for hours. (D) The Reds must increase ticket prices to afford the most talented players. (40 points)
+3. Which of the following is an example of a transfer earning? (A) A superstar basketball player's $40 million earnings. (B) A social security retirement income. (C) A welfare payment from social services. (D) A cashier at a restaurant receiving the same $8 an hour that other cashiers receive. (20 points)
+4. A competitive firm's demand for labor is determined directly by (A) profits (B) the opportunity cost of workers’ time (C) the wage and the average (physical) product of labor (D) the marginal (physical) product of labor and the output price (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+87,5,20-40-30-10,D,20,B,40,D,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A production possibility frontier will be a straight line when (A) efficiency is achieved (B) the goods on the axes are perfect substitutes in consumption (C) utility is maximized (D) resources are not specialized (20 points)
+2. A competitive market for coffee, a normal good, is currently in equilibrium. Which of the following would most likely result in an increase in the demand for coffee? (A) Consumer income falls. (B) The price of tea rises. (C) The wage of coffee plantation workers falls. (D) Technology in the harvesting of coffee beans improves. (40 points)
+3. Which of the following is most likely to result in a shift to the right in the demand curve for orange juice? (A) A bumper crop of oranges in Florida (B) A decrease in the price of Tang (C) Expectations of lower future prices for orange juice (D) Expectations of higher future income among juice drinkers (30 points)
+4. The law of increasing costs is useful in describing (A) a demand curve. (B) a marginal benefit curve. (C) a linear production possibility frontier. (D) a concave production possibility frontier. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+88,5,40-10-30-20,C,40,B,10,B,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The price of labor is $2, and the price of capital is $1. The marginal product of labor is 200, and the marginal product of capital is 50. What should the firm do? (A) Increase capital and decrease labor so that the marginal product of capital falls and the marginal product of labor rises. (B) Increase capital and decrease labor so that the marginal product of capital rises and the marginal product of labor falls. (C) Decrease capital and increase labor so that the marginal product of capital rises and the marginal product of labor falls. (D) Decrease capital and increase labor so that the marginal product of capital falls and the marginal product of labor rises. (40 points)
+2. An effective price ceiling in the market for good X likely results in (A) a persistent surplus of good X. (B) a persistent shortage of good X. (C) an increase in the demand for good Y, a substitute for good X. (D) a decrease in the demand for good Z, a complement with good X. (10 points)
+3. In the design of a competitive market system, which of the following does NOT describe how resources are allocated? (A) Price signals that guide producers on what, when, how, and for whom to produce goods and services. (B) Active government ownership and direction of production. (C) Voluntary market exchange between buyers and sellers. (D) Distribution of income and goods on the basis of contribution or productivity. (30 points)
+4. If corn is produced in a perfectly competitive market and the government placed a price ceiling above equilibrium, which of the following would be true? (A) There would be no change in the amount of corn demanded or supplied. (B) There would be a shortage created of corn. (C) There would be a surplus created of corn. (D) The producers of corn would lose revenue due to the decreased price. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+89,5,30-40-20-10,B,30,B,40,A,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Suppose that aluminum is a key production input in the production of bicycles. If the price of aluminum falls, and all other variables are held constant, we expect (A) the demand for aluminum to rise. (B) the supply of bicycles to rise. (C) the supply of bicycles to fall. (D) the demand for bicycles to rise. (30 points)
+2. Which of the following is true of equilibrium in a purely (or perfectly) competitive market for good X? (A) A shortage of good X exists. (B) The quantity demanded equals the quantity supplied of good X. (C) A surplus of good X exists. (D) The government regulates the quantity of good X produced at the market price. (40 points)
+3. Monopoly deadweight loss is the result of (A) setting the price above marginal cost. (B) setting the price above average total cost. (C) monopoly output being greater than the competitive output. (D) long-run normal profits. (20 points)
+4. Which of the following is a characteristic of monopolistic competition? (A) P > MC. (B) Efficiency. (C) Mostly price competition. (D) P =MR. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+90,5,40-20-10-30,B,40,D,20,B,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The United States is trading salmon to Peru in exchange for anchovies. If these nations are trading based upon relative opportunity costs, what must be the case? (A) The United States has comparative advantage in anchovy production, and Peru has comparative advantage in salmon production. (B) The United States has comparative advantage in salmon production, and Peru has comparative advantage in anchovy production. (C) The United States has absolute advantage in anchovy production, and Peru has absolute advantage in salmon production. (D) The United States has absolute advantage in salmon production, and Peru has absolute advantage in anchovy production. (40 points)
+2. Which of the following is true about the relationship of the average total cost (ATC) curve and the marginal cost (MC) curve? (A) ATC and MC are always equal. (B) ATC and MC are never equal. (C) The ATC curve intersects the MC curve at the minimum point of the MC curve. (D) The MC curve intersects the ATC curve at the minimum point of the ATC curve. (20 points)
+3. The supply curve for lawn-mowing services is likely to slope upward because of (A) decreasing marginal costs (B) increasing opportunity cost of time (C) diminishing marginal utility (D) increasing returns to scale (10 points)
+4. Elsa values her time at $50 per hour, and tutors David for two hours. David is willing to pay $175 for two hours of tutoring, but they negotiate a price of $125 for the entire two hours. Which of the following statements is true about the transaction above: (A) Consumer surplus is greater than producer surplus by between $50 and $75. (B) Producer surplus is greater than consumer surplus by between $50 and $75. (C) Consumer surplus is greater than producer surplus by more than $75. (D) The difference between consumer and producer surplus is $25. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+91,5,20-40-10-30,A,20,D,40,B,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The market structures of perfect competition and monopolistic competition share which of the following characteristics? (A) Ease of entry and exit in the long run (B) Homogenous products (C) Perfectly elastic demand for the firm's product (D) Long-run positive profits (20 points)
+2. Which of the following would best complete a short definition of economics? ""Economics is the study of . . ."" (A) how unlimited resources are allocated between scarce wants. (B) how money is circulated through the economy. (C) how corporations maximize the share price of their stock. (D) how scarce resources are allocated to satisfy unlimited wants. (40 points)
+3. If a market is organized by a cartel, we can expect (A) normal profits for all cartel firms. (B) an incentive for cartel firms to cheat on the cartel agreement. (C) profit maximization by individual firms in the cartel. (D) allocative efficiency. (10 points)
+4. For a competitive firm, what is the most important thing to consider in deciding whether to shut down in the short run? (A) Compare AVC to MR. (B) Compare TR to TC. (C) Do not produce if the TFC is not covered by revenue. (D) Produce the highest quantity demanded regardless of price. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+92,5,20-40-30-10,C,20,C,40,B,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is a characteristic of monopolistic competition? (A) Economically efficient in the long run. (B) Pricing at minimum ATC in long run. (C) Excess capacity. (D) Very few competitors. (20 points)
+2. The backward bending supply curve is characterized by which of the following? (A) As wage rates rise, the quantity of labor supplied continues to rise at every wage rate increase. (B) The labor-leisure trade-off continues to favor the supply of more jobs, or the substitution effect. (C) The labor-leisure trade-off favors the income effect or more leisure at higher wage rates. (D) inexperienced, low-income, younger workers at the backward bending portion. (40 points)
+3. At a Nash equilibrium, (A) the supply curve intersects the demand curve (B) neither party has an incentive to deviate from his or her strategy (C) the marginal revenue curve intersects the marginal cost curve (D) the equilibrium is unstable and each party would like to switch strategies (30 points)
+4. Deadweight loss occurs in (A) monopolistic competition as P > MC. (B) monopoly markets because P > MC. (C) oligopoly markets because P > MC. (D) All of the above. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+93,5,40-20-30-10,A,40,D,20,D,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If, for each additional unit of a variable input, the increases in output become smaller, which of the following correctly identifies the concept? (A) Diminishing marginal productivity. (B) Diminishing marginal utility. (C) Increasing marginal utility. (D) Increasing marginal productivity. (40 points)
+2. With respect to the kinked demand curve, which of the following is NOT correct? (A) There is no price leader. (B) There are relatively equal shares of the market. (C) Price is greater than marginal costs. (D) The demand curve is of one continuous function. (20 points)
+3. Firms with the following market structure(s) maximize profits by producing where marginal cost equals marginal revenue, if at all. I. Perfect competition II. Oligopoly III. Monopoly IV. Monopolistic competition (A) I only (B) I and II only (C) I and III only (D) I, II, III, and IV (30 points)
+4. Land refers to (A) all productive resources. (B) all natural resources. (C) farmland only. (D) real estate. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+94,5,30-20-10-40,B,30,A,20,D,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The necessity for a monopoly to lower its price in order to sell more units of its product explains why (A) monopolies are common among public utilities (B) the marginal revenue curve is below the demand curve for a monopoly (C) the marginal cost curve for a monopoly slopes upward (D) monopolies are able to maintain market power (30 points)
+2. Which of the following is an example of an economic rent? (A) A superstar basketball player's $50 million earnings. (B) A social security retirement income. (C) A welfare payment from social services. (D) A check to a college student from a parent or guardian. (20 points)
+3. Compared to perfect competition in the long run, monopoly has (A) more choices of products for consumers. (B) more efficiency. (C) lower prices. (D) price greater than marginal revenue. (10 points)
+4. What is one reason why the government discourages collusion between large firms in the same industry? (A) Collusive output levels tend to increase, driving the price above competitive levels. (B) Consumer surplus falls as the price is driven downward. (C) Collusive output levels tend to decrease, driving the price down to competitive levels. (D) Joint profit maximization costs society consumer surplus as the price rises above competitive levels. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+95,5,20-10-30-40,A,20,B,10,B,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following tax systems is designed to redistribute income from the wealthy to the poor? (A) A progressive tax system (B) A regressive tax system (C) A proportional tax system (D) An excise tax system (20 points)
+2. Firms maximize their profits by producing a level of output at which (A) MC = AFC. (B) MC = MR. (C) P = ATC. (D) MR= AVC. (10 points)
+3. The greater (higher) the wage elasticity of demand, the (A) greater the proportion of capital costs to labor costs in the production of goods. (B) greater the price elasticity for the product produced by labor. (C) the smaller the number of substitutes for labor. (D) the smaller the time period. (30 points)
+4. When the production or consumption of a good creates a positive externality, it is deemed a market failure because at the market quantity (A) the marginal social benefit exceeds the marginal social cost. (B) the marginal social cost exceeds the marginal social benefit. (C) society produces too much of the good. (D) the private benefits from consuming the good exceed the social benefits. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+96,5,30-10-20-40,D,30,C,10,D,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements is true for a firm in a perfectly competitive industry? (A) Total revenue increases and then decreases. (B) Marginal revenue is decreasing. (C) Average revenue is initially negative and then becomes positive. (D) Average revenue equals marginal revenue. (30 points)
+2. An industry described as an oligopoly would most likely have (A) normal profits in the long run. (B) no opportunities for collusive behavior. (C) significant barriers to entry. (D) price-taking behavior. (10 points)
+3. Consumer surplus is (A) the price of a good divided by its marginal utility. (B) the marginal utility of the good divided by its price. (C) the total utility of the good. (D) the difference between the consumer's value and the market price. (20 points)
+4. For the perfectly competitive firm, the profit-maximizing decision to shut down is made when the price (A) falls below minimum average total cost. (B) is greater than minimum average variable cost, but lower than minimum average total cost. (C) falls below minimum average variable cost. (D) is equal to minimum average total cost. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."

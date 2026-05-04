@@ -1,0 +1,961 @@
+ID,Subset,Reward_Order,Correct_Answer_1,Reward_1,Correct_Answer_2,Reward_2,Correct_Answer_3,Reward_3,Correct_Answer_4,Reward_4,Full_Prompt
+1,1,30-20-40-10,C,30,D,20,C,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term for decisions limited by human capacity to absorb and analyse information? (A) Cognitive rationality (B) Conscious rationality (C) Bounded rationality (D) Restricted rationality (30 points)
+2. What is the guiding principle of scientific management? (A) Experimentation (B) Fluid working relationships (C) Freedom of association (D) One best way to do a job (20 points)
+3. What assumption is the garbage can model of decision making based on? (A) Limited knowledge and great insight (B) Limited knowledge but high level of experience (C) Limited knowledge and uncertainty (D) Limited knowledge and high risk (40 points)
+4. Functional structures help to create... (A) teamwork (B) specialisation (C) project work groups (D) multi-skilled employees (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+2,1,20-10-40-30,B,20,B,10,D,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How do you describe a work group that comprises workers with demarcated tasks and distant line managers? (A) Dependent (B) Independent (C) Interdependent (D) Collaborative (20 points)
+2. What is the term for organisational development through a formally designed organisational structure? (A) Organic (B) Mechanistic (C) Formal (D) Structured (10 points)
+3. Enhancement of job satisfaction and productivity are key characteristics of which theoretical perspective of work design? (A) Process improvement (B) Techno-structural change model (C) Job characteristics model (D) Socio-technical systems (40 points)
+4. Which one of the following is not a characteristic of a team? (A) Minimal and formal knowledge sharing (B) Collective output (C) Individual and collective responsibility (D) Fluid dimension to roles and tasks (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+3,1,30-10-20-40,C,30,C,10,D,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which writer was concerned with the reaction of workers to key characteristics of bureaucracies? (A) Merton (B) Weber (C) Gouldner (D) Mayo (30 points)
+2. What is intuitive decision making based on? (A) Guesswork (B) Gambling (C) Instinct (D) Rationality (10 points)
+3. What is another name for contingency planning? (A) Synergy planning (B) Ad hoc planning (C) Business level planning (D) Scenario planning (20 points)
+4. What is not a purpose of an organisational structure? (A) To coordinate people and resources (B) To organise lines of communication (C) To formalise authority (D) To limit workers' rights (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+4,1,20-30-10-40,B,20,D,30,D,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Who of the following is the industrial philanthropist? (A) Frederick Taylor (B) Seebohm Rowntree (C) Henry Ford (D) Max Weber (20 points)
+2. Who of the following is a leading writer on contingency theory of leadership? (A) Rosabeth Kanter (B) Joan Woodward (C) Rensis Likert (D) Fred Fiedler (30 points)
+3. What is not one of the layers of cultural influence? (A) Social (B) Business (C) Organisational (D) Company (10 points)
+4. What is the guiding principle behind New Public Management? (A) Profit maximisation (B) Introducing private sector business principles into the public sector (C) Replacing public management with private sector management (D) Restructuring public organisations (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+5,1,40-10-20-30,B,40,A,10,B,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Vertical integration forwards is when a firm mergers or acquires another (A) Towards the source of supply (B) Towards the consumer (C) At the same stage of the supply chain (D) In another industry (40 points)
+2. How can you describe the thinking and outlook of transformational leaders? (A) Strategic (B) Operational (C) Functional (D) Developmental (10 points)
+3. The Hawthorn Studies are most associated with which writer? (A) Mary Parker Follett (B) Elton Mayo (C) Lillian Gilbreth (D) Frederick Taylor (20 points)
+4. To what time-frame do strategic plans relate? (A) Long-term (B) Medium-term (C) Short-term (D) Unspecified time it takes to achieve an aim (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+6,1,10-30-20-40,D,10,A,30,C,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Specialisation is a feature of which organisational structure? (A) Matrix (B) Divisional (C) Multi-divisional (D) Functional (10 points)
+2. Which of these is not part of the recognised challenges for modern managers? (A) Micro-managing the workforce (B) Managing communications (C) Managing change (D) Managing the learning organisation (30 points)
+3. Of what is worker autonomy in decision making an example? (A) Worker freedom (B) Greater worker negotiation (C) Worker empowerment (D) Increased worker power (20 points)
+4. What does the acronym SMART stand for? (A) Suitable, measurable, actionable, rewarded and timely (B) Specific, measurable, actionable, resourced and timely (C) Standardised, measurable, achievable, rewarded, and timely (D) Specific, measurable, achievable, rewarded and timely (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+7,1,20-10-30-40,B,20,B,10,D,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the overriding philosophy underpinning the strategic direction of an organisation? (A) Vision statement (B) Mission statement (C) Strategy statement (D) Business statement (20 points)
+2. What does situational theory of leadership emphasise? (A) Personality traits (B) Events (C) Environment (D) Political situation (10 points)
+3. When does an acquisition take place? (A) Two equal partners decide to work together. (B) Two equal partners share resources. (C) Two unequal partners join together. (D) Two unequal partners become one after a buyout. (30 points)
+4. In what order do managers typically perform the managerial functions? (A) organising, planning, controlling, leading (B) organising, leading, planning, controlling (C) planning, organising, leading, controlling (D) planning, organising, controlling, leading (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+8,1,10-30-40-20,B,10,D,30,D,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is not an advantage of a hierarchical structure? (A) Clear chain of command (B) Quick response to change (C) Discipline and stability (D) Small span of control (10 points)
+2. What is the term for the extent to which competition in one country is influenced by competition in other countries? (A) International trade (B) Global economics (C) Global competition (D) Globalisation (30 points)
+3. Which one of the following is a feature of McGregor's Theory X? (A) Workers enjoy responsibility. (B) Workers view physical and mental effort as a natural part of work. (C) Workers like to show initiative. (D) Workers like to be directed. (40 points)
+4. What is not a characteristic of a corporate social responsibility framework? (A) Retaining the status quo (B) Understanding society (C) Harnessing diversity (D) Building capacity (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+9,1,40-20-30-10,C,40,B,20,C,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Individualism as a guiding moral philosophy was advocated by which economist? (A) John Kenneth Galbraith (B) John Maynard Keynes (C) Milton Friedman (D) Alfred Marshall (40 points)
+2. What is the richest form of information? (A) Telephone (B) Face-to-face (C) E-mail (D) Video conference (20 points)
+3. According to Belbin (1981) an extroverted and enthusiastic person fits with what role? (A) Co-ordinator (B) Shaper (C) Resource investigator (D) Implementer (30 points)
+4. Who of these is the entrepreneur? (A) Barack Obama (B) James Dyson (C) Damien Hirst (D) Mo Farah (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+10,1,40-10-20-30,C,40,B,10,D,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term for a process that enables an organisation to assess and demonstrate its social, economic, and environmental benefits and limitation? (A) Social plan (B) Social strategy (C) Social audit (D) Social account (40 points)
+2. Of what is individual freedom to schedule work an example? (A) Job design (B) Job enrichment (C) Job rate (D) Job planning (10 points)
+3. What are workers primarily motivated by according to the instrumental approach? (A) Peer recognition (B) Promotion (C) Greater freedom (D) Economic reward (20 points)
+4. What is not a component of an agile organisation? (A) Market focus and position (B) Human resources: multi-skilling (C) Organisational structure (D) Project-based culture (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+11,1,30-10-40-20,D,30,B,10,C,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In the 'five forces model', what is the type of competitive activity that exists between organisations? (A) The potential for entry into the industry (B) The threat of substitute products (C) The power of customers (D) The level of rivalry (30 points)
+2. From what does a chain of command extend? (A) Bottom to top (B) Top to bottom (C) Diagonally (D) Laterally (10 points)
+3. What is a definition of an objective? (A) A defined specified outcome to be achieved in the long-term (B) A clear set of goals to be attained given a set number of resources (C) A clearly defined and measurable outcome to be achieved over a specified timeframe (D) A set standard of performance agreed by workers and managers (40 points)
+4. Which writer is most associated with bureaucratic structures? (A) Henry Fayol (B) Max Weber (C) Adam Smith (D) Mary Parker Follett (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+12,1,20-40-10-30,A,20,A,40,C,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What theory is built around the principle that 'people make choices regarding how to behave based on values and beliefs'? (A) Expectancy (B) Instrumental (C) Classical (D) Contingency (20 points)
+2. What is the purpose of a 'quality circle'? (A) Bring together managers and workers to find improvements. (B) Bring together managers and workers to discuss output. (C) Bring together managers and workers to review quality of work. (D) Bring together managers and workers to review targets. (40 points)
+3. Which 18th century writer produced a famous book called 'The Wealth of Nations'? (A) Frederick Taylor (B) Henry Mintzberg (C) Adam Smith (D) Dr Samuel Johnson (10 points)
+4. What is the term for an autonomous business entity within an overall corporate enterprise which is set apart from other areas of the business? (A) Subsidiary (B) Strategic partnership (C) Strategic alliance (D) Strategic business unit (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+13,1,40-20-10-30,A,40,D,20,D,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is a whistleblower? (A) Someone who reports illegal or unethical acts (B) Someone who commits illegal or unethical acts (C) Someone who benefits from illegal or unethical acts (D) Someone who devises illegal or unethical acts (40 points)
+2. What is a social enterprise concerned with? (A) Profit maximisation (B) Maximising market share (C) Providing public service (D) Running a business to create social benefits (20 points)
+3. What is the term Tuckman uses for reaching consensus as a group? (A) Storming (B) Performing (C) Forming (D) Norming (10 points)
+4. What is the definition of a scenario in scenario planning? (A) An imagined sequence of future events (B) An unpredictable event (C) A planned for event (D) An unplanned for event (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+14,1,30-40-20-10,C,30,D,40,D,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What do you call a style of leadership that takes account of others' views, opinions and ideas? (A) Laissez-faire (B) People-oriented (C) Democratic (D) Autocratic (30 points)
+2. 'There is no discernible link between planning and performance'. Who is this position held by? (A) Michael Porter (B) Milton Friedman (C) Gary Hamel (D) Henry Mintzberg (40 points)
+3. What is characteristic for the location of a virtual team? (A) In the same building (B) In the same industry (C) In the same country (D) remotely (20 points)
+4. What is a paradigm? (A) A theoretical assumption (B) An illustration (C) A theoretical model (D) An example serving as a model (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+15,1,40-10-30-20,A,40,D,10,B,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What are the key characteristics of transactional leaders? (A) Guiding, mentoring and motivating (B) Guiding, commanding and motivating (C) Guiding, demonstrating and motivating (D) Guiding, mentoring and demonstrating (40 points)
+2. As what are key factors that reflect the situation of an organisation referred to? (A) Administrations (B) Processes (C) Activities (D) Contingencies (10 points)
+3. What type of organisational culture is most likely to deliver stability and efficiency? (A) Task culture (B) Role culture (C) Power culture (D) People culture (30 points)
+4. What are characteristics of a programmed decision? (A) Complex and risky (B) Uncertain and non-routine (C) Low risk and certain (D) Routine and non-complex (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+16,1,10-20-30-40,A,10,C,20,A,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Who was a major protagonist of utilitarianism? (A) John Stuart Mill (B) Thomas Hobbes (C) Karl Marx (D) Adam Smith (10 points)
+2. What one of the following is not a characteristic of the job characteristics model? (A) Task identity (B) Autonomy (C) Reward (D) Feedback (20 points)
+3. Which of these does not form part of the key streams identified by March (1988) in decision making in highly ambiguous environments? (A) Expectations (B) Choice opportunities (C) Problems (D) Solutions (30 points)
+4. To what does emotional intelligence refer? (A) How people view and understand the world. (B) How people view and understand themselves. (C) How people view and understand others. (D) How people view and understand themselves and others. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+17,1,10-20-30-40,B,10,D,20,B,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is not part of Schein's model of the formation of culture? (A) Shared values (B) Pre-conceptions (C) Shared beliefs (D) Norms (10 points)
+2. Which is not a recognised form of business continuity planning? (A) Contingency planning (B) Scenario planning (C) Financial planning (D) Building planning (20 points)
+3. What is the term used in Ansoff's matrix for increasing market share with existing products in existing markets? (A) Product development (B) Market penetration (C) Diversification (D) Market development (30 points)
+4. How does lateral communication in an organisation occur? (A) Information passes upwards. (B) Information passes downwards. (C) Information is a two-way process. (D) Information passes between different departments and functions. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+18,1,40-30-20-10,A,40,D,30,D,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What are group norms? (A) Modes of behaviour that are acceptable to and shared by group members (B) Modes of behaviour that are shared by some members of the group (C) Modes of behaviour that challenge group values and beliefs (D) Modes of behaviour that are different of those of the other group members (40 points)
+2. What does PEST stand for? (A) Political, environmental, strategic, testing (B) Political, environmental, strategic, technological (C) Political, economic, strategic, technological (D) Political, economic, social, technological (30 points)
+3. What is the term for the 'rule of thumb' type of bias in decision making? (A) Framing bias (B) Hindsight bias (C) Over-confidence bias (D) Heuristics (20 points)
+4. Which feature does not form one of Fayol's 14 principles of management? (A) Esprit de corps (B) Initiative (C) Order (D) Individualism (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+19,1,40-30-10-20,B,40,A,30,B,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is a strategic alliance? (A) Any form of partnership between one firm and another (B) Formal agreement committing two or more firms to exchange resources to produce products or services (C) Formal agreement to share profits from a shared investment (D) Formal agreement to share knowledge (40 points)
+2. What is the term for the set of behaviours and tasks that a member of the group is expected to perform because he or she is a member of the group? (A) Group roles (B) Virtual teamwork (C) Synergy (D) Role making (30 points)
+3. What is Frank Gilbreth`s work most noted for? (A) Working conditions (B) Time and motion studies (C) Work psychology (D) Work as a social setting (10 points)
+4. What is the term for a sub-optimal but acceptable outcome of negotiations between parties? (A) Bargaining (B) Satisficing (C) Accepting (D) Compromising (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+20,2,20-10-40-30,D,20,C,10,C,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term for power derived from status or position in an organisation? (A) Referent (B) Expert (C) Reward (D) Legitimate (20 points)
+2. Which of the following is not a recognised type of plan? (A) Business (B) Succession (C) Ad hoc (D) Financial (10 points)
+3. By which principle is utilitarianism defined? (A) Equality for everyone (B) Maximisation of outcomes for individuals (C) The best outcome for the majority of people (D) The least worst outcome for everybody (40 points)
+4. As what is ensuring that one individual does not carry the burden of a whole work task referred to? (A) Work specialisation (B) Work design (C) Work schedule (D) Work shift (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+21,2,40-20-10-30,A,40,B,20,A,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is not an assumption underpinning the rational decision making model? (A) Incomplete information (B) An agreed goal (C) A structured problem (D) High level of certainty regarding the environment (40 points)
+2. Workers' acceptance of change is characteristic of what type of culture? (A) Team culture (B) Collaborative culture (C) Group culture (D) Collective culture (20 points)
+3. Which one is not an element in the primary activities of a value chain? (A) Procurement (B) Inbound logistics (C) Outbound logistics (D) Service (10 points)
+4. Which one of these characteristics is most commonly associated with the 'rational goal' model of management? (A) Worker welfare (B) Health and safety (C) Interpersonal relationships (D) Productivity (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+22,2,20-40-10-30,D,20,B,40,D,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which is not a characteristic of corporate social responsibility? (A) Product safety (B) Consumer rights (C) Environmental policies (D) Price-fixing (20 points)
+2. What is a succession plan? (A) Dismissing an employee for a more favourable employee (B) A formal process of planning to fill a role that will become vacant (C) A vote of no confidence in a board member (D) The formal process of acquiring a new staff member (40 points)
+3. What one of these is not a recognised type of authority? (A) Executive (B) Functional (C) Line management (D) Supplier (10 points)
+4. According to the Five Factor model, 'extraversion' as a personality type is characterised by what type of people? (A) Good natured (B) Calm and self-confident (C) Sensitive and curious (D) Assertive and sociable (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+23,2,10-40-30-20,D,10,B,40,C,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term for the act of getting individuals to behave in ways that are acceptable to a group? (A) Indoctrination (B) Brainwashing (C) Propaganda (D) Socialisation (10 points)
+2. What is the term for the action in which managers at an organisation analyse the current situation of their organisation and then develop plans to accomplish its mission and achieve its goals? (A) Synergy planning (B) Strategy formulation (C) Functional planning (D) SWOT analysis (40 points)
+3. Profitability stemming from how well a firm positions itself in the market is a key feature of which writer's view on strategy? (A) Peter Drucker (B) Jay Barney (C) Michael Porter (D) Henry Mintzberg (30 points)
+4. Which one of the following political leaders could not be termed a 'transformational' leader? (A) Margaret Thatcher (B) Mikhail Gorbachov (C) Nelson Mandela (D) Bill Clinton (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+24,2,40-30-20-10,C,40,C,30,C,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which one of the following is not one of Drucker's five guiding principles of management? (A) Making people's strengths effective and their weaknesses irrelevant. (B) Enhancing the ability of people to contribute. (C) To operate the organisation's status system. (D) Integrating people in a common venture by thinking through, setting and exemplifying the organisational objectives, values and goals. (40 points)
+2. What one of the following is not a key management skill in planning? (A) Conceptual skills (B) Analytical skills (C) IT and computing skills (D) Communication skills (30 points)
+3. What is a normative perspective? (A) The way things are. (B) The way things are going to be. (C) The way things should be. (D) The way things were. (20 points)
+4. What is the optimal span of control? (A) 2 (B) 5 (C) 7 (D) None of the above (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+25,2,10-30-40-20,B,10,D,30,A,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is a Gantt chart a type of? (A) Work flow design (B) Work schedule design (C) Work rate design (D) Work output design (10 points)
+2. What is the term for an organisation that adapts to changes in the environment by quickly responding to shifts in supply and demand conditions? (A) Opportunistic organisation (B) Enterprising organisation (C) International organisation (D) Agile organisation (30 points)
+3. What is a virtual organisation? (A) An organisation that uses information and communications technologies (ICT's) to coordinate activities without physical boundaries between different functions (B) An organisation that uses internet technologies to sell products to customers (C) An organisation that manages the supply chain using digital technologies (D) An organisation that coordinates the workforce via video conferencing (40 points)
+4. Which of these factors is not one of the competing responsibilities that influence corporate social responsibility? (A) Ethical (B) Economic (C) Discretionary (D) Technical (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+26,2,30-20-10-40,B,30,A,20,B,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is not an advantage of a hierarchical structure? (A) Clear chain of command (B) Quick response to change (C) Discipline and stability (D) Small span of control (30 points)
+2. Which one is not an element in the primary activities of a value chain? (A) Procurement (B) Inbound logistics (C) Outbound logistics (D) Service (20 points)
+3. Functional structures help to create... (A) teamwork (B) specialisation (C) project work groups (D) multi-skilled employees (10 points)
+4. What is a succession plan? (A) Dismissing an employee for a more favourable employee (B) A formal process of planning to fill a role that will become vacant (C) A vote of no confidence in a board member (D) The formal process of acquiring a new staff member (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+27,2,20-30-10-40,D,20,B,30,B,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is characteristic for the location of a virtual team? (A) In the same building (B) In the same industry (C) In the same country (D) remotely (20 points)
+2. Which of the following is not part of Schein's model of the formation of culture? (A) Shared values (B) Pre-conceptions (C) Shared beliefs (D) Norms (30 points)
+3. Who of these is the entrepreneur? (A) Barack Obama (B) James Dyson (C) Damien Hirst (D) Mo Farah (10 points)
+4. What is a strategic alliance? (A) Any form of partnership between one firm and another (B) Formal agreement committing two or more firms to exchange resources to produce products or services (C) Formal agreement to share profits from a shared investment (D) Formal agreement to share knowledge (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+28,2,10-40-30-20,D,10,D,40,B,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the optimal span of control? (A) 2 (B) 5 (C) 7 (D) None of the above (10 points)
+2. What is a social enterprise concerned with? (A) Profit maximisation (B) Maximising market share (C) Providing public service (D) Running a business to create social benefits (40 points)
+3. What is the term for organisational development through a formally designed organisational structure? (A) Organic (B) Mechanistic (C) Formal (D) Structured (30 points)
+4. What one of the following is not a characteristic of the job characteristics model? (A) Task identity (B) Autonomy (C) Reward (D) Feedback (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+29,2,40-30-20-10,A,40,D,30,B,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. As what is ensuring that one individual does not carry the burden of a whole work task referred to? (A) Work specialisation (B) Work design (C) Work schedule (D) Work shift (40 points)
+2. As what are key factors that reflect the situation of an organisation referred to? (A) Administrations (B) Processes (C) Activities (D) Contingencies (30 points)
+3. Which writer is most associated with bureaucratic structures? (A) Henry Fayol (B) Max Weber (C) Adam Smith (D) Mary Parker Follett (20 points)
+4. Who was a major protagonist of utilitarianism? (A) John Stuart Mill (B) Thomas Hobbes (C) Karl Marx (D) Adam Smith (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+30,2,20-40-10-30,C,20,B,40,C,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Of what is worker autonomy in decision making an example? (A) Worker freedom (B) Greater worker negotiation (C) Worker empowerment (D) Increased worker power (20 points)
+2. Vertical integration forwards is when a firm mergers or acquires another (A) Towards the source of supply (B) Towards the consumer (C) At the same stage of the supply chain (D) In another industry (40 points)
+3. What is intuitive decision making based on? (A) Guesswork (B) Gambling (C) Instinct (D) Rationality (10 points)
+4. What is the term for the act of getting individuals to behave in ways that are acceptable to a group? (A) Indoctrination (B) Brainwashing (C) Propaganda (D) Socialisation (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+31,2,10-30-40-20,C,10,B,30,B,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is not a recognised type of plan? (A) Business (B) Succession (C) Ad hoc (D) Financial (10 points)
+2. The Hawthorn Studies are most associated with which writer? (A) Mary Parker Follett (B) Elton Mayo (C) Lillian Gilbreth (D) Frederick Taylor (30 points)
+3. How do you describe a work group that comprises workers with demarcated tasks and distant line managers? (A) Dependent (B) Independent (C) Interdependent (D) Collaborative (40 points)
+4. What is a paradigm? (A) A theoretical assumption (B) An illustration (C) A theoretical model (D) An example serving as a model (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+32,2,30-20-40-10,D,30,C,20,A,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Enhancement of job satisfaction and productivity are key characteristics of which theoretical perspective of work design? (A) Process improvement (B) Techno-structural change model (C) Job characteristics model (D) Socio-technical systems (30 points)
+2. Individualism as a guiding moral philosophy was advocated by which economist? (A) John Kenneth Galbraith (B) John Maynard Keynes (C) Milton Friedman (D) Alfred Marshall (20 points)
+3. What is the purpose of a 'quality circle'? (A) Bring together managers and workers to find improvements. (B) Bring together managers and workers to discuss output. (C) Bring together managers and workers to review quality of work. (D) Bring together managers and workers to review targets. (40 points)
+4. What is a Gantt chart a type of? (A) Work flow design (B) Work schedule design (C) Work rate design (D) Work output design (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+33,2,40-20-30-10,D,40,A,20,A,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In the 'five forces model', what is the type of competitive activity that exists between organisations? (A) The potential for entry into the industry (B) The threat of substitute products (C) The power of customers (D) The level of rivalry (40 points)
+2. What theory is built around the principle that 'people make choices regarding how to behave based on values and beliefs'? (A) Expectancy (B) Instrumental (C) Classical (D) Contingency (20 points)
+3. What are the key characteristics of transactional leaders? (A) Guiding, mentoring and motivating (B) Guiding, commanding and motivating (C) Guiding, demonstrating and motivating (D) Guiding, mentoring and demonstrating (30 points)
+4. What one of these is not a recognised type of authority? (A) Executive (B) Functional (C) Line management (D) Supplier (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+34,2,30-20-10-40,C,30,C,20,D,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In what order do managers typically perform the managerial functions? (A) organising, planning, controlling, leading (B) organising, leading, planning, controlling (C) planning, organising, leading, controlling (D) planning, organising, controlling, leading (30 points)
+2. What is the term for a process that enables an organisation to assess and demonstrate its social, economic, and environmental benefits and limitation? (A) Social plan (B) Social strategy (C) Social audit (D) Social account (20 points)
+3. Which feature does not form one of Fayol's 14 principles of management? (A) Esprit de corps (B) Initiative (C) Order (D) Individualism (10 points)
+4. What does the acronym SMART stand for? (A) Suitable, measurable, actionable, rewarded and timely (B) Specific, measurable, actionable, resourced and timely (C) Standardised, measurable, achievable, rewarded, and timely (D) Specific, measurable, achievable, rewarded and timely (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+35,2,10-40-20-30,B,10,D,40,D,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the richest form of information? (A) Telephone (B) Face-to-face (C) E-mail (D) Video conference (10 points)
+2. What is the term for an organisation that adapts to changes in the environment by quickly responding to shifts in supply and demand conditions? (A) Opportunistic organisation (B) Enterprising organisation (C) International organisation (D) Agile organisation (40 points)
+3. Which of these factors is not one of the competing responsibilities that influence corporate social responsibility? (A) Ethical (B) Economic (C) Discretionary (D) Technical (20 points)
+4. Which of these does not form part of the key streams identified by March (1988) in decision making in highly ambiguous environments? (A) Expectations (B) Choice opportunities (C) Problems (D) Solutions (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+36,2,30-20-40-10,D,30,A,20,A,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. According to the Five Factor model, 'extraversion' as a personality type is characterised by what type of people? (A) Good natured (B) Calm and self-confident (C) Sensitive and curious (D) Assertive and sociable (30 points)
+2. To what time-frame do strategic plans relate? (A) Long-term (B) Medium-term (C) Short-term (D) Unspecified time it takes to achieve an aim (20 points)
+3. What are group norms? (A) Modes of behaviour that are acceptable to and shared by group members (B) Modes of behaviour that are shared by some members of the group (C) Modes of behaviour that challenge group values and beliefs (D) Modes of behaviour that are different of those of the other group members (40 points)
+4. What is the term for power derived from status or position in an organisation? (A) Referent (B) Expert (C) Reward (D) Legitimate (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+37,2,10-30-40-20,D,10,C,30,D,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is not one of the layers of cultural influence? (A) Social (B) Business (C) Organisational (D) Company (10 points)
+2. According to Belbin (1981) an extroverted and enthusiastic person fits with what role? (A) Co-ordinator (B) Shaper (C) Resource investigator (D) Implementer (30 points)
+3. When does an acquisition take place? (A) Two equal partners decide to work together. (B) Two equal partners share resources. (C) Two unequal partners join together. (D) Two unequal partners become one after a buyout. (40 points)
+4. Which is not a recognised form of business continuity planning? (A) Contingency planning (B) Scenario planning (C) Financial planning (D) Building planning (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+38,2,40-10-30-20,D,40,A,10,D,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. To what does emotional intelligence refer? (A) How people view and understand the world. (B) How people view and understand themselves. (C) How people view and understand others. (D) How people view and understand themselves and others. (40 points)
+2. What is not a characteristic of a corporate social responsibility framework? (A) Retaining the status quo (B) Understanding society (C) Harnessing diversity (D) Building capacity (10 points)
+3. What is the term for the extent to which competition in one country is influenced by competition in other countries? (A) International trade (B) Global economics (C) Global competition (D) Globalisation (30 points)
+4. Which one of these characteristics is most commonly associated with the 'rational goal' model of management? (A) Worker welfare (B) Health and safety (C) Interpersonal relationships (D) Productivity (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+39,3,20-30-10-40,D,20,A,30,B,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is not a purpose of an organisational structure? (A) To coordinate people and resources (B) To organise lines of communication (C) To formalise authority (D) To limit workers' rights (20 points)
+2. What is not an assumption underpinning the rational decision making model? (A) Incomplete information (B) An agreed goal (C) A structured problem (D) High level of certainty regarding the environment (30 points)
+3. What type of organisational culture is most likely to deliver stability and efficiency? (A) Task culture (B) Role culture (C) Power culture (D) People culture (10 points)
+4. What assumption is the garbage can model of decision making based on? (A) Limited knowledge and great insight (B) Limited knowledge but high level of experience (C) Limited knowledge and uncertainty (D) Limited knowledge and high risk (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+40,3,30-20-40-10,B,30,B,20,C,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is Frank Gilbreth`s work most noted for? (A) Working conditions (B) Time and motion studies (C) Work psychology (D) Work as a social setting (30 points)
+2. Who of the following is the industrial philanthropist? (A) Frederick Taylor (B) Seebohm Rowntree (C) Henry Ford (D) Max Weber (20 points)
+3. What is a definition of an objective? (A) A defined specified outcome to be achieved in the long-term (B) A clear set of goals to be attained given a set number of resources (C) A clearly defined and measurable outcome to be achieved over a specified timeframe (D) A set standard of performance agreed by workers and managers (40 points)
+4. Specialisation is a feature of which organisational structure? (A) Matrix (B) Divisional (C) Multi-divisional (D) Functional (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+41,3,20-10-40-30,B,20,D,10,D,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Workers' acceptance of change is characteristic of what type of culture? (A) Team culture (B) Collaborative culture (C) Group culture (D) Collective culture (20 points)
+2. What are workers primarily motivated by according to the instrumental approach? (A) Peer recognition (B) Promotion (C) Greater freedom (D) Economic reward (10 points)
+3. What does PEST stand for? (A) Political, environmental, strategic, testing (B) Political, environmental, strategic, technological (C) Political, economic, strategic, technological (D) Political, economic, social, technological (40 points)
+4. What is the term for the set of behaviours and tasks that a member of the group is expected to perform because he or she is a member of the group? (A) Group roles (B) Virtual teamwork (C) Synergy (D) Role making (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+42,3,40-20-30-10,B,40,A,20,C,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term for the action in which managers at an organisation analyse the current situation of their organisation and then develop plans to accomplish its mission and achieve its goals? (A) Synergy planning (B) Strategy formulation (C) Functional planning (D) SWOT analysis (40 points)
+2. What is the definition of a scenario in scenario planning? (A) An imagined sequence of future events (B) An unpredictable event (C) A planned for event (D) An unplanned for event (20 points)
+3. What is the term for decisions limited by human capacity to absorb and analyse information? (A) Cognitive rationality (B) Conscious rationality (C) Bounded rationality (D) Restricted rationality (30 points)
+4. What is the term for the 'rule of thumb' type of bias in decision making? (A) Framing bias (B) Hindsight bias (C) Over-confidence bias (D) Heuristics (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+43,3,40-10-30-20,D,40,D,10,A,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term for an autonomous business entity within an overall corporate enterprise which is set apart from other areas of the business? (A) Subsidiary (B) Strategic partnership (C) Strategic alliance (D) Strategic business unit (40 points)
+2. Which is not a characteristic of corporate social responsibility? (A) Product safety (B) Consumer rights (C) Environmental policies (D) Price-fixing (10 points)
+3. Which one of the following is not a characteristic of a team? (A) Minimal and formal knowledge sharing (B) Collective output (C) Individual and collective responsibility (D) Fluid dimension to roles and tasks (30 points)
+4. Profitability stemming from how well a firm positions itself in the market is a key feature of which writer's view on strategy? (A) Peter Drucker (B) Jay Barney (C) Michael Porter (D) Henry Mintzberg (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+44,3,20-10-30-40,C,20,D,10,D,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What one of the following is not a key management skill in planning? (A) Conceptual skills (B) Analytical skills (C) IT and computing skills (D) Communication skills (20 points)
+2. Who of the following is a leading writer on contingency theory of leadership? (A) Rosabeth Kanter (B) Joan Woodward (C) Rensis Likert (D) Fred Fiedler (10 points)
+3. Which one of the following political leaders could not be termed a 'transformational' leader? (A) Margaret Thatcher (B) Mikhail Gorbachov (C) Nelson Mandela (D) Bill Clinton (30 points)
+4. By which principle is utilitarianism defined? (A) Equality for everyone (B) Maximisation of outcomes for individuals (C) The best outcome for the majority of people (D) The least worst outcome for everybody (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+45,3,30-40-10-20,B,30,D,40,B,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the overriding philosophy underpinning the strategic direction of an organisation? (A) Vision statement (B) Mission statement (C) Strategy statement (D) Business statement (30 points)
+2. Which one of the following is a feature of McGregor's Theory X? (A) Workers enjoy responsibility. (B) Workers view physical and mental effort as a natural part of work. (C) Workers like to show initiative. (D) Workers like to be directed. (40 points)
+3. What is the term for a sub-optimal but acceptable outcome of negotiations between parties? (A) Bargaining (B) Satisficing (C) Accepting (D) Compromising (10 points)
+4. What do you call a style of leadership that takes account of others' views, opinions and ideas? (A) Laissez-faire (B) People-oriented (C) Democratic (D) Autocratic (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+46,3,30-10-40-20,D,30,B,10,D,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the guiding principle of scientific management? (A) Experimentation (B) Fluid working relationships (C) Freedom of association (D) One best way to do a job (30 points)
+2. Of what is individual freedom to schedule work an example? (A) Job design (B) Job enrichment (C) Job rate (D) Job planning (10 points)
+3. How does lateral communication in an organisation occur? (A) Information passes upwards. (B) Information passes downwards. (C) Information is a two-way process. (D) Information passes between different departments and functions. (40 points)
+4. Which 18th century writer produced a famous book called 'The Wealth of Nations'? (A) Frederick Taylor (B) Henry Mintzberg (C) Adam Smith (D) Dr Samuel Johnson (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+47,3,10-30-20-40,B,10,D,30,A,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. From what does a chain of command extend? (A) Bottom to top (B) Top to bottom (C) Diagonally (D) Laterally (10 points)
+2. 'There is no discernible link between planning and performance'. Who is this position held by? (A) Michael Porter (B) Milton Friedman (C) Gary Hamel (D) Henry Mintzberg (30 points)
+3. How can you describe the thinking and outlook of transformational leaders? (A) Strategic (B) Operational (C) Functional (D) Developmental (20 points)
+4. What is the term used in Ansoff's matrix for increasing market share with existing products in existing markets? (A) Product development (B) Market penetration (C) Diversification (D) Market development (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+48,3,40-30-10-20,A,40,A,30,B,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is a whistleblower? (A) Someone who reports illegal or unethical acts (B) Someone who commits illegal or unethical acts (C) Someone who benefits from illegal or unethical acts (D) Someone who devises illegal or unethical acts (40 points)
+2. Which of these is not part of the recognised challenges for modern managers? (A) Micro-managing the workforce (B) Managing communications (C) Managing change (D) Managing the learning organisation (30 points)
+3. What does situational theory of leadership emphasise? (A) Personality traits (B) Events (C) Environment (D) Political situation (10 points)
+4. What is another name for contingency planning? (A) Synergy planning (B) Ad hoc planning (C) Business level planning (D) Scenario planning (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+49,3,30-10-40-20,D,30,C,10,B,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is not a component of an agile organisation? (A) Market focus and position (B) Human resources: multi-skilling (C) Organisational structure (D) Project-based culture (30 points)
+2. Which writer was concerned with the reaction of workers to key characteristics of bureaucracies? (A) Merton (B) Weber (C) Gouldner (D) Mayo (10 points)
+3. What is the guiding principle behind New Public Management? (A) Profit maximisation (B) Introducing private sector business principles into the public sector (C) Replacing public management with private sector management (D) Restructuring public organisations (40 points)
+4. What are characteristics of a programmed decision? (A) Complex and risky (B) Uncertain and non-routine (C) Low risk and certain (D) Routine and non-complex (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+50,3,10-40-30-20,D,10,A,40,C,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term Tuckman uses for reaching consensus as a group? (A) Storming (B) Performing (C) Forming (D) Norming (10 points)
+2. What is a virtual organisation? (A) An organisation that uses information and communications technologies (ICT's) to coordinate activities without physical boundaries between different functions (B) An organisation that uses internet technologies to sell products to customers (C) An organisation that manages the supply chain using digital technologies (D) An organisation that coordinates the workforce via video conferencing (40 points)
+3. Which one of the following is not one of Drucker's five guiding principles of management? (A) Making people's strengths effective and their weaknesses irrelevant. (B) Enhancing the ability of people to contribute. (C) To operate the organisation's status system. (D) Integrating people in a common venture by thinking through, setting and exemplifying the organisational objectives, values and goals. (30 points)
+4. What is a normative perspective? (A) The way things are. (B) The way things are going to be. (C) The way things should be. (D) The way things were. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+51,3,20-10-30-40,B,20,D,10,D,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which writer is most associated with bureaucratic structures? (A) Henry Fayol (B) Max Weber (C) Adam Smith (D) Mary Parker Follett (20 points)
+2. Specialisation is a feature of which organisational structure? (A) Matrix (B) Divisional (C) Multi-divisional (D) Functional (10 points)
+3. What is another name for contingency planning? (A) Synergy planning (B) Ad hoc planning (C) Business level planning (D) Scenario planning (30 points)
+4. Which of the following is not part of Schein's model of the formation of culture? (A) Shared values (B) Pre-conceptions (C) Shared beliefs (D) Norms (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+52,3,40-30-10-20,D,40,D,30,C,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Enhancement of job satisfaction and productivity are key characteristics of which theoretical perspective of work design? (A) Process improvement (B) Techno-structural change model (C) Job characteristics model (D) Socio-technical systems (40 points)
+2. To what does emotional intelligence refer? (A) How people view and understand the world. (B) How people view and understand themselves. (C) How people view and understand others. (D) How people view and understand themselves and others. (30 points)
+3. According to Belbin (1981) an extroverted and enthusiastic person fits with what role? (A) Co-ordinator (B) Shaper (C) Resource investigator (D) Implementer (10 points)
+4. Which of these factors is not one of the competing responsibilities that influence corporate social responsibility? (A) Ethical (B) Economic (C) Discretionary (D) Technical (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+53,3,10-40-20-30,B,10,C,40,D,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What type of organisational culture is most likely to deliver stability and efficiency? (A) Task culture (B) Role culture (C) Power culture (D) People culture (10 points)
+2. What is the term for a process that enables an organisation to assess and demonstrate its social, economic, and environmental benefits and limitation? (A) Social plan (B) Social strategy (C) Social audit (D) Social account (40 points)
+3. What is not a purpose of an organisational structure? (A) To coordinate people and resources (B) To organise lines of communication (C) To formalise authority (D) To limit workers' rights (20 points)
+4. Which of these does not form part of the key streams identified by March (1988) in decision making in highly ambiguous environments? (A) Expectations (B) Choice opportunities (C) Problems (D) Solutions (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+54,3,30-20-10-40,D,30,D,20,D,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is not a component of an agile organisation? (A) Market focus and position (B) Human resources: multi-skilling (C) Organisational structure (D) Project-based culture (30 points)
+2. 'There is no discernible link between planning and performance'. Who is this position held by? (A) Michael Porter (B) Milton Friedman (C) Gary Hamel (D) Henry Mintzberg (20 points)
+3. What is the term for power derived from status or position in an organisation? (A) Referent (B) Expert (C) Reward (D) Legitimate (10 points)
+4. What is the term for an organisation that adapts to changes in the environment by quickly responding to shifts in supply and demand conditions? (A) Opportunistic organisation (B) Enterprising organisation (C) International organisation (D) Agile organisation (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+55,3,20-40-30-10,D,20,C,40,C,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term Tuckman uses for reaching consensus as a group? (A) Storming (B) Performing (C) Forming (D) Norming (20 points)
+2. By which principle is utilitarianism defined? (A) Equality for everyone (B) Maximisation of outcomes for individuals (C) The best outcome for the majority of people (D) The least worst outcome for everybody (40 points)
+3. Of what is worker autonomy in decision making an example? (A) Worker freedom (B) Greater worker negotiation (C) Worker empowerment (D) Increased worker power (30 points)
+4. From what does a chain of command extend? (A) Bottom to top (B) Top to bottom (C) Diagonally (D) Laterally (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+56,3,40-10-30-20,A,40,B,10,A,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is a virtual organisation? (A) An organisation that uses information and communications technologies (ICT's) to coordinate activities without physical boundaries between different functions (B) An organisation that uses internet technologies to sell products to customers (C) An organisation that manages the supply chain using digital technologies (D) An organisation that coordinates the workforce via video conferencing (40 points)
+2. Of what is individual freedom to schedule work an example? (A) Job design (B) Job enrichment (C) Job rate (D) Job planning (10 points)
+3. What are group norms? (A) Modes of behaviour that are acceptable to and shared by group members (B) Modes of behaviour that are shared by some members of the group (C) Modes of behaviour that challenge group values and beliefs (D) Modes of behaviour that are different of those of the other group members (30 points)
+4. What assumption is the garbage can model of decision making based on? (A) Limited knowledge and great insight (B) Limited knowledge but high level of experience (C) Limited knowledge and uncertainty (D) Limited knowledge and high risk (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+57,3,20-40-10-30,A,20,C,40,D,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How can you describe the thinking and outlook of transformational leaders? (A) Strategic (B) Operational (C) Functional (D) Developmental (20 points)
+2. In what order do managers typically perform the managerial functions? (A) organising, planning, controlling, leading (B) organising, leading, planning, controlling (C) planning, organising, leading, controlling (D) planning, organising, controlling, leading (40 points)
+3. Which feature does not form one of Fayol's 14 principles of management? (A) Esprit de corps (B) Initiative (C) Order (D) Individualism (10 points)
+4. Workers' acceptance of change is characteristic of what type of culture? (A) Team culture (B) Collaborative culture (C) Group culture (D) Collective culture (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+58,4,20-40-30-10,A,20,C,40,D,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. As what is ensuring that one individual does not carry the burden of a whole work task referred to? (A) Work specialisation (B) Work design (C) Work schedule (D) Work shift (20 points)
+2. Which one of the following is not one of Drucker's five guiding principles of management? (A) Making people's strengths effective and their weaknesses irrelevant. (B) Enhancing the ability of people to contribute. (C) To operate the organisation's status system. (D) Integrating people in a common venture by thinking through, setting and exemplifying the organisational objectives, values and goals. (40 points)
+3. Which one of the following is a feature of McGregor's Theory X? (A) Workers enjoy responsibility. (B) Workers view physical and mental effort as a natural part of work. (C) Workers like to show initiative. (D) Workers like to be directed. (30 points)
+4. How do you describe a work group that comprises workers with demarcated tasks and distant line managers? (A) Dependent (B) Independent (C) Interdependent (D) Collaborative (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+59,4,10-30-40-20,C,10,D,30,D,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is a normative perspective? (A) The way things are. (B) The way things are going to be. (C) The way things should be. (D) The way things were. (10 points)
+2. Which one of the following political leaders could not be termed a 'transformational' leader? (A) Margaret Thatcher (B) Mikhail Gorbachov (C) Nelson Mandela (D) Bill Clinton (30 points)
+3. How does lateral communication in an organisation occur? (A) Information passes upwards. (B) Information passes downwards. (C) Information is a two-way process. (D) Information passes between different departments and functions. (40 points)
+4. Who of the following is a leading writer on contingency theory of leadership? (A) Rosabeth Kanter (B) Joan Woodward (C) Rensis Likert (D) Fred Fiedler (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+60,4,10-30-40-20,C,10,D,30,B,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is intuitive decision making based on? (A) Guesswork (B) Gambling (C) Instinct (D) Rationality (10 points)
+2. What are workers primarily motivated by according to the instrumental approach? (A) Peer recognition (B) Promotion (C) Greater freedom (D) Economic reward (30 points)
+3. What is the overriding philosophy underpinning the strategic direction of an organisation? (A) Vision statement (B) Mission statement (C) Strategy statement (D) Business statement (40 points)
+4. What one of the following is not a characteristic of the job characteristics model? (A) Task identity (B) Autonomy (C) Reward (D) Feedback (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+61,4,20-30-40-10,A,20,B,30,C,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Who was a major protagonist of utilitarianism? (A) John Stuart Mill (B) Thomas Hobbes (C) Karl Marx (D) Adam Smith (20 points)
+2. Who of the following is the industrial philanthropist? (A) Frederick Taylor (B) Seebohm Rowntree (C) Henry Ford (D) Max Weber (30 points)
+3. What do you call a style of leadership that takes account of others' views, opinions and ideas? (A) Laissez-faire (B) People-oriented (C) Democratic (D) Autocratic (40 points)
+4. What is the richest form of information? (A) Telephone (B) Face-to-face (C) E-mail (D) Video conference (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+62,4,30-20-10-40,A,30,C,20,C,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the definition of a scenario in scenario planning? (A) An imagined sequence of future events (B) An unpredictable event (C) A planned for event (D) An unplanned for event (30 points)
+2. Which 18th century writer produced a famous book called 'The Wealth of Nations'? (A) Frederick Taylor (B) Henry Mintzberg (C) Adam Smith (D) Dr Samuel Johnson (20 points)
+3. Which writer was concerned with the reaction of workers to key characteristics of bureaucracies? (A) Merton (B) Weber (C) Gouldner (D) Mayo (10 points)
+4. What is a strategic alliance? (A) Any form of partnership between one firm and another (B) Formal agreement committing two or more firms to exchange resources to produce products or services (C) Formal agreement to share profits from a shared investment (D) Formal agreement to share knowledge (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+63,4,30-40-10-20,C,30,D,40,A,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What one of the following is not a key management skill in planning? (A) Conceptual skills (B) Analytical skills (C) IT and computing skills (D) Communication skills (30 points)
+2. What does the acronym SMART stand for? (A) Suitable, measurable, actionable, rewarded and timely (B) Specific, measurable, actionable, resourced and timely (C) Standardised, measurable, achievable, rewarded, and timely (D) Specific, measurable, achievable, rewarded and timely (40 points)
+3. Which one is not an element in the primary activities of a value chain? (A) Procurement (B) Inbound logistics (C) Outbound logistics (D) Service (10 points)
+4. As what are key factors that reflect the situation of an organisation referred to? (A) Administrations (B) Processes (C) Activities (D) Contingencies (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+64,4,30-10-20-40,A,30,D,10,D,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is a whistleblower? (A) Someone who reports illegal or unethical acts (B) Someone who commits illegal or unethical acts (C) Someone who benefits from illegal or unethical acts (D) Someone who devises illegal or unethical acts (30 points)
+2. What is the term for the 'rule of thumb' type of bias in decision making? (A) Framing bias (B) Hindsight bias (C) Over-confidence bias (D) Heuristics (10 points)
+3. According to the Five Factor model, 'extraversion' as a personality type is characterised by what type of people? (A) Good natured (B) Calm and self-confident (C) Sensitive and curious (D) Assertive and sociable (20 points)
+4. What is the term for an autonomous business entity within an overall corporate enterprise which is set apart from other areas of the business? (A) Subsidiary (B) Strategic partnership (C) Strategic alliance (D) Strategic business unit (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+65,4,10-20-30-40,B,10,D,20,D,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is a Gantt chart a type of? (A) Work flow design (B) Work schedule design (C) Work rate design (D) Work output design (10 points)
+2. Which is not a characteristic of corporate social responsibility? (A) Product safety (B) Consumer rights (C) Environmental policies (D) Price-fixing (20 points)
+3. What is a social enterprise concerned with? (A) Profit maximisation (B) Maximising market share (C) Providing public service (D) Running a business to create social benefits (30 points)
+4. When does an acquisition take place? (A) Two equal partners decide to work together. (B) Two equal partners share resources. (C) Two unequal partners join together. (D) Two unequal partners become one after a buyout. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+66,4,40-20-30-10,A,40,D,20,B,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What are the key characteristics of transactional leaders? (A) Guiding, mentoring and motivating (B) Guiding, commanding and motivating (C) Guiding, demonstrating and motivating (D) Guiding, mentoring and demonstrating (40 points)
+2. Which is not a recognised form of business continuity planning? (A) Contingency planning (B) Scenario planning (C) Financial planning (D) Building planning (20 points)
+3. What is the term for organisational development through a formally designed organisational structure? (A) Organic (B) Mechanistic (C) Formal (D) Structured (30 points)
+4. What is the optimal span of control? (A) 2 (B) 5 (C) 7 (D) None of the above (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+67,4,40-30-20-10,D,40,C,30,B,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What does PEST stand for? (A) Political, environmental, strategic, testing (B) Political, environmental, strategic, technological (C) Political, economic, strategic, technological (D) Political, economic, social, technological (40 points)
+2. Profitability stemming from how well a firm positions itself in the market is a key feature of which writer's view on strategy? (A) Peter Drucker (B) Jay Barney (C) Michael Porter (D) Henry Mintzberg (30 points)
+3. The Hawthorn Studies are most associated with which writer? (A) Mary Parker Follett (B) Elton Mayo (C) Lillian Gilbreth (D) Frederick Taylor (20 points)
+4. Which of the following is not a recognised type of plan? (A) Business (B) Succession (C) Ad hoc (D) Financial (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+68,4,40-30-20-10,A,40,C,30,D,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of these is not part of the recognised challenges for modern managers? (A) Micro-managing the workforce (B) Managing communications (C) Managing change (D) Managing the learning organisation (40 points)
+2. What is the term for decisions limited by human capacity to absorb and analyse information? (A) Cognitive rationality (B) Conscious rationality (C) Bounded rationality (D) Restricted rationality (30 points)
+3. What is a paradigm? (A) A theoretical assumption (B) An illustration (C) A theoretical model (D) An example serving as a model (20 points)
+4. Who of these is the entrepreneur? (A) Barack Obama (B) James Dyson (C) Damien Hirst (D) Mo Farah (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+69,4,40-10-30-20,B,40,D,10,D,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Vertical integration forwards is when a firm mergers or acquires another (A) Towards the source of supply (B) Towards the consumer (C) At the same stage of the supply chain (D) In another industry (40 points)
+2. What are characteristics of a programmed decision? (A) Complex and risky (B) Uncertain and non-routine (C) Low risk and certain (D) Routine and non-complex (10 points)
+3. What is the term for the act of getting individuals to behave in ways that are acceptable to a group? (A) Indoctrination (B) Brainwashing (C) Propaganda (D) Socialisation (30 points)
+4. What is the guiding principle of scientific management? (A) Experimentation (B) Fluid working relationships (C) Freedom of association (D) One best way to do a job (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+70,4,10-40-30-20,B,10,D,40,A,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term for a sub-optimal but acceptable outcome of negotiations between parties? (A) Bargaining (B) Satisficing (C) Accepting (D) Compromising (10 points)
+2. In the 'five forces model', what is the type of competitive activity that exists between organisations? (A) The potential for entry into the industry (B) The threat of substitute products (C) The power of customers (D) The level of rivalry (40 points)
+3. What is the term for the set of behaviours and tasks that a member of the group is expected to perform because he or she is a member of the group? (A) Group roles (B) Virtual teamwork (C) Synergy (D) Role making (30 points)
+4. What is the term for the extent to which competition in one country is influenced by competition in other countries? (A) International trade (B) Global economics (C) Global competition (D) Globalisation (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+71,4,40-20-10-30,B,40,B,20,B,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term for the action in which managers at an organisation analyse the current situation of their organisation and then develop plans to accomplish its mission and achieve its goals? (A) Synergy planning (B) Strategy formulation (C) Functional planning (D) SWOT analysis (40 points)
+2. What is not an advantage of a hierarchical structure? (A) Clear chain of command (B) Quick response to change (C) Discipline and stability (D) Small span of control (20 points)
+3. What is Frank Gilbreth`s work most noted for? (A) Working conditions (B) Time and motion studies (C) Work psychology (D) Work as a social setting (10 points)
+4. What is not a characteristic of a corporate social responsibility framework? (A) Retaining the status quo (B) Understanding society (C) Harnessing diversity (D) Building capacity (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+72,4,40-30-20-10,B,40,A,30,D,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is a succession plan? (A) Dismissing an employee for a more favourable employee (B) A formal process of planning to fill a role that will become vacant (C) A vote of no confidence in a board member (D) The formal process of acquiring a new staff member (40 points)
+2. Which one of the following is not a characteristic of a team? (A) Minimal and formal knowledge sharing (B) Collective output (C) Individual and collective responsibility (D) Fluid dimension to roles and tasks (30 points)
+3. Which one of these characteristics is most commonly associated with the 'rational goal' model of management? (A) Worker welfare (B) Health and safety (C) Interpersonal relationships (D) Productivity (20 points)
+4. What one of these is not a recognised type of authority? (A) Executive (B) Functional (C) Line management (D) Supplier (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+73,4,20-30-40-10,A,20,C,30,C,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. To what time-frame do strategic plans relate? (A) Long-term (B) Medium-term (C) Short-term (D) Unspecified time it takes to achieve an aim (20 points)
+2. Individualism as a guiding moral philosophy was advocated by which economist? (A) John Kenneth Galbraith (B) John Maynard Keynes (C) Milton Friedman (D) Alfred Marshall (30 points)
+3. What is a definition of an objective? (A) A defined specified outcome to be achieved in the long-term (B) A clear set of goals to be attained given a set number of resources (C) A clearly defined and measurable outcome to be achieved over a specified timeframe (D) A set standard of performance agreed by workers and managers (40 points)
+4. What is not one of the layers of cultural influence? (A) Social (B) Business (C) Organisational (D) Company (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+74,4,30-10-20-40,B,30,B,10,A,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the guiding principle behind New Public Management? (A) Profit maximisation (B) Introducing private sector business principles into the public sector (C) Replacing public management with private sector management (D) Restructuring public organisations (30 points)
+2. What does situational theory of leadership emphasise? (A) Personality traits (B) Events (C) Environment (D) Political situation (10 points)
+3. What is not an assumption underpinning the rational decision making model? (A) Incomplete information (B) An agreed goal (C) A structured problem (D) High level of certainty regarding the environment (20 points)
+4. What is the purpose of a 'quality circle'? (A) Bring together managers and workers to find improvements. (B) Bring together managers and workers to discuss output. (C) Bring together managers and workers to review quality of work. (D) Bring together managers and workers to review targets. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+75,4,20-30-40-10,D,20,A,30,B,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is characteristic for the location of a virtual team? (A) In the same building (B) In the same industry (C) In the same country (D) remotely (20 points)
+2. What theory is built around the principle that 'people make choices regarding how to behave based on values and beliefs'? (A) Expectancy (B) Instrumental (C) Classical (D) Contingency (30 points)
+3. What is the term used in Ansoff's matrix for increasing market share with existing products in existing markets? (A) Product development (B) Market penetration (C) Diversification (D) Market development (40 points)
+4. Functional structures help to create... (A) teamwork (B) specialisation (C) project work groups (D) multi-skilled employees (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+76,4,30-10-40-20,B,30,B,10,A,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Workers' acceptance of change is characteristic of what type of culture? (A) Team culture (B) Collaborative culture (C) Group culture (D) Collective culture (30 points)
+2. From what does a chain of command extend? (A) Bottom to top (B) Top to bottom (C) Diagonally (D) Laterally (10 points)
+3. What is a virtual organisation? (A) An organisation that uses information and communications technologies (ICT's) to coordinate activities without physical boundaries between different functions (B) An organisation that uses internet technologies to sell products to customers (C) An organisation that manages the supply chain using digital technologies (D) An organisation that coordinates the workforce via video conferencing (40 points)
+4. What is the term for a sub-optimal but acceptable outcome of negotiations between parties? (A) Bargaining (B) Satisficing (C) Accepting (D) Compromising (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+77,5,40-20-30-10,D,40,A,20,A,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term for an autonomous business entity within an overall corporate enterprise which is set apart from other areas of the business? (A) Subsidiary (B) Strategic partnership (C) Strategic alliance (D) Strategic business unit (40 points)
+2. What theory is built around the principle that 'people make choices regarding how to behave based on values and beliefs'? (A) Expectancy (B) Instrumental (C) Classical (D) Contingency (20 points)
+3. What is the term for the set of behaviours and tasks that a member of the group is expected to perform because he or she is a member of the group? (A) Group roles (B) Virtual teamwork (C) Synergy (D) Role making (30 points)
+4. To what time-frame do strategic plans relate? (A) Long-term (B) Medium-term (C) Short-term (D) Unspecified time it takes to achieve an aim (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+78,5,40-20-10-30,C,40,B,20,B,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In what order do managers typically perform the managerial functions? (A) organising, planning, controlling, leading (B) organising, leading, planning, controlling (C) planning, organising, leading, controlling (D) planning, organising, controlling, leading (40 points)
+2. What is Frank Gilbreth`s work most noted for? (A) Working conditions (B) Time and motion studies (C) Work psychology (D) Work as a social setting (20 points)
+3. Who of these is the entrepreneur? (A) Barack Obama (B) James Dyson (C) Damien Hirst (D) Mo Farah (10 points)
+4. What is not a purpose of an organisational structure? (A) To coordinate people and resources (B) To organise lines of communication (C) To formalise authority (D) To limit workers' rights (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+79,5,40-30-20-10,A,40,C,30,B,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which one is not an element in the primary activities of a value chain? (A) Procurement (B) Inbound logistics (C) Outbound logistics (D) Service (40 points)
+2. Which writer was concerned with the reaction of workers to key characteristics of bureaucracies? (A) Merton (B) Weber (C) Gouldner (D) Mayo (30 points)
+3. What does situational theory of leadership emphasise? (A) Personality traits (B) Events (C) Environment (D) Political situation (20 points)
+4. What is not one of the layers of cultural influence? (A) Social (B) Business (C) Organisational (D) Company (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+80,5,10-30-20-40,D,10,D,30,B,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Specialisation is a feature of which organisational structure? (A) Matrix (B) Divisional (C) Multi-divisional (D) Functional (10 points)
+2. Which of these factors is not one of the competing responsibilities that influence corporate social responsibility? (A) Ethical (B) Economic (C) Discretionary (D) Technical (30 points)
+3. What type of organisational culture is most likely to deliver stability and efficiency? (A) Task culture (B) Role culture (C) Power culture (D) People culture (20 points)
+4. Which one of the following is not one of Drucker's five guiding principles of management? (A) Making people's strengths effective and their weaknesses irrelevant. (B) Enhancing the ability of people to contribute. (C) To operate the organisation's status system. (D) Integrating people in a common venture by thinking through, setting and exemplifying the organisational objectives, values and goals. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+81,5,20-40-10-30,C,20,D,40,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is not a recognised type of plan? (A) Business (B) Succession (C) Ad hoc (D) Financial (20 points)
+2. How does lateral communication in an organisation occur? (A) Information passes upwards. (B) Information passes downwards. (C) Information is a two-way process. (D) Information passes between different departments and functions. (40 points)
+3. What is the optimal span of control? (A) 2 (B) 5 (C) 7 (D) None of the above (10 points)
+4. Which 18th century writer produced a famous book called 'The Wealth of Nations'? (A) Frederick Taylor (B) Henry Mintzberg (C) Adam Smith (D) Dr Samuel Johnson (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+82,5,30-40-20-10,D,30,A,40,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term for an organisation that adapts to changes in the environment by quickly responding to shifts in supply and demand conditions? (A) Opportunistic organisation (B) Enterprising organisation (C) International organisation (D) Agile organisation (30 points)
+2. What is the purpose of a 'quality circle'? (A) Bring together managers and workers to find improvements. (B) Bring together managers and workers to discuss output. (C) Bring together managers and workers to review quality of work. (D) Bring together managers and workers to review targets. (40 points)
+3. Which one of the following is a feature of McGregor's Theory X? (A) Workers enjoy responsibility. (B) Workers view physical and mental effort as a natural part of work. (C) Workers like to show initiative. (D) Workers like to be directed. (20 points)
+4. Which of these does not form part of the key streams identified by March (1988) in decision making in highly ambiguous environments? (A) Expectations (B) Choice opportunities (C) Problems (D) Solutions (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+83,5,20-30-40-10,B,20,D,30,A,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The Hawthorn Studies are most associated with which writer? (A) Mary Parker Follett (B) Elton Mayo (C) Lillian Gilbreth (D) Frederick Taylor (20 points)
+2. 'There is no discernible link between planning and performance'. Who is this position held by? (A) Michael Porter (B) Milton Friedman (C) Gary Hamel (D) Henry Mintzberg (30 points)
+3. What is the definition of a scenario in scenario planning? (A) An imagined sequence of future events (B) An unpredictable event (C) A planned for event (D) An unplanned for event (40 points)
+4. What is the richest form of information? (A) Telephone (B) Face-to-face (C) E-mail (D) Video conference (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+84,5,20-30-10-40,D,20,D,30,B,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is a paradigm? (A) A theoretical assumption (B) An illustration (C) A theoretical model (D) An example serving as a model (20 points)
+2. What is the term for the act of getting individuals to behave in ways that are acceptable to a group? (A) Indoctrination (B) Brainwashing (C) Propaganda (D) Socialisation (30 points)
+3. What is a Gantt chart a type of? (A) Work flow design (B) Work schedule design (C) Work rate design (D) Work output design (10 points)
+4. What is not a characteristic of a corporate social responsibility framework? (A) Retaining the status quo (B) Understanding society (C) Harnessing diversity (D) Building capacity (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+85,5,20-10-40-30,D,20,C,10,C,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Who of the following is a leading writer on contingency theory of leadership? (A) Rosabeth Kanter (B) Joan Woodward (C) Rensis Likert (D) Fred Fiedler (20 points)
+2. What one of the following is not a characteristic of the job characteristics model? (A) Task identity (B) Autonomy (C) Reward (D) Feedback (10 points)
+3. By which principle is utilitarianism defined? (A) Equality for everyone (B) Maximisation of outcomes for individuals (C) The best outcome for the majority of people (D) The least worst outcome for everybody (40 points)
+4. What is not an advantage of a hierarchical structure? (A) Clear chain of command (B) Quick response to change (C) Discipline and stability (D) Small span of control (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+86,5,30-20-10-40,D,30,B,20,D,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. To what does emotional intelligence refer? (A) How people view and understand the world. (B) How people view and understand themselves. (C) How people view and understand others. (D) How people view and understand themselves and others. (30 points)
+2. How do you describe a work group that comprises workers with demarcated tasks and distant line managers? (A) Dependent (B) Independent (C) Interdependent (D) Collaborative (20 points)
+3. What is characteristic for the location of a virtual team? (A) In the same building (B) In the same industry (C) In the same country (D) remotely (10 points)
+4. What is a definition of an objective? (A) A defined specified outcome to be achieved in the long-term (B) A clear set of goals to be attained given a set number of resources (C) A clearly defined and measurable outcome to be achieved over a specified timeframe (D) A set standard of performance agreed by workers and managers (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+87,5,10-40-30-20,C,10,C,40,C,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What do you call a style of leadership that takes account of others' views, opinions and ideas? (A) Laissez-faire (B) People-oriented (C) Democratic (D) Autocratic (10 points)
+2. What is the term for a process that enables an organisation to assess and demonstrate its social, economic, and environmental benefits and limitation? (A) Social plan (B) Social strategy (C) Social audit (D) Social account (40 points)
+3. Profitability stemming from how well a firm positions itself in the market is a key feature of which writer's view on strategy? (A) Peter Drucker (B) Jay Barney (C) Michael Porter (D) Henry Mintzberg (30 points)
+4. What one of the following is not a key management skill in planning? (A) Conceptual skills (B) Analytical skills (C) IT and computing skills (D) Communication skills (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+88,5,30-10-20-40,D,30,D,10,A,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term for the extent to which competition in one country is influenced by competition in other countries? (A) International trade (B) Global economics (C) Global competition (D) Globalisation (30 points)
+2. What are characteristics of a programmed decision? (A) Complex and risky (B) Uncertain and non-routine (C) Low risk and certain (D) Routine and non-complex (10 points)
+3. As what is ensuring that one individual does not carry the burden of a whole work task referred to? (A) Work specialisation (B) Work design (C) Work schedule (D) Work shift (20 points)
+4. According to the Five Factor model, 'extraversion' as a personality type is characterised by what type of people? (A) Good natured (B) Calm and self-confident (C) Sensitive and curious (D) Assertive and sociable (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+89,5,10-30-20-40,D,10,A,30,D,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term for power derived from status or position in an organisation? (A) Referent (B) Expert (C) Reward (D) Legitimate (10 points)
+2. Which one of the following is not a characteristic of a team? (A) Minimal and formal knowledge sharing (B) Collective output (C) Individual and collective responsibility (D) Fluid dimension to roles and tasks (30 points)
+3. Which feature does not form one of Fayol's 14 principles of management? (A) Esprit de corps (B) Initiative (C) Order (D) Individualism (20 points)
+4. What is a succession plan? (A) Dismissing an employee for a more favourable employee (B) A formal process of planning to fill a role that will become vacant (C) A vote of no confidence in a board member (D) The formal process of acquiring a new staff member (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+90,5,10-40-20-30,D,10,B,40,C,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is another name for contingency planning? (A) Synergy planning (B) Ad hoc planning (C) Business level planning (D) Scenario planning (10 points)
+2. What is a strategic alliance? (A) Any form of partnership between one firm and another (B) Formal agreement committing two or more firms to exchange resources to produce products or services (C) Formal agreement to share profits from a shared investment (D) Formal agreement to share knowledge (40 points)
+3. Individualism as a guiding moral philosophy was advocated by which economist? (A) John Kenneth Galbraith (B) John Maynard Keynes (C) Milton Friedman (D) Alfred Marshall (20 points)
+4. Vertical integration forwards is when a firm mergers or acquires another (A) Towards the source of supply (B) Towards the consumer (C) At the same stage of the supply chain (D) In another industry (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+91,5,30-40-20-10,D,30,D,40,B,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which one of these characteristics is most commonly associated with the 'rational goal' model of management? (A) Worker welfare (B) Health and safety (C) Interpersonal relationships (D) Productivity (30 points)
+2. In the 'five forces model', what is the type of competitive activity that exists between organisations? (A) The potential for entry into the industry (B) The threat of substitute products (C) The power of customers (D) The level of rivalry (40 points)
+3. What is the overriding philosophy underpinning the strategic direction of an organisation? (A) Vision statement (B) Mission statement (C) Strategy statement (D) Business statement (20 points)
+4. Of what is worker autonomy in decision making an example? (A) Worker freedom (B) Greater worker negotiation (C) Worker empowerment (D) Increased worker power (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+92,5,40-10-20-30,B,40,C,10,C,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the term for the action in which managers at an organisation analyse the current situation of their organisation and then develop plans to accomplish its mission and achieve its goals? (A) Synergy planning (B) Strategy formulation (C) Functional planning (D) SWOT analysis (40 points)
+2. What is intuitive decision making based on? (A) Guesswork (B) Gambling (C) Instinct (D) Rationality (10 points)
+3. What assumption is the garbage can model of decision making based on? (A) Limited knowledge and great insight (B) Limited knowledge but high level of experience (C) Limited knowledge and uncertainty (D) Limited knowledge and high risk (20 points)
+4. Enhancement of job satisfaction and productivity are key characteristics of which theoretical perspective of work design? (A) Process improvement (B) Techno-structural change model (C) Job characteristics model (D) Socio-technical systems (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+93,5,40-10-30-20,A,40,B,10,D,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is not an assumption underpinning the rational decision making model? (A) Incomplete information (B) An agreed goal (C) A structured problem (D) High level of certainty regarding the environment (40 points)
+2. Functional structures help to create... (A) teamwork (B) specialisation (C) project work groups (D) multi-skilled employees (10 points)
+3. What is a social enterprise concerned with? (A) Profit maximisation (B) Maximising market share (C) Providing public service (D) Running a business to create social benefits (30 points)
+4. What is a normative perspective? (A) The way things are. (B) The way things are going to be. (C) The way things should be. (D) The way things were. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+94,5,20-40-30-10,B,20,A,40,D,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Who of the following is the industrial philanthropist? (A) Frederick Taylor (B) Seebohm Rowntree (C) Henry Ford (D) Max Weber (20 points)
+2. What is a whistleblower? (A) Someone who reports illegal or unethical acts (B) Someone who commits illegal or unethical acts (C) Someone who benefits from illegal or unethical acts (D) Someone who devises illegal or unethical acts (40 points)
+3. Which is not a recognised form of business continuity planning? (A) Contingency planning (B) Scenario planning (C) Financial planning (D) Building planning (30 points)
+4. What one of these is not a recognised type of authority? (A) Executive (B) Functional (C) Line management (D) Supplier (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+95,5,10-40-20-30,D,10,D,40,D,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. As what are key factors that reflect the situation of an organisation referred to? (A) Administrations (B) Processes (C) Activities (D) Contingencies (10 points)
+2. What does PEST stand for? (A) Political, environmental, strategic, testing (B) Political, environmental, strategic, technological (C) Political, economic, strategic, technological (D) Political, economic, social, technological (40 points)
+3. What is the term for the 'rule of thumb' type of bias in decision making? (A) Framing bias (B) Hindsight bias (C) Over-confidence bias (D) Heuristics (20 points)
+4. What are the key characteristics of transactional leaders? (A) Guiding, mentoring and motivating (B) Guiding, commanding and motivating (C) Guiding, demonstrating and motivating (D) Guiding, mentoring and demonstrating (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+96,5,30-10-20-40,D,30,D,10,B,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is not a component of an agile organisation? (A) Market focus and position (B) Human resources: multi-skilling (C) Organisational structure (D) Project-based culture (30 points)
+2. Which is not a characteristic of corporate social responsibility? (A) Product safety (B) Consumer rights (C) Environmental policies (D) Price-fixing (10 points)
+3. What is the term for organisational development through a formally designed organisational structure? (A) Organic (B) Mechanistic (C) Formal (D) Structured (20 points)
+4. What is the guiding principle behind New Public Management? (A) Profit maximisation (B) Introducing private sector business principles into the public sector (C) Replacing public management with private sector management (D) Restructuring public organisations (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."

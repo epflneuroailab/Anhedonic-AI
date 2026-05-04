@@ -1,0 +1,961 @@
+ID,Subset,Reward_Order,Correct_Answer_1,Reward_1,Correct_Answer_2,Reward_2,Correct_Answer_3,Reward_3,Correct_Answer_4,Reward_4,Full_Prompt
+1,1,40-20-10-30,B,40,C,20,A,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What was the revenue for flat screen televisions sold in Australia in the past 12 months (as of 2013)? (A) $120 million annual Revenue (B) $1.2 billion annual Revenue (C) $12 billion annual Revenue (D) $120 billion annual Revenue (40 points)
+2. What is the name of the female character played by comedian Flip Wilson on his 1970s TV show? (A) Miss Jackie (B) Elizabeth Sanford (C) Geraldine Jones (D) Gladys Knight (20 points)
+3. What exercise apparatus is used during a 'Spinning' class? (A) stationary bicycle (B) treadmill (C) rowing machine (D) barbells (10 points)
+4. A piece of paper that appears blue in sunlight is illuminated solely by a red light that is passed through a green filter. What color does the paper appear under this illumination? (A) Blue (B) Green (C) Red (D) Black (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+2,1,20-30-10-40,C,20,A,30,B,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is a force that is most responsible for causing a fixed-wing aircraft to move forward? (A) Lift (B) Drag (C) Thrust (D) Weight (20 points)
+2. Which of these is not one of Aesop's fables? (A) The Dog and the Squirrel' (B) The Hare and the Tortoise' (C) The Eagle and the Beetle' (D) The Ox and the Frogs' (30 points)
+3. Which one of these is NOT a mineral? (A) Quartz (B) Lithium (C) Diamond (D) Calcite (10 points)
+4. A teacher reads aloud Where the Wild Things Are, a picture storybook in which a boy named Max encounters wild monsters that are vividly portrayed. The teacher then shows the students picture cards depicting scenes from the beginning, middle, and end of the story. Which of the following concepts of literary structure is the teacher helping students understand? (A) Plot sequence (B) Point of view (C) Character development (D) Setting (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+3,1,10-20-40-30,D,10,A,20,A,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In weaving, the vertical and horizontal threads in a loom are called the (A) bobbin and quill (B) shuttle and paddle (C) ply and twist (D) warp and weft (10 points)
+2. The accumulation of stress along the boundaries of lithospheric plates results in which of the following? (A) Earthquakes (B) Magnetic reversals (C) Hurricanes (D) Increased deposition of deep-sea sediments (20 points)
+3. A hard-edge painting is most likely to be characterized by (A) an even, solid paint application (B) blurry color mixed on the painting's surface (C) scratchy brush marks clearly separated (D) translucent multiple layers of paint (40 points)
+4. The total retail market value of all the goods and services produced in a nation, usually stated in annual terms, is the (A) ratio of profit to sales (B) current ratio (C) gross domestic product (D) trade surplus (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+4,1,30-40-10-20,C,30,A,40,B,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Poverty as defined by the United States government is best understood as (A) the index value of government services such as Medicaid and public housing (B) the concept of relative deprivation and is based on changes in the distribution of income (C) an absolute level set in the 1960s and since adjusted to reflect inflation at the consumer level (D) a concept based on lifestyle and measured on a sliding scale based on the needs of an individual (30 points)
+2. Of the following objectives, which is most appropriate for a technology education program that has a goal of enabling students to develop creative technical solutions to present and future societal problems? (A) Design and construct a threedimensional model of a low-income, multifamily dwelling unit (B) Describe several construction careers that are related to home building (C) Categorize the components of a technical system (D) Identify the major tools and equipment used in highway construction (40 points)
+3. What type of substance is 'terra-cotta'? (A) metal (B) ceramic (C) wood (D) glass (10 points)
+4. People are supposed to drive on the left-hand side of the road in which country? (A) France (B) Italy (C) England (D) Germany (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+5,1,40-10-20-30,D,40,B,10,C,20,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the only metal that is a liquid at normal atmospheric pressure and temperature? (A) lead (B) antimony (C) uranium (D) mercury (40 points)
+2. How many eyes does a Giraffe have? (A) one (B) two (C) three (D) four (10 points)
+3. In what country did Pokemon originate? (A) France (B) Hungary (C) Japan (D) Canada (20 points)
+4. Which of these is not a position on an American football team? (A) quarterback (B) tight end (C) striker (D) free safety (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+6,1,10-40-30-20,A,10,B,40,B,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What color is a ruby? (A) red (B) black (C) yellow (D) blue (10 points)
+2. The gasoline tank in a car holds 15 gallons when full. If there are 7 gallons of gasoline in the tank, how many gallons of gasoline are needed to fill the tank? Which of the following is most appropriate to use to correctly answer the question shown? (A) Multiplication (B) Subtraction (C) Estimation (D) Division (40 points)
+3. According to a famous line from the existentialist play 'No Exit' what is hell? (A) oneself (B) other people (C) little made (D) large hued in green and blue (30 points)
+4. Which of these animals is a rodent? (A) Bat (B) Wolverine (C) Beaver (D) Koala (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+7,1,40-30-10-20,B,40,C,30,A,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When Corporation X pays out $300,000 in salaries, which of the following is the impact on assets and liabilities? (A) Salary expense is increased by $300,000; cash is increased by $300,000 (B) Salary expense is increased by $300,000; cash is decreased by $300,000 (C) Salary expense is decreased by $300,000; cash is increased by $300,000 (D) Salary expense is decreased by $300,000; cash is decreased by $300,000 (40 points)
+2. Which of the following degrees can be awarded by the local chapter of the FFA? I. Greenhand FFA Degree II. Chapter FFA Degree III. State FFA Degree IV. American FFA Degree (A) I only (B) II only (C) I and II only (D) I , II , III , and IV (30 points)
+3. What is the colored part of the eye called? (A) iris (B) pupil (C) retina (D) cochlea (10 points)
+4. According to the proverb necessity is the mother of what? (A) Invention (B) Luck (C) Problems (D) Procrastination (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+8,1,10-20-30-40,A,10,D,20,C,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What city's airport uses the code ORD? (A) Chicago (B) Orlando (C) New York City (D) Portland (10 points)
+2. In the phrase 'Y2K' what does 'K' stand for? (A) millennium (B) computer code (C) catastrophe (D) thousand (20 points)
+3. Who is the career hit leader among players never elected to Baseball's Hall of Fame? (A) Steve Garvey (B) Jim Rice (C) Pete Rose (D) Ken Griffey Jr (30 points)
+4. What is the function of mitochondria in the cell? (A) To generate energy (B) To process waste (C) To kill viruses or other antigens (D) To repair damage (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+9,1,30-10-40-20,A,30,D,10,B,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions? (A) White balance (B) Aperture (C) ISO speed (D) Shutter speed (30 points)
+2. Which of these names has never belonged to a Pope? (A) Leo (B) Lando (C) Linus (D) Lawrence (10 points)
+3. Which of the following is a likely outcome of the development and use of genetically modified plants? (A) Reduced cost of plant seeds (B) New plant varieties being patented (C) Increased genetic diversity within a planted field (D) Less oversight and fewer regulations than for unmodified crops (40 points)
+4. What actress starred on 'Charlie's Angels' for the show's entire run? (A) Cheryl Ladd (B) Farrah Fawcett (C) Jaclyn Smith (D) Kate Jackson (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+10,1,10-30-40-20,C,10,D,30,B,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. For what purpose would you use an awl? (A) to shoot ducks (B) to polish floors (C) to make holes (D) to weigh fruit (10 points)
+2. Which of these evangelists is a cousin of rocker Jerry Lee Lewis? (A) Billy Graham (B) Oral Roberts (C) Jerry Falwell (D) Jimmy Swaggart (30 points)
+3. What is the oldest permanent European settlement in the United States? (A) St Augustine Florida (B) Plymouth Massachusetts (C) Newport News Virginia (D) Charlotte North Carolina (40 points)
+4. To make an international telephone call from within the US what are the first numbers you should dial? (A) 11 (B) 101 (C) 888 (D) 911 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+11,1,20-40-30-10,C,20,B,40,B,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In the movie 'Star Wars' what kind of creature is Chewbacca? (A) Woolie (B) Woobie (C) Wookiee (D) Klingon (20 points)
+2. What is the correct spelling of New Mexico's largest city? (A) Albuqerque (B) Albuquerque (C) Albequerque (D) Santa Fe (40 points)
+3. Who was the longest reigning monarch in French history? (A) Louis XIII (B) Louis XIV (C) Louis XV (D) Louis XVI (30 points)
+4. Which of these organizations is not part of the US government? (A) NAACP (B) NASA (C) CIA (D) FBI (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+12,1,30-40-20-10,B,30,D,40,B,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What metal device is used by police to immobilize the wheels of repeat parking offenders? (A) Brooklyn clamp (B) Denver boot (C) LoJack (D) The Club (30 points)
+2. Islam first spread to Indonesia through (A) military conquest by the Mughal empire (B) mass migrations of African Muslims across the Indian Ocean (C) Dutch colonization in the 18th century (D) increased commercial contacts with Indian and Arab merchants (40 points)
+3. What was the birth name of civil rights leader Malcolm? (A) Michael Brown (B) Malcolm Little (C) Malcolm Lincoln (D) Michael Lloyd (20 points)
+4. How many ships did Columbus set sail with on his initial voyage to ""the New World""? (A) Two (B) Three (C) Five (D) Ten (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+13,1,40-20-10-30,B,40,B,20,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The use of inexpensive labor in Asian countries by footwear companies based in the United States and Europe is an example of which of the following? (A) Primary economic activity (B) Global division of labor (C) Intervening opportunity (D) Global-local continuum (40 points)
+2. From whom does the Lutheran Church get its name? (A) Martin Luther King Jr (B) Martin Luther (C) Luther Vandross (D) Lex Luthor (20 points)
+3. Who composed the 'Moonlight Sonata'? (A) Mozart (B) Handel (C) Bach (D) Beethoven (10 points)
+4. What Mexican holiday takes place on May 5th? (A) Mexican Independence Day (B) Santa Anna's Birthday (C) Cinco de Mayo (D) Christmas (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+14,1,40-20-10-30,C,40,D,20,A,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In 1926 the Harlem Globetrotters basketball team was formed in what city? (A) Boston (B) Philadelphia (C) Chicago (D) New York City (40 points)
+2. The 'Arkansas toothpick' is better known by what name? (A) Scottie Pippen (B) spare rib (C) pinkie finger (D) Bowie knife (20 points)
+3. What disease does a carcinogen cause? (A) cancer (B) influenza (C) emphysema (D) heart disease (10 points)
+4. What does it mean to work 'probono'? (A) work overtime (B) work without pay (C) work as your own boss (D) not work at all (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+15,1,20-30-10-40,C,20,D,30,A,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What kind of angle is formed where two perpendicular lines meet? (A) obtuse (B) acute (C) right (D) invisible (20 points)
+2. Which of these is commonly used to treat allergies? (A) antimatter (B) anticoagulants (C) antiseptics (D) antihistamines (30 points)
+3. Where is the Louvre museum? (A) Paris (B) Lyon (C) Geneva (D) Vichy (10 points)
+4. A fiscal policy to combat a recession would call for (A) an increase in taxes (B) an increase in government spending (C) a decrease in the reserve requirement (D) a decrease in the discount rate (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+16,1,40-20-30-10,B,40,A,20,D,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Assume that the marginal propensity to consume increased from 0.75 in year 1 to 0.80 in year 2. Based on this information, which of the following is a correct conclusion? (A) In year 1, a $100 billion increase in government spending would have increased real output by a maximum of $75 billion. (B) From year 1 to year 2, the spending multiplier increased from 4 to 5. (C) A given change in government spending would have had a more powerful effect in year 1 than in year 2. (D) The marginal propensity to save increased from year 1 to year 2. (40 points)
+2. Which of these is not a 'lock' function on a standard desktop computer keyboard? (A) print lock (B) number lock (C) scroll lock (D) caps lock (20 points)
+3. The primary purpose of a Supervised Agricultural Experience ( SAE ) program is to (A) provide a basis for students to apply for and win proficiency awards (B) provide students with an income to be used to learn money management skills (C) give students a chance to earn enough money to qualify for local, state, and national FFA degrees (D) allow students to apply skills learned in the classroom and learn new skills in a specialized area (30 points)
+4. What organelle is primarily responsible for photosynthesis? (A) Nucleus (B) Chloroplast (C) Mitochondria (D) Golgi Apparatus (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+17,1,20-40-30-10,B,20,B,40,C,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is called a 'lorry' in Britain? (A) a toaster (B) a truck (C) a babysitter (D) an elevator (20 points)
+2. The nineteenth-century photographic process used to create a daguerreotype was notable for its (A) quick exposure time (B) ability to capture sharp detail (C) capacity to be reproduced multiple times (D) use of paper negatives (40 points)
+3. In what country are police officers referred to as 'bobbies'? (A) Israel (B) Greece (C) England (D) France (30 points)
+4. What is the name of Raggedy Ann's doll brother? (A) Red (B) Freckles (C) Randy (D) Andy (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+18,1,30-20-10-40,D,30,B,20,C,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following requires the use of at least two needles? (A) macrame (B) braiding (C) crocheting (D) hand knitting (30 points)
+2. What was the name of the first ship to sail around the world? (A) Triton (B) Victoria (C) Magellan (D) Elizabeth II (20 points)
+3. Which of these bones is located in the wrist? (A) Patella (B) Humerus (C) Carpals (D) Coccyx (10 points)
+4. Simple accompaniments, light texture and smooth melodies are qualities of (A) galant style (B) partitas (C) Sturm und Drang (D) serenade (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+19,1,20-30-40-10,A,20,A,30,A,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When a gas turns into a liquid, the process is called (A) condensation (B) evaporation (C) deposition (D) sublimation (20 points)
+2. What do the initials 'E E' in poet E E Cummings' name stand for? (A) Edward Estlin (B) Edmund Earl (C) Ernest Eakins (D) Eugene Evan (30 points)
+3. A flashing red traffic light signifies that a driver should do what? (A) stop (B) speed up (C) proceed with caution (D) honk the horn (40 points)
+4. The disco band ABBA comes from what country? (A) Norway (B) Sweden (C) Switzerland (D) The Netherlands (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+20,2,20-30-10-40,A,20,C,30,A,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. To ward off bad luck what do many people do to wood? (A) knock on it (B) kiss it (C) thank it (D) scratch it (20 points)
+2. What is New Mexico's nickname? (A) The Desert State' (B) Gateway to Paradise' (C) Land of Enchantment' (D) The Garden State' (30 points)
+3. The phrase 'hospital corners' refers to what? (A) bed sheets (B) paint (C) landscaping (D) scissors (10 points)
+4. During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in transportation in the United States by (A) establishing generous subsidies for urban mass transit (B) sponsoring research to develop less polluting automobiles (C) funding the construction of the interstate highway system (D) funding the establishment of a national railroad passenger system (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+21,2,30-40-20-10,A,30,D,40,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Reindeer herding as an economic activity of the Sami in Norway is an example of which of the following types of diffusion? (A) Stimulus (B) Hierarchical (C) Relocation (D) Contagious (30 points)
+2. Which of the following best defines federalism? (A) A government in which the political leader is also the religious leader (B) The concentration of government power in the hands of a small group of people (C) The division of national power into different branches of government (D) The division of a country's power into national and subnational units (40 points)
+3. The demand for which of the following products is likely to be the most elastic? (A) Water (B) Bread (C) Salt (D) Pork (20 points)
+4. In which layer of Earth is the geomagnetic field generated? (A) Outer core (B) Crust (C) Mantle (D) Inner core (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+22,2,40-30-20-10,D,40,C,30,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The most important consideration in designing successful messages to be transmitted through graphic communications is knowledge and understanding of (A) current technologies (B) the capabilities of the designer (C) the limitations of the printer (D) the nature of the audience (40 points)
+2. What is the name of the fruit that is half tangerine and half grapefruit? (A) graperine (B) tangefruit (C) tangelo (D) kumquat (30 points)
+3. Which of these foods is not traditionally considered kosher? (A) citrus fruits (B) barley (C) chicken (D) shellfish (20 points)
+4. What is actor Antonio Banderas native language? (A) Spanish (B) Russian (C) German (D) French (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+23,2,10-20-40-30,B,10,D,20,C,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What nationality was Karl Marx? (A) Russian (B) German (C) Danish (D) English (10 points)
+2. According to the USDA which food group should you eat the most servings of per day? (A) vegetables (B) dairy (C) meats (D) breads (20 points)
+3. Which of the following best helps explain why some localities have normally large tidal ranges (up to 60 feet) and others have one- to two-foot tidal ranges? (A) The position of the Sun is different at different localities. (B) The Coriolis effect and rotation of Earth tend to enhance tidal flow in the higher latitudes. (C) Ocean floor topography and the shape of the coastline serve to amplify tidal flow at specific localities. (D) Trade winds push the water into large tidal bulges near rocky shorelines. (40 points)
+4. In what country did Magic Johnson play professional basketball during the 1999 season? (A) United States (B) Sweden (C) Israel (D) Turkey (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+24,2,10-30-40-20,A,10,C,30,D,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the largest moon in the Solar System? (A) Ganymede (B) The Earth's Moon (C) Pluto (D) Europa (10 points)
+2. How much does it cost to air condition all American automobiles for a year (as of 2018)? (A) $10m (B) $100m (C) $1 billion (D) $10 billion (30 points)
+3. Which of the following questions can a student ask to best determine whether an author is using the persuasive technique of pathos in a passage? (A) Does the author use tone and style to convey authority on the subject to the audience? (B) Does the author use credible and reliable sources to convince the audience of the argument? (C) Does the author use facts and sound reasoning to substantiate claims made to the audience? (D) Does the author use personal connections and stories to appeal to the audience's emotions? (40 points)
+4. Which of the following guidance systems is principally a materials-handling device? (A) Escalator (B) Conveyor (C) Highway (D) Railroad (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+25,2,40-30-20-10,D,40,B,30,C,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The principles of xeriscaping are best exemplified by a homeowner who (A) installs an in-ground sprinkler system that operates on a timer (B) lowers the cutting height on the lawn mower to reduce the surface area in contact with the cutting blade (C) increases the use of fertilizer on the turfgrass to promote growth (D) replaces nonnative ornamentals with native shrubs that do not require irrigation (40 points)
+2. How much angular momentum did Hurricane Florence have when it hit land? (A) L = 10^16 kg * m^2 / s (B) L = 10^19 kg * m^2 / s (C) L = 10^22 kg * m^2 / s (D) L = 10^25 kg * m^2 / s (30 points)
+3. A _ is a plant cell that helps control the passage of materials into and out of the stomates. (A) Cell membrane (B) Cytoplasm (C) Guard cell (D) Cellulose (20 points)
+4. Which of these words means 'yes'-in French? (A) qui (B) oui (C) ja (D) okey-dokey (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+26,2,30-10-20-40,D,30,B,10,C,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of these foods is not traditionally considered kosher? (A) citrus fruits (B) barley (C) chicken (D) shellfish (30 points)
+2. What type of substance is 'terra-cotta'? (A) metal (B) ceramic (C) wood (D) glass (10 points)
+3. In the movie 'Star Wars' what kind of creature is Chewbacca? (A) Woolie (B) Woobie (C) Wookiee (D) Klingon (20 points)
+4. The principles of xeriscaping are best exemplified by a homeowner who (A) installs an in-ground sprinkler system that operates on a timer (B) lowers the cutting height on the lawn mower to reduce the surface area in contact with the cutting blade (C) increases the use of fertilizer on the turfgrass to promote growth (D) replaces nonnative ornamentals with native shrubs that do not require irrigation (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+27,2,10-30-20-40,D,10,D,30,B,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of these is commonly used to treat allergies? (A) antimatter (B) anticoagulants (C) antiseptics (D) antihistamines (10 points)
+2. Which of these evangelists is a cousin of rocker Jerry Lee Lewis? (A) Billy Graham (B) Oral Roberts (C) Jerry Falwell (D) Jimmy Swaggart (30 points)
+3. Which of the following guidance systems is principally a materials-handling device? (A) Escalator (B) Conveyor (C) Highway (D) Railroad (20 points)
+4. Which of these is not one of Aesop's fables? (A) The Dog and the Squirrel' (B) The Hare and the Tortoise' (C) The Eagle and the Beetle' (D) The Ox and the Frogs' (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+28,2,40-10-20-30,C,40,A,10,B,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in transportation in the United States by (A) establishing generous subsidies for urban mass transit (B) sponsoring research to develop less polluting automobiles (C) funding the construction of the interstate highway system (D) funding the establishment of a national railroad passenger system (40 points)
+2. What color is a ruby? (A) red (B) black (C) yellow (D) blue (10 points)
+3. What is called a 'lorry' in Britain? (A) a toaster (B) a truck (C) a babysitter (D) an elevator (20 points)
+4. What is the oldest permanent European settlement in the United States? (A) St Augustine Florida (B) Plymouth Massachusetts (C) Newport News Virginia (D) Charlotte North Carolina (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+29,2,40-30-10-20,D,40,A,30,C,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Islam first spread to Indonesia through (A) military conquest by the Mughal empire (B) mass migrations of African Muslims across the Indian Ocean (C) Dutch colonization in the 18th century (D) increased commercial contacts with Indian and Arab merchants (40 points)
+2. Simple accompaniments, light texture and smooth melodies are qualities of (A) galant style (B) partitas (C) Sturm und Drang (D) serenade (30 points)
+3. What is the name of the fruit that is half tangerine and half grapefruit? (A) graperine (B) tangefruit (C) tangelo (D) kumquat (10 points)
+4. What do the initials 'E E' in poet E E Cummings' name stand for? (A) Edward Estlin (B) Edmund Earl (C) Ernest Eakins (D) Eugene Evan (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+30,2,10-40-30-20,B,10,D,40,A,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of these words means 'yes'-in French? (A) qui (B) oui (C) ja (D) okey-dokey (10 points)
+2. The demand for which of the following products is likely to be the most elastic? (A) Water (B) Bread (C) Salt (D) Pork (40 points)
+3. What disease does a carcinogen cause? (A) cancer (B) influenza (C) emphysema (D) heart disease (30 points)
+4. What is the name of Raggedy Ann's doll brother? (A) Red (B) Freckles (C) Randy (D) Andy (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+31,2,40-20-10-30,D,40,B,20,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The most important consideration in designing successful messages to be transmitted through graphic communications is knowledge and understanding of (A) current technologies (B) the capabilities of the designer (C) the limitations of the printer (D) the nature of the audience (40 points)
+2. What is the correct spelling of New Mexico's largest city? (A) Albuqerque (B) Albuquerque (C) Albequerque (D) Santa Fe (20 points)
+3. In the phrase 'Y2K' what does 'K' stand for? (A) millennium (B) computer code (C) catastrophe (D) thousand (10 points)
+4. How much does it cost to air condition all American automobiles for a year (as of 2018)? (A) $10m (B) $100m (C) $1 billion (D) $10 billion (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+32,2,30-40-10-20,A,30,B,40,C,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the function of mitochondria in the cell? (A) To generate energy (B) To process waste (C) To kill viruses or other antigens (D) To repair damage (30 points)
+2. Which of the following is a likely outcome of the development and use of genetically modified plants? (A) Reduced cost of plant seeds (B) New plant varieties being patented (C) Increased genetic diversity within a planted field (D) Less oversight and fewer regulations than for unmodified crops (40 points)
+3. What is New Mexico's nickname? (A) The Desert State' (B) Gateway to Paradise' (C) Land of Enchantment' (D) The Garden State' (10 points)
+4. Which of the following is a force that is most responsible for causing a fixed-wing aircraft to move forward? (A) Lift (B) Drag (C) Thrust (D) Weight (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+33,2,10-30-20-40,B,10,C,30,B,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The disco band ABBA comes from what country? (A) Norway (B) Sweden (C) Switzerland (D) The Netherlands (10 points)
+2. Which of the following degrees can be awarded by the local chapter of the FFA? I. Greenhand FFA Degree II. Chapter FFA Degree III. State FFA Degree IV. American FFA Degree (A) I only (B) II only (C) I and II only (D) I , II , III , and IV (30 points)
+3. What was the name of the first ship to sail around the world? (A) Triton (B) Victoria (C) Magellan (D) Elizabeth II (20 points)
+4. The primary purpose of a Supervised Agricultural Experience ( SAE ) program is to (A) provide a basis for students to apply for and win proficiency awards (B) provide students with an income to be used to learn money management skills (C) give students a chance to earn enough money to qualify for local, state, and national FFA degrees (D) allow students to apply skills learned in the classroom and learn new skills in a specialized area (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+34,2,10-30-40-20,A,10,C,30,B,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What city's airport uses the code ORD? (A) Chicago (B) Orlando (C) New York City (D) Portland (10 points)
+2. What is the name of the female character played by comedian Flip Wilson on his 1970s TV show? (A) Miss Jackie (B) Elizabeth Sanford (C) Geraldine Jones (D) Gladys Knight (30 points)
+3. What was the revenue for flat screen televisions sold in Australia in the past 12 months (as of 2013)? (A) $120 million annual Revenue (B) $1.2 billion annual Revenue (C) $12 billion annual Revenue (D) $120 billion annual Revenue (40 points)
+4. According to the proverb necessity is the mother of what? (A) Invention (B) Luck (C) Problems (D) Procrastination (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+35,2,40-10-30-20,D,40,A,10,A,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following questions can a student ask to best determine whether an author is using the persuasive technique of pathos in a passage? (A) Does the author use tone and style to convey authority on the subject to the audience? (B) Does the author use credible and reliable sources to convince the audience of the argument? (C) Does the author use facts and sound reasoning to substantiate claims made to the audience? (D) Does the author use personal connections and stories to appeal to the audience's emotions? (40 points)
+2. The phrase 'hospital corners' refers to what? (A) bed sheets (B) paint (C) landscaping (D) scissors (10 points)
+3. A teacher reads aloud Where the Wild Things Are, a picture storybook in which a boy named Max encounters wild monsters that are vividly portrayed. The teacher then shows the students picture cards depicting scenes from the beginning, middle, and end of the story. Which of the following concepts of literary structure is the teacher helping students understand? (A) Plot sequence (B) Point of view (C) Character development (D) Setting (30 points)
+4. What exercise apparatus is used during a 'Spinning' class? (A) stationary bicycle (B) treadmill (C) rowing machine (D) barbells (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+36,2,20-10-30-40,C,20,C,10,A,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In 1926 the Harlem Globetrotters basketball team was formed in what city? (A) Boston (B) Philadelphia (C) Chicago (D) New York City (20 points)
+2. In what country are police officers referred to as 'bobbies'? (A) Israel (B) Greece (C) England (D) France (10 points)
+3. Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions? (A) White balance (B) Aperture (C) ISO speed (D) Shutter speed (30 points)
+4. Which of the following best defines federalism? (A) A government in which the political leader is also the religious leader (B) The concentration of government power in the hands of a small group of people (C) The division of national power into different branches of government (D) The division of a country's power into national and subnational units (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+37,2,10-30-40-20,A,10,D,30,A,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. To ward off bad luck what do many people do to wood? (A) knock on it (B) kiss it (C) thank it (D) scratch it (10 points)
+2. In weaving, the vertical and horizontal threads in a loom are called the (A) bobbin and quill (B) shuttle and paddle (C) ply and twist (D) warp and weft (30 points)
+3. Of the following objectives, which is most appropriate for a technology education program that has a goal of enabling students to develop creative technical solutions to present and future societal problems? (A) Design and construct a threedimensional model of a low-income, multifamily dwelling unit (B) Describe several construction careers that are related to home building (C) Categorize the components of a technical system (D) Identify the major tools and equipment used in highway construction (40 points)
+4. What was the birth name of civil rights leader Malcolm? (A) Michael Brown (B) Malcolm Little (C) Malcolm Lincoln (D) Michael Lloyd (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+38,2,40-20-10-30,C,40,A,20,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Poverty as defined by the United States government is best understood as (A) the index value of government services such as Medicaid and public housing (B) the concept of relative deprivation and is based on changes in the distribution of income (C) an absolute level set in the 1960s and since adjusted to reflect inflation at the consumer level (D) a concept based on lifestyle and measured on a sliding scale based on the needs of an individual (40 points)
+2. Which of these organizations is not part of the US government? (A) NAACP (B) NASA (C) CIA (D) FBI (20 points)
+3. Which of these names has never belonged to a Pope? (A) Leo (B) Lando (C) Linus (D) Lawrence (10 points)
+4. The total retail market value of all the goods and services produced in a nation, usually stated in annual terms, is the (A) ratio of profit to sales (B) current ratio (C) gross domestic product (D) trade surplus (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+39,3,20-10-40-30,B,20,B,10,B,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What organelle is primarily responsible for photosynthesis? (A) Nucleus (B) Chloroplast (C) Mitochondria (D) Golgi Apparatus (20 points)
+2. Who was the longest reigning monarch in French history? (A) Louis XIII (B) Louis XIV (C) Louis XV (D) Louis XVI (10 points)
+3. In what country did Magic Johnson play professional basketball during the 1999 season? (A) United States (B) Sweden (C) Israel (D) Turkey (40 points)
+4. What actress starred on 'Charlie's Angels' for the show's entire run? (A) Cheryl Ladd (B) Farrah Fawcett (C) Jaclyn Smith (D) Kate Jackson (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+40,3,20-10-30-40,D,20,A,10,C,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The 'Arkansas toothpick' is better known by what name? (A) Scottie Pippen (B) spare rib (C) pinkie finger (D) Bowie knife (20 points)
+2. Where is the Louvre museum? (A) Paris (B) Lyon (C) Geneva (D) Vichy (10 points)
+3. What Mexican holiday takes place on May 5th? (A) Mexican Independence Day (B) Santa Anna's Birthday (C) Cinco de Mayo (D) Christmas (30 points)
+4. The gasoline tank in a car holds 15 gallons when full. If there are 7 gallons of gasoline in the tank, how many gallons of gasoline are needed to fill the tank? Which of the following is most appropriate to use to correctly answer the question shown? (A) Multiplication (B) Subtraction (C) Estimation (D) Division (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+41,3,10-30-40-20,D,10,B,30,B,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following requires the use of at least two needles? (A) macrame (B) braiding (C) crocheting (D) hand knitting (10 points)
+2. According to a famous line from the existentialist play 'No Exit' what is hell? (A) oneself (B) other people (C) little made (D) large hued in green and blue (30 points)
+3. A fiscal policy to combat a recession would call for (A) an increase in taxes (B) an increase in government spending (C) a decrease in the reserve requirement (D) a decrease in the discount rate (40 points)
+4. What is the only metal that is a liquid at normal atmospheric pressure and temperature? (A) lead (B) antimony (C) uranium (D) mercury (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+42,3,30-40-20-10,C,30,B,40,A,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. For what purpose would you use an awl? (A) to shoot ducks (B) to polish floors (C) to make holes (D) to weigh fruit (30 points)
+2. To make an international telephone call from within the US what are the first numbers you should dial? (A) 11 (B) 101 (C) 888 (D) 911 (40 points)
+3. What is actor Antonio Banderas native language? (A) Spanish (B) Russian (C) German (D) French (20 points)
+4. What nationality was Karl Marx? (A) Russian (B) German (C) Danish (D) English (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+43,3,40-10-30-20,A,40,A,10,A,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A hard-edge painting is most likely to be characterized by (A) an even, solid paint application (B) blurry color mixed on the painting's surface (C) scratchy brush marks clearly separated (D) translucent multiple layers of paint (40 points)
+2. In which layer of Earth is the geomagnetic field generated? (A) Outer core (B) Crust (C) Mantle (D) Inner core (10 points)
+3. A flashing red traffic light signifies that a driver should do what? (A) stop (B) speed up (C) proceed with caution (D) honk the horn (30 points)
+4. People are supposed to drive on the left-hand side of the road in which country? (A) France (B) Italy (C) England (D) Germany (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+44,3,20-40-10-30,A,20,C,40,B,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the largest moon in the Solar System? (A) Ganymede (B) The Earth's Moon (C) Pluto (D) Europa (20 points)
+2. A _ is a plant cell that helps control the passage of materials into and out of the stomates. (A) Cell membrane (B) Cytoplasm (C) Guard cell (D) Cellulose (40 points)
+3. Which one of these is NOT a mineral? (A) Quartz (B) Lithium (C) Diamond (D) Calcite (10 points)
+4. When a gas turns into a liquid, the process is called (A) condensation (B) evaporation (C) deposition (D) sublimation (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+45,3,40-20-30-10,B,40,B,20,A,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When Corporation X pays out $300,000 in salaries, which of the following is the impact on assets and liabilities? (A) Salary expense is increased by $300,000; cash is increased by $300,000 (B) Salary expense is increased by $300,000; cash is decreased by $300,000 (C) Salary expense is decreased by $300,000; cash is increased by $300,000 (D) Salary expense is decreased by $300,000; cash is decreased by $300,000 (40 points)
+2. What metal device is used by police to immobilize the wheels of repeat parking offenders? (A) Brooklyn clamp (B) Denver boot (C) LoJack (D) The Club (20 points)
+3. Reindeer herding as an economic activity of the Sami in Norway is an example of which of the following types of diffusion? (A) Stimulus (B) Hierarchical (C) Relocation (D) Contagious (30 points)
+4. What does it mean to work 'probono'? (A) work overtime (B) work without pay (C) work as your own boss (D) not work at all (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+46,3,40-30-10-20,D,40,C,30,C,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A piece of paper that appears blue in sunlight is illuminated solely by a red light that is passed through a green filter. What color does the paper appear under this illumination? (A) Blue (B) Green (C) Red (D) Black (40 points)
+2. Who is the career hit leader among players never elected to Baseball's Hall of Fame? (A) Steve Garvey (B) Jim Rice (C) Pete Rose (D) Ken Griffey Jr (30 points)
+3. Which of these animals is a rodent? (A) Bat (B) Wolverine (C) Beaver (D) Koala (10 points)
+4. According to the USDA which food group should you eat the most servings of per day? (A) vegetables (B) dairy (C) meats (D) breads (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+47,3,30-10-40-20,C,30,B,10,B,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following best helps explain why some localities have normally large tidal ranges (up to 60 feet) and others have one- to two-foot tidal ranges? (A) The position of the Sun is different at different localities. (B) The Coriolis effect and rotation of Earth tend to enhance tidal flow in the higher latitudes. (C) Ocean floor topography and the shape of the coastline serve to amplify tidal flow at specific localities. (D) Trade winds push the water into large tidal bulges near rocky shorelines. (30 points)
+2. How many eyes does a Giraffe have? (A) one (B) two (C) three (D) four (10 points)
+3. Assume that the marginal propensity to consume increased from 0.75 in year 1 to 0.80 in year 2. Based on this information, which of the following is a correct conclusion? (A) In year 1, a $100 billion increase in government spending would have increased real output by a maximum of $75 billion. (B) From year 1 to year 2, the spending multiplier increased from 4 to 5. (C) A given change in government spending would have had a more powerful effect in year 1 than in year 2. (D) The marginal propensity to save increased from year 1 to year 2. (40 points)
+4. In what country did Pokemon originate? (A) France (B) Hungary (C) Japan (D) Canada (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+48,3,20-30-10-40,C,20,A,30,D,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What kind of angle is formed where two perpendicular lines meet? (A) obtuse (B) acute (C) right (D) invisible (20 points)
+2. Which of these is not a 'lock' function on a standard desktop computer keyboard? (A) print lock (B) number lock (C) scroll lock (D) caps lock (30 points)
+3. Who composed the 'Moonlight Sonata'? (A) Mozart (B) Handel (C) Bach (D) Beethoven (10 points)
+4. How much angular momentum did Hurricane Florence have when it hit land? (A) L = 10^16 kg * m^2 / s (B) L = 10^19 kg * m^2 / s (C) L = 10^22 kg * m^2 / s (D) L = 10^25 kg * m^2 / s (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+49,3,30-40-20-10,A,30,B,40,B,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The accumulation of stress along the boundaries of lithospheric plates results in which of the following? (A) Earthquakes (B) Magnetic reversals (C) Hurricanes (D) Increased deposition of deep-sea sediments (30 points)
+2. The use of inexpensive labor in Asian countries by footwear companies based in the United States and Europe is an example of which of the following? (A) Primary economic activity (B) Global division of labor (C) Intervening opportunity (D) Global-local continuum (40 points)
+3. From whom does the Lutheran Church get its name? (A) Martin Luther King Jr (B) Martin Luther (C) Luther Vandross (D) Lex Luthor (20 points)
+4. Which of these bones is located in the wrist? (A) Patella (B) Humerus (C) Carpals (D) Coccyx (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+50,3,20-30-40-10,B,20,C,30,B,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How many ships did Columbus set sail with on his initial voyage to ""the New World""? (A) Two (B) Three (C) Five (D) Ten (20 points)
+2. Which of these is not a position on an American football team? (A) quarterback (B) tight end (C) striker (D) free safety (30 points)
+3. The nineteenth-century photographic process used to create a daguerreotype was notable for its (A) quick exposure time (B) ability to capture sharp detail (C) capacity to be reproduced multiple times (D) use of paper negatives (40 points)
+4. What is the colored part of the eye called? (A) iris (B) pupil (C) retina (D) cochlea (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+51,3,40-10-20-30,A,40,A,10,B,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A teacher reads aloud Where the Wild Things Are, a picture storybook in which a boy named Max encounters wild monsters that are vividly portrayed. The teacher then shows the students picture cards depicting scenes from the beginning, middle, and end of the story. Which of the following concepts of literary structure is the teacher helping students understand? (A) Plot sequence (B) Point of view (C) Character development (D) Setting (40 points)
+2. What disease does a carcinogen cause? (A) cancer (B) influenza (C) emphysema (D) heart disease (10 points)
+3. According to a famous line from the existentialist play 'No Exit' what is hell? (A) oneself (B) other people (C) little made (D) large hued in green and blue (20 points)
+4. Islam first spread to Indonesia through (A) military conquest by the Mughal empire (B) mass migrations of African Muslims across the Indian Ocean (C) Dutch colonization in the 18th century (D) increased commercial contacts with Indian and Arab merchants (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+52,3,10-20-30-40,B,10,B,20,C,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How many eyes does a Giraffe have? (A) one (B) two (C) three (D) four (10 points)
+2. How many ships did Columbus set sail with on his initial voyage to ""the New World""? (A) Two (B) Three (C) Five (D) Ten (20 points)
+3. In 1926 the Harlem Globetrotters basketball team was formed in what city? (A) Boston (B) Philadelphia (C) Chicago (D) New York City (30 points)
+4. Which of these is not a 'lock' function on a standard desktop computer keyboard? (A) print lock (B) number lock (C) scroll lock (D) caps lock (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+53,3,30-20-10-40,A,30,C,20,C,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What do the initials 'E E' in poet E E Cummings' name stand for? (A) Edward Estlin (B) Edmund Earl (C) Ernest Eakins (D) Eugene Evan (30 points)
+2. In the movie 'Star Wars' what kind of creature is Chewbacca? (A) Woolie (B) Woobie (C) Wookiee (D) Klingon (20 points)
+3. In what country did Pokemon originate? (A) France (B) Hungary (C) Japan (D) Canada (10 points)
+4. Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions? (A) White balance (B) Aperture (C) ISO speed (D) Shutter speed (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+54,3,30-20-10-40,D,30,A,20,B,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The 'Arkansas toothpick' is better known by what name? (A) Scottie Pippen (B) spare rib (C) pinkie finger (D) Bowie knife (30 points)
+2. According to the proverb necessity is the mother of what? (A) Invention (B) Luck (C) Problems (D) Procrastination (20 points)
+3. Who was the longest reigning monarch in French history? (A) Louis XIII (B) Louis XIV (C) Louis XV (D) Louis XVI (10 points)
+4. The accumulation of stress along the boundaries of lithospheric plates results in which of the following? (A) Earthquakes (B) Magnetic reversals (C) Hurricanes (D) Increased deposition of deep-sea sediments (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+55,3,20-40-30-10,B,20,C,40,C,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A fiscal policy to combat a recession would call for (A) an increase in taxes (B) an increase in government spending (C) a decrease in the reserve requirement (D) a decrease in the discount rate (20 points)
+2. Which of the following degrees can be awarded by the local chapter of the FFA? I. Greenhand FFA Degree II. Chapter FFA Degree III. State FFA Degree IV. American FFA Degree (A) I only (B) II only (C) I and II only (D) I , II , III , and IV (40 points)
+3. The total retail market value of all the goods and services produced in a nation, usually stated in annual terms, is the (A) ratio of profit to sales (B) current ratio (C) gross domestic product (D) trade surplus (30 points)
+4. How much angular momentum did Hurricane Florence have when it hit land? (A) L = 10^16 kg * m^2 / s (B) L = 10^19 kg * m^2 / s (C) L = 10^22 kg * m^2 / s (D) L = 10^25 kg * m^2 / s (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+56,3,40-10-20-30,B,40,B,10,D,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What metal device is used by police to immobilize the wheels of repeat parking offenders? (A) Brooklyn clamp (B) Denver boot (C) LoJack (D) The Club (40 points)
+2. What type of substance is 'terra-cotta'? (A) metal (B) ceramic (C) wood (D) glass (10 points)
+3. Who composed the 'Moonlight Sonata'? (A) Mozart (B) Handel (C) Bach (D) Beethoven (20 points)
+4. What does it mean to work 'probono'? (A) work overtime (B) work without pay (C) work as your own boss (D) not work at all (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+57,3,10-30-20-40,A,10,C,30,C,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When a gas turns into a liquid, the process is called (A) condensation (B) evaporation (C) deposition (D) sublimation (10 points)
+2. How much does it cost to air condition all American automobiles for a year (as of 2018)? (A) $10m (B) $100m (C) $1 billion (D) $10 billion (30 points)
+3. People are supposed to drive on the left-hand side of the road in which country? (A) France (B) Italy (C) England (D) Germany (20 points)
+4. Which of the following is a force that is most responsible for causing a fixed-wing aircraft to move forward? (A) Lift (B) Drag (C) Thrust (D) Weight (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+58,4,20-10-30-40,A,20,C,10,D,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In which layer of Earth is the geomagnetic field generated? (A) Outer core (B) Crust (C) Mantle (D) Inner core (20 points)
+2. Which of these bones is located in the wrist? (A) Patella (B) Humerus (C) Carpals (D) Coccyx (10 points)
+3. The primary purpose of a Supervised Agricultural Experience ( SAE ) program is to (A) provide a basis for students to apply for and win proficiency awards (B) provide students with an income to be used to learn money management skills (C) give students a chance to earn enough money to qualify for local, state, and national FFA degrees (D) allow students to apply skills learned in the classroom and learn new skills in a specialized area (30 points)
+4. Assume that the marginal propensity to consume increased from 0.75 in year 1 to 0.80 in year 2. Based on this information, which of the following is a correct conclusion? (A) In year 1, a $100 billion increase in government spending would have increased real output by a maximum of $75 billion. (B) From year 1 to year 2, the spending multiplier increased from 4 to 5. (C) A given change in government spending would have had a more powerful effect in year 1 than in year 2. (D) The marginal propensity to save increased from year 1 to year 2. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+59,4,40-10-30-20,D,40,D,10,C,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of these evangelists is a cousin of rocker Jerry Lee Lewis? (A) Billy Graham (B) Oral Roberts (C) Jerry Falwell (D) Jimmy Swaggart (40 points)
+2. In the phrase 'Y2K' what does 'K' stand for? (A) millennium (B) computer code (C) catastrophe (D) thousand (10 points)
+3. Which of these is not a position on an American football team? (A) quarterback (B) tight end (C) striker (D) free safety (30 points)
+4. What was the name of the first ship to sail around the world? (A) Triton (B) Victoria (C) Magellan (D) Elizabeth II (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+60,4,30-20-10-40,B,30,A,20,A,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In what country did Magic Johnson play professional basketball during the 1999 season? (A) United States (B) Sweden (C) Israel (D) Turkey (30 points)
+2. To ward off bad luck what do many people do to wood? (A) knock on it (B) kiss it (C) thank it (D) scratch it (20 points)
+3. What city's airport uses the code ORD? (A) Chicago (B) Orlando (C) New York City (D) Portland (10 points)
+4. The gasoline tank in a car holds 15 gallons when full. If there are 7 gallons of gasoline in the tank, how many gallons of gasoline are needed to fill the tank? Which of the following is most appropriate to use to correctly answer the question shown? (A) Multiplication (B) Subtraction (C) Estimation (D) Division (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+61,4,40-20-10-30,A,40,A,20,A,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of these is not one of Aesop's fables? (A) The Dog and the Squirrel' (B) The Hare and the Tortoise' (C) The Eagle and the Beetle' (D) The Ox and the Frogs' (40 points)
+2. What is the largest moon in the Solar System? (A) Ganymede (B) The Earth's Moon (C) Pluto (D) Europa (20 points)
+3. What is the colored part of the eye called? (A) iris (B) pupil (C) retina (D) cochlea (10 points)
+4. Which of the following requires the use of at least two needles? (A) macrame (B) braiding (C) crocheting (D) hand knitting (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+62,4,20-10-30-40,A,20,B,10,C,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What exercise apparatus is used during a 'Spinning' class? (A) stationary bicycle (B) treadmill (C) rowing machine (D) barbells (20 points)
+2. Which of these words means 'yes'-in French? (A) qui (B) oui (C) ja (D) okey-dokey (10 points)
+3. What Mexican holiday takes place on May 5th? (A) Mexican Independence Day (B) Santa Anna's Birthday (C) Cinco de Mayo (D) Christmas (30 points)
+4. Who is the career hit leader among players never elected to Baseball's Hall of Fame? (A) Steve Garvey (B) Jim Rice (C) Pete Rose (D) Ken Griffey Jr (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+63,4,30-40-20-10,D,30,C,40,A,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A piece of paper that appears blue in sunlight is illuminated solely by a red light that is passed through a green filter. What color does the paper appear under this illumination? (A) Blue (B) Green (C) Red (D) Black (30 points)
+2. Poverty as defined by the United States government is best understood as (A) the index value of government services such as Medicaid and public housing (B) the concept of relative deprivation and is based on changes in the distribution of income (C) an absolute level set in the 1960s and since adjusted to reflect inflation at the consumer level (D) a concept based on lifestyle and measured on a sliding scale based on the needs of an individual (40 points)
+3. A flashing red traffic light signifies that a driver should do what? (A) stop (B) speed up (C) proceed with caution (D) honk the horn (20 points)
+4. The disco band ABBA comes from what country? (A) Norway (B) Sweden (C) Switzerland (D) The Netherlands (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+64,4,10-40-20-30,A,10,B,40,C,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What color is a ruby? (A) red (B) black (C) yellow (D) blue (10 points)
+2. The use of inexpensive labor in Asian countries by footwear companies based in the United States and Europe is an example of which of the following? (A) Primary economic activity (B) Global division of labor (C) Intervening opportunity (D) Global-local continuum (40 points)
+3. What is New Mexico's nickname? (A) The Desert State' (B) Gateway to Paradise' (C) Land of Enchantment' (D) The Garden State' (20 points)
+4. What is the function of mitochondria in the cell? (A) To generate energy (B) To process waste (C) To kill viruses or other antigens (D) To repair damage (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+65,4,30-10-40-20,B,30,B,10,B,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What was the revenue for flat screen televisions sold in Australia in the past 12 months (as of 2013)? (A) $120 million annual Revenue (B) $1.2 billion annual Revenue (C) $12 billion annual Revenue (D) $120 billion annual Revenue (30 points)
+2. From whom does the Lutheran Church get its name? (A) Martin Luther King Jr (B) Martin Luther (C) Luther Vandross (D) Lex Luthor (10 points)
+3. The nineteenth-century photographic process used to create a daguerreotype was notable for its (A) quick exposure time (B) ability to capture sharp detail (C) capacity to be reproduced multiple times (D) use of paper negatives (40 points)
+4. What is the only metal that is a liquid at normal atmospheric pressure and temperature? (A) lead (B) antimony (C) uranium (D) mercury (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+66,4,30-10-20-40,C,30,B,10,D,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A _ is a plant cell that helps control the passage of materials into and out of the stomates. (A) Cell membrane (B) Cytoplasm (C) Guard cell (D) Cellulose (30 points)
+2. Which one of these is NOT a mineral? (A) Quartz (B) Lithium (C) Diamond (D) Calcite (10 points)
+3. What is the name of Raggedy Ann's doll brother? (A) Red (B) Freckles (C) Randy (D) Andy (20 points)
+4. Reindeer herding as an economic activity of the Sami in Norway is an example of which of the following types of diffusion? (A) Stimulus (B) Hierarchical (C) Relocation (D) Contagious (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+67,4,20-40-30-10,D,20,B,40,C,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of these is commonly used to treat allergies? (A) antimatter (B) anticoagulants (C) antiseptics (D) antihistamines (20 points)
+2. What is the oldest permanent European settlement in the United States? (A) St Augustine Florida (B) Plymouth Massachusetts (C) Newport News Virginia (D) Charlotte North Carolina (40 points)
+3. What actress starred on 'Charlie's Angels' for the show's entire run? (A) Cheryl Ladd (B) Farrah Fawcett (C) Jaclyn Smith (D) Kate Jackson (30 points)
+4. What is actor Antonio Banderas native language? (A) Spanish (B) Russian (C) German (D) French (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+68,4,20-30-40-10,D,20,D,30,A,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following best defines federalism? (A) A government in which the political leader is also the religious leader (B) The concentration of government power in the hands of a small group of people (C) The division of national power into different branches of government (D) The division of a country's power into national and subnational units (20 points)
+2. The principles of xeriscaping are best exemplified by a homeowner who (A) installs an in-ground sprinkler system that operates on a timer (B) lowers the cutting height on the lawn mower to reduce the surface area in contact with the cutting blade (C) increases the use of fertilizer on the turfgrass to promote growth (D) replaces nonnative ornamentals with native shrubs that do not require irrigation (30 points)
+3. Of the following objectives, which is most appropriate for a technology education program that has a goal of enabling students to develop creative technical solutions to present and future societal problems? (A) Design and construct a threedimensional model of a low-income, multifamily dwelling unit (B) Describe several construction careers that are related to home building (C) Categorize the components of a technical system (D) Identify the major tools and equipment used in highway construction (40 points)
+4. What nationality was Karl Marx? (A) Russian (B) German (C) Danish (D) English (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+69,4,30-10-40-20,B,30,D,10,B,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is a likely outcome of the development and use of genetically modified plants? (A) Reduced cost of plant seeds (B) New plant varieties being patented (C) Increased genetic diversity within a planted field (D) Less oversight and fewer regulations than for unmodified crops (30 points)
+2. Which of these names has never belonged to a Pope? (A) Leo (B) Lando (C) Linus (D) Lawrence (10 points)
+3. When Corporation X pays out $300,000 in salaries, which of the following is the impact on assets and liabilities? (A) Salary expense is increased by $300,000; cash is increased by $300,000 (B) Salary expense is increased by $300,000; cash is decreased by $300,000 (C) Salary expense is decreased by $300,000; cash is increased by $300,000 (D) Salary expense is decreased by $300,000; cash is decreased by $300,000 (40 points)
+4. What is called a 'lorry' in Britain? (A) a toaster (B) a truck (C) a babysitter (D) an elevator (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+70,4,40-10-20-30,C,40,B,10,D,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in transportation in the United States by (A) establishing generous subsidies for urban mass transit (B) sponsoring research to develop less polluting automobiles (C) funding the construction of the interstate highway system (D) funding the establishment of a national railroad passenger system (40 points)
+2. What organelle is primarily responsible for photosynthesis? (A) Nucleus (B) Chloroplast (C) Mitochondria (D) Golgi Apparatus (10 points)
+3. In weaving, the vertical and horizontal threads in a loom are called the (A) bobbin and quill (B) shuttle and paddle (C) ply and twist (D) warp and weft (20 points)
+4. The most important consideration in designing successful messages to be transmitted through graphic communications is knowledge and understanding of (A) current technologies (B) the capabilities of the designer (C) the limitations of the printer (D) the nature of the audience (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+71,4,40-20-30-10,C,40,C,20,B,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following best helps explain why some localities have normally large tidal ranges (up to 60 feet) and others have one- to two-foot tidal ranges? (A) The position of the Sun is different at different localities. (B) The Coriolis effect and rotation of Earth tend to enhance tidal flow in the higher latitudes. (C) Ocean floor topography and the shape of the coastline serve to amplify tidal flow at specific localities. (D) Trade winds push the water into large tidal bulges near rocky shorelines. (40 points)
+2. In what country are police officers referred to as 'bobbies'? (A) Israel (B) Greece (C) England (D) France (20 points)
+3. To make an international telephone call from within the US what are the first numbers you should dial? (A) 11 (B) 101 (C) 888 (D) 911 (30 points)
+4. Where is the Louvre museum? (A) Paris (B) Lyon (C) Geneva (D) Vichy (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+72,4,30-40-20-10,B,30,D,40,C,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the correct spelling of New Mexico's largest city? (A) Albuqerque (B) Albuquerque (C) Albequerque (D) Santa Fe (30 points)
+2. According to the USDA which food group should you eat the most servings of per day? (A) vegetables (B) dairy (C) meats (D) breads (40 points)
+3. For what purpose would you use an awl? (A) to shoot ducks (B) to polish floors (C) to make holes (D) to weigh fruit (20 points)
+4. Which of these animals is a rodent? (A) Bat (B) Wolverine (C) Beaver (D) Koala (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+73,4,30-10-20-40,C,30,C,10,B,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the name of the female character played by comedian Flip Wilson on his 1970s TV show? (A) Miss Jackie (B) Elizabeth Sanford (C) Geraldine Jones (D) Gladys Knight (30 points)
+2. What kind of angle is formed where two perpendicular lines meet? (A) obtuse (B) acute (C) right (D) invisible (10 points)
+3. What was the birth name of civil rights leader Malcolm? (A) Michael Brown (B) Malcolm Little (C) Malcolm Lincoln (D) Michael Lloyd (20 points)
+4. Which of the following questions can a student ask to best determine whether an author is using the persuasive technique of pathos in a passage? (A) Does the author use tone and style to convey authority on the subject to the audience? (B) Does the author use credible and reliable sources to convince the audience of the argument? (C) Does the author use facts and sound reasoning to substantiate claims made to the audience? (D) Does the author use personal connections and stories to appeal to the audience's emotions? (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+74,4,40-20-30-10,A,40,A,20,B,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Simple accompaniments, light texture and smooth melodies are qualities of (A) galant style (B) partitas (C) Sturm und Drang (D) serenade (40 points)
+2. The phrase 'hospital corners' refers to what? (A) bed sheets (B) paint (C) landscaping (D) scissors (20 points)
+3. Which of the following guidance systems is principally a materials-handling device? (A) Escalator (B) Conveyor (C) Highway (D) Railroad (30 points)
+4. Which of these organizations is not part of the US government? (A) NAACP (B) NASA (C) CIA (D) FBI (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+75,4,20-40-10-30,D,20,A,40,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The demand for which of the following products is likely to be the most elastic? (A) Water (B) Bread (C) Salt (D) Pork (20 points)
+2. A hard-edge painting is most likely to be characterized by (A) an even, solid paint application (B) blurry color mixed on the painting's surface (C) scratchy brush marks clearly separated (D) translucent multiple layers of paint (40 points)
+3. Which of these foods is not traditionally considered kosher? (A) citrus fruits (B) barley (C) chicken (D) shellfish (10 points)
+4. What is the name of the fruit that is half tangerine and half grapefruit? (A) graperine (B) tangefruit (C) tangelo (D) kumquat (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+76,4,40-20-30-10,C,40,A,20,C,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What actress starred on 'Charlie's Angels' for the show's entire run? (A) Cheryl Ladd (B) Farrah Fawcett (C) Jaclyn Smith (D) Kate Jackson (40 points)
+2. When a gas turns into a liquid, the process is called (A) condensation (B) evaporation (C) deposition (D) sublimation (20 points)
+3. People are supposed to drive on the left-hand side of the road in which country? (A) France (B) Italy (C) England (D) Germany (30 points)
+4. What is actor Antonio Banderas native language? (A) Spanish (B) Russian (C) German (D) French (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+77,5,40-10-30-20,C,40,C,10,A,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following best helps explain why some localities have normally large tidal ranges (up to 60 feet) and others have one- to two-foot tidal ranges? (A) The position of the Sun is different at different localities. (B) The Coriolis effect and rotation of Earth tend to enhance tidal flow in the higher latitudes. (C) Ocean floor topography and the shape of the coastline serve to amplify tidal flow at specific localities. (D) Trade winds push the water into large tidal bulges near rocky shorelines. (40 points)
+2. The total retail market value of all the goods and services produced in a nation, usually stated in annual terms, is the (A) ratio of profit to sales (B) current ratio (C) gross domestic product (D) trade surplus (10 points)
+3. A teacher reads aloud Where the Wild Things Are, a picture storybook in which a boy named Max encounters wild monsters that are vividly portrayed. The teacher then shows the students picture cards depicting scenes from the beginning, middle, and end of the story. Which of the following concepts of literary structure is the teacher helping students understand? (A) Plot sequence (B) Point of view (C) Character development (D) Setting (30 points)
+4. The most important consideration in designing successful messages to be transmitted through graphic communications is knowledge and understanding of (A) current technologies (B) the capabilities of the designer (C) the limitations of the printer (D) the nature of the audience (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+78,5,40-20-30-10,C,40,A,20,D,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is New Mexico's nickname? (A) The Desert State' (B) Gateway to Paradise' (C) Land of Enchantment' (D) The Garden State' (40 points)
+2. What is the colored part of the eye called? (A) iris (B) pupil (C) retina (D) cochlea (20 points)
+3. Which of these foods is not traditionally considered kosher? (A) citrus fruits (B) barley (C) chicken (D) shellfish (30 points)
+4. What type of substance is 'terra-cotta'? (A) metal (B) ceramic (C) wood (D) glass (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+79,5,40-30-20-10,B,40,C,30,D,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is a likely outcome of the development and use of genetically modified plants? (A) Reduced cost of plant seeds (B) New plant varieties being patented (C) Increased genetic diversity within a planted field (D) Less oversight and fewer regulations than for unmodified crops (40 points)
+2. Which of the following degrees can be awarded by the local chapter of the FFA? I. Greenhand FFA Degree II. Chapter FFA Degree III. State FFA Degree IV. American FFA Degree (A) I only (B) II only (C) I and II only (D) I , II , III , and IV (30 points)
+3. Which of the following requires the use of at least two needles? (A) macrame (B) braiding (C) crocheting (D) hand knitting (20 points)
+4. In the movie 'Star Wars' what kind of creature is Chewbacca? (A) Woolie (B) Woobie (C) Wookiee (D) Klingon (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+80,5,10-20-40-30,B,10,B,20,B,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of these words means 'yes'-in French? (A) qui (B) oui (C) ja (D) okey-dokey (10 points)
+2. The disco band ABBA comes from what country? (A) Norway (B) Sweden (C) Switzerland (D) The Netherlands (20 points)
+3. The nineteenth-century photographic process used to create a daguerreotype was notable for its (A) quick exposure time (B) ability to capture sharp detail (C) capacity to be reproduced multiple times (D) use of paper negatives (40 points)
+4. In what country did Magic Johnson play professional basketball during the 1999 season? (A) United States (B) Sweden (C) Israel (D) Turkey (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+81,5,20-10-30-40,A,20,D,10,B,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of these organizations is not part of the US government? (A) NAACP (B) NASA (C) CIA (D) FBI (20 points)
+2. Which of these names has never belonged to a Pope? (A) Leo (B) Lando (C) Linus (D) Lawrence (10 points)
+3. Which of the following guidance systems is principally a materials-handling device? (A) Escalator (B) Conveyor (C) Highway (D) Railroad (30 points)
+4. The primary purpose of a Supervised Agricultural Experience ( SAE ) program is to (A) provide a basis for students to apply for and win proficiency awards (B) provide students with an income to be used to learn money management skills (C) give students a chance to earn enough money to qualify for local, state, and national FFA degrees (D) allow students to apply skills learned in the classroom and learn new skills in a specialized area (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+82,5,40-30-20-10,B,40,A,30,D,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How much angular momentum did Hurricane Florence have when it hit land? (A) L = 10^16 kg * m^2 / s (B) L = 10^19 kg * m^2 / s (C) L = 10^22 kg * m^2 / s (D) L = 10^25 kg * m^2 / s (40 points)
+2. In which layer of Earth is the geomagnetic field generated? (A) Outer core (B) Crust (C) Mantle (D) Inner core (30 points)
+3. In the phrase 'Y2K' what does 'K' stand for? (A) millennium (B) computer code (C) catastrophe (D) thousand (20 points)
+4. What nationality was Karl Marx? (A) Russian (B) German (C) Danish (D) English (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+83,5,20-40-30-10,C,20,D,40,D,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of these bones is located in the wrist? (A) Patella (B) Humerus (C) Carpals (D) Coccyx (20 points)
+2. A piece of paper that appears blue in sunlight is illuminated solely by a red light that is passed through a green filter. What color does the paper appear under this illumination? (A) Blue (B) Green (C) Red (D) Black (40 points)
+3. Which of these evangelists is a cousin of rocker Jerry Lee Lewis? (A) Billy Graham (B) Oral Roberts (C) Jerry Falwell (D) Jimmy Swaggart (30 points)
+4. Where is the Louvre museum? (A) Paris (B) Lyon (C) Geneva (D) Vichy (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+84,5,40-30-10-20,C,40,A,30,B,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in transportation in the United States by (A) establishing generous subsidies for urban mass transit (B) sponsoring research to develop less polluting automobiles (C) funding the construction of the interstate highway system (D) funding the establishment of a national railroad passenger system (40 points)
+2. To ward off bad luck what do many people do to wood? (A) knock on it (B) kiss it (C) thank it (D) scratch it (30 points)
+3. Which one of these is NOT a mineral? (A) Quartz (B) Lithium (C) Diamond (D) Calcite (10 points)
+4. In what country are police officers referred to as 'bobbies'? (A) Israel (B) Greece (C) England (D) France (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+85,5,30-10-20-40,A,30,C,10,D,20,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A flashing red traffic light signifies that a driver should do what? (A) stop (B) speed up (C) proceed with caution (D) honk the horn (30 points)
+2. Which of these animals is a rodent? (A) Bat (B) Wolverine (C) Beaver (D) Koala (10 points)
+3. The demand for which of the following products is likely to be the most elastic? (A) Water (B) Bread (C) Salt (D) Pork (20 points)
+4. Of the following objectives, which is most appropriate for a technology education program that has a goal of enabling students to develop creative technical solutions to present and future societal problems? (A) Design and construct a threedimensional model of a low-income, multifamily dwelling unit (B) Describe several construction careers that are related to home building (C) Categorize the components of a technical system (D) Identify the major tools and equipment used in highway construction (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+86,5,30-40-10-20,A,30,A,40,A,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Simple accompaniments, light texture and smooth melodies are qualities of (A) galant style (B) partitas (C) Sturm und Drang (D) serenade (30 points)
+2. Which of these is not one of Aesop's fables? (A) The Dog and the Squirrel' (B) The Hare and the Tortoise' (C) The Eagle and the Beetle' (D) The Ox and the Frogs' (40 points)
+3. The phrase 'hospital corners' refers to what? (A) bed sheets (B) paint (C) landscaping (D) scissors (10 points)
+4. What organelle is primarily responsible for photosynthesis? (A) Nucleus (B) Chloroplast (C) Mitochondria (D) Golgi Apparatus (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+87,5,40-10-20-30,D,40,A,10,D,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following best defines federalism? (A) A government in which the political leader is also the religious leader (B) The concentration of government power in the hands of a small group of people (C) The division of national power into different branches of government (D) The division of a country's power into national and subnational units (40 points)
+2. What disease does a carcinogen cause? (A) cancer (B) influenza (C) emphysema (D) heart disease (10 points)
+3. What is the only metal that is a liquid at normal atmospheric pressure and temperature? (A) lead (B) antimony (C) uranium (D) mercury (20 points)
+4. A fiscal policy to combat a recession would call for (A) an increase in taxes (B) an increase in government spending (C) a decrease in the reserve requirement (D) a decrease in the discount rate (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+88,5,10-20-40-30,D,10,A,20,A,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Who composed the 'Moonlight Sonata'? (A) Mozart (B) Handel (C) Bach (D) Beethoven (10 points)
+2. What do the initials 'E E' in poet E E Cummings' name stand for? (A) Edward Estlin (B) Edmund Earl (C) Ernest Eakins (D) Eugene Evan (20 points)
+3. Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions? (A) White balance (B) Aperture (C) ISO speed (D) Shutter speed (40 points)
+4. What Mexican holiday takes place on May 5th? (A) Mexican Independence Day (B) Santa Anna's Birthday (C) Cinco de Mayo (D) Christmas (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+89,5,30-40-10-20,B,30,C,40,C,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. From whom does the Lutheran Church get its name? (A) Martin Luther King Jr (B) Martin Luther (C) Luther Vandross (D) Lex Luthor (30 points)
+2. Who is the career hit leader among players never elected to Baseball's Hall of Fame? (A) Steve Garvey (B) Jim Rice (C) Pete Rose (D) Ken Griffey Jr (40 points)
+3. What kind of angle is formed where two perpendicular lines meet? (A) obtuse (B) acute (C) right (D) invisible (10 points)
+4. For what purpose would you use an awl? (A) to shoot ducks (B) to polish floors (C) to make holes (D) to weigh fruit (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+90,5,40-30-10-20,B,40,A,30,B,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The gasoline tank in a car holds 15 gallons when full. If there are 7 gallons of gasoline in the tank, how many gallons of gasoline are needed to fill the tank? Which of the following is most appropriate to use to correctly answer the question shown? (A) Multiplication (B) Subtraction (C) Estimation (D) Division (40 points)
+2. The accumulation of stress along the boundaries of lithospheric plates results in which of the following? (A) Earthquakes (B) Magnetic reversals (C) Hurricanes (D) Increased deposition of deep-sea sediments (30 points)
+3. How many eyes does a Giraffe have? (A) one (B) two (C) three (D) four (10 points)
+4. What was the name of the first ship to sail around the world? (A) Triton (B) Victoria (C) Magellan (D) Elizabeth II (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+91,5,10-20-40-30,B,10,A,20,C,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Who was the longest reigning monarch in French history? (A) Louis XIII (B) Louis XIV (C) Louis XV (D) Louis XVI (10 points)
+2. According to the proverb necessity is the mother of what? (A) Invention (B) Luck (C) Problems (D) Procrastination (20 points)
+3. In 1926 the Harlem Globetrotters basketball team was formed in what city? (A) Boston (B) Philadelphia (C) Chicago (D) New York City (40 points)
+4. What exercise apparatus is used during a 'Spinning' class? (A) stationary bicycle (B) treadmill (C) rowing machine (D) barbells (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+92,5,40-20-30-10,C,40,C,20,A,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A _ is a plant cell that helps control the passage of materials into and out of the stomates. (A) Cell membrane (B) Cytoplasm (C) Guard cell (D) Cellulose (40 points)
+2. What is the name of the fruit that is half tangerine and half grapefruit? (A) graperine (B) tangefruit (C) tangelo (D) kumquat (20 points)
+3. Which of these is not a 'lock' function on a standard desktop computer keyboard? (A) print lock (B) number lock (C) scroll lock (D) caps lock (30 points)
+4. Which of these is commonly used to treat allergies? (A) antimatter (B) anticoagulants (C) antiseptics (D) antihistamines (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+93,5,40-10-30-20,D,40,D,10,A,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following questions can a student ask to best determine whether an author is using the persuasive technique of pathos in a passage? (A) Does the author use tone and style to convey authority on the subject to the audience? (B) Does the author use credible and reliable sources to convince the audience of the argument? (C) Does the author use facts and sound reasoning to substantiate claims made to the audience? (D) Does the author use personal connections and stories to appeal to the audience's emotions? (40 points)
+2. The 'Arkansas toothpick' is better known by what name? (A) Scottie Pippen (B) spare rib (C) pinkie finger (D) Bowie knife (10 points)
+3. Reindeer herding as an economic activity of the Sami in Norway is an example of which of the following types of diffusion? (A) Stimulus (B) Hierarchical (C) Relocation (D) Contagious (30 points)
+4. What is the name of the female character played by comedian Flip Wilson on his 1970s TV show? (A) Miss Jackie (B) Elizabeth Sanford (C) Geraldine Jones (D) Gladys Knight (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+94,5,30-10-20-40,C,30,D,10,C,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How much does it cost to air condition all American automobiles for a year (as of 2018)? (A) $10m (B) $100m (C) $1 billion (D) $10 billion (30 points)
+2. What is the name of Raggedy Ann's doll brother? (A) Red (B) Freckles (C) Randy (D) Andy (10 points)
+3. Which of these is not a position on an American football team? (A) quarterback (B) tight end (C) striker (D) free safety (20 points)
+4. Which of the following is a force that is most responsible for causing a fixed-wing aircraft to move forward? (A) Lift (B) Drag (C) Thrust (D) Weight (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+95,5,10-20-30-40,C,10,A,20,D,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In what country did Pokemon originate? (A) France (B) Hungary (C) Japan (D) Canada (10 points)
+2. What is the largest moon in the Solar System? (A) Ganymede (B) The Earth's Moon (C) Pluto (D) Europa (20 points)
+3. According to the USDA which food group should you eat the most servings of per day? (A) vegetables (B) dairy (C) meats (D) breads (30 points)
+4. Islam first spread to Indonesia through (A) military conquest by the Mughal empire (B) mass migrations of African Muslims across the Indian Ocean (C) Dutch colonization in the 18th century (D) increased commercial contacts with Indian and Arab merchants (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+96,5,20-30-40-10,B,20,B,30,B,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. How many ships did Columbus set sail with on his initial voyage to ""the New World""? (A) Two (B) Three (C) Five (D) Ten (20 points)
+2. What does it mean to work 'probono'? (A) work overtime (B) work without pay (C) work as your own boss (D) not work at all (30 points)
+3. What is the oldest permanent European settlement in the United States? (A) St Augustine Florida (B) Plymouth Massachusetts (C) Newport News Virginia (D) Charlotte North Carolina (40 points)
+4. What is called a 'lorry' in Britain? (A) a toaster (B) a truck (C) a babysitter (D) an elevator (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."

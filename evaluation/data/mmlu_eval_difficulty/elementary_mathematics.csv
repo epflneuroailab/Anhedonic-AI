@@ -1,0 +1,973 @@
+ID,Subset,Reward_Order,Correct_Answer_1,Reward_1,Correct_Answer_2,Reward_2,Correct_Answer_3,Reward_3,Correct_Answer_4,Reward_4,Full_Prompt
+1,1,30-10-40-20,A,30,B,10,C,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Malik has 240 CDs. He sorted them into 12 equal groups. Which expression shows how to find the number of CDs in each group? (A) 240 ÷ 12 (B) 240 – 12 (C) 240 + 12 (D) 240 × 12 (30 points)
+2. Solve 3 over 4 * x = 24. (A) 18 (B) 32 (C) 72 (D) 96 (10 points)
+3. Two whole numbers have a least common multiple of 60. Each number is less than or equal to 12. The greatest common factor of the two numbersis 2. What are the two numbers? (A) 6 and 10 (B) 5 and 12 (C) 10 and 12 (D) 12 and 15 (40 points)
+4. Find the product of 0.07 • 5.8. (A) 0.406 (B) 0.0406 (C) 4.06 (D) 40.6 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+2,1,10-40-20-30,A,10,C,40,B,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. −4 +  ( −3 )= (A) −7 (B) −1 (C) 1 (D) 7 (10 points)
+2. At a college, approximately 2 out of 5 seniors go on to attend graduate school. If there are 750 seniors at the college, how many would be expected to attend graduate school? (A) 75 seniors (B) 107 seniors (C) 300 seniors (D) 400 seniors (40 points)
+3. What is 7% equal to? (A) 0.007 (B) 0.07 (C) 0.7 (D) 7 (20 points)
+4. Roya paid $48 for 12 cartons of orange juice. What is the unit rate per carton of orange juice that Roya paid? (A) $3  (B) $4  (C) $6  (D) $12  (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+3,1,40-10-30-20,B,40,C,10,B,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A circular tree trunk has a diameter of 8 feet. Which equation could be used to find the distance in feet around the tree trunk? (A) C = 4π (B) C =8π (C) C =16π (D) C = 64π (40 points)
+2. Use mental math to find the sum of 11.7 + 3.4 + 6.3. (A) 20.3 (B) 20.4 (C) 21.4 (D) 22.4 (10 points)
+3. A number, rounded to the nearest thousand,is 47,000. Which number could be the number that was rounded? (A) 46,295 (B) 46,504 (C) 47,520 (D) 47,924 (30 points)
+4. Use the list of numbers: 22, 25, 14, 11, 23, 27, 46. What is the mode? (A) 23 (B) 24 (C) 35 (D) No mode (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+4,1,30-10-20-40,D,30,B,10,C,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What number multiplied by 4 equals 36? (A) 6 (B) 7 (C) 8 (D) 9 (30 points)
+2. Use mental math to solve 8y = 56. (A) 6 (B) 7 (C) 8 (D) 9 (10 points)
+3. Solve the equation v − 26 = 68. (A) −42 (B) 42 (C) 94 (D) 88 (20 points)
+4. Estimate 999 - 103. The difference is between which numbers? (A) 1,300 and 1,500 (B) 1,000 and 1,200 (C) 700 and 900 (D) 400 and 600 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+5,1,40-10-30-20,A,40,C,10,D,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Mr. Kohlberg owns a flower shop. At the beginning of the day, he had 152 roses. Mr. Kohlberg sold 96 of the roses and then wanted to separate the rest of the roses equally among 8 vases. What will be the total number of roses in each vase? (A) 7 (B) 12 (C) 48 (D) 56 (40 points)
+2. Find the LCM of 24 and 36. (A) 96 (B) 144 (C) 72 (D) 120 (10 points)
+3. Jean threw a softball a distance of 9 feet. Lee threw a softball 3 times as far as Jean. Which equation can be used to determine thedistance, d, that Lee threw the ball? (A) dx3=9 (B) d+3=9 (C) 3+9=d (D) 3x9=d (30 points)
+4. Which number written in exponential notation is equivalent to 343? (A) 3^7 (B) 7^3 (C) 7^49 (D) 294^49 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+6,1,10-20-30-40,A,10,D,20,A,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When n = 11, what is the value of 10 – (n + 6)? (A) –7 (B) 5 (C) 7 (D) 27 (10 points)
+2. Which expression is equivalent to 9(9m + 3t)? (A) 18m + 3t (B) 81m+3t (C) 18m + 12t (D) 81m + 27t (20 points)
+3. There are 72 students on the dance team, and 4 over 9 take tap lessons. How many students take tap lessons? (A) 32 (B) 49 (C) 63 (D) 68 (30 points)
+4. The practice range at a golf course charges $4.00 for a bucket of 40 golf balls. At this rate, how much will a bucket of 100 golf balls cost? (A) $10.00  (B) $10.50  (C) $13.50  (D) $16.00  (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+7,1,20-40-10-30,D,20,C,40,C,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the value of the expression 28 x 42? (A) 420 (B) 816 (C) 1,166 (D) 1,176 (20 points)
+2. There are 190 guests at a wedding. What is the least number of circular tables needed to seat all the guests if each table seats exactly 8 people? (A) 22 (B) 23 (C) 24 (D) 25 (40 points)
+3. Find the exact answer: 942 / 3 (A) 214 (B) 304 (C) 314 (D) 642 (10 points)
+4. The population of a certain city is 836,527. What is the population of this city rounded to the nearest ten thousand? (A) 800,000 (B) 830,000 (C) 836,000 (D) 840,000 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+8,1,40-30-10-20,C,40,A,30,C,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A theater collected $6 for each ticket sold to a movie. The theater sold 500 tickets to the movie. The expression below can be used to find how much money the theater collected for the tickets. 6 × 500 Which expression can also be used to find how much money the theater collected for the tickets? (A) 30 × 10^1 (B) 30 × 10^3 (C) (6 × 5) × 10^2 (D) (6 × 5) × 10^3 (40 points)
+2. Jerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book? (A) 16 hours (B) 18 hours (C) 24 hours (D) 32 hours (30 points)
+3. Find the median in the set of data $79.88, $21.88, $29.88, $19.88, $17.88. (A) $17.88  (B) $19.88  (C) $21.88  (D) $29.88  (10 points)
+4. Write 1 and 1 over 11 as a whole or mixed number in simplest form. (A) 1.1 over 11 (B) 11 over 11 (C) 12 over 11 (D) 11 over 12 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+9,1,20-30-10-40,D,20,C,30,D,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which fraction is greater than 2 over 5? (A) 1 over 5 (B) 1 over 10 (C) 4 over 10 (D) 5 over 10 (20 points)
+2. Which ratio can form a proportion with 3 over 8? (A) 18 over 40 (B) 18 over 56 (C) 24 over 64 (D) 15 over 48 (30 points)
+3. Find 4 over 7 + 2 over 7. (A) 6 over 14 (B) 8 over 49 (C) 14 over 28 (D) 6 over 7 (10 points)
+4. What is the measure, in degrees, of an angle that is equivalent to 1/360 of a circle? (A) 1 (B) 90 (C) 180 (D) 360 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+10,1,40-10-20-30,D,40,C,10,D,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Ty has 12 weeks to read a certain number of books. He will spend 2 weeks reading each book. Which expression can Ty use to find the total number of books he will read? (A) 12 – 2 (B) 12 + 12 (C) 12 – 2 – 2 – 2 (D) 12 – 2 – 2 – 2 – 2 – 2 – 2 (40 points)
+2. Find 3 over 4 − 1 over 8. (A) 21 over 32 (B) 1 (C) 5 over 8 (D) 11 over 16 (10 points)
+3. Which expression represents the phrase below? 3 fewer than a number, p (A) 3-p (B) p+3 (C) 3/p (D) p-3 (20 points)
+4. Which pair of expressions is equivalent for any variable value greater than zero? (A) 3(x+2) and 3x+2 (B) 4d+ 2e and 8d+e (C) f+f+f+g and 3fg (D) b+b+3c and 2b+ 3c (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+11,1,30-10-40-20,C,30,B,10,D,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Dani has 45 marbles. She has 5 times as many marbles as Joe has. How many marbles does Joe have? (A) 50 (B) 40 (C) 9 (D) 5 (30 points)
+2. Simplify 5^3. Use a calculator, paper and pencil, or mental math. (A) 15 (B) 125 (C) 8 (D) 53 (10 points)
+3. An ice cream shopsold 48 vanilla milkshakes in a day, which was 40% of the total number of milkshakes sold that day. What was the total number of milkshakes that the ice cream shop sold that day? (A) 60 (B) 72 (C) 100 (D) 120 (40 points)
+4. Cat food costs $.47/lb. How much does a 6-lb bag cost? (A) $2.82  (B) $2.97  (C) $6.47  (D) $12.77  (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+12,1,20-10-30-40,B,20,C,10,D,30,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Find the exact answer: 145 + 281 + 62 (A) 426 (B) 488 (C) 946 (D) 1,046 (20 points)
+2. What is the supplement of a 40° angle? (A) 50° (B) 130° (C) 140° (D) 220° (10 points)
+3. There are three different sections to sit in at a baseball park. The number of people who can sit in each section is described below.
+* red section seats 200 people
+* blue section seats 20 fewer people than the red section
+* green section seats 2 times as many people as the blue section
+What is the total number of people who can sit in the baseball park? (A) 260 (B) 380 (C) 640 (D) 740 (30 points)
+4. Use a number line to find the sum of −9 + (−8). (A) −17 (B) 1 (C) −1 (D) 17 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+13,1,10-20-40-30,B,10,D,20,B,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Solve the equation 14 = w + 23. (A) −37 (B) −9 (C) 9 (D) 37 (10 points)
+2. Write the prime factorization of 77. Use exponents where possible. (A) 7 • 11^2 • 13 (B) 7^2 • 11 (C) 7 • 11 • 13 (D) 7 • 11 (20 points)
+3. A basketball player scored 18 points in his first game. This is 4 points fewer than he scored in his second game. Write and solve an equation to find p the number of points he scored in his second game. (A) 18 = p − 4; 14 (B) 18 = p − 4; 22 (C) 18 − 4 = p; 14 (D) 18 − p = 4; 22 (40 points)
+4. A baseball team sold 215 youth tickets for $3 ea (A) (215 × 3) – (467 × 7) (B) (215 × 7) – (467 × 3) (C) (467 × 3) – (215 × 7) (D) (467 × 7) – (215 × 3) (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+14,1,10-40-20-30,B,10,B,40,A,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The original price of a new bicycle is $138.00. If the bicycle is marked down 15%, what is the new price? (A) $20.70  (B) $117.30  (C) $123.00  (D) $153.00  (10 points)
+2. Which situation can be represented by the fraction 20/8? (A) Leslie spent 20 dollars and 8 cents at a store. How is the amount of money Leslie spent written as a fraction? (B) Mr. Kramer’s 8 grandchildren shared 20 crackers equally. How many crackers did each grandchild get? (C) Mitch bought 20 containers of flowers at a plant store. Each container had 8 flowers in it. How many flowers did Mitch buy? (D) Stamps are sold in booklets of 20 stamps. Donna used 8 stamps to send invitations for a party. How many booklets of stamps did Donna use to send her invitations? (40 points)
+3. Peter works 38 hours per week and earns $7.25 per hour. His employer gives him a raise that increases his weekly gross pay to $307.80. What is the increase in Peter's weekly gross pay? (A) $32.30  (B) $34.70  (C) $42.46  (D) $275.50  (20 points)
+4. Jack picks 60 apples from an apple tree. He uses 12 of them to make applesauce. He places the remaining apples equally into 6 gift baskets. Which equation can be used to determine the numberof apples, a, that Jack places into each gift basket? (A) (60/6)—12=a (B) (60—12)/6=a (C) (60-6)-12=a (D) (60+12)/6=a (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+15,1,40-30-20-10,D,40,C,30,D,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. There are 2,817 homes in the town of West Valley. Each home uses an average of 380 gallons of water each day. Use the expression below to find the total number of gallons of water the homes in West Valley use on average each day. 2,817 × 380 What is the total number of gallons of water the homes in West Valley use on average each day? (A) 860,460 gallons (B) 870,460 gallons (C) 1,060,460 gallons (D) 1,070,460 gallons (40 points)
+2. There are 20 students in Mr. Clark's fourth-grade class. There are 5 times as many students in the entire fourth grade as there are in Mr. Clark's class. Which equation can be used to determine the number of students, n, in the entire fourth grade? (A) 5xn= 20 (B) 5+20=n (C) 20x5=n (D) 20/n=5 (30 points)
+3. The American flag is usually made with its width and length in the ratio of 10 to 19. Which dimensions are in the correct ratio for the flag? (A) 30 ft by 53 ft (B) 27 ft by 53 ft (C) 27 in. by 57 in. (D) 30 in. by 57 in. (20 points)
+4. Which of the following is the best estimate for 4,286 × 390? (A) 12,000,000 (B) 1,600,000 (C) 1,200,000 (D) 16,000 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+16,1,40-10-20-30,D,40,D,10,A,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Ms. Gutierrez needs to order rope for her gym class of 32 students. Each student will receive a piece of rope that is 5 feet 8 inches long. What is the total length of rope Ms. Gutierrez needs to order for her class? (A) 106 feet 8 inches (B) 154 feet 8 inches (C) 160 feet 8 inches (D) 181 feet 4 inches (40 points)
+2. Which pair of ratios CANNOT form a proportion? (A) 4 over 5 and 24 over 30 (B) 4 over 5 and 20 over 25 (C) 36 over 45 and 4 over 5 (D) 4 over 5 and 20 over 30 (10 points)
+3. The Mills Library has 1,007,199 books. The Springvale Library has 907,082 books. Which of the following is the best estimate of how many more books the Mills Library has than the Springvale Library? (A) 100,000 books (B) 80,000 books (C) 10,000 books (D) 8,000 books (20 points)
+4. A group of students make a map of the area around their school. They place the school at (0, 0). The nearest store is placed at the point (–5, 7). In which quadrant is the point representing the nearest store? (A) Quadrant I (B) Quadrant II (C) Quadrant III (D) Quadrant IV (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+17,1,30-10-40-20,C,30,D,10,B,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Katie is going on vacation for 3 weeks. She finds the number of days of work she will miss by multiplying 5 × 3. Which expression shows another way Katie can find the number of days of work she will miss? (A) 3+5 (B) 3+3+3 (C) 5+5+5 (D) 5+5+5+5+5 (30 points)
+2. A certain map uses a scale of 1 inch equals 25 miles. How many miles are represented by 5 inches on this map? (A) 5 (B) 25 (C) 50 (D) 125 (10 points)
+3. Steve ordered plastic cases for storing his baseball cards. Each case has a length of 12 centimeters, a width of 6.5 centimeters, and a height of 1.25 centimeters. What is the volume, in cubic centimeters, of one baseball card case? (A) 39.5 (B) 97.5 (C) 118.5 (D) 202.25 (40 points)
+4. A model of a park was built on a scale of 1.5 centimeters to 50 meters. If the distance between two trees in the park is 150 meters, what is this distance on the model? (A) 0.5 centimeter (B) 4.5 centimeters (C) 75 centimeters (D) 225 centimeters (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+18,1,40-20-30-10,B,40,C,20,D,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A store has 3 boxes of shirts. Each box has 4 packages with 7 shirts in each package. The expression 3 × (4 × 7) can be used to find the total number of shirts. Which expression can also be used to find the total number of shirts? (A) 12 × 3 (B) 12 × 7 (C) 28 × 4 (D) 28 × 7 (40 points)
+2. Jess scored 18 points during her last basketball game. Each basket she made was worth 2 points. How many baskets did she make? (A) 20 (B) 16 (C) 9 (D) 8 (20 points)
+3. Yesterday, Micah ate an even number of strawberries. He also ate an odd number of apples. Which group could represent the strawberries, S, and apples, A, Micah ate yesterday? (A) SSSSS; AAA (B) SSSSS; AAAA (C) SSSSSSSS; AAAA (D) SSSSSSSS; A (30 points)
+4. Write the prime factorization of 48. Use exponents where possible. (A) 4 • 8 (B) 6 • 8 (C) 2^3 • 3^2 (D) 2^4 • 3 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+19,1,10-30-40-20,D,10,B,30,B,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. All of Bella’s photos are in 8 photo books. Each photo book has 25 photos. Which expression shows how to find the total number of photos Bella has? (A) 25 ÷ 8 (B) 25 – 8 (C) 25 + 8 (D) 25 × 8 (10 points)
+2. A restaurant used 231 eggs last week. Of these, 46 were brown in color. The remaining eggs were white in color. Which equation can be used to solve for w, the number of white eggs used last week? (A) 231+ 46w = 0 (B) 46+w= 231 (C) w= 231+ 46 (D) 231 = 46w (30 points)
+3. Information about what the students in Mr. Paulson’s class and in Ms. Hugo’s class ate for lunch is listed below. In Mr. Paulson’s class, 0.5 of the students ate pizza for lunch. In Ms. Hugo’s class, 0.5 of the students ate hamburgers for lunch. What information, if any, is needed to correctly compare the 0.5 of Mr. Paulson’s class that ate pizza to the 0.5 of Ms. Hugo’s class that ate hamburgers? (A) whether the lunches were eaten on the same day (B) the total number of students in each teacher’s class (C) nothing because the portions each class ate were the same (D) the total number of pizza slices and hamburgers eaten that day (40 points)
+4. Mr. Lucci put together 5 bags of pens. He put 19 black pens and 12 red pens in each bag. Which expression shows the total number of pens Mr. Lucci put into bags? (A) (5 × 19) + 12 (B) 5 × (19 + 12) (C) 5 + (19 × 12) (D) (5 + 19) × 12 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+20,2,40-10-30-20,D,40,C,10,C,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The first number in a number pattern is 28. The pattern rule is to add 14 to get the next number in the pattern. If the pattern continues, which statement is true? (A) All the numbers in the pattern can be divided equally by 10. (B) All the numbers in the pattern can be divided equally by 4. (C) All the numbers in the pattern can be divided equally by 8. (D) All the numbers in the pattern can be divided equally by 7. (40 points)
+2. Find the value of the expression −25 − (−11). (A) −36 (B) −14 (C) 14 (D) 36 (10 points)
+3. There are 230 calories in 4 ounces of a type of ice cream. How many calories are in 6 ounces of that ice cream? (A) 232 (B) 236 (C) 345 (D) 460 (30 points)
+4. Find the median of the set of data 13, 35, 26, 8, 24, 10, 22, 10, 32. (A) 23 (B) 20 (C) 22 (D) 27 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+21,2,20-30-40-10,A,20,C,30,D,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Solve the equation x + 71 = −22. (A) −93 (B) −49 (C) 49 (D) 93 (20 points)
+2. Write 4 and 4 over 5 as an improper fraction. (A) 28 over 5 (B) 4 over 5 (C) 24 over 5 (D) 20 over 5 (30 points)
+3. A number is rounded to the nearest hundred. The result is 500. Which number could not be the number before it was rounded to the nearest hundred? (A) 458 (B) 463 (C) 547 (D) 559 (40 points)
+4. Compute 22 / 2 + 9. (A) 10 (B) 11 (C) 20 (D) 2 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+22,2,10-30-20-40,A,10,B,30,B,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Find the number that makes the statement true: 26.1 mm = _ dm. (A) 0.261 (B) 261 (C) 2.61 (D) 2,610 (10 points)
+2. Last week, Paul ate 2 cookies each day for 5 days. This week, he ate 2 cookies each day for 4 days. Which expression can be used to represent the total number of cookies Paul ate in these two weeks? (A) 2x (5x4) (B) 2x (5+ 4) (C) (2x5)x (2x4) (D) (2+5)x(2+4) (30 points)
+3. Manuel bought a used car for six thousand forty-nine dollars. What is the cost of the used car Manuel bought written as a numeral? (A) $649  (B) $6,049  (C) $6,409  (D) $6,490  (20 points)
+4. The price of a share of stock for company XYZ at the beginning of the week was $24.75. Over the next five days, the stock gained $2.50 on Monday, lost $3.25 on Tuesday, lost $0.75 on Wednesday, gained $1.25 on Thursday, and gained $4.75 on Friday. What was the price of the share of stock at the end of Friday? (A) $12.25  (B) $25.75  (C) $29.25  (D) $37.25  (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+23,2,20-10-40-30,B,20,B,10,B,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Solve the equation −6x = −36. Check your answer. (A) 1 over 6 (B) 6 (C) 1 over 216 (D) 216 (20 points)
+2. Compute 52 + 6 * 2. (A) 116 (B) 64 (C) 62 (D) 118 (10 points)
+3. John’s friend told him that he could earn $49 for handing out flyers at a local concert. John wants to calculate the hourly rate, If he works a total of 3.5 hours, the equation 3.5x = 49 can be used to determine his hourly rate. What would John’s hourly rate be, in dollars? (A) $1.40  (B) $14.00  (C) $45.50  (D) $171.50  (40 points)
+4. Which situation could be represented by the expression 6 x 2? (A) Rocco hiked six miles each day for two days. (B) Rocco had six baseballs and gave away two of them. (C) Rocco had a total of six tennis balls in two cans. (D) Rocco biked six miles and then continued for two more miles. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+24,2,30-20-10-40,B,30,D,20,D,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Some bakers make apple pies. They have 15 boxes of apples. Each box has 18 apples. They use 7 apples for each pie. What is the total number of apple pies that the bakers can make? (A) 33 (B) 38 (C) 39 (D) 40 (30 points)
+2. In which set do all of the values make the inequality 2x — 1 < 10 true? (A) {10, 15, 20} (B) {5, 7, 9} (C) {4, 6, 8} (D) {2, 3, 4} (20 points)
+3. What is the quotient for the expression 2,314 / 4? (A) 508 (B) 508 r2 (C) 578 (D) 578 r2 (10 points)
+4. Coach Wu has a total of 30 soccerballs. 9 soccer balls are white. The remaining soccer balls are one of three different colors (blue, pink, or green). There is an equal numberof blue, pink, and green balls How many green soccer balls does Coach Wu have? (A) 7 (B) 10 (C) 21 (D) 39 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+25,2,20-10-40-30,B,20,C,10,B,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Altogether, Sonia and Negin have $27.00. Sonia buys a shirt for $12.35 and Negin buys a pair of sandals for $10.11. How much money remains? (A) $4.46  (B) $4.54  (C) $5.36  (D) $5.76  (20 points)
+2. What is a reasonable height for a doorway? (A) 2 km (B) 2 cm (C) 2 m (D) 2 mm (10 points)
+3. Trish’s resting heart rate is 50 beats per minute. For every minute she exercises, her heart rate increases 5 beats per minute. How long will it take her to reach a heart rate of 120 beats per minute? (A) 5 minutes (B) 14 minutes (C) 34 minutes (D) 70 minutes (40 points)
+4. A shelf has four books on it. The weight, in pounds, of each of the four books on the shelf is 2.5, 3.2, 2.7, 2.3 Which inequality represents the weight, w, of any book chosen from the shelf? (A) w > 2.3 (B) w < 2.4 (C) w > 3.2 (D) w < 3.3 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+26,2,40-20-10-30,A,40,D,20,B,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Coach Wu has a total of 30 soccerballs. 9 soccer balls are white. The remaining soccer balls are one of three different colors (blue, pink, or green). There is an equal numberof blue, pink, and green balls How many green soccer balls does Coach Wu have? (A) 7 (B) 10 (C) 21 (D) 39 (40 points)
+2. Use the list of numbers: 22, 25, 14, 11, 23, 27, 46. What is the mode? (A) 23 (B) 24 (C) 35 (D) No mode (20 points)
+3. Solve the equation −6x = −36. Check your answer. (A) 1 over 6 (B) 6 (C) 1 over 216 (D) 216 (10 points)
+4. Some bakers make apple pies. They have 15 boxes of apples. Each box has 18 apples. They use 7 apples for each pie. What is the total number of apple pies that the bakers can make? (A) 33 (B) 38 (C) 39 (D) 40 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+27,2,40-30-10-20,B,40,C,30,A,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Information about what the students in Mr. Paulson’s class and in Ms. Hugo’s class ate for lunch is listed below. In Mr. Paulson’s class, 0.5 of the students ate pizza for lunch. In Ms. Hugo’s class, 0.5 of the students ate hamburgers for lunch. What information, if any, is needed to correctly compare the 0.5 of Mr. Paulson’s class that ate pizza to the 0.5 of Ms. Hugo’s class that ate hamburgers? (A) whether the lunches were eaten on the same day (B) the total number of students in each teacher’s class (C) nothing because the portions each class ate were the same (D) the total number of pizza slices and hamburgers eaten that day (40 points)
+2. A theater collected $6 for each ticket sold to a movie. The theater sold 500 tickets to the movie. The expression below can be used to find how much money the theater collected for the tickets. 6 × 500 Which expression can also be used to find how much money the theater collected for the tickets? (A) 30 × 10^1 (B) 30 × 10^3 (C) (6 × 5) × 10^2 (D) (6 × 5) × 10^3 (30 points)
+3. Solve the equation x + 71 = −22. (A) −93 (B) −49 (C) 49 (D) 93 (10 points)
+4. A basketball player scored 18 points in his first game. This is 4 points fewer than he scored in his second game. Write and solve an equation to find p the number of points he scored in his second game. (A) 18 = p − 4; 14 (B) 18 = p − 4; 22 (C) 18 − 4 = p; 14 (D) 18 − p = 4; 22 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+28,2,30-40-10-20,A,30,C,40,D,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Peter works 38 hours per week and earns $7.25 per hour. His employer gives him a raise that increases his weekly gross pay to $307.80. What is the increase in Peter's weekly gross pay? (A) $32.30  (B) $34.70  (C) $42.46  (D) $275.50  (30 points)
+2. The price of a share of stock for company XYZ at the beginning of the week was $24.75. Over the next five days, the stock gained $2.50 on Monday, lost $3.25 on Tuesday, lost $0.75 on Wednesday, gained $1.25 on Thursday, and gained $4.75 on Friday. What was the price of the share of stock at the end of Friday? (A) $12.25  (B) $25.75  (C) $29.25  (D) $37.25  (40 points)
+3. What number multiplied by 4 equals 36? (A) 6 (B) 7 (C) 8 (D) 9 (10 points)
+4. All of Bella’s photos are in 8 photo books. Each photo book has 25 photos. Which expression shows how to find the total number of photos Bella has? (A) 25 ÷ 8 (B) 25 – 8 (C) 25 + 8 (D) 25 × 8 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+29,2,30-10-40-20,D,30,B,10,C,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The population of a certain city is 836,527. What is the population of this city rounded to the nearest ten thousand? (A) 800,000 (B) 830,000 (C) 836,000 (D) 840,000 (30 points)
+2. What is 7% equal to? (A) 0.007 (B) 0.07 (C) 0.7 (D) 7 (10 points)
+3. There are 190 guests at a wedding. What is the least number of circular tables needed to seat all the guests if each table seats exactly 8 people? (A) 22 (B) 23 (C) 24 (D) 25 (40 points)
+4. What is the measure, in degrees, of an angle that is equivalent to 1/360 of a circle? (A) 1 (B) 90 (C) 180 (D) 360 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+30,2,20-10-40-30,D,20,D,10,B,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Find 4 over 7 + 2 over 7. (A) 6 over 14 (B) 8 over 49 (C) 14 over 28 (D) 6 over 7 (20 points)
+2. What is the value of the expression 28 x 42? (A) 420 (B) 816 (C) 1,166 (D) 1,176 (10 points)
+3. Roya paid $48 for 12 cartons of orange juice. What is the unit rate per carton of orange juice that Roya paid? (A) $3  (B) $4  (C) $6  (D) $12  (40 points)
+4. Use mental math to find the sum of 11.7 + 3.4 + 6.3. (A) 20.3 (B) 20.4 (C) 21.4 (D) 22.4 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+31,2,40-20-30-10,D,40,D,20,C,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In which set do all of the values make the inequality 2x — 1 < 10 true? (A) {10, 15, 20} (B) {5, 7, 9} (C) {4, 6, 8} (D) {2, 3, 4} (40 points)
+2. Write the prime factorization of 77. Use exponents where possible. (A) 7 • 11^2 • 13 (B) 7^2 • 11 (C) 7 • 11 • 13 (D) 7 • 11 (20 points)
+3. Write 1 and 1 over 11 as a whole or mixed number in simplest form. (A) 1.1 over 11 (B) 11 over 11 (C) 12 over 11 (D) 11 over 12 (30 points)
+4. Find the value of the expression −25 − (−11). (A) −36 (B) −14 (C) 14 (D) 36 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+32,2,20-10-30-40,D,20,D,10,A,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which pair of expressions is equivalent for any variable value greater than zero? (A) 3(x+2) and 3x+2 (B) 4d+ 2e and 8d+e (C) f+f+f+g and 3fg (D) b+b+3c and 2b+ 3c (20 points)
+2. Which fraction is greater than 2 over 5? (A) 1 over 5 (B) 1 over 10 (C) 4 over 10 (D) 5 over 10 (10 points)
+3. The practice range at a golf course charges $4.00 for a bucket of 40 golf balls. At this rate, how much will a bucket of 100 golf balls cost? (A) $10.00  (B) $10.50  (C) $13.50  (D) $16.00  (30 points)
+4. Steve ordered plastic cases for storing his baseball cards. Each case has a length of 12 centimeters, a width of 6.5 centimeters, and a height of 1.25 centimeters. What is the volume, in cubic centimeters, of one baseball card case? (A) 39.5 (B) 97.5 (C) 118.5 (D) 202.25 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+33,2,10-40-20-30,C,10,A,40,A,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Compute 22 / 2 + 9. (A) 10 (B) 11 (C) 20 (D) 2 (10 points)
+2. Malik has 240 CDs. He sorted them into 12 equal groups. Which expression shows how to find the number of CDs in each group? (A) 240 ÷ 12 (B) 240 – 12 (C) 240 + 12 (D) 240 × 12 (40 points)
+3. There are 72 students on the dance team, and 4 over 9 take tap lessons. How many students take tap lessons? (A) 32 (B) 49 (C) 63 (D) 68 (20 points)
+4. A number, rounded to the nearest thousand,is 47,000. Which number could be the number that was rounded? (A) 46,295 (B) 46,504 (C) 47,520 (D) 47,924 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+34,2,30-10-20-40,B,30,A,10,C,20,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Jack picks 60 apples from an apple tree. He uses 12 of them to make applesauce. He places the remaining apples equally into 6 gift baskets. Which equation can be used to determine the numberof apples, a, that Jack places into each gift basket? (A) (60/6)—12=a (B) (60—12)/6=a (C) (60-6)-12=a (D) (60+12)/6=a (30 points)
+2. Use a number line to find the sum of −9 + (−8). (A) −17 (B) 1 (C) −1 (D) 17 (10 points)
+3. There are 20 students in Mr. Clark's fourth-grade class. There are 5 times as many students in the entire fourth grade as there are in Mr. Clark's class. Which equation can be used to determine the number of students, n, in the entire fourth grade? (A) 5xn= 20 (B) 5+20=n (C) 20x5=n (D) 20/n=5 (20 points)
+4. The first number in a number pattern is 28. The pattern rule is to add 14 to get the next number in the pattern. If the pattern continues, which statement is true? (A) All the numbers in the pattern can be divided equally by 10. (B) All the numbers in the pattern can be divided equally by 4. (C) All the numbers in the pattern can be divided equally by 8. (D) All the numbers in the pattern can be divided equally by 7. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+35,2,10-40-20-30,B,10,D,40,C,20,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Use mental math to solve 8y = 56. (A) 6 (B) 7 (C) 8 (D) 9 (10 points)
+2. Ms. Gutierrez needs to order rope for her gym class of 32 students. Each student will receive a piece of rope that is 5 feet 8 inches long. What is the total length of rope Ms. Gutierrez needs to order for her class? (A) 106 feet 8 inches (B) 154 feet 8 inches (C) 160 feet 8 inches (D) 181 feet 4 inches (40 points)
+3. Write 4 and 4 over 5 as an improper fraction. (A) 28 over 5 (B) 4 over 5 (C) 24 over 5 (D) 20 over 5 (20 points)
+4. Jess scored 18 points during her last basketball game. Each basket she made was worth 2 points. How many baskets did she make? (A) 20 (B) 16 (C) 9 (D) 8 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+36,2,20-30-40-10,C,20,D,30,B,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Two whole numbers have a least common multiple of 60. Each number is less than or equal to 12. The greatest common factor of the two numbersis 2. What are the two numbers? (A) 6 and 10 (B) 5 and 12 (C) 10 and 12 (D) 12 and 15 (20 points)
+2. An ice cream shopsold 48 vanilla milkshakes in a day, which was 40% of the total number of milkshakes sold that day. What was the total number of milkshakes that the ice cream shop sold that day? (A) 60 (B) 72 (C) 100 (D) 120 (30 points)
+3. A group of students make a map of the area around their school. They place the school at (0, 0). The nearest store is placed at the point (–5, 7). In which quadrant is the point representing the nearest store? (A) Quadrant I (B) Quadrant II (C) Quadrant III (D) Quadrant IV (40 points)
+4. Dani has 45 marbles. She has 5 times as many marbles as Joe has. How many marbles does Joe have? (A) 50 (B) 40 (C) 9 (D) 5 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+37,2,30-40-10-20,D,30,D,40,C,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which pair of ratios CANNOT form a proportion? (A) 4 over 5 and 24 over 30 (B) 4 over 5 and 20 over 25 (C) 36 over 45 and 4 over 5 (D) 4 over 5 and 20 over 30 (30 points)
+2. Jean threw a softball a distance of 9 feet. Lee threw a softball 3 times as far as Jean. Which equation can be used to determine thedistance, d, that Lee threw the ball? (A) dx3=9 (B) d+3=9 (C) 3+9=d (D) 3x9=d (40 points)
+3. Find the exact answer: 942 / 3 (A) 214 (B) 304 (C) 314 (D) 642 (10 points)
+4. Which expression represents the phrase below? 3 fewer than a number, p (A) 3-p (B) p+3 (C) 3/p (D) p-3 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+38,2,30-40-10-20,D,30,C,40,C,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A certain map uses a scale of 1 inch equals 25 miles. How many miles are represented by 5 inches on this map? (A) 5 (B) 25 (C) 50 (D) 125 (30 points)
+2. At a college, approximately 2 out of 5 seniors go on to attend graduate school. If there are 750 seniors at the college, how many would be expected to attend graduate school? (A) 75 seniors (B) 107 seniors (C) 300 seniors (D) 400 seniors (40 points)
+3. What is a reasonable height for a doorway? (A) 2 km (B) 2 cm (C) 2 m (D) 2 mm (10 points)
+4. Cat food costs $.47/lb. How much does a 6-lb bag cost? (A) $2.82  (B) $2.97  (C) $6.47  (D) $12.77  (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+39,3,10-20-30-40,C,10,A,20,C,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Find the LCM of 24 and 36. (A) 96 (B) 144 (C) 72 (D) 120 (10 points)
+2. When n = 11, what is the value of 10 – (n + 6)? (A) –7 (B) 5 (C) 7 (D) 27 (20 points)
+3. Estimate 999 - 103. The difference is between which numbers? (A) 1,300 and 1,500 (B) 1,000 and 1,200 (C) 700 and 900 (D) 400 and 600 (30 points)
+4. Ty has 12 weeks to read a certain number of books. He will spend 2 weeks reading each book. Which expression can Ty use to find the total number of books he will read? (A) 12 – 2 (B) 12 + 12 (C) 12 – 2 – 2 – 2 (D) 12 – 2 – 2 – 2 – 2 – 2 – 2 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+40,3,30-40-10-20,C,30,B,40,D,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Find the median in the set of data $79.88, $21.88, $29.88, $19.88, $17.88. (A) $17.88  (B) $19.88  (C) $21.88  (D) $29.88  (30 points)
+2. A store has 3 boxes of shirts. Each box has 4 packages with 7 shirts in each package. The expression 3 × (4 × 7) can be used to find the total number of shirts. Which expression can also be used to find the total number of shirts? (A) 12 × 3 (B) 12 × 7 (C) 28 × 4 (D) 28 × 7 (40 points)
+3. What is the quotient for the expression 2,314 / 4? (A) 508 (B) 508 r2 (C) 578 (D) 578 r2 (10 points)
+4. Find the number that makes the statement true: 26.1 mm = _ dm. (A) 0.261 (B) 261 (C) 2.61 (D) 2,610 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+41,3,30-40-10-20,B,30,B,40,A,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is the best estimate for 4,286 × 390? (A) 12,000,000 (B) 1,600,000 (C) 1,200,000 (D) 16,000 (30 points)
+2. Trish’s resting heart rate is 50 beats per minute. For every minute she exercises, her heart rate increases 5 beats per minute. How long will it take her to reach a heart rate of 120 beats per minute? (A) 5 minutes (B) 14 minutes (C) 34 minutes (D) 70 minutes (40 points)
+3. Find the product of 0.07 • 5.8. (A) 0.406 (B) 0.0406 (C) 4.06 (D) 40.6 (10 points)
+4. Simplify 5^3. Use a calculator, paper and pencil, or mental math. (A) 15 (B) 125 (C) 8 (D) 53 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+42,3,40-30-20-10,A,40,D,30,D,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Jerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book? (A) 16 hours (B) 18 hours (C) 24 hours (D) 32 hours (40 points)
+2. A baseball team sold 215 youth tickets for $3 ea (A) (215 × 3) – (467 × 7) (B) (215 × 7) – (467 × 3) (C) (467 × 3) – (215 × 7) (D) (467 × 7) – (215 × 3) (30 points)
+3. Which expression is equivalent to 9(9m + 3t)? (A) 18m + 3t (B) 81m+3t (C) 18m + 12t (D) 81m + 27t (20 points)
+4. Find the median of the set of data 13, 35, 26, 8, 24, 10, 22, 10, 32. (A) 23 (B) 20 (C) 22 (D) 27 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+43,3,20-10-30-40,B,20,B,10,A,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Manuel bought a used car for six thousand forty-nine dollars. What is the cost of the used car Manuel bought written as a numeral? (A) $649  (B) $6,049  (C) $6,409  (D) $6,490  (20 points)
+2. A circular tree trunk has a diameter of 8 feet. Which equation could be used to find the distance in feet around the tree trunk? (A) C = 4π (B) C =8π (C) C =16π (D) C = 64π (10 points)
+3. Mr. Kohlberg owns a flower shop. At the beginning of the day, he had 152 roses. Mr. Kohlberg sold 96 of the roses and then wanted to separate the rest of the roses equally among 8 vases. What will be the total number of roses in each vase? (A) 7 (B) 12 (C) 48 (D) 56 (30 points)
+4. John’s friend told him that he could earn $49 for handing out flyers at a local concert. John wants to calculate the hourly rate, If he works a total of 3.5 hours, the equation 3.5x = 49 can be used to determine his hourly rate. What would John’s hourly rate be, in dollars? (A) $1.40  (B) $14.00  (C) $45.50  (D) $171.50  (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+44,3,10-20-30-40,C,10,C,20,B,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Solve the equation v − 26 = 68. (A) −42 (B) 42 (C) 94 (D) 88 (10 points)
+2. What is the supplement of a 40° angle? (A) 50° (B) 130° (C) 140° (D) 220° (20 points)
+3. Which number written in exponential notation is equivalent to 343? (A) 3^7 (B) 7^3 (C) 7^49 (D) 294^49 (30 points)
+4. There are 2,817 homes in the town of West Valley. Each home uses an average of 380 gallons of water each day. Use the expression below to find the total number of gallons of water the homes in West Valley use on average each day. 2,817 × 380 What is the total number of gallons of water the homes in West Valley use on average each day? (A) 860,460 gallons (B) 870,460 gallons (C) 1,060,460 gallons (D) 1,070,460 gallons (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+45,3,20-30-40-10,C,20,B,30,B,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. There are 230 calories in 4 ounces of a type of ice cream. How many calories are in 6 ounces of that ice cream? (A) 232 (B) 236 (C) 345 (D) 460 (20 points)
+2. Mr. Lucci put together 5 bags of pens. He put 19 black pens and 12 red pens in each bag. Which expression shows the total number of pens Mr. Lucci put into bags? (A) (5 × 19) + 12 (B) 5 × (19 + 12) (C) 5 + (19 × 12) (D) (5 + 19) × 12 (30 points)
+3. Which situation can be represented by the fraction 20/8? (A) Leslie spent 20 dollars and 8 cents at a store. How is the amount of money Leslie spent written as a fraction? (B) Mr. Kramer’s 8 grandchildren shared 20 crackers equally. How many crackers did each grandchild get? (C) Mitch bought 20 containers of flowers at a plant store. Each container had 8 flowers in it. How many flowers did Mitch buy? (D) Stamps are sold in booklets of 20 stamps. Donna used 8 stamps to send invitations for a party. How many booklets of stamps did Donna use to send her invitations? (40 points)
+4. Solve the equation 14 = w + 23. (A) −37 (B) −9 (C) 9 (D) 37 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+46,3,10-40-20-30,C,10,B,40,C,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Find 3 over 4 − 1 over 8. (A) 21 over 32 (B) 1 (C) 5 over 8 (D) 11 over 16 (10 points)
+2. A model of a park was built on a scale of 1.5 centimeters to 50 meters. If the distance between two trees in the park is 150 meters, what is this distance on the model? (A) 0.5 centimeter (B) 4.5 centimeters (C) 75 centimeters (D) 225 centimeters (40 points)
+3. Which ratio can form a proportion with 3 over 8? (A) 18 over 40 (B) 18 over 56 (C) 24 over 64 (D) 15 over 48 (20 points)
+4. Write the prime factorization of 48. Use exponents where possible. (A) 4 • 8 (B) 6 • 8 (C) 2^3 • 3^2 (D) 2^4 • 3 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+47,3,30-20-40-10,B,30,B,20,D,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Solve 3 over 4 * x = 24. (A) 18 (B) 32 (C) 72 (D) 96 (30 points)
+2. Altogether, Sonia and Negin have $27.00. Sonia buys a shirt for $12.35 and Negin buys a pair of sandals for $10.11. How much money remains? (A) $4.46  (B) $4.54  (C) $5.36  (D) $5.76  (20 points)
+3. There are three different sections to sit in at a baseball park. The number of people who can sit in each section is described below.
+* red section seats 200 people
+* blue section seats 20 fewer people than the red section
+* green section seats 2 times as many people as the blue section
+What is the total number of people who can sit in the baseball park? (A) 260 (B) 380 (C) 640 (D) 740 (40 points)
+4. A restaurant used 231 eggs last week. Of these, 46 were brown in color. The remaining eggs were white in color. Which equation can be used to solve for w, the number of white eggs used last week? (A) 231+ 46w = 0 (B) 46+w= 231 (C) w= 231+ 46 (D) 231 = 46w (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+48,3,20-40-30-10,B,20,A,40,C,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The original price of a new bicycle is $138.00. If the bicycle is marked down 15%, what is the new price? (A) $20.70  (B) $117.30  (C) $123.00  (D) $153.00  (20 points)
+2. The Mills Library has 1,007,199 books. The Springvale Library has 907,082 books. Which of the following is the best estimate of how many more books the Mills Library has than the Springvale Library? (A) 100,000 books (B) 80,000 books (C) 10,000 books (D) 8,000 books (40 points)
+3. Katie is going on vacation for 3 weeks. She finds the number of days of work she will miss by multiplying 5 × 3. Which expression shows another way Katie can find the number of days of work she will miss? (A) 3+5 (B) 3+3+3 (C) 5+5+5 (D) 5+5+5+5+5 (30 points)
+4. Find the exact answer: 145 + 281 + 62 (A) 426 (B) 488 (C) 946 (D) 1,046 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+49,3,40-30-10-20,B,40,D,30,B,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Last week, Paul ate 2 cookies each day for 5 days. This week, he ate 2 cookies each day for 4 days. Which expression can be used to represent the total number of cookies Paul ate in these two weeks? (A) 2x (5x4) (B) 2x (5+ 4) (C) (2x5)x (2x4) (D) (2+5)x(2+4) (40 points)
+2. Yesterday, Micah ate an even number of strawberries. He also ate an odd number of apples. Which group could represent the strawberries, S, and apples, A, Micah ate yesterday? (A) SSSSS; AAA (B) SSSSS; AAAA (C) SSSSSSSS; AAAA (D) SSSSSSSS; A (30 points)
+3. Compute 52 + 6 * 2. (A) 116 (B) 64 (C) 62 (D) 118 (10 points)
+4. A number is rounded to the nearest hundred. The result is 500. Which number could not be the number before it was rounded to the nearest hundred? (A) 458 (B) 463 (C) 547 (D) 559 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+50,3,20-30-10-40,D,20,D,30,A,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The American flag is usually made with its width and length in the ratio of 10 to 19. Which dimensions are in the correct ratio for the flag? (A) 30 ft by 53 ft (B) 27 ft by 53 ft (C) 27 in. by 57 in. (D) 30 in. by 57 in. (20 points)
+2. A shelf has four books on it. The weight, in pounds, of each of the four books on the shelf is 2.5, 3.2, 2.7, 2.3 Which inequality represents the weight, w, of any book chosen from the shelf? (A) w > 2.3 (B) w < 2.4 (C) w > 3.2 (D) w < 3.3 (30 points)
+3. −4 +  ( −3 )= (A) −7 (B) −1 (C) 1 (D) 7 (10 points)
+4. Which situation could be represented by the expression 6 x 2? (A) Rocco hiked six miles each day for two days. (B) Rocco had six baseballs and gave away two of them. (C) Rocco had a total of six tennis balls in two cans. (D) Rocco biked six miles and then continued for two more miles. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+51,3,30-10-40-20,A,30,B,10,B,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Malik has 240 CDs. He sorted them into 12 equal groups. Which expression shows how to find the number of CDs in each group? (A) 240 ÷ 12 (B) 240 – 12 (C) 240 + 12 (D) 240 × 12 (30 points)
+2. Find the exact answer: 145 + 281 + 62 (A) 426 (B) 488 (C) 946 (D) 1,046 (10 points)
+3. Mr. Lucci put together 5 bags of pens. He put 19 black pens and 12 red pens in each bag. Which expression shows the total number of pens Mr. Lucci put into bags? (A) (5 × 19) + 12 (B) 5 × (19 + 12) (C) 5 + (19 × 12) (D) (5 + 19) × 12 (40 points)
+4. Jess scored 18 points during her last basketball game. Each basket she made was worth 2 points. How many baskets did she make? (A) 20 (B) 16 (C) 9 (D) 8 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+52,3,40-30-20-10,C,40,D,30,B,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. At a college, approximately 2 out of 5 seniors go on to attend graduate school. If there are 750 seniors at the college, how many would be expected to attend graduate school? (A) 75 seniors (B) 107 seniors (C) 300 seniors (D) 400 seniors (40 points)
+2. A baseball team sold 215 youth tickets for $3 ea (A) (215 × 3) – (467 × 7) (B) (215 × 7) – (467 × 3) (C) (467 × 3) – (215 × 7) (D) (467 × 7) – (215 × 3) (30 points)
+3. Solve the equation −6x = −36. Check your answer. (A) 1 over 6 (B) 6 (C) 1 over 216 (D) 216 (20 points)
+4. What is the quotient for the expression 2,314 / 4? (A) 508 (B) 508 r2 (C) 578 (D) 578 r2 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+53,3,20-10-30-40,B,20,C,10,B,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which number written in exponential notation is equivalent to 343? (A) 3^7 (B) 7^3 (C) 7^49 (D) 294^49 (20 points)
+2. Compute 22 / 2 + 9. (A) 10 (B) 11 (C) 20 (D) 2 (10 points)
+3. Which of the following is the best estimate for 4,286 × 390? (A) 12,000,000 (B) 1,600,000 (C) 1,200,000 (D) 16,000 (30 points)
+4. Manuel bought a used car for six thousand forty-nine dollars. What is the cost of the used car Manuel bought written as a numeral? (A) $649  (B) $6,049  (C) $6,409  (D) $6,490  (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+54,3,10-40-30-20,B,10,D,40,A,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is 7% equal to? (A) 0.007 (B) 0.07 (C) 0.7 (D) 7 (10 points)
+2. Which expression represents the phrase below? 3 fewer than a number, p (A) 3-p (B) p+3 (C) 3/p (D) p-3 (40 points)
+3. Find the number that makes the statement true: 26.1 mm = _ dm. (A) 0.261 (B) 261 (C) 2.61 (D) 2,610 (30 points)
+4. Find the exact answer: 942 / 3 (A) 214 (B) 304 (C) 314 (D) 642 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+55,3,30-20-10-40,C,30,C,20,B,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Dani has 45 marbles. She has 5 times as many marbles as Joe has. How many marbles does Joe have? (A) 50 (B) 40 (C) 9 (D) 5 (30 points)
+2. Find the value of the expression −25 − (−11). (A) −36 (B) −14 (C) 14 (D) 36 (20 points)
+3. Use mental math to solve 8y = 56. (A) 6 (B) 7 (C) 8 (D) 9 (10 points)
+4. A group of students make a map of the area around their school. They place the school at (0, 0). The nearest store is placed at the point (–5, 7). In which quadrant is the point representing the nearest store? (A) Quadrant I (B) Quadrant II (C) Quadrant III (D) Quadrant IV (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+56,3,30-10-40-20,D,30,A,10,D,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In which set do all of the values make the inequality 2x — 1 < 10 true? (A) {10, 15, 20} (B) {5, 7, 9} (C) {4, 6, 8} (D) {2, 3, 4} (30 points)
+2. −4 +  ( −3 )= (A) −7 (B) −1 (C) 1 (D) 7 (10 points)
+3. There are 2,817 homes in the town of West Valley. Each home uses an average of 380 gallons of water each day. Use the expression below to find the total number of gallons of water the homes in West Valley use on average each day. 2,817 × 380 What is the total number of gallons of water the homes in West Valley use on average each day? (A) 860,460 gallons (B) 870,460 gallons (C) 1,060,460 gallons (D) 1,070,460 gallons (40 points)
+4. Simplify 5^3. Use a calculator, paper and pencil, or mental math. (A) 15 (B) 125 (C) 8 (D) 53 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+57,3,40-30-20-10,A,40,B,30,C,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Coach Wu has a total of 30 soccerballs. 9 soccer balls are white. The remaining soccer balls are one of three different colors (blue, pink, or green). There is an equal numberof blue, pink, and green balls How many green soccer balls does Coach Wu have? (A) 7 (B) 10 (C) 21 (D) 39 (40 points)
+2. Roya paid $48 for 12 cartons of orange juice. What is the unit rate per carton of orange juice that Roya paid? (A) $3  (B) $4  (C) $6  (D) $12  (30 points)
+3. Find the median of the set of data 13, 35, 26, 8, 24, 10, 22, 10, 32. (A) 23 (B) 20 (C) 22 (D) 27 (20 points)
+4. Use mental math to find the sum of 11.7 + 3.4 + 6.3. (A) 20.3 (B) 20.4 (C) 21.4 (D) 22.4 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+58,4,40-10-30-20,C,40,D,10,A,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. There are 20 students in Mr. Clark's fourth-grade class. There are 5 times as many students in the entire fourth grade as there are in Mr. Clark's class. Which equation can be used to determine the number of students, n, in the entire fourth grade? (A) 5xn= 20 (B) 5+20=n (C) 20x5=n (D) 20/n=5 (40 points)
+2. A shelf has four books on it. The weight, in pounds, of each of the four books on the shelf is 2.5, 3.2, 2.7, 2.3 Which inequality represents the weight, w, of any book chosen from the shelf? (A) w > 2.3 (B) w < 2.4 (C) w > 3.2 (D) w < 3.3 (10 points)
+3. The Mills Library has 1,007,199 books. The Springvale Library has 907,082 books. Which of the following is the best estimate of how many more books the Mills Library has than the Springvale Library? (A) 100,000 books (B) 80,000 books (C) 10,000 books (D) 8,000 books (30 points)
+4. Katie is going on vacation for 3 weeks. She finds the number of days of work she will miss by multiplying 5 × 3. Which expression shows another way Katie can find the number of days of work she will miss? (A) 3+5 (B) 3+3+3 (C) 5+5+5 (D) 5+5+5+5+5 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+59,4,30-20-10-40,B,30,D,20,C,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Some bakers make apple pies. They have 15 boxes of apples. Each box has 18 apples. They use 7 apples for each pie. What is the total number of apple pies that the bakers can make? (A) 33 (B) 38 (C) 39 (D) 40 (30 points)
+2. Find 4 over 7 + 2 over 7. (A) 6 over 14 (B) 8 over 49 (C) 14 over 28 (D) 6 over 7 (20 points)
+3. Find the LCM of 24 and 36. (A) 96 (B) 144 (C) 72 (D) 120 (10 points)
+4. Which situation could be represented by the expression 6 x 2? (A) Rocco hiked six miles each day for two days. (B) Rocco had six baseballs and gave away two of them. (C) Rocco had a total of six tennis balls in two cans. (D) Rocco biked six miles and then continued for two more miles. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+60,4,10-20-40-30,A,10,D,20,B,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Use a number line to find the sum of −9 + (−8). (A) −17 (B) 1 (C) −1 (D) 17 (10 points)
+2. Write the prime factorization of 77. Use exponents where possible. (A) 7 • 11^2 • 13 (B) 7^2 • 11 (C) 7 • 11 • 13 (D) 7 • 11 (20 points)
+3. Jack picks 60 apples from an apple tree. He uses 12 of them to make applesauce. He places the remaining apples equally into 6 gift baskets. Which equation can be used to determine the numberof apples, a, that Jack places into each gift basket? (A) (60/6)—12=a (B) (60—12)/6=a (C) (60-6)-12=a (D) (60+12)/6=a (40 points)
+4. The practice range at a golf course charges $4.00 for a bucket of 40 golf balls. At this rate, how much will a bucket of 100 golf balls cost? (A) $10.00  (B) $10.50  (C) $13.50  (D) $16.00  (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+61,4,30-40-10-20,B,30,C,40,D,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Trish’s resting heart rate is 50 beats per minute. For every minute she exercises, her heart rate increases 5 beats per minute. How long will it take her to reach a heart rate of 120 beats per minute? (A) 5 minutes (B) 14 minutes (C) 34 minutes (D) 70 minutes (30 points)
+2. The price of a share of stock for company XYZ at the beginning of the week was $24.75. Over the next five days, the stock gained $2.50 on Monday, lost $3.25 on Tuesday, lost $0.75 on Wednesday, gained $1.25 on Thursday, and gained $4.75 on Friday. What was the price of the share of stock at the end of Friday? (A) $12.25  (B) $25.75  (C) $29.25  (D) $37.25  (40 points)
+3. Use the list of numbers: 22, 25, 14, 11, 23, 27, 46. What is the mode? (A) 23 (B) 24 (C) 35 (D) No mode (10 points)
+4. A number is rounded to the nearest hundred. The result is 500. Which number could not be the number before it was rounded to the nearest hundred? (A) 458 (B) 463 (C) 547 (D) 559 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+62,4,20-30-10-40,D,20,B,30,C,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A certain map uses a scale of 1 inch equals 25 miles. How many miles are represented by 5 inches on this map? (A) 5 (B) 25 (C) 50 (D) 125 (20 points)
+2. A circular tree trunk has a diameter of 8 feet. Which equation could be used to find the distance in feet around the tree trunk? (A) C = 4π (B) C =8π (C) C =16π (D) C = 64π (30 points)
+3. Which ratio can form a proportion with 3 over 8? (A) 18 over 40 (B) 18 over 56 (C) 24 over 64 (D) 15 over 48 (10 points)
+4. The American flag is usually made with its width and length in the ratio of 10 to 19. Which dimensions are in the correct ratio for the flag? (A) 30 ft by 53 ft (B) 27 ft by 53 ft (C) 27 in. by 57 in. (D) 30 in. by 57 in. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+63,4,30-20-10-40,B,30,D,20,B,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A model of a park was built on a scale of 1.5 centimeters to 50 meters. If the distance between two trees in the park is 150 meters, what is this distance on the model? (A) 0.5 centimeter (B) 4.5 centimeters (C) 75 centimeters (D) 225 centimeters (30 points)
+2. All of Bella’s photos are in 8 photo books. Each photo book has 25 photos. Which expression shows how to find the total number of photos Bella has? (A) 25 ÷ 8 (B) 25 – 8 (C) 25 + 8 (D) 25 × 8 (20 points)
+3. Altogether, Sonia and Negin have $27.00. Sonia buys a shirt for $12.35 and Negin buys a pair of sandals for $10.11. How much money remains? (A) $4.46  (B) $4.54  (C) $5.36  (D) $5.76  (10 points)
+4. Mr. Kohlberg owns a flower shop. At the beginning of the day, he had 152 roses. Mr. Kohlberg sold 96 of the roses and then wanted to separate the rest of the roses equally among 8 vases. What will be the total number of roses in each vase? (A) 7 (B) 12 (C) 48 (D) 56 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+64,4,20-30-10-40,A,20,A,30,B,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. There are 72 students on the dance team, and 4 over 9 take tap lessons. How many students take tap lessons? (A) 32 (B) 49 (C) 63 (D) 68 (20 points)
+2. Peter works 38 hours per week and earns $7.25 per hour. His employer gives him a raise that increases his weekly gross pay to $307.80. What is the increase in Peter's weekly gross pay? (A) $32.30  (B) $34.70  (C) $42.46  (D) $275.50  (30 points)
+3. Solve 3 over 4 * x = 24. (A) 18 (B) 32 (C) 72 (D) 96 (10 points)
+4. Yesterday, Micah ate an even number of strawberries. He also ate an odd number of apples. Which group could represent the strawberries, S, and apples, A, Micah ate yesterday? (A) SSSSS; AAA (B) SSSSS; AAAA (C) SSSSSSSS; AAAA (D) SSSSSSSS; A (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+65,4,20-40-10-30,C,20,A,40,B,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Find the median in the set of data $79.88, $21.88, $29.88, $19.88, $17.88. (A) $17.88  (B) $19.88  (C) $21.88  (D) $29.88  (20 points)
+2. Jerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book? (A) 16 hours (B) 18 hours (C) 24 hours (D) 32 hours (40 points)
+3. Solve the equation 14 = w + 23. (A) −37 (B) −9 (C) 9 (D) 37 (10 points)
+4. There are 230 calories in 4 ounces of a type of ice cream. How many calories are in 6 ounces of that ice cream? (A) 232 (B) 236 (C) 345 (D) 460 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+66,4,40-10-30-20,B,40,C,10,C,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A restaurant used 231 eggs last week. Of these, 46 were brown in color. The remaining eggs were white in color. Which equation can be used to solve for w, the number of white eggs used last week? (A) 231+ 46w = 0 (B) 46+w= 231 (C) w= 231+ 46 (D) 231 = 46w (40 points)
+2. Solve the equation v − 26 = 68. (A) −42 (B) 42 (C) 94 (D) 88 (10 points)
+3. Write 1 and 1 over 11 as a whole or mixed number in simplest form. (A) 1.1 over 11 (B) 11 over 11 (C) 12 over 11 (D) 11 over 12 (30 points)
+4. Write the prime factorization of 48. Use exponents where possible. (A) 4 • 8 (B) 6 • 8 (C) 2^3 • 3^2 (D) 2^4 • 3 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+67,4,30-40-20-10,D,30,B,40,A,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which pair of expressions is equivalent for any variable value greater than zero? (A) 3(x+2) and 3x+2 (B) 4d+ 2e and 8d+e (C) f+f+f+g and 3fg (D) b+b+3c and 2b+ 3c (30 points)
+2. Steve ordered plastic cases for storing his baseball cards. Each case has a length of 12 centimeters, a width of 6.5 centimeters, and a height of 1.25 centimeters. What is the volume, in cubic centimeters, of one baseball card case? (A) 39.5 (B) 97.5 (C) 118.5 (D) 202.25 (40 points)
+3. When n = 11, what is the value of 10 – (n + 6)? (A) –7 (B) 5 (C) 7 (D) 27 (20 points)
+4. Solve the equation x + 71 = −22. (A) −93 (B) −49 (C) 49 (D) 93 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+68,4,20-30-40-10,D,20,B,30,D,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The population of a certain city is 836,527. What is the population of this city rounded to the nearest ten thousand? (A) 800,000 (B) 830,000 (C) 836,000 (D) 840,000 (20 points)
+2. A store has 3 boxes of shirts. Each box has 4 packages with 7 shirts in each package. The expression 3 × (4 × 7) can be used to find the total number of shirts. Which expression can also be used to find the total number of shirts? (A) 12 × 3 (B) 12 × 7 (C) 28 × 4 (D) 28 × 7 (30 points)
+3. The first number in a number pattern is 28. The pattern rule is to add 14 to get the next number in the pattern. If the pattern continues, which statement is true? (A) All the numbers in the pattern can be divided equally by 10. (B) All the numbers in the pattern can be divided equally by 4. (C) All the numbers in the pattern can be divided equally by 8. (D) All the numbers in the pattern can be divided equally by 7. (40 points)
+4. Cat food costs $.47/lb. How much does a 6-lb bag cost? (A) $2.82  (B) $2.97  (C) $6.47  (D) $12.77  (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+69,4,20-30-10-40,D,20,A,30,B,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Ty has 12 weeks to read a certain number of books. He will spend 2 weeks reading each book. Which expression can Ty use to find the total number of books he will read? (A) 12 – 2 (B) 12 + 12 (C) 12 – 2 – 2 – 2 (D) 12 – 2 – 2 – 2 – 2 – 2 – 2 (20 points)
+2. Find the product of 0.07 • 5.8. (A) 0.406 (B) 0.0406 (C) 4.06 (D) 40.6 (30 points)
+3. Information about what the students in Mr. Paulson’s class and in Ms. Hugo’s class ate for lunch is listed below. In Mr. Paulson’s class, 0.5 of the students ate pizza for lunch. In Ms. Hugo’s class, 0.5 of the students ate hamburgers for lunch. What information, if any, is needed to correctly compare the 0.5 of Mr. Paulson’s class that ate pizza to the 0.5 of Ms. Hugo’s class that ate hamburgers? (A) whether the lunches were eaten on the same day (B) the total number of students in each teacher’s class (C) nothing because the portions each class ate were the same (D) the total number of pizza slices and hamburgers eaten that day (10 points)
+4. There are three different sections to sit in at a baseball park. The number of people who can sit in each section is described below.
+* red section seats 200 people
+* blue section seats 20 fewer people than the red section
+* green section seats 2 times as many people as the blue section
+What is the total number of people who can sit in the baseball park? (A) 260 (B) 380 (C) 640 (D) 740 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+70,4,20-30-10-40,B,20,D,30,D,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A number, rounded to the nearest thousand,is 47,000. Which number could be the number that was rounded? (A) 46,295 (B) 46,504 (C) 47,520 (D) 47,924 (20 points)
+2. An ice cream shopsold 48 vanilla milkshakes in a day, which was 40% of the total number of milkshakes sold that day. What was the total number of milkshakes that the ice cream shop sold that day? (A) 60 (B) 72 (C) 100 (D) 120 (30 points)
+3. Which expression is equivalent to 9(9m + 3t)? (A) 18m + 3t (B) 81m+3t (C) 18m + 12t (D) 81m + 27t (10 points)
+4. Last week, Paul ate 2 cookies each day for 5 days. This week, he ate 2 cookies each day for 4 days. Which expression can be used to represent the total number of cookies Paul ate in these two weeks? (A) 2x (5x4) (B) 2x (5+ 4) (C) (2x5)x (2x4) (D) (2+5)x(2+4) (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+71,4,10-30-20-40,C,10,C,30,C,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is a reasonable height for a doorway? (A) 2 km (B) 2 cm (C) 2 m (D) 2 mm (10 points)
+2. There are 190 guests at a wedding. What is the least number of circular tables needed to seat all the guests if each table seats exactly 8 people? (A) 22 (B) 23 (C) 24 (D) 25 (30 points)
+3. Write 4 and 4 over 5 as an improper fraction. (A) 28 over 5 (B) 4 over 5 (C) 24 over 5 (D) 20 over 5 (20 points)
+4. John’s friend told him that he could earn $49 for handing out flyers at a local concert. John wants to calculate the hourly rate, If he works a total of 3.5 hours, the equation 3.5x = 49 can be used to determine his hourly rate. What would John’s hourly rate be, in dollars? (A) $1.40  (B) $14.00  (C) $45.50  (D) $171.50  (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+72,4,30-40-20-10,C,30,C,40,D,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Estimate 999 - 103. The difference is between which numbers? (A) 1,300 and 1,500 (B) 1,000 and 1,200 (C) 700 and 900 (D) 400 and 600 (30 points)
+2. Two whole numbers have a least common multiple of 60. Each number is less than or equal to 12. The greatest common factor of the two numbersis 2. What are the two numbers? (A) 6 and 10 (B) 5 and 12 (C) 10 and 12 (D) 12 and 15 (40 points)
+3. Which fraction is greater than 2 over 5? (A) 1 over 5 (B) 1 over 10 (C) 4 over 10 (D) 5 over 10 (20 points)
+4. What is the supplement of a 40° angle? (A) 50° (B) 130° (C) 140° (D) 220° (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+73,4,30-20-40-10,D,30,D,20,D,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Jean threw a softball a distance of 9 feet. Lee threw a softball 3 times as far as Jean. Which equation can be used to determine thedistance, d, that Lee threw the ball? (A) dx3=9 (B) d+3=9 (C) 3+9=d (D) 3x9=d (30 points)
+2. Which pair of ratios CANNOT form a proportion? (A) 4 over 5 and 24 over 30 (B) 4 over 5 and 20 over 25 (C) 36 over 45 and 4 over 5 (D) 4 over 5 and 20 over 30 (20 points)
+3. Ms. Gutierrez needs to order rope for her gym class of 32 students. Each student will receive a piece of rope that is 5 feet 8 inches long. What is the total length of rope Ms. Gutierrez needs to order for her class? (A) 106 feet 8 inches (B) 154 feet 8 inches (C) 160 feet 8 inches (D) 181 feet 4 inches (40 points)
+4. What is the measure, in degrees, of an angle that is equivalent to 1/360 of a circle? (A) 1 (B) 90 (C) 180 (D) 360 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+74,4,10-20-30-40,D,10,C,20,D,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What number multiplied by 4 equals 36? (A) 6 (B) 7 (C) 8 (D) 9 (10 points)
+2. Find 3 over 4 − 1 over 8. (A) 21 over 32 (B) 1 (C) 5 over 8 (D) 11 over 16 (20 points)
+3. What is the value of the expression 28 x 42? (A) 420 (B) 816 (C) 1,166 (D) 1,176 (30 points)
+4. Which situation can be represented by the fraction 20/8? (A) Leslie spent 20 dollars and 8 cents at a store. How is the amount of money Leslie spent written as a fraction? (B) Mr. Kramer’s 8 grandchildren shared 20 crackers equally. How many crackers did each grandchild get? (C) Mitch bought 20 containers of flowers at a plant store. Each container had 8 flowers in it. How many flowers did Mitch buy? (D) Stamps are sold in booklets of 20 stamps. Donna used 8 stamps to send invitations for a party. How many booklets of stamps did Donna use to send her invitations? (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+75,4,40-10-30-20,C,40,B,10,B,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A theater collected $6 for each ticket sold to a movie. The theater sold 500 tickets to the movie. The expression below can be used to find how much money the theater collected for the tickets. 6 × 500 Which expression can also be used to find how much money the theater collected for the tickets? (A) 30 × 10^1 (B) 30 × 10^3 (C) (6 × 5) × 10^2 (D) (6 × 5) × 10^3 (40 points)
+2. Compute 52 + 6 * 2. (A) 116 (B) 64 (C) 62 (D) 118 (10 points)
+3. A basketball player scored 18 points in his first game. This is 4 points fewer than he scored in his second game. Write and solve an equation to find p the number of points he scored in his second game. (A) 18 = p − 4; 14 (B) 18 = p − 4; 22 (C) 18 − 4 = p; 14 (D) 18 − p = 4; 22 (30 points)
+4. The original price of a new bicycle is $138.00. If the bicycle is marked down 15%, what is the new price? (A) $20.70  (B) $117.30  (C) $123.00  (D) $153.00  (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+76,4,40-20-30-10,A,40,B,20,C,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The practice range at a golf course charges $4.00 for a bucket of 40 golf balls. At this rate, how much will a bucket of 100 golf balls cost? (A) $10.00  (B) $10.50  (C) $13.50  (D) $16.00  (40 points)
+2. Simplify 5^3. Use a calculator, paper and pencil, or mental math. (A) 15 (B) 125 (C) 8 (D) 53 (20 points)
+3. Find the median in the set of data $79.88, $21.88, $29.88, $19.88, $17.88. (A) $17.88  (B) $19.88  (C) $21.88  (D) $29.88  (30 points)
+4. Find the product of 0.07 • 5.8. (A) 0.406 (B) 0.0406 (C) 4.06 (D) 40.6 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+77,5,40-20-30-10,D,40,B,20,A,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. There are 2,817 homes in the town of West Valley. Each home uses an average of 380 gallons of water each day. Use the expression below to find the total number of gallons of water the homes in West Valley use on average each day. 2,817 × 380 What is the total number of gallons of water the homes in West Valley use on average each day? (A) 860,460 gallons (B) 870,460 gallons (C) 1,060,460 gallons (D) 1,070,460 gallons (40 points)
+2. A number, rounded to the nearest thousand,is 47,000. Which number could be the number that was rounded? (A) 46,295 (B) 46,504 (C) 47,520 (D) 47,924 (20 points)
+3. Which situation could be represented by the expression 6 x 2? (A) Rocco hiked six miles each day for two days. (B) Rocco had six baseballs and gave away two of them. (C) Rocco had a total of six tennis balls in two cans. (D) Rocco biked six miles and then continued for two more miles. (30 points)
+4. Find the value of the expression −25 − (−11). (A) −36 (B) −14 (C) 14 (D) 36 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+78,5,10-40-30-20,C,10,B,40,C,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Use mental math to find the sum of 11.7 + 3.4 + 6.3. (A) 20.3 (B) 20.4 (C) 21.4 (D) 22.4 (10 points)
+2. A basketball player scored 18 points in his first game. This is 4 points fewer than he scored in his second game. Write and solve an equation to find p the number of points he scored in his second game. (A) 18 = p − 4; 14 (B) 18 = p − 4; 22 (C) 18 − 4 = p; 14 (D) 18 − p = 4; 22 (40 points)
+3. At a college, approximately 2 out of 5 seniors go on to attend graduate school. If there are 750 seniors at the college, how many would be expected to attend graduate school? (A) 75 seniors (B) 107 seniors (C) 300 seniors (D) 400 seniors (30 points)
+4. Which ratio can form a proportion with 3 over 8? (A) 18 over 40 (B) 18 over 56 (C) 24 over 64 (D) 15 over 48 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+79,5,30-10-20-40,D,30,B,10,B,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Yesterday, Micah ate an even number of strawberries. He also ate an odd number of apples. Which group could represent the strawberries, S, and apples, A, Micah ate yesterday? (A) SSSSS; AAA (B) SSSSS; AAAA (C) SSSSSSSS; AAAA (D) SSSSSSSS; A (30 points)
+2. Solve the equation −6x = −36. Check your answer. (A) 1 over 6 (B) 6 (C) 1 over 216 (D) 216 (10 points)
+3. The original price of a new bicycle is $138.00. If the bicycle is marked down 15%, what is the new price? (A) $20.70  (B) $117.30  (C) $123.00  (D) $153.00  (20 points)
+4. John’s friend told him that he could earn $49 for handing out flyers at a local concert. John wants to calculate the hourly rate, If he works a total of 3.5 hours, the equation 3.5x = 49 can be used to determine his hourly rate. What would John’s hourly rate be, in dollars? (A) $1.40  (B) $14.00  (C) $45.50  (D) $171.50  (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+80,5,20-10-40-30,C,20,B,10,B,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Write 1 and 1 over 11 as a whole or mixed number in simplest form. (A) 1.1 over 11 (B) 11 over 11 (C) 12 over 11 (D) 11 over 12 (20 points)
+2. What is 7% equal to? (A) 0.007 (B) 0.07 (C) 0.7 (D) 7 (10 points)
+3. Which situation can be represented by the fraction 20/8? (A) Leslie spent 20 dollars and 8 cents at a store. How is the amount of money Leslie spent written as a fraction? (B) Mr. Kramer’s 8 grandchildren shared 20 crackers equally. How many crackers did each grandchild get? (C) Mitch bought 20 containers of flowers at a plant store. Each container had 8 flowers in it. How many flowers did Mitch buy? (D) Stamps are sold in booklets of 20 stamps. Donna used 8 stamps to send invitations for a party. How many booklets of stamps did Donna use to send her invitations? (40 points)
+4. Trish’s resting heart rate is 50 beats per minute. For every minute she exercises, her heart rate increases 5 beats per minute. How long will it take her to reach a heart rate of 120 beats per minute? (A) 5 minutes (B) 14 minutes (C) 34 minutes (D) 70 minutes (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+81,5,10-30-40-20,B,10,C,30,B,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Solve 3 over 4 * x = 24. (A) 18 (B) 32 (C) 72 (D) 96 (10 points)
+2. Find the median of the set of data 13, 35, 26, 8, 24, 10, 22, 10, 32. (A) 23 (B) 20 (C) 22 (D) 27 (30 points)
+3. Roya paid $48 for 12 cartons of orange juice. What is the unit rate per carton of orange juice that Roya paid? (A) $3  (B) $4  (C) $6  (D) $12  (40 points)
+4. Which fraction is greater than 2 over 5? (A) 1 over 5 (B) 1 over 10 (C) 4 over 10 (D) 5 over 10 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+82,5,10-30-40-20,D,10,A,30,B,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Choose the question that offers the highest reward and provides the best use of your effort.
+
+1. Ms. Gutierrez needs to order rope for her gym class of 32 students. Each student will receive a piece of rope that is 5 feet 8 inches long. What is the total length of rope Ms. Gutierrez needs to order for her class? (A) 106 feet 8 inches (B) 154 feet 8 inches (C) 160 feet 8 inches (D) 181 feet 4 inches (10 points)
+2. When n = 11, what is the value of 10 – (n + 6)? (A) –7 (B) 5 (C) 7 (D) 27 (30 points)
+3. Which number written in exponential notation is equivalent to 343? (A) 3^7 (B) 7^3 (C) 7^49 (D) 294^49 (40 points)
+4. There are three different sections to sit in at a baseball park. The number of people who can sit in each section is described below.
+* red section seats 200 people
+* blue section seats 20 fewer people than the red section
+* green section seats 2 times as many people as the blue section
+What is the total number of people who can sit in the baseball park? (A) 260 (B) 380 (C) 640 (D) 740 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+83,5,10-20-40-30,A,10,C,20,D,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Solve the equation x + 71 = −22. (A) −93 (B) −49 (C) 49 (D) 93 (10 points)
+2. What is a reasonable height for a doorway? (A) 2 km (B) 2 cm (C) 2 m (D) 2 mm (20 points)
+3. A shelf has four books on it. The weight, in pounds, of each of the four books on the shelf is 2.5, 3.2, 2.7, 2.3 Which inequality represents the weight, w, of any book chosen from the shelf? (A) w > 2.3 (B) w < 2.4 (C) w > 3.2 (D) w < 3.3 (40 points)
+4. Malik has 240 CDs. He sorted them into 12 equal groups. Which expression shows how to find the number of CDs in each group? (A) 240 ÷ 12 (B) 240 – 12 (C) 240 + 12 (D) 240 × 12 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+84,5,10-20-30-40,B,10,D,20,D,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Solve the equation 14 = w + 23. (A) −37 (B) −9 (C) 9 (D) 37 (10 points)
+2. Which expression is equivalent to 9(9m + 3t)? (A) 18m + 3t (B) 81m+3t (C) 18m + 12t (D) 81m + 27t (20 points)
+3. In which set do all of the values make the inequality 2x — 1 < 10 true? (A) {10, 15, 20} (B) {5, 7, 9} (C) {4, 6, 8} (D) {2, 3, 4} (30 points)
+4. Katie is going on vacation for 3 weeks. She finds the number of days of work she will miss by multiplying 5 × 3. Which expression shows another way Katie can find the number of days of work she will miss? (A) 3+5 (B) 3+3+3 (C) 5+5+5 (D) 5+5+5+5+5 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+85,5,20-10-30-40,D,20,D,10,D,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which pair of expressions is equivalent for any variable value greater than zero? (A) 3(x+2) and 3x+2 (B) 4d+ 2e and 8d+e (C) f+f+f+g and 3fg (D) b+b+3c and 2b+ 3c (20 points)
+2. A certain map uses a scale of 1 inch equals 25 miles. How many miles are represented by 5 inches on this map? (A) 5 (B) 25 (C) 50 (D) 125 (10 points)
+3. A number is rounded to the nearest hundred. The result is 500. Which number could not be the number before it was rounded to the nearest hundred? (A) 458 (B) 463 (C) 547 (D) 559 (30 points)
+4. Two whole numbers have a least common multiple of 60. Each number is less than or equal to 12. The greatest common factor of the two numbersis 2. What are the two numbers? (A) 6 and 10 (B) 5 and 12 (C) 10 and 12 (D) 12 and 15 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+86,5,30-40-10-20,D,30,C,40,C,10,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the value of the expression 28 x 42? (A) 420 (B) 816 (C) 1,166 (D) 1,176 (30 points)
+2. A theater collected $6 for each ticket sold to a movie. The theater sold 500 tickets to the movie. The expression below can be used to find how much money the theater collected for the tickets. 6 × 500 Which expression can also be used to find how much money the theater collected for the tickets? (A) 30 × 10^1 (B) 30 × 10^3 (C) (6 × 5) × 10^2 (D) (6 × 5) × 10^3 (40 points)
+3. Compute 22 / 2 + 9. (A) 10 (B) 11 (C) 20 (D) 2 (10 points)
+4. Compute 52 + 6 * 2. (A) 116 (B) 64 (C) 62 (D) 118 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+87,5,10-30-40-20,C,10,B,30,B,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Write 4 and 4 over 5 as an improper fraction. (A) 28 over 5 (B) 4 over 5 (C) 24 over 5 (D) 20 over 5 (10 points)
+2. Last week, Paul ate 2 cookies each day for 5 days. This week, he ate 2 cookies each day for 4 days. Which expression can be used to represent the total number of cookies Paul ate in these two weeks? (A) 2x (5x4) (B) 2x (5+ 4) (C) (2x5)x (2x4) (D) (2+5)x(2+4) (30 points)
+3. A group of students make a map of the area around their school. They place the school at (0, 0). The nearest store is placed at the point (–5, 7). In which quadrant is the point representing the nearest store? (A) Quadrant I (B) Quadrant II (C) Quadrant III (D) Quadrant IV (40 points)
+4. Estimate 999 - 103. The difference is between which numbers? (A) 1,300 and 1,500 (B) 1,000 and 1,200 (C) 700 and 900 (D) 400 and 600 (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+88,5,30-10-20-40,A,30,C,10,C,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Peter works 38 hours per week and earns $7.25 per hour. His employer gives him a raise that increases his weekly gross pay to $307.80. What is the increase in Peter's weekly gross pay? (A) $32.30  (B) $34.70  (C) $42.46  (D) $275.50  (30 points)
+2. There are 230 calories in 4 ounces of a type of ice cream. How many calories are in 6 ounces of that ice cream? (A) 232 (B) 236 (C) 345 (D) 460 (10 points)
+3. There are 190 guests at a wedding. What is the least number of circular tables needed to seat all the guests if each table seats exactly 8 people? (A) 22 (B) 23 (C) 24 (D) 25 (20 points)
+4. The price of a share of stock for company XYZ at the beginning of the week was $24.75. Over the next five days, the stock gained $2.50 on Monday, lost $3.25 on Tuesday, lost $0.75 on Wednesday, gained $1.25 on Thursday, and gained $4.75 on Friday. What was the price of the share of stock at the end of Friday? (A) $12.25  (B) $25.75  (C) $29.25  (D) $37.25  (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+89,5,20-10-30-40,D,20,C,10,D,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which pair of ratios CANNOT form a proportion? (A) 4 over 5 and 24 over 30 (B) 4 over 5 and 20 over 25 (C) 36 over 45 and 4 over 5 (D) 4 over 5 and 20 over 30 (20 points)
+2. Solve the equation v − 26 = 68. (A) −42 (B) 42 (C) 94 (D) 88 (10 points)
+3. Jean threw a softball a distance of 9 feet. Lee threw a softball 3 times as far as Jean. Which equation can be used to determine thedistance, d, that Lee threw the ball? (A) dx3=9 (B) d+3=9 (C) 3+9=d (D) 3x9=d (30 points)
+4. Mr. Lucci put together 5 bags of pens. He put 19 black pens and 12 red pens in each bag. Which expression shows the total number of pens Mr. Lucci put into bags? (A) (5 × 19) + 12 (B) 5 × (19 + 12) (C) 5 + (19 × 12) (D) (5 + 19) × 12 (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+90,5,10-40-20-30,C,10,B,40,D,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Jess scored 18 points during her last basketball game. Each basket she made was worth 2 points. How many baskets did she make? (A) 20 (B) 16 (C) 9 (D) 8 (10 points)
+2. Jack picks 60 apples from an apple tree. He uses 12 of them to make applesauce. He places the remaining apples equally into 6 gift baskets. Which equation can be used to determine the numberof apples, a, that Jack places into each gift basket? (A) (60/6)—12=a (B) (60—12)/6=a (C) (60-6)-12=a (D) (60+12)/6=a (40 points)
+3. The population of a certain city is 836,527. What is the population of this city rounded to the nearest ten thousand? (A) 800,000 (B) 830,000 (C) 836,000 (D) 840,000 (20 points)
+4. Altogether, Sonia and Negin have $27.00. Sonia buys a shirt for $12.35 and Negin buys a pair of sandals for $10.11. How much money remains? (A) $4.46  (B) $4.54  (C) $5.36  (D) $5.76  (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+91,5,40-20-30-10,A,40,D,20,D,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The Mills Library has 1,007,199 books. The Springvale Library has 907,082 books. Which of the following is the best estimate of how many more books the Mills Library has than the Springvale Library? (A) 100,000 books (B) 80,000 books (C) 10,000 books (D) 8,000 books (40 points)
+2. Write the prime factorization of 77. Use exponents where possible. (A) 7 • 11^2 • 13 (B) 7^2 • 11 (C) 7 • 11 • 13 (D) 7 • 11 (20 points)
+3. The American flag is usually made with its width and length in the ratio of 10 to 19. Which dimensions are in the correct ratio for the flag? (A) 30 ft by 53 ft (B) 27 ft by 53 ft (C) 27 in. by 57 in. (D) 30 in. by 57 in. (30 points)
+4. What is the supplement of a 40° angle? (A) 50° (B) 130° (C) 140° (D) 220° (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+92,5,40-20-10-30,D,40,D,20,D,10,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The first number in a number pattern is 28. The pattern rule is to add 14 to get the next number in the pattern. If the pattern continues, which statement is true? (A) All the numbers in the pattern can be divided equally by 10. (B) All the numbers in the pattern can be divided equally by 4. (C) All the numbers in the pattern can be divided equally by 8. (D) All the numbers in the pattern can be divided equally by 7. (40 points)
+2. Which expression represents the phrase below? 3 fewer than a number, p (A) 3-p (B) p+3 (C) 3/p (D) p-3 (20 points)
+3. What number multiplied by 4 equals 36? (A) 6 (B) 7 (C) 8 (D) 9 (10 points)
+4. Jerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book? (A) 16 hours (B) 18 hours (C) 24 hours (D) 32 hours (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+93,5,30-40-20-10,A,30,A,40,D,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Find the number that makes the statement true: 26.1 mm = _ dm. (A) 0.261 (B) 261 (C) 2.61 (D) 2,610 (30 points)
+2. What is the measure, in degrees, of an angle that is equivalent to 1/360 of a circle? (A) 1 (B) 90 (C) 180 (D) 360 (40 points)
+3. Find 4 over 7 + 2 over 7. (A) 6 over 14 (B) 8 over 49 (C) 14 over 28 (D) 6 over 7 (20 points)
+4. Find the exact answer: 145 + 281 + 62 (A) 426 (B) 488 (C) 946 (D) 1,046 (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+94,5,20-40-10-30,C,20,B,40,D,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Dani has 45 marbles. She has 5 times as many marbles as Joe has. How many marbles does Joe have? (A) 50 (B) 40 (C) 9 (D) 5 (20 points)
+2. Steve ordered plastic cases for storing his baseball cards. Each case has a length of 12 centimeters, a width of 6.5 centimeters, and a height of 1.25 centimeters. What is the volume, in cubic centimeters, of one baseball card case? (A) 39.5 (B) 97.5 (C) 118.5 (D) 202.25 (40 points)
+3. Use the list of numbers: 22, 25, 14, 11, 23, 27, 46. What is the mode? (A) 23 (B) 24 (C) 35 (D) No mode (10 points)
+4. All of Bella’s photos are in 8 photo books. Each photo book has 25 photos. Which expression shows how to find the total number of photos Bella has? (A) 25 ÷ 8 (B) 25 – 8 (C) 25 + 8 (D) 25 × 8 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+95,5,40-10-20-30,D,40,A,10,D,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A baseball team sold 215 youth tickets for $3 ea (A) (215 × 3) – (467 × 7) (B) (215 × 7) – (467 × 3) (C) (467 × 3) – (215 × 7) (D) (467 × 7) – (215 × 3) (40 points)
+2. Use a number line to find the sum of −9 + (−8). (A) −17 (B) 1 (C) −1 (D) 17 (10 points)
+3. What is the quotient for the expression 2,314 / 4? (A) 508 (B) 508 r2 (C) 578 (D) 578 r2 (20 points)
+4. Write the prime factorization of 48. Use exponents where possible. (A) 4 • 8 (B) 6 • 8 (C) 2^3 • 3^2 (D) 2^4 • 3 (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+96,5,10-20-30-40,A,10,B,20,B,30,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. There are 72 students on the dance team, and 4 over 9 take tap lessons. How many students take tap lessons? (A) 32 (B) 49 (C) 63 (D) 68 (10 points)
+2. A model of a park was built on a scale of 1.5 centimeters to 50 meters. If the distance between two trees in the park is 150 meters, what is this distance on the model? (A) 0.5 centimeter (B) 4.5 centimeters (C) 75 centimeters (D) 225 centimeters (20 points)
+3. A restaurant used 231 eggs last week. Of these, 46 were brown in color. The remaining eggs were white in color. Which equation can be used to solve for w, the number of white eggs used last week? (A) 231+ 46w = 0 (B) 46+w= 231 (C) w= 231+ 46 (D) 231 = 46w (30 points)
+4. Information about what the students in Mr. Paulson’s class and in Ms. Hugo’s class ate for lunch is listed below. In Mr. Paulson’s class, 0.5 of the students ate pizza for lunch. In Ms. Hugo’s class, 0.5 of the students ate hamburgers for lunch. What information, if any, is needed to correctly compare the 0.5 of Mr. Paulson’s class that ate pizza to the 0.5 of Ms. Hugo’s class that ate hamburgers? (A) whether the lunches were eaten on the same day (B) the total number of students in each teacher’s class (C) nothing because the portions each class ate were the same (D) the total number of pizza slices and hamburgers eaten that day (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."

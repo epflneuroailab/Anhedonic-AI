@@ -1,0 +1,961 @@
+ID,Subset,Reward_Order,Correct_Answer_1,Reward_1,Correct_Answer_2,Reward_2,Correct_Answer_3,Reward_3,Correct_Answer_4,Reward_4,Full_Prompt
+1,1,10-30-40-20,C,10,C,30,D,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A rejection of or indifference to religion in a country is called (A) polytheism. (B) animism. (C) secularism. (D) monotheism. (10 points)
+2. Which of the following is NOT an example of syncretism? (A) Halloween (B) Foreign cuisine changed to suit American tastes (C) Hasidic Judaism (D) Catholicism in Louisiana (30 points)
+3. The process of invasion and succession is a process involving migration and is best described as when (A) new residents tear down and rebuild housing units. (B) new residents live peacefully with old residents. (C) new residents assimilate with old residents completely. (D) new residents move into areas occupied by older resident groups. (40 points)
+4. Which type of economic activity is most closely tied to the physical environment? (A) Primary (B) Secondary (C) Tertiary (D) Quaternary (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+2,1,40-20-10-30,D,40,C,20,B,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which pair of religions are both universalizing religions? (A) Islam and Judaism (B) Judaism and Buddhism (C) Hinduism and Buddhism (D) Christianity and Buddhism (40 points)
+2. What are the two major branches of Islam? (A) Sunni and Shinto (B) Shinto and Shiite (C) Sunni and Shiite (D) Shamanism and Shiite (20 points)
+3. The European Union (EU) replaced which of the following organizations? (A) NATO (B) EEC (C) UN (D) ASEAN (10 points)
+4. The use and spread of English in nineteenth-century India is an example of what type of diffusion? (A) Stimulus (B) Contagious (C) Hierarchal (D) Relocation (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+3,1,30-10-40-20,A,30,D,10,D,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Of these, the map using the smallest map scale would be the map of (A) the world. (B) Atlanta, Georgia. (C) Main Street, Small Town, Ohio. (D) Pennsylvania. (30 points)
+2. Olives, grapes, and chickpeas are staple crops of which type of farming? (A) Pastoral nomadism (B) Subsistence (C) Plantation (D) Mediterranean (10 points)
+3. Which of the following characteristics is NOT true of a state? (A) Independent territory (B) Internationally recognized (C) Boundaries (D) A national language (40 points)
+4. Which of the following is LEAST self-sufficient in the natural resources needed for modern industry? (A) United States (B) Japan (C) France (D) United Kingdom (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+4,1,40-30-20-10,D,40,D,30,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is MOST likely to experience population pressure? (A) An industrial society with abundant natural resources and large imports of food (B) A society with a highly mechanized agricultural sector (C) A non-ecumene (D) A slash-and-burn agricultural society (40 points)
+2. Which of the following statements best describes the United Nations? (A) The UN operates a worldwide police force. (B) Member states surrender sovereignty to the UN. (C) World laws are enforced by the UN. (D) The UN often practices interventionism in world conflicts. (30 points)
+3. Spanish colonial architecture, uneven economic development, and rural-to-urban migration flows are most commonly found in which of the following? (A) Southeast Asia (B) Sub-Saharan Africa (C) North America (D) Latin America (20 points)
+4. Which of the following capital cities is located OUTSIDE the central core area of the country? (A) Abuja, Nigeria (B) Paris, France (C) London, United Kingdom (D) Cairo, Egypt (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+5,1,10-40-30-20,B,10,D,40,B,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What monotheistic religion is based on the life and teachings of Jesus Christ of Nazareth? (A) Islam (B) Christianity (C) Hinduism (D) Buddhism (10 points)
+2. Every country with a seacoast has an exclusive economic zone (EEZ) under the UN Convention on the Law of the Sea. Which one of the following statements regarding the Law of the Sea and the EEZ is NOT correct? (A) The EEZ extends up to 200 nautical miles (370 km) from the coastline. (B) Countries have the right to exploit natural resources in their EEZ. (C) Countries can exploit resources on the continental shelf extending up to 350 nautical miles (560 km) beyond their EEZ. (D) A country does not have the right to exploit living resources in its EEZ. (40 points)
+3. The process of devolution involves (A) the change of government from a democracy to a communist dictatorship. (B) the movement of power from the central government to regional governments in the country. (C) the movement of power from a monarchy to a military dictatorship. (D) the movement of power from regional governments to central governments. (30 points)
+4. Which of the following is LEAST associated with the development of alluvial landscapes? (A) A deep cover of loose materials (B) A predominance of gentle slopes (C) Frequent flooding (D) Deep dissection and erosion (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+6,1,20-10-40-30,B,20,D,10,D,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A map that presents a single class of statistics is called a (A) general purpose map. (B) thematic map. (C) reference map. (D) mental map. (20 points)
+2. Which one of the following organizations is NOT a supranational organization? (A) UN (B) NATO (C) ASEAN (D) PLO (10 points)
+3. Which geographer viewed the US urban community of the 1920s as a set of concentric rings radiating outward from a central core? (A) Rostow (B) Ravenstein (C) Von Thünen (D) Burgess (40 points)
+4. The theory that whoever controlled the landmass of Europe would rule the world is called the (A) devolution theory. (B) domino theory. (C) heartland theory. (D) rimland theory. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+7,1,30-10-20-40,D,30,C,10,B,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. All of the following are reasons major cities attract young people in Latin America EXCEPT (A) the availability of jobs. (B) the potential for decent housing. (C) educational opportunities. (D) their families live there already. (30 points)
+2. The way of life based on breeding and herding of animals that are used as a source of food, shelter, and clothing is called (A) swidden. (B) subsistence farming. (C) pastorialism. (D) hunting and gathering. (10 points)
+3. The birth of an urban industrial workforce in Europe contributed to the start of the (A) First Agricultural Revolution. (B) Second Agricultural Revolution. (C) Third Agricultural Revolution. (D) Fourth Agricultural Revolution. (20 points)
+4. What do the terms apartheid, ethnic cleansing, and integration all have in common? (A) They all occurred in Nazi Germany during World War I. (B) They are all forms of residential segregation. (C) They are all ways to integrate different ethnic populations in neighborhoods. (D) They are different expressions for the same concept. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+8,1,10-20-40-30,B,10,B,20,C,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If I wanted to ship a small piece of very valuable jewelry to my aunt who lives in Poughkeepsie, which mode of transportation makes the most sense? (A) Truck (B) Air (C) Ship (D) Railroad (10 points)
+2. Which description best describes the urban hierarchy model in which the population of a city is inversely proportional to its rank in the hierarchy? (A) Multiplier effect (B) Rank-size rule (C) Central place theory (D) Burgess's sector model (20 points)
+3. One of the effects of the east–west orientation of the Alpine mountain system and the northern plains of western and central Europe is that it (A) limits the marine climate of Europe to coastal areas (B) provides a corridor for communication between southern and northern Europe (C) enables marine-like climatic conditions to extend eastward into Germany and Poland (D) effectively prevents population movement between parts of the Mediterranean region (40 points)
+4. Which of the following statements is TRUE concerning women in the labor force? (A) Most women work in agriculture (B) The percentage of women economically active in the labor force declined worldwide (C) The percentage of women in the total labor force declined (D) Women spend more hours per day working than men in all regions except Anglo America and Australia (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+9,1,10-40-30-20,A,10,B,40,B,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the chief religion practiced in Europe? (A) Christianity (B) Islam (C) Hinduism (D) Animism (10 points)
+2. A population pyramid, or age-sex structure, displays all the following information about a country's population EXCEPT (A) future social spending needs of the population. (B) the impact of ""baby booms"" on the population. (C) the impact of wars on the population. (D) a quick visual depiction of the country's demographics. (40 points)
+3. The best definition of an urban area is (A) the central city and its developed areas. (B) the central city and its surrounding suburbs. (C) the central city and its hinterlands. (D) the central city and the adjacent counties. (30 points)
+4. The idea that you identify with, and give allegiance, to a nation-state is (A) regionalism. (B) diffusion. (C) iconography. (D) nationalism. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+10,1,40-10-30-20,C,40,B,10,D,30,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements does NOT describe a factor that contributed to suburbanization in the United States? (A) A shorter workweek made time for a commute possible. (B) Changes in the housing mortgage regulations made home ownership easier. (C) Fixed-route public transit routes increased in importance. (D) Improved automobiles made transportation easier and less limited. (40 points)
+2. In which urban US setting below would you expect to find planned communities? (A) Ghettos (B) Suburbs (C) CBDs (D) Transition zones (10 points)
+3. Which of the following is NOT an important environmental factor influencing a country's agriculture? (A) Number of frost-free days per year (B) Availability of sufficient rainfall (C) Reliability of sufficient rainfall (D) Amount of fertilizer produced in the country (30 points)
+4. Which of the following industries does NOT need to be close to its markets? (A) Dairy foods (B) Bulk-gaining products (C) Single-market products (D) Bulk-reducing products (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+11,1,10-20-40-30,D,10,A,20,A,40,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the most abundant fossil fuel? (A) Phosphate (B) Oil (C) Petroleum (D) Coal (10 points)
+2. Which of the following is a centrifugal force in a country? (A) Religious differences (B) A national holiday (C) An attack by another country (D) A charismatic national leader (20 points)
+3. Which of the following statements is NOT part of Gunnar Myrdal's theory of cumulative causation? (A) Developing and developed regions share similarly in wealth through trade. (B) The core will always dominate the periphery. (C) Growth and prosperity of the core exists at the expense of the periphery. (D) Regions with initial advantage keep and expand it as they attract labor, capital, and trade. (40 points)
+4. An earlier boundary formed before meticulous geographic knowledge and mapping was available is known as (A) an antecedent boundary. (B) a geometric boundary. (C) a relict boundary. (D) a subsequent boundary. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+12,1,40-10-20-30,C,40,C,10,D,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is a distinct characteristic of an East European city? (A) A central park (B) Prominent religious buildings (C) A large central square surrounded by government and administrative buildings (D) Luxury apartment buildings (40 points)
+2. Which of the following is a functional region? (A) Dixie (B) Pennsylvania (C) The market area of Winn-Dixie (D) The Pacific Northwest (10 points)
+3. Which one of the following statements is NOT true of the ""core"" countries? (A) They are technologically advanced. (B) They are wealthy. (C) They are powerful. (D) They are less developed. (20 points)
+4. The influence of neo-Malthusianism can be seen in (A) government programs for birth control and planning. (B) famine relief. (C) increased spending in social welfare programs. (D) increased total fertility rates. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+13,1,10-30-20-40,B,10,C,30,C,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is an example of a bulk-gaining industry? (A) Steel (B) Bottled orange juice (C) Paper (D) Copper (10 points)
+2. Which theorist(s) tried to explain the prices of farm products as they relate to patterns of land use? (A) Rostow (B) Ravenstein (C) Von Thünen (D) Burgess (30 points)
+3. If you wanted to find the global distribution of coal, you would use a (A) reference map. (B) topographic map. (C) thematic map. (D) location map. (20 points)
+4. The voluntary association of three or more countries willing to give up some measure of sovereignty is called (A) nationalism. (B) devolution. (C) supranationalism. (D) complementarity. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+14,1,10-30-40-20,C,10,D,30,C,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In a postindustrial economy, which of the following resources is considered most important to increase productivity? (A) Energy (B) Labor (C) Information (D) Specialization (10 points)
+2. Which one of the following North American associations is NOT correct? (A) Southeast—African Americans (B) Oklahoma and the Southwest—Native Americans (C) Quebec and northern Maine—French Americans and French Canadians (D) Southern prairie provinces—African Americans (30 points)
+3. Which of the following statements about East Asia's industrial regions is true? (A) Japan has a rich natural resource base. (B) China lacks natural resources but has a massive labor force. (C) China is industrializing rapidly. (D) Taiwan lacks industrial enterprise and an educated workforce. (40 points)
+4. Which of the following U.S. main immigration flow associations is NOT correct? (A) Pioneer settlement to 1870—Germans, British, Scotch-Irish, Africans (B) 1870–1914—Asians (C) 1870–1914—Eastern and southern Europeans (D) 1965–present—Hispanics (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+15,1,30-40-20-10,C,30,A,40,D,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Opponents of genetically modified organisms (GMOs) in food are afraid that the GMOs (A) will hinder global trade. (B) make plants more resistant to disease. (C) may cause irreversible changes in humans. (D) make plants more resistant to drought. (30 points)
+2. The climate of Great Britain is milder than most other places along the same latitude for which of the following reasons? (A) The Gulf Stream brings warm waters to Great Britain, raising the temperature of winds that blow onto the island. (B) Hot springs throughout the country raise the temperature of the surrounding land and air. (C) Mountain ranges in the north of Great Britain act as a barrier to cold winds blowing from the Arctic. (D) Small landmasses generate their own local climate and are largely unaffected by latitude. (40 points)
+3. Which of the following items below is an absolute location? (A) 10 miles east of Pittsburgh (B) Washington (C) 3 degrees south (D) 479 Elm Street, Muncie, Indiana (20 points)
+4. The outlying area serviced by a urban center is referred to as a (A) redline area. (B) threshold. (C) range. (D) hinterland. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+16,1,30-40-20-10,B,30,C,40,A,20,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following factors has little or no impact on mortality rates in the developing countries? (A) New medicines (B) Improved birth control methods (C) Pesticides (D) Famine relief (30 points)
+2. What condition occurs when the people of one state want to annex a territory whose population is ethnically related to that state's population but now under the rule of another state? (A) Nationalism (B) Resource dispute (C) Irredentism (D) Positional dispute (40 points)
+3. Which of the following is a push factor? (A) Dissatisfaction with current jobs (B) Higher-paying jobs elsewhere (C) An attractive retirement community elsewhere (D) A pleasant climate (20 points)
+4. All the following factors can be considered pull factors of migration EXCEPT (A) safety. (B) better climate. (C) better schools. (D) overcrowding. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+17,1,30-40-20-10,D,30,D,40,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Change in any culture is introduced through all the following processes EXCEPT (A) innovation. (B) diffusion. (C) acculturation. (D) gravity. (30 points)
+2. Which of the following is NOT used by geographers to determine absolute location? (A) Longitude (B) Latitude (C) Equator (D) Distance to the nearest city (40 points)
+3. Which of the following supranational organizations is not an economic union? (A) EU (B) CARICOM (C) NAFTA (D) NATO (20 points)
+4. Which crop began the Third Agricultural Revolution? (A) Rice (B) Wheat (C) Barley (D) Millet (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+18,1,10-20-40-30,D,10,C,20,C,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is NOT a spread effect in the core-periphery model of development? (A) Congestion in the core (B) High cost of labor in the core (C) High density in the core (D) More infrastructure in the core (10 points)
+2. A primate city is (A) a large city located on the periphery of the country. (B) the most important city in a country. (C) when the largest city in a country is more than twice the size of the next largest city. (D) the largest city in a country. (20 points)
+3. Why are perceptual or vernacular regions so difficult to identify? (A) Boundaries are constantly being redrawn. (B) Physical features, such as rivers, are constantly shifting. (C) Defining criteria are subjective and differ among researchers. (D) Antecedent boundaries were drawn before humans were located in the regions. (40 points)
+4. The attempt by core countries to stimulate increased agricultural production in the periphery through use of technology, hybrid seed, and fertilizers is called the (A) First Agricultural Revolution. (B) Second Agricultural Revolution. (C) Third Agricultural Revolution. (D) Green Revolution. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+19,1,30-40-10-20,D,30,D,40,C,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is NOT a feature of an export processing zone (EPZ)? (A) Tariff reductions on exports (B) Raw materials imported duty-free (C) Exemption from customs duties (D) Strict pollution regulations (30 points)
+2. Which of the following is NOT a key milestone reached by the EU? (A) The introduction of a common currency used by many EU countries (B) A customs union (C) A single market (D) A common European language (40 points)
+3. Quebec is a strong example of which of the following situations? (A) Irredentism (B) Secession (C) Ethnonationalism (D) A colony (10 points)
+4. Which of the following countries is situated in the region of tectonic activity known as the Pacific Ring of Fire? (A) Brazil (B) Australia (C) Chile (D) India (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+20,2,10-40-20-30,A,10,A,40,A,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the most rapidly growing religion in the United States today? (A) Islam (B) Christianity (C) Hinduism (D) Buddhism (10 points)
+2. Which pair of religions below share a long-held tradition of cremating their dead? (A) Hindu and Buddhist (B) Hindu and Muslim (C) Muslim and Jewish (D) Christian and Buddhist (40 points)
+3. Historically, the world's major languages have spread by all of the following methods EXCEPT (A) Sanskrit records. (B) migration. (C) trade. (D) conquest. (20 points)
+4. The Basques, Bretons, Kashmiris, and Tamils are all examples of (A) regionalist groups. (B) separatist groups. (C) terrorist groups. (D) interventionist groups. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+21,2,20-40-10-30,C,20,B,40,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following countries is actively trying to preserve the purity of their native language from contamination by English or other languages? (A) Italy (B) Russia (C) Japan (D) Brazil (20 points)
+2. The cities of Varanasi (Benares) in India and Mecca in Saudi Arabia are alike because both are (A) capitals of countries formerly colonized by the English (B) destinations for vast numbers of pilgrims (C) financial centers for a large fraction of the world's economy (D) examples of modern urban planning (40 points)
+3. All of the following are non-basic jobs in the city EXCEPT (A) city firefighter. (B) social worker. (C) dry cleaner. (D) garment factory worker. (10 points)
+4. Which form of migration below are farm workers from another country most likely to be practicing during the year? (A) Chain migration (B) Cluster migration (C) Circular migration (D) International migration (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+22,2,40-20-10-30,D,40,D,20,C,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which one of the following is NOT a characteristic of world cities? (A) World cities contain the headquarters of many transnational corporations. (B) World cities are well connected to secondary-level world cities. (C) World cities contain many offices of multinational organizations. (D) World cities are found only in the northern and western hemispheres. (40 points)
+2. When a new fashion design is introduced globally, the information initially travels through a process known as (A) contagious diffusion (B) relocation diffusion (C) innovative diffusion (D) hierarchical diffusion (20 points)
+3. The Rhine River is an example of which type of boundary? (A) Geometric (B) Artificial (C) Natural (D) Relict (10 points)
+4. What is the population statistic that tells us the level of fertility at which a population will have just enough births to replace parents and compensate for early deaths? (A) Crude birth rate (B) Replacement level (C) Mortality rate (D) Total fertility rate (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+23,2,30-10-20-40,D,30,A,10,D,20,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The construction of freeways leads to all but which of the following results? (A) Urban sprawl (B) Traffic increase (C) Traffic congestion (D) Decreased dependency on cars (30 points)
+2. An isobar map shows lines connecting all points of equal (A) atmospheric pressure (B) surface temperature (C) elevation (D) precipitation (10 points)
+3. Variations in vocabulary, pronunciation, and rhythm in a spoken language are called (A) syntax. (B) isoglosses. (C) lingua francas. (D) dialects. (20 points)
+4. Which structure(s) traditionally occupies the center of a historic Asian city? (A) A central market (B) High-density housing (C) A religious building (D) Government office buildings (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+24,2,10-40-30-20,B,10,D,40,A,30,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Shifting cultivation is most often practiced in (A) alpine tundra. (B) tropical forests. (C) flood plains. (D) deserts. (10 points)
+2. The key factor Thomas Malthus failed to recognize in his population theory was (A) population is limited by their means of subsistence. (B) all populations have the potential to increase more than the actual rate of increase. (C) wars and famine inhibit population's reproductive capacity. (D) technology's ability to raise the Earth's carrying capacity. (40 points)
+3. The first stage of the demographic transition exhibits (A) high birth rates with high but fluctuating death rates. (B) declining birth rates with continuing high death rates. (C) low birth rates with continuing high death rates. (D) high birth rates with declining death rates. (30 points)
+4. Which of the following factors would be considered a ""pull"" factor for Riva when considering a move from India to the United States? (A) Abject poverty (B) Better job and higher wages (C) India's caste system (D) Violence in her neighborhood (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+25,2,20-30-10-40,B,20,B,30,D,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The official languages of Guyana, Suriname, and French Guiana are English, Dutch, and French, respectively. On what continent are those countries located? (A) North America (B) South America (C) Africa (D) Asia (20 points)
+2. The theory that the main purpose of a settlement or market town is to furnish goods and services to the surrounding market area is called the (A) urban hierarchy theory. (B) central place theory. (C) concentric zone model. (D) multiplier effect. (30 points)
+3. Which one of the following groups is excluded from the caste system of Hinduism? (A) Scholar-priests (B) Warrior-landowners (C) Businessmen and farmers (D) Untouchables (10 points)
+4. Which one of the statements below correctly describes immigrants living in Europe? (A) Most find citizenship easy to get in host countries. (B) Muslims immigrants from North Africa are well integrated in France. (C) Immigrants to European cities rarely bring their families. (D) They are usually restricted to certain neighborhoods. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+26,2,20-40-30-10,A,20,D,40,B,30,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Historically, the world's major languages have spread by all of the following methods EXCEPT (A) Sanskrit records. (B) migration. (C) trade. (D) conquest. (20 points)
+2. The key factor Thomas Malthus failed to recognize in his population theory was (A) population is limited by their means of subsistence. (B) all populations have the potential to increase more than the actual rate of increase. (C) wars and famine inhibit population's reproductive capacity. (D) technology's ability to raise the Earth's carrying capacity. (40 points)
+3. The official languages of Guyana, Suriname, and French Guiana are English, Dutch, and French, respectively. On what continent are those countries located? (A) North America (B) South America (C) Africa (D) Asia (30 points)
+4. Shifting cultivation is most often practiced in (A) alpine tundra. (B) tropical forests. (C) flood plains. (D) deserts. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+27,2,30-40-20-10,D,30,B,40,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is MOST likely to experience population pressure? (A) An industrial society with abundant natural resources and large imports of food (B) A society with a highly mechanized agricultural sector (C) A non-ecumene (D) A slash-and-burn agricultural society (30 points)
+2. The cities of Varanasi (Benares) in India and Mecca in Saudi Arabia are alike because both are (A) capitals of countries formerly colonized by the English (B) destinations for vast numbers of pilgrims (C) financial centers for a large fraction of the world's economy (D) examples of modern urban planning (40 points)
+3. Which of the following is NOT an important environmental factor influencing a country's agriculture? (A) Number of frost-free days per year (B) Availability of sufficient rainfall (C) Reliability of sufficient rainfall (D) Amount of fertilizer produced in the country (20 points)
+4. Which of the following is a push factor? (A) Dissatisfaction with current jobs (B) Higher-paying jobs elsewhere (C) An attractive retirement community elsewhere (D) A pleasant climate (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+28,2,30-40-20-10,C,30,A,40,B,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What condition occurs when the people of one state want to annex a territory whose population is ethnically related to that state's population but now under the rule of another state? (A) Nationalism (B) Resource dispute (C) Irredentism (D) Positional dispute (30 points)
+2. The climate of Great Britain is milder than most other places along the same latitude for which of the following reasons? (A) The Gulf Stream brings warm waters to Great Britain, raising the temperature of winds that blow onto the island. (B) Hot springs throughout the country raise the temperature of the surrounding land and air. (C) Mountain ranges in the north of Great Britain act as a barrier to cold winds blowing from the Arctic. (D) Small landmasses generate their own local climate and are largely unaffected by latitude. (40 points)
+3. Which of the following U.S. main immigration flow associations is NOT correct? (A) Pioneer settlement to 1870—Germans, British, Scotch-Irish, Africans (B) 1870–1914—Asians (C) 1870–1914—Eastern and southern Europeans (D) 1965–present—Hispanics (20 points)
+4. Which of the following is NOT an example of syncretism? (A) Halloween (B) Foreign cuisine changed to suit American tastes (C) Hasidic Judaism (D) Catholicism in Louisiana (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+29,2,10-40-20-30,D,10,C,40,D,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. All of the following are non-basic jobs in the city EXCEPT (A) city firefighter. (B) social worker. (C) dry cleaner. (D) garment factory worker. (10 points)
+2. Which of the following statements does NOT describe a factor that contributed to suburbanization in the United States? (A) A shorter workweek made time for a commute possible. (B) Changes in the housing mortgage regulations made home ownership easier. (C) Fixed-route public transit routes increased in importance. (D) Improved automobiles made transportation easier and less limited. (40 points)
+3. Which of the following statements best describes the United Nations? (A) The UN operates a worldwide police force. (B) Member states surrender sovereignty to the UN. (C) World laws are enforced by the UN. (D) The UN often practices interventionism in world conflicts. (20 points)
+4. Which one of the following North American associations is NOT correct? (A) Southeast—African Americans (B) Oklahoma and the Southwest—Native Americans (C) Quebec and northern Maine—French Americans and French Canadians (D) Southern prairie provinces—African Americans (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+30,2,10-40-20-30,D,10,B,40,A,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the most abundant fossil fuel? (A) Phosphate (B) Oil (C) Petroleum (D) Coal (10 points)
+2. Which description best describes the urban hierarchy model in which the population of a city is inversely proportional to its rank in the hierarchy? (A) Multiplier effect (B) Rank-size rule (C) Central place theory (D) Burgess's sector model (40 points)
+3. What is the chief religion practiced in Europe? (A) Christianity (B) Islam (C) Hinduism (D) Animism (20 points)
+4. All of the following are reasons major cities attract young people in Latin America EXCEPT (A) the availability of jobs. (B) the potential for decent housing. (C) educational opportunities. (D) their families live there already. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+31,2,40-20-30-10,D,40,C,20,C,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which one of the following is NOT a characteristic of world cities? (A) World cities contain the headquarters of many transnational corporations. (B) World cities are well connected to secondary-level world cities. (C) World cities contain many offices of multinational organizations. (D) World cities are found only in the northern and western hemispheres. (40 points)
+2. Which of the following is a functional region? (A) Dixie (B) Pennsylvania (C) The market area of Winn-Dixie (D) The Pacific Northwest (20 points)
+3. Which form of migration below are farm workers from another country most likely to be practicing during the year? (A) Chain migration (B) Cluster migration (C) Circular migration (D) International migration (30 points)
+4. What is the most rapidly growing religion in the United States today? (A) Islam (B) Christianity (C) Hinduism (D) Buddhism (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+32,2,40-20-10-30,A,40,A,20,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The first stage of the demographic transition exhibits (A) high birth rates with high but fluctuating death rates. (B) declining birth rates with continuing high death rates. (C) low birth rates with continuing high death rates. (D) high birth rates with declining death rates. (40 points)
+2. Which of the following is a centrifugal force in a country? (A) Religious differences (B) A national holiday (C) An attack by another country (D) A charismatic national leader (20 points)
+3. The construction of freeways leads to all but which of the following results? (A) Urban sprawl (B) Traffic increase (C) Traffic congestion (D) Decreased dependency on cars (10 points)
+4. Which structure(s) traditionally occupies the center of a historic Asian city? (A) A central market (B) High-density housing (C) A religious building (D) Government office buildings (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+33,2,30-20-10-40,D,30,D,20,D,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Variations in vocabulary, pronunciation, and rhythm in a spoken language are called (A) syntax. (B) isoglosses. (C) lingua francas. (D) dialects. (30 points)
+2. Change in any culture is introduced through all the following processes EXCEPT (A) innovation. (B) diffusion. (C) acculturation. (D) gravity. (20 points)
+3. Which of the following supranational organizations is not an economic union? (A) EU (B) CARICOM (C) NAFTA (D) NATO (10 points)
+4. The process of invasion and succession is a process involving migration and is best described as when (A) new residents tear down and rebuild housing units. (B) new residents live peacefully with old residents. (C) new residents assimilate with old residents completely. (D) new residents move into areas occupied by older resident groups. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+34,2,20-30-10-40,D,20,D,30,B,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which geographer viewed the US urban community of the 1920s as a set of concentric rings radiating outward from a central core? (A) Rostow (B) Ravenstein (C) Von Thünen (D) Burgess (20 points)
+2. Which of the following is LEAST associated with the development of alluvial landscapes? (A) A deep cover of loose materials (B) A predominance of gentle slopes (C) Frequent flooding (D) Deep dissection and erosion (30 points)
+3. A map that presents a single class of statistics is called a (A) general purpose map. (B) thematic map. (C) reference map. (D) mental map. (10 points)
+4. Spanish colonial architecture, uneven economic development, and rural-to-urban migration flows are most commonly found in which of the following? (A) Southeast Asia (B) Sub-Saharan Africa (C) North America (D) Latin America (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+35,2,10-40-30-20,C,10,A,40,B,30,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which theorist(s) tried to explain the prices of farm products as they relate to patterns of land use? (A) Rostow (B) Ravenstein (C) Von Thünen (D) Burgess (10 points)
+2. The influence of neo-Malthusianism can be seen in (A) government programs for birth control and planning. (B) famine relief. (C) increased spending in social welfare programs. (D) increased total fertility rates. (40 points)
+3. Which of the following factors has little or no impact on mortality rates in the developing countries? (A) New medicines (B) Improved birth control methods (C) Pesticides (D) Famine relief (30 points)
+4. Which of the following capital cities is located OUTSIDE the central core area of the country? (A) Abuja, Nigeria (B) Paris, France (C) London, United Kingdom (D) Cairo, Egypt (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+36,2,40-10-20-30,D,40,B,10,C,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The attempt by core countries to stimulate increased agricultural production in the periphery through use of technology, hybrid seed, and fertilizers is called the (A) First Agricultural Revolution. (B) Second Agricultural Revolution. (C) Third Agricultural Revolution. (D) Green Revolution. (40 points)
+2. Which of the following is LEAST self-sufficient in the natural resources needed for modern industry? (A) United States (B) Japan (C) France (D) United Kingdom (10 points)
+3. Which of the following countries is actively trying to preserve the purity of their native language from contamination by English or other languages? (A) Italy (B) Russia (C) Japan (D) Brazil (20 points)
+4. The theory that the main purpose of a settlement or market town is to furnish goods and services to the surrounding market area is called the (A) urban hierarchy theory. (B) central place theory. (C) concentric zone model. (D) multiplier effect. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+37,2,20-30-40-10,D,20,D,30,C,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following characteristics is NOT true of a state? (A) Independent territory (B) Internationally recognized (C) Boundaries (D) A national language (20 points)
+2. Which of the following items below is an absolute location? (A) 10 miles east of Pittsburgh (B) Washington (C) 3 degrees south (D) 479 Elm Street, Muncie, Indiana (30 points)
+3. One of the effects of the east–west orientation of the Alpine mountain system and the northern plains of western and central Europe is that it (A) limits the marine climate of Europe to coastal areas (B) provides a corridor for communication between southern and northern Europe (C) enables marine-like climatic conditions to extend eastward into Germany and Poland (D) effectively prevents population movement between parts of the Mediterranean region (40 points)
+4. Which of the following countries is situated in the region of tectonic activity known as the Pacific Ring of Fire? (A) Brazil (B) Australia (C) Chile (D) India (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+38,2,40-10-30-20,B,40,D,10,D,30,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The birth of an urban industrial workforce in Europe contributed to the start of the (A) First Agricultural Revolution. (B) Second Agricultural Revolution. (C) Third Agricultural Revolution. (D) Fourth Agricultural Revolution. (40 points)
+2. Which pair of religions are both universalizing religions? (A) Islam and Judaism (B) Judaism and Buddhism (C) Hinduism and Buddhism (D) Christianity and Buddhism (10 points)
+3. Which of the following is NOT a key milestone reached by the EU? (A) The introduction of a common currency used by many EU countries (B) A customs union (C) A single market (D) A common European language (30 points)
+4. In a postindustrial economy, which of the following resources is considered most important to increase productivity? (A) Energy (B) Labor (C) Information (D) Specialization (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+39,3,30-20-10-40,B,30,B,20,C,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. In which urban US setting below would you expect to find planned communities? (A) Ghettos (B) Suburbs (C) CBDs (D) Transition zones (30 points)
+2. Which of the following is an example of a bulk-gaining industry? (A) Steel (B) Bottled orange juice (C) Paper (D) Copper (20 points)
+3. The Rhine River is an example of which type of boundary? (A) Geometric (B) Artificial (C) Natural (D) Relict (10 points)
+4. Which of the following is a distinct characteristic of an East European city? (A) A central park (B) Prominent religious buildings (C) A large central square surrounded by government and administrative buildings (D) Luxury apartment buildings (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+40,3,40-20-30-10,D,40,A,20,B,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. When a new fashion design is introduced globally, the information initially travels through a process known as (A) contagious diffusion (B) relocation diffusion (C) innovative diffusion (D) hierarchical diffusion (40 points)
+2. Which pair of religions below share a long-held tradition of cremating their dead? (A) Hindu and Buddhist (B) Hindu and Muslim (C) Muslim and Jewish (D) Christian and Buddhist (20 points)
+3. If I wanted to ship a small piece of very valuable jewelry to my aunt who lives in Poughkeepsie, which mode of transportation makes the most sense? (A) Truck (B) Air (C) Ship (D) Railroad (30 points)
+4. If you wanted to find the global distribution of coal, you would use a (A) reference map. (B) topographic map. (C) thematic map. (D) location map. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+41,3,10-40-20-30,A,10,D,40,C,20,A,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which crop began the Third Agricultural Revolution? (A) Rice (B) Wheat (C) Barley (D) Millet (10 points)
+2. Which one of the following statements is NOT true of the ""core"" countries? (A) They are technologically advanced. (B) They are wealthy. (C) They are powerful. (D) They are less developed. (40 points)
+3. A rejection of or indifference to religion in a country is called (A) polytheism. (B) animism. (C) secularism. (D) monotheism. (20 points)
+4. Of these, the map using the smallest map scale would be the map of (A) the world. (B) Atlanta, Georgia. (C) Main Street, Small Town, Ohio. (D) Pennsylvania. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+42,3,30-10-20-40,B,30,D,10,D,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following factors would be considered a ""pull"" factor for Riva when considering a move from India to the United States? (A) Abject poverty (B) Better job and higher wages (C) India's caste system (D) Violence in her neighborhood (30 points)
+2. The outlying area serviced by a urban center is referred to as a (A) redline area. (B) threshold. (C) range. (D) hinterland. (10 points)
+3. Which one of the following groups is excluded from the caste system of Hinduism? (A) Scholar-priests (B) Warrior-landowners (C) Businessmen and farmers (D) Untouchables (20 points)
+4. The process of devolution involves (A) the change of government from a democracy to a communist dictatorship. (B) the movement of power from the central government to regional governments in the country. (C) the movement of power from a monarchy to a military dictatorship. (D) the movement of power from regional governments to central governments. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+43,3,20-40-30-10,C,20,D,40,C,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The voluntary association of three or more countries willing to give up some measure of sovereignty is called (A) nationalism. (B) devolution. (C) supranationalism. (D) complementarity. (20 points)
+2. Every country with a seacoast has an exclusive economic zone (EEZ) under the UN Convention on the Law of the Sea. Which one of the following statements regarding the Law of the Sea and the EEZ is NOT correct? (A) The EEZ extends up to 200 nautical miles (370 km) from the coastline. (B) Countries have the right to exploit natural resources in their EEZ. (C) Countries can exploit resources on the continental shelf extending up to 350 nautical miles (560 km) beyond their EEZ. (D) A country does not have the right to exploit living resources in its EEZ. (40 points)
+3. Opponents of genetically modified organisms (GMOs) in food are afraid that the GMOs (A) will hinder global trade. (B) make plants more resistant to disease. (C) may cause irreversible changes in humans. (D) make plants more resistant to drought. (30 points)
+4. The use and spread of English in nineteenth-century India is an example of what type of diffusion? (A) Stimulus (B) Contagious (C) Hierarchal (D) Relocation (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+44,3,20-30-40-10,D,20,C,30,A,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following industries does NOT need to be close to its markets? (A) Dairy foods (B) Bulk-gaining products (C) Single-market products (D) Bulk-reducing products (20 points)
+2. The way of life based on breeding and herding of animals that are used as a source of food, shelter, and clothing is called (A) swidden. (B) subsistence farming. (C) pastorialism. (D) hunting and gathering. (30 points)
+3. Which of the following statements is NOT part of Gunnar Myrdal's theory of cumulative causation? (A) Developing and developed regions share similarly in wealth through trade. (B) The core will always dominate the periphery. (C) Growth and prosperity of the core exists at the expense of the periphery. (D) Regions with initial advantage keep and expand it as they attract labor, capital, and trade. (40 points)
+4. Olives, grapes, and chickpeas are staple crops of which type of farming? (A) Pastoral nomadism (B) Subsistence (C) Plantation (D) Mediterranean (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+45,3,10-40-20-30,B,10,B,40,D,20,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The European Union (EU) replaced which of the following organizations? (A) NATO (B) EEC (C) UN (D) ASEAN (10 points)
+2. The best definition of an urban area is (A) the central city and its developed areas. (B) the central city and its surrounding suburbs. (C) the central city and its hinterlands. (D) the central city and the adjacent counties. (40 points)
+3. The idea that you identify with, and give allegiance, to a nation-state is (A) regionalism. (B) diffusion. (C) iconography. (D) nationalism. (20 points)
+4. All the following factors can be considered pull factors of migration EXCEPT (A) safety. (B) better climate. (C) better schools. (D) overcrowding. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+46,3,40-20-10-30,D,40,D,20,C,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which one of the statements below correctly describes immigrants living in Europe? (A) Most find citizenship easy to get in host countries. (B) Muslims immigrants from North Africa are well integrated in France. (C) Immigrants to European cities rarely bring their families. (D) They are usually restricted to certain neighborhoods. (40 points)
+2. Which of the following is NOT used by geographers to determine absolute location? (A) Longitude (B) Latitude (C) Equator (D) Distance to the nearest city (20 points)
+3. What are the two major branches of Islam? (A) Sunni and Shinto (B) Shinto and Shiite (C) Sunni and Shiite (D) Shamanism and Shiite (10 points)
+4. Which of the following statements about East Asia's industrial regions is true? (A) Japan has a rich natural resource base. (B) China lacks natural resources but has a massive labor force. (C) China is industrializing rapidly. (D) Taiwan lacks industrial enterprise and an educated workforce. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+47,3,20-10-40-30,C,20,C,10,B,40,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A primate city is (A) a large city located on the periphery of the country. (B) the most important city in a country. (C) when the largest city in a country is more than twice the size of the next largest city. (D) the largest city in a country. (20 points)
+2. The theory that whoever controlled the landmass of Europe would rule the world is called the (A) devolution theory. (B) domino theory. (C) heartland theory. (D) rimland theory. (10 points)
+3. What do the terms apartheid, ethnic cleansing, and integration all have in common? (A) They all occurred in Nazi Germany during World War I. (B) They are all forms of residential segregation. (C) They are all ways to integrate different ethnic populations in neighborhoods. (D) They are different expressions for the same concept. (40 points)
+4. A population pyramid, or age-sex structure, displays all the following information about a country's population EXCEPT (A) future social spending needs of the population. (B) the impact of ""baby booms"" on the population. (C) the impact of wars on the population. (D) a quick visual depiction of the country's demographics. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+48,3,10-30-40-20,D,10,D,30,B,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which one of the following organizations is NOT a supranational organization? (A) UN (B) NATO (C) ASEAN (D) PLO (10 points)
+2. Which of the following is NOT a spread effect in the core-periphery model of development? (A) Congestion in the core (B) High cost of labor in the core (C) High density in the core (D) More infrastructure in the core (30 points)
+3. What is the population statistic that tells us the level of fertility at which a population will have just enough births to replace parents and compensate for early deaths? (A) Crude birth rate (B) Replacement level (C) Mortality rate (D) Total fertility rate (40 points)
+4. An earlier boundary formed before meticulous geographic knowledge and mapping was available is known as (A) an antecedent boundary. (B) a geometric boundary. (C) a relict boundary. (D) a subsequent boundary. (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+49,3,10-20-30-40,A,10,B,20,C,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. An isobar map shows lines connecting all points of equal (A) atmospheric pressure (B) surface temperature (C) elevation (D) precipitation (10 points)
+2. The Basques, Bretons, Kashmiris, and Tamils are all examples of (A) regionalist groups. (B) separatist groups. (C) terrorist groups. (D) interventionist groups. (20 points)
+3. Why are perceptual or vernacular regions so difficult to identify? (A) Boundaries are constantly being redrawn. (B) Physical features, such as rivers, are constantly shifting. (C) Defining criteria are subjective and differ among researchers. (D) Antecedent boundaries were drawn before humans were located in the regions. (30 points)
+4. Which of the following statements is TRUE concerning women in the labor force? (A) Most women work in agriculture (B) The percentage of women economically active in the labor force declined worldwide (C) The percentage of women in the total labor force declined (D) Women spend more hours per day working than men in all regions except Anglo America and Australia (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+50,3,20-30-10-40,A,20,B,30,C,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which type of economic activity is most closely tied to the physical environment? (A) Primary (B) Secondary (C) Tertiary (D) Quaternary (20 points)
+2. What monotheistic religion is based on the life and teachings of Jesus Christ of Nazareth? (A) Islam (B) Christianity (C) Hinduism (D) Buddhism (30 points)
+3. Quebec is a strong example of which of the following situations? (A) Irredentism (B) Secession (C) Ethnonationalism (D) A colony (10 points)
+4. Which of the following is NOT a feature of an export processing zone (EPZ)? (A) Tariff reductions on exports (B) Raw materials imported duty-free (C) Exemption from customs duties (D) Strict pollution regulations (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+51,3,40-30-20-10,A,40,D,30,D,20,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which pair of religions below share a long-held tradition of cremating their dead? (A) Hindu and Buddhist (B) Hindu and Muslim (C) Muslim and Jewish (D) Christian and Buddhist (40 points)
+2. Variations in vocabulary, pronunciation, and rhythm in a spoken language are called (A) syntax. (B) isoglosses. (C) lingua francas. (D) dialects. (30 points)
+3. Which one of the following organizations is NOT a supranational organization? (A) UN (B) NATO (C) ASEAN (D) PLO (20 points)
+4. What is the chief religion practiced in Europe? (A) Christianity (B) Islam (C) Hinduism (D) Animism (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+52,3,20-10-40-30,C,20,D,10,B,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Why are perceptual or vernacular regions so difficult to identify? (A) Boundaries are constantly being redrawn. (B) Physical features, such as rivers, are constantly shifting. (C) Defining criteria are subjective and differ among researchers. (D) Antecedent boundaries were drawn before humans were located in the regions. (20 points)
+2. Which of the following is NOT an important environmental factor influencing a country's agriculture? (A) Number of frost-free days per year (B) Availability of sufficient rainfall (C) Reliability of sufficient rainfall (D) Amount of fertilizer produced in the country (10 points)
+3. The process of devolution involves (A) the change of government from a democracy to a communist dictatorship. (B) the movement of power from the central government to regional governments in the country. (C) the movement of power from a monarchy to a military dictatorship. (D) the movement of power from regional governments to central governments. (40 points)
+4. The process of invasion and succession is a process involving migration and is best described as when (A) new residents tear down and rebuild housing units. (B) new residents live peacefully with old residents. (C) new residents assimilate with old residents completely. (D) new residents move into areas occupied by older resident groups. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+53,3,20-40-10-30,A,20,B,40,B,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. An isobar map shows lines connecting all points of equal (A) atmospheric pressure (B) surface temperature (C) elevation (D) precipitation (20 points)
+2. The cities of Varanasi (Benares) in India and Mecca in Saudi Arabia are alike because both are (A) capitals of countries formerly colonized by the English (B) destinations for vast numbers of pilgrims (C) financial centers for a large fraction of the world's economy (D) examples of modern urban planning (40 points)
+3. Shifting cultivation is most often practiced in (A) alpine tundra. (B) tropical forests. (C) flood plains. (D) deserts. (10 points)
+4. Which geographer viewed the US urban community of the 1920s as a set of concentric rings radiating outward from a central core? (A) Rostow (B) Ravenstein (C) Von Thünen (D) Burgess (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+54,3,30-20-40-10,D,30,B,20,B,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The construction of freeways leads to all but which of the following results? (A) Urban sprawl (B) Traffic increase (C) Traffic congestion (D) Decreased dependency on cars (30 points)
+2. Which of the following is an example of a bulk-gaining industry? (A) Steel (B) Bottled orange juice (C) Paper (D) Copper (20 points)
+3. If I wanted to ship a small piece of very valuable jewelry to my aunt who lives in Poughkeepsie, which mode of transportation makes the most sense? (A) Truck (B) Air (C) Ship (D) Railroad (40 points)
+4. Which crop began the Third Agricultural Revolution? (A) Rice (B) Wheat (C) Barley (D) Millet (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+55,3,40-10-20-30,C,40,D,10,C,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. One of the effects of the east–west orientation of the Alpine mountain system and the northern plains of western and central Europe is that it (A) limits the marine climate of Europe to coastal areas (B) provides a corridor for communication between southern and northern Europe (C) enables marine-like climatic conditions to extend eastward into Germany and Poland (D) effectively prevents population movement between parts of the Mediterranean region (40 points)
+2. Which of the following supranational organizations is not an economic union? (A) EU (B) CARICOM (C) NAFTA (D) NATO (10 points)
+3. Which theorist(s) tried to explain the prices of farm products as they relate to patterns of land use? (A) Rostow (B) Ravenstein (C) Von Thünen (D) Burgess (20 points)
+4. Which of the following factors would be considered a ""pull"" factor for Riva when considering a move from India to the United States? (A) Abject poverty (B) Better job and higher wages (C) India's caste system (D) Violence in her neighborhood (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+56,3,40-20-10-30,D,40,B,20,A,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Every country with a seacoast has an exclusive economic zone (EEZ) under the UN Convention on the Law of the Sea. Which one of the following statements regarding the Law of the Sea and the EEZ is NOT correct? (A) The EEZ extends up to 200 nautical miles (370 km) from the coastline. (B) Countries have the right to exploit natural resources in their EEZ. (C) Countries can exploit resources on the continental shelf extending up to 350 nautical miles (560 km) beyond their EEZ. (D) A country does not have the right to exploit living resources in its EEZ. (40 points)
+2. The birth of an urban industrial workforce in Europe contributed to the start of the (A) First Agricultural Revolution. (B) Second Agricultural Revolution. (C) Third Agricultural Revolution. (D) Fourth Agricultural Revolution. (20 points)
+3. Which of the following is a push factor? (A) Dissatisfaction with current jobs (B) Higher-paying jobs elsewhere (C) An attractive retirement community elsewhere (D) A pleasant climate (10 points)
+4. All of the following are reasons major cities attract young people in Latin America EXCEPT (A) the availability of jobs. (B) the potential for decent housing. (C) educational opportunities. (D) their families live there already. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+57,3,40-30-20-10,D,40,B,30,C,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which one of the following is NOT a characteristic of world cities? (A) World cities contain the headquarters of many transnational corporations. (B) World cities are well connected to secondary-level world cities. (C) World cities contain many offices of multinational organizations. (D) World cities are found only in the northern and western hemispheres. (40 points)
+2. What do the terms apartheid, ethnic cleansing, and integration all have in common? (A) They all occurred in Nazi Germany during World War I. (B) They are all forms of residential segregation. (C) They are all ways to integrate different ethnic populations in neighborhoods. (D) They are different expressions for the same concept. (30 points)
+3. Which form of migration below are farm workers from another country most likely to be practicing during the year? (A) Chain migration (B) Cluster migration (C) Circular migration (D) International migration (20 points)
+4. Quebec is a strong example of which of the following situations? (A) Irredentism (B) Secession (C) Ethnonationalism (D) A colony (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+58,4,20-40-10-30,D,20,B,40,D,10,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. All of the following are non-basic jobs in the city EXCEPT (A) city firefighter. (B) social worker. (C) dry cleaner. (D) garment factory worker. (20 points)
+2. A population pyramid, or age-sex structure, displays all the following information about a country's population EXCEPT (A) future social spending needs of the population. (B) the impact of ""baby booms"" on the population. (C) the impact of wars on the population. (D) a quick visual depiction of the country's demographics. (40 points)
+3. Olives, grapes, and chickpeas are staple crops of which type of farming? (A) Pastoral nomadism (B) Subsistence (C) Plantation (D) Mediterranean (10 points)
+4. In a postindustrial economy, which of the following resources is considered most important to increase productivity? (A) Energy (B) Labor (C) Information (D) Specialization (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+59,4,40-10-20-30,C,40,C,10,D,20,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements does NOT describe a factor that contributed to suburbanization in the United States? (A) A shorter workweek made time for a commute possible. (B) Changes in the housing mortgage regulations made home ownership easier. (C) Fixed-route public transit routes increased in importance. (D) Improved automobiles made transportation easier and less limited. (40 points)
+2. The voluntary association of three or more countries willing to give up some measure of sovereignty is called (A) nationalism. (B) devolution. (C) supranationalism. (D) complementarity. (10 points)
+3. Which of the following is LEAST associated with the development of alluvial landscapes? (A) A deep cover of loose materials (B) A predominance of gentle slopes (C) Frequent flooding (D) Deep dissection and erosion (20 points)
+4. Which of the following statements about East Asia's industrial regions is true? (A) Japan has a rich natural resource base. (B) China lacks natural resources but has a massive labor force. (C) China is industrializing rapidly. (D) Taiwan lacks industrial enterprise and an educated workforce. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+60,4,20-40-30-10,C,20,C,40,A,30,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. If you wanted to find the global distribution of coal, you would use a (A) reference map. (B) topographic map. (C) thematic map. (D) location map. (20 points)
+2. Which structure(s) traditionally occupies the center of a historic Asian city? (A) A central market (B) High-density housing (C) A religious building (D) Government office buildings (40 points)
+3. Historically, the world's major languages have spread by all of the following methods EXCEPT (A) Sanskrit records. (B) migration. (C) trade. (D) conquest. (30 points)
+4. Which of the following is a functional region? (A) Dixie (B) Pennsylvania (C) The market area of Winn-Dixie (D) The Pacific Northwest (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+61,4,30-40-20-10,C,30,D,40,D,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What condition occurs when the people of one state want to annex a territory whose population is ethnically related to that state's population but now under the rule of another state? (A) Nationalism (B) Resource dispute (C) Irredentism (D) Positional dispute (30 points)
+2. Which one of the statements below correctly describes immigrants living in Europe? (A) Most find citizenship easy to get in host countries. (B) Muslims immigrants from North Africa are well integrated in France. (C) Immigrants to European cities rarely bring their families. (D) They are usually restricted to certain neighborhoods. (40 points)
+3. Which of the following characteristics is NOT true of a state? (A) Independent territory (B) Internationally recognized (C) Boundaries (D) A national language (20 points)
+4. The European Union (EU) replaced which of the following organizations? (A) NATO (B) EEC (C) UN (D) ASEAN (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+62,4,30-20-10-40,D,30,C,20,D,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is MOST likely to experience population pressure? (A) An industrial society with abundant natural resources and large imports of food (B) A society with a highly mechanized agricultural sector (C) A non-ecumene (D) A slash-and-burn agricultural society (30 points)
+2. A rejection of or indifference to religion in a country is called (A) polytheism. (B) animism. (C) secularism. (D) monotheism. (20 points)
+3. What is the most abundant fossil fuel? (A) Phosphate (B) Oil (C) Petroleum (D) Coal (10 points)
+4. The key factor Thomas Malthus failed to recognize in his population theory was (A) population is limited by their means of subsistence. (B) all populations have the potential to increase more than the actual rate of increase. (C) wars and famine inhibit population's reproductive capacity. (D) technology's ability to raise the Earth's carrying capacity. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+63,4,40-20-10-30,D,40,A,20,B,10,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The attempt by core countries to stimulate increased agricultural production in the periphery through use of technology, hybrid seed, and fertilizers is called the (A) First Agricultural Revolution. (B) Second Agricultural Revolution. (C) Third Agricultural Revolution. (D) Green Revolution. (40 points)
+2. Of these, the map using the smallest map scale would be the map of (A) the world. (B) Atlanta, Georgia. (C) Main Street, Small Town, Ohio. (D) Pennsylvania. (20 points)
+3. In which urban US setting below would you expect to find planned communities? (A) Ghettos (B) Suburbs (C) CBDs (D) Transition zones (10 points)
+4. Which one of the following statements is NOT true of the ""core"" countries? (A) They are technologically advanced. (B) They are wealthy. (C) They are powerful. (D) They are less developed. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+64,4,10-30-20-40,D,10,D,30,D,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is NOT used by geographers to determine absolute location? (A) Longitude (B) Latitude (C) Equator (D) Distance to the nearest city (10 points)
+2. Which one of the following groups is excluded from the caste system of Hinduism? (A) Scholar-priests (B) Warrior-landowners (C) Businessmen and farmers (D) Untouchables (30 points)
+3. Which of the following items below is an absolute location? (A) 10 miles east of Pittsburgh (B) Washington (C) 3 degrees south (D) 479 Elm Street, Muncie, Indiana (20 points)
+4. The theory that the main purpose of a settlement or market town is to furnish goods and services to the surrounding market area is called the (A) urban hierarchy theory. (B) central place theory. (C) concentric zone model. (D) multiplier effect. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+65,4,30-20-40-10,D,30,D,20,C,40,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Spanish colonial architecture, uneven economic development, and rural-to-urban migration flows are most commonly found in which of the following? (A) Southeast Asia (B) Sub-Saharan Africa (C) North America (D) Latin America (30 points)
+2. Which of the following industries does NOT need to be close to its markets? (A) Dairy foods (B) Bulk-gaining products (C) Single-market products (D) Bulk-reducing products (20 points)
+3. Opponents of genetically modified organisms (GMOs) in food are afraid that the GMOs (A) will hinder global trade. (B) make plants more resistant to disease. (C) may cause irreversible changes in humans. (D) make plants more resistant to drought. (40 points)
+4. What are the two major branches of Islam? (A) Sunni and Shinto (B) Shinto and Shiite (C) Sunni and Shiite (D) Shamanism and Shiite (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+66,4,20-10-40-30,B,20,D,10,A,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the population statistic that tells us the level of fertility at which a population will have just enough births to replace parents and compensate for early deaths? (A) Crude birth rate (B) Replacement level (C) Mortality rate (D) Total fertility rate (20 points)
+2. Change in any culture is introduced through all the following processes EXCEPT (A) innovation. (B) diffusion. (C) acculturation. (D) gravity. (10 points)
+3. The first stage of the demographic transition exhibits (A) high birth rates with high but fluctuating death rates. (B) declining birth rates with continuing high death rates. (C) low birth rates with continuing high death rates. (D) high birth rates with declining death rates. (40 points)
+4. Which of the following statements best describes the United Nations? (A) The UN operates a worldwide police force. (B) Member states surrender sovereignty to the UN. (C) World laws are enforced by the UN. (D) The UN often practices interventionism in world conflicts. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+67,4,10-40-20-30,A,10,A,40,B,20,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which type of economic activity is most closely tied to the physical environment? (A) Primary (B) Secondary (C) Tertiary (D) Quaternary (10 points)
+2. Which of the following statements is NOT part of Gunnar Myrdal's theory of cumulative causation? (A) Developing and developed regions share similarly in wealth through trade. (B) The core will always dominate the periphery. (C) Growth and prosperity of the core exists at the expense of the periphery. (D) Regions with initial advantage keep and expand it as they attract labor, capital, and trade. (40 points)
+3. The official languages of Guyana, Suriname, and French Guiana are English, Dutch, and French, respectively. On what continent are those countries located? (A) North America (B) South America (C) Africa (D) Asia (20 points)
+4. The best definition of an urban area is (A) the central city and its developed areas. (B) the central city and its surrounding suburbs. (C) the central city and its hinterlands. (D) the central city and the adjacent counties. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+68,4,40-20-30-10,A,40,A,20,B,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The climate of Great Britain is milder than most other places along the same latitude for which of the following reasons? (A) The Gulf Stream brings warm waters to Great Britain, raising the temperature of winds that blow onto the island. (B) Hot springs throughout the country raise the temperature of the surrounding land and air. (C) Mountain ranges in the north of Great Britain act as a barrier to cold winds blowing from the Arctic. (D) Small landmasses generate their own local climate and are largely unaffected by latitude. (40 points)
+2. Which of the following capital cities is located OUTSIDE the central core area of the country? (A) Abuja, Nigeria (B) Paris, France (C) London, United Kingdom (D) Cairo, Egypt (20 points)
+3. Which of the following U.S. main immigration flow associations is NOT correct? (A) Pioneer settlement to 1870—Germans, British, Scotch-Irish, Africans (B) 1870–1914—Asians (C) 1870–1914—Eastern and southern Europeans (D) 1965–present—Hispanics (30 points)
+4. Which pair of religions are both universalizing religions? (A) Islam and Judaism (B) Judaism and Buddhism (C) Hinduism and Buddhism (D) Christianity and Buddhism (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+69,4,20-40-10-30,B,20,C,40,C,10,B,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The Basques, Bretons, Kashmiris, and Tamils are all examples of (A) regionalist groups. (B) separatist groups. (C) terrorist groups. (D) interventionist groups. (20 points)
+2. A primate city is (A) a large city located on the periphery of the country. (B) the most important city in a country. (C) when the largest city in a country is more than twice the size of the next largest city. (D) the largest city in a country. (40 points)
+3. The use and spread of English in nineteenth-century India is an example of what type of diffusion? (A) Stimulus (B) Contagious (C) Hierarchal (D) Relocation (10 points)
+4. Which of the following factors has little or no impact on mortality rates in the developing countries? (A) New medicines (B) Improved birth control methods (C) Pesticides (D) Famine relief (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+70,4,20-40-30-10,C,20,D,40,A,30,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The theory that whoever controlled the landmass of Europe would rule the world is called the (A) devolution theory. (B) domino theory. (C) heartland theory. (D) rimland theory. (20 points)
+2. Which one of the following North American associations is NOT correct? (A) Southeast—African Americans (B) Oklahoma and the Southwest—Native Americans (C) Quebec and northern Maine—French Americans and French Canadians (D) Southern prairie provinces—African Americans (40 points)
+3. An earlier boundary formed before meticulous geographic knowledge and mapping was available is known as (A) an antecedent boundary. (B) a geometric boundary. (C) a relict boundary. (D) a subsequent boundary. (30 points)
+4. The idea that you identify with, and give allegiance, to a nation-state is (A) regionalism. (B) diffusion. (C) iconography. (D) nationalism. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+71,4,20-30-10-40,A,20,D,30,D,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is a centrifugal force in a country? (A) Religious differences (B) A national holiday (C) An attack by another country (D) A charismatic national leader (20 points)
+2. Which of the following is NOT a feature of an export processing zone (EPZ)? (A) Tariff reductions on exports (B) Raw materials imported duty-free (C) Exemption from customs duties (D) Strict pollution regulations (30 points)
+3. The outlying area serviced by a urban center is referred to as a (A) redline area. (B) threshold. (C) range. (D) hinterland. (10 points)
+4. The influence of neo-Malthusianism can be seen in (A) government programs for birth control and planning. (B) famine relief. (C) increased spending in social welfare programs. (D) increased total fertility rates. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+72,4,10-30-40-20,A,10,C,30,D,40,B,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. What is the most rapidly growing religion in the United States today? (A) Islam (B) Christianity (C) Hinduism (D) Buddhism (10 points)
+2. The way of life based on breeding and herding of animals that are used as a source of food, shelter, and clothing is called (A) swidden. (B) subsistence farming. (C) pastorialism. (D) hunting and gathering. (30 points)
+3. Which of the following is NOT a key milestone reached by the EU? (A) The introduction of a common currency used by many EU countries (B) A customs union (C) A single market (D) A common European language (40 points)
+4. What monotheistic religion is based on the life and teachings of Jesus Christ of Nazareth? (A) Islam (B) Christianity (C) Hinduism (D) Buddhism (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+73,4,40-30-20-10,C,40,B,30,D,20,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is a distinct characteristic of an East European city? (A) A central park (B) Prominent religious buildings (C) A large central square surrounded by government and administrative buildings (D) Luxury apartment buildings (40 points)
+2. Which description best describes the urban hierarchy model in which the population of a city is inversely proportional to its rank in the hierarchy? (A) Multiplier effect (B) Rank-size rule (C) Central place theory (D) Burgess's sector model (30 points)
+3. Which of the following is NOT a spread effect in the core-periphery model of development? (A) Congestion in the core (B) High cost of labor in the core (C) High density in the core (D) More infrastructure in the core (20 points)
+4. A map that presents a single class of statistics is called a (A) general purpose map. (B) thematic map. (C) reference map. (D) mental map. (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+74,4,40-30-20-10,D,40,B,30,D,20,C,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements is TRUE concerning women in the labor force? (A) Most women work in agriculture (B) The percentage of women economically active in the labor force declined worldwide (C) The percentage of women in the total labor force declined (D) Women spend more hours per day working than men in all regions except Anglo America and Australia (40 points)
+2. Which of the following is LEAST self-sufficient in the natural resources needed for modern industry? (A) United States (B) Japan (C) France (D) United Kingdom (30 points)
+3. All the following factors can be considered pull factors of migration EXCEPT (A) safety. (B) better climate. (C) better schools. (D) overcrowding. (20 points)
+4. The Rhine River is an example of which type of boundary? (A) Geometric (B) Artificial (C) Natural (D) Relict (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+75,4,10-20-40-30,C,10,C,20,D,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following countries is situated in the region of tectonic activity known as the Pacific Ring of Fire? (A) Brazil (B) Australia (C) Chile (D) India (10 points)
+2. Which of the following is NOT an example of syncretism? (A) Halloween (B) Foreign cuisine changed to suit American tastes (C) Hasidic Judaism (D) Catholicism in Louisiana (20 points)
+3. When a new fashion design is introduced globally, the information initially travels through a process known as (A) contagious diffusion (B) relocation diffusion (C) innovative diffusion (D) hierarchical diffusion (40 points)
+4. Which of the following countries is actively trying to preserve the purity of their native language from contamination by English or other languages? (A) Italy (B) Russia (C) Japan (D) Brazil (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+76,4,20-30-10-40,D,20,C,30,A,10,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. All of the following are non-basic jobs in the city EXCEPT (A) city firefighter. (B) social worker. (C) dry cleaner. (D) garment factory worker. (20 points)
+2. Which of the following countries is situated in the region of tectonic activity known as the Pacific Ring of Fire? (A) Brazil (B) Australia (C) Chile (D) India (30 points)
+3. Which crop began the Third Agricultural Revolution? (A) Rice (B) Wheat (C) Barley (D) Millet (10 points)
+4. Which of the following statements does NOT describe a factor that contributed to suburbanization in the United States? (A) A shorter workweek made time for a commute possible. (B) Changes in the housing mortgage regulations made home ownership easier. (C) Fixed-route public transit routes increased in importance. (D) Improved automobiles made transportation easier and less limited. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+77,5,40-20-30-10,D,40,B,20,D,30,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Every country with a seacoast has an exclusive economic zone (EEZ) under the UN Convention on the Law of the Sea. Which one of the following statements regarding the Law of the Sea and the EEZ is NOT correct? (A) The EEZ extends up to 200 nautical miles (370 km) from the coastline. (B) Countries have the right to exploit natural resources in their EEZ. (C) Countries can exploit resources on the continental shelf extending up to 350 nautical miles (560 km) beyond their EEZ. (D) A country does not have the right to exploit living resources in its EEZ. (40 points)
+2. In which urban US setting below would you expect to find planned communities? (A) Ghettos (B) Suburbs (C) CBDs (D) Transition zones (20 points)
+3. Which pair of religions are both universalizing religions? (A) Islam and Judaism (B) Judaism and Buddhism (C) Hinduism and Buddhism (D) Christianity and Buddhism (30 points)
+4. What is the chief religion practiced in Europe? (A) Christianity (B) Islam (C) Hinduism (D) Animism (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+78,5,30-20-10-40,C,30,D,20,C,10,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The use and spread of English in nineteenth-century India is an example of what type of diffusion? (A) Stimulus (B) Contagious (C) Hierarchal (D) Relocation (30 points)
+2. Olives, grapes, and chickpeas are staple crops of which type of farming? (A) Pastoral nomadism (B) Subsistence (C) Plantation (D) Mediterranean (20 points)
+3. Quebec is a strong example of which of the following situations? (A) Irredentism (B) Secession (C) Ethnonationalism (D) A colony (10 points)
+4. All of the following are reasons major cities attract young people in Latin America EXCEPT (A) the availability of jobs. (B) the potential for decent housing. (C) educational opportunities. (D) their families live there already. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+79,5,20-10-30-40,B,20,D,10,D,30,C,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is LEAST self-sufficient in the natural resources needed for modern industry? (A) United States (B) Japan (C) France (D) United Kingdom (20 points)
+2. Variations in vocabulary, pronunciation, and rhythm in a spoken language are called (A) syntax. (B) isoglosses. (C) lingua francas. (D) dialects. (10 points)
+3. Which of the following items below is an absolute location? (A) 10 miles east of Pittsburgh (B) Washington (C) 3 degrees south (D) 479 Elm Street, Muncie, Indiana (30 points)
+4. Which structure(s) traditionally occupies the center of a historic Asian city? (A) A central market (B) High-density housing (C) A religious building (D) Government office buildings (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+80,5,30-40-10-20,C,30,D,40,D,10,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The voluntary association of three or more countries willing to give up some measure of sovereignty is called (A) nationalism. (B) devolution. (C) supranationalism. (D) complementarity. (30 points)
+2. The attempt by core countries to stimulate increased agricultural production in the periphery through use of technology, hybrid seed, and fertilizers is called the (A) First Agricultural Revolution. (B) Second Agricultural Revolution. (C) Third Agricultural Revolution. (D) Green Revolution. (40 points)
+3. Which one of the following organizations is NOT a supranational organization? (A) UN (B) NATO (C) ASEAN (D) PLO (10 points)
+4. What are the two major branches of Islam? (A) Sunni and Shinto (B) Shinto and Shiite (C) Sunni and Shiite (D) Shamanism and Shiite (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+81,5,10-20-40-30,A,10,B,20,D,40,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Historically, the world's major languages have spread by all of the following methods EXCEPT (A) Sanskrit records. (B) migration. (C) trade. (D) conquest. (10 points)
+2. Which of the following factors has little or no impact on mortality rates in the developing countries? (A) New medicines (B) Improved birth control methods (C) Pesticides (D) Famine relief (20 points)
+3. Which of the following is MOST likely to experience population pressure? (A) An industrial society with abundant natural resources and large imports of food (B) A society with a highly mechanized agricultural sector (C) A non-ecumene (D) A slash-and-burn agricultural society (40 points)
+4. Which form of migration below are farm workers from another country most likely to be practicing during the year? (A) Chain migration (B) Cluster migration (C) Circular migration (D) International migration (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+82,5,30-20-10-40,D,30,A,20,D,10,A,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which one of the following is NOT a characteristic of world cities? (A) World cities contain the headquarters of many transnational corporations. (B) World cities are well connected to secondary-level world cities. (C) World cities contain many offices of multinational organizations. (D) World cities are found only in the northern and western hemispheres. (30 points)
+2. Which of the following is a centrifugal force in a country? (A) Religious differences (B) A national holiday (C) An attack by another country (D) A charismatic national leader (20 points)
+3. Which of the following industries does NOT need to be close to its markets? (A) Dairy foods (B) Bulk-gaining products (C) Single-market products (D) Bulk-reducing products (10 points)
+4. Which of the following statements is NOT part of Gunnar Myrdal's theory of cumulative causation? (A) Developing and developed regions share similarly in wealth through trade. (B) The core will always dominate the periphery. (C) Growth and prosperity of the core exists at the expense of the periphery. (D) Regions with initial advantage keep and expand it as they attract labor, capital, and trade. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+83,5,20-30-40-10,A,20,A,30,A,40,B,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which type of economic activity is most closely tied to the physical environment? (A) Primary (B) Secondary (C) Tertiary (D) Quaternary (20 points)
+2. An earlier boundary formed before meticulous geographic knowledge and mapping was available is known as (A) an antecedent boundary. (B) a geometric boundary. (C) a relict boundary. (D) a subsequent boundary. (30 points)
+3. The climate of Great Britain is milder than most other places along the same latitude for which of the following reasons? (A) The Gulf Stream brings warm waters to Great Britain, raising the temperature of winds that blow onto the island. (B) Hot springs throughout the country raise the temperature of the surrounding land and air. (C) Mountain ranges in the north of Great Britain act as a barrier to cold winds blowing from the Arctic. (D) Small landmasses generate their own local climate and are largely unaffected by latitude. (40 points)
+4. The European Union (EU) replaced which of the following organizations? (A) NATO (B) EEC (C) UN (D) ASEAN (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+84,5,20-30-10-40,C,20,D,30,D,10,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which theorist(s) tried to explain the prices of farm products as they relate to patterns of land use? (A) Rostow (B) Ravenstein (C) Von Thünen (D) Burgess (20 points)
+2. Which of the following is NOT a key milestone reached by the EU? (A) The introduction of a common currency used by many EU countries (B) A customs union (C) A single market (D) A common European language (30 points)
+3. The outlying area serviced by a urban center is referred to as a (A) redline area. (B) threshold. (C) range. (D) hinterland. (10 points)
+4. The birth of an urban industrial workforce in Europe contributed to the start of the (A) First Agricultural Revolution. (B) Second Agricultural Revolution. (C) Third Agricultural Revolution. (D) Fourth Agricultural Revolution. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+85,5,30-40-10-20,B,30,D,40,D,10,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The process of devolution involves (A) the change of government from a democracy to a communist dictatorship. (B) the movement of power from the central government to regional governments in the country. (C) the movement of power from a monarchy to a military dictatorship. (D) the movement of power from regional governments to central governments. (30 points)
+2. Which of the following statements is TRUE concerning women in the labor force? (A) Most women work in agriculture (B) The percentage of women economically active in the labor force declined worldwide (C) The percentage of women in the total labor force declined (D) Women spend more hours per day working than men in all regions except Anglo America and Australia (40 points)
+3. Change in any culture is introduced through all the following processes EXCEPT (A) innovation. (B) diffusion. (C) acculturation. (D) gravity. (10 points)
+4. Which of the following is NOT a feature of an export processing zone (EPZ)? (A) Tariff reductions on exports (B) Raw materials imported duty-free (C) Exemption from customs duties (D) Strict pollution regulations (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+86,5,10-20-30-40,D,10,B,20,B,30,D,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is NOT a spread effect in the core-periphery model of development? (A) Congestion in the core (B) High cost of labor in the core (C) High density in the core (D) More infrastructure in the core (10 points)
+2. The best definition of an urban area is (A) the central city and its developed areas. (B) the central city and its surrounding suburbs. (C) the central city and its hinterlands. (D) the central city and the adjacent counties. (20 points)
+3. What is the population statistic that tells us the level of fertility at which a population will have just enough births to replace parents and compensate for early deaths? (A) Crude birth rate (B) Replacement level (C) Mortality rate (D) Total fertility rate (30 points)
+4. The key factor Thomas Malthus failed to recognize in his population theory was (A) population is limited by their means of subsistence. (B) all populations have the potential to increase more than the actual rate of increase. (C) wars and famine inhibit population's reproductive capacity. (D) technology's ability to raise the Earth's carrying capacity. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+87,5,30-40-10-20,C,30,D,40,C,10,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A primate city is (A) a large city located on the periphery of the country. (B) the most important city in a country. (C) when the largest city in a country is more than twice the size of the next largest city. (D) the largest city in a country. (30 points)
+2. Which one of the following North American associations is NOT correct? (A) Southeast—African Americans (B) Oklahoma and the Southwest—Native Americans (C) Quebec and northern Maine—French Americans and French Canadians (D) Southern prairie provinces—African Americans (40 points)
+3. A rejection of or indifference to religion in a country is called (A) polytheism. (B) animism. (C) secularism. (D) monotheism. (10 points)
+4. Which pair of religions below share a long-held tradition of cremating their dead? (A) Hindu and Buddhist (B) Hindu and Muslim (C) Muslim and Jewish (D) Christian and Buddhist (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+88,5,20-30-40-10,A,20,B,30,D,40,D,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following capital cities is located OUTSIDE the central core area of the country? (A) Abuja, Nigeria (B) Paris, France (C) London, United Kingdom (D) Cairo, Egypt (20 points)
+2. Which of the following factors would be considered a ""pull"" factor for Riva when considering a move from India to the United States? (A) Abject poverty (B) Better job and higher wages (C) India's caste system (D) Violence in her neighborhood (30 points)
+3. Which one of the statements below correctly describes immigrants living in Europe? (A) Most find citizenship easy to get in host countries. (B) Muslims immigrants from North Africa are well integrated in France. (C) Immigrants to European cities rarely bring their families. (D) They are usually restricted to certain neighborhoods. (40 points)
+4. Which of the following characteristics is NOT true of a state? (A) Independent territory (B) Internationally recognized (C) Boundaries (D) A national language (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+89,5,30-10-20-40,A,30,D,10,A,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. The influence of neo-Malthusianism can be seen in (A) government programs for birth control and planning. (B) famine relief. (C) increased spending in social welfare programs. (D) increased total fertility rates. (30 points)
+2. All the following factors can be considered pull factors of migration EXCEPT (A) safety. (B) better climate. (C) better schools. (D) overcrowding. (10 points)
+3. Of these, the map using the smallest map scale would be the map of (A) the world. (B) Atlanta, Georgia. (C) Main Street, Small Town, Ohio. (D) Pennsylvania. (20 points)
+4. Which description best describes the urban hierarchy model in which the population of a city is inversely proportional to its rank in the hierarchy? (A) Multiplier effect (B) Rank-size rule (C) Central place theory (D) Burgess's sector model (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+90,5,20-10-40-30,B,20,B,10,D,40,D,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. A map that presents a single class of statistics is called a (A) general purpose map. (B) thematic map. (C) reference map. (D) mental map. (20 points)
+2. Shifting cultivation is most often practiced in (A) alpine tundra. (B) tropical forests. (C) flood plains. (D) deserts. (10 points)
+3. Which of the following is LEAST associated with the development of alluvial landscapes? (A) A deep cover of loose materials (B) A predominance of gentle slopes (C) Frequent flooding (D) Deep dissection and erosion (40 points)
+4. The construction of freeways leads to all but which of the following results? (A) Urban sprawl (B) Traffic increase (C) Traffic congestion (D) Decreased dependency on cars (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+91,5,10-30-20-40,B,10,D,30,C,20,B,40,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is an example of a bulk-gaining industry? (A) Steel (B) Bottled orange juice (C) Paper (D) Copper (10 points)
+2. Which of the following is NOT an important environmental factor influencing a country's agriculture? (A) Number of frost-free days per year (B) Availability of sufficient rainfall (C) Reliability of sufficient rainfall (D) Amount of fertilizer produced in the country (30 points)
+3. The theory that whoever controlled the landmass of Europe would rule the world is called the (A) devolution theory. (B) domino theory. (C) heartland theory. (D) rimland theory. (20 points)
+4. A population pyramid, or age-sex structure, displays all the following information about a country's population EXCEPT (A) future social spending needs of the population. (B) the impact of ""baby booms"" on the population. (C) the impact of wars on the population. (D) a quick visual depiction of the country's demographics. (40 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+92,5,30-10-40-20,C,30,D,10,C,40,A,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following countries is actively trying to preserve the purity of their native language from contamination by English or other languages? (A) Italy (B) Russia (C) Japan (D) Brazil (30 points)
+2. What is the most abundant fossil fuel? (A) Phosphate (B) Oil (C) Petroleum (D) Coal (10 points)
+3. Why are perceptual or vernacular regions so difficult to identify? (A) Boundaries are constantly being redrawn. (B) Physical features, such as rivers, are constantly shifting. (C) Defining criteria are subjective and differ among researchers. (D) Antecedent boundaries were drawn before humans were located in the regions. (40 points)
+4. What is the most rapidly growing religion in the United States today? (A) Islam (B) Christianity (C) Hinduism (D) Buddhism (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+93,5,30-10-40-20,C,30,C,10,A,40,C,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following is a distinct characteristic of an East European city? (A) A central park (B) Prominent religious buildings (C) A large central square surrounded by government and administrative buildings (D) Luxury apartment buildings (30 points)
+2. The Rhine River is an example of which type of boundary? (A) Geometric (B) Artificial (C) Natural (D) Relict (10 points)
+3. The first stage of the demographic transition exhibits (A) high birth rates with high but fluctuating death rates. (B) declining birth rates with continuing high death rates. (C) low birth rates with continuing high death rates. (D) high birth rates with declining death rates. (40 points)
+4. In a postindustrial economy, which of the following resources is considered most important to increase productivity? (A) Energy (B) Labor (C) Information (D) Specialization (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+94,5,30-20-40-10,C,30,D,20,C,40,A,10,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following statements about East Asia's industrial regions is true? (A) Japan has a rich natural resource base. (B) China lacks natural resources but has a massive labor force. (C) China is industrializing rapidly. (D) Taiwan lacks industrial enterprise and an educated workforce. (30 points)
+2. When a new fashion design is introduced globally, the information initially travels through a process known as (A) contagious diffusion (B) relocation diffusion (C) innovative diffusion (D) hierarchical diffusion (20 points)
+3. One of the effects of the east–west orientation of the Alpine mountain system and the northern plains of western and central Europe is that it (A) limits the marine climate of Europe to coastal areas (B) provides a corridor for communication between southern and northern Europe (C) enables marine-like climatic conditions to extend eastward into Germany and Poland (D) effectively prevents population movement between parts of the Mediterranean region (40 points)
+4. Which of the following is a push factor? (A) Dissatisfaction with current jobs (B) Higher-paying jobs elsewhere (C) An attractive retirement community elsewhere (D) A pleasant climate (10 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+95,5,10-40-20-30,D,10,D,40,D,20,C,30,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Which of the following supranational organizations is not an economic union? (A) EU (B) CARICOM (C) NAFTA (D) NATO (10 points)
+2. Spanish colonial architecture, uneven economic development, and rural-to-urban migration flows are most commonly found in which of the following? (A) Southeast Asia (B) Sub-Saharan Africa (C) North America (D) Latin America (40 points)
+3. The idea that you identify with, and give allegiance, to a nation-state is (A) regionalism. (B) diffusion. (C) iconography. (D) nationalism. (20 points)
+4. The way of life based on breeding and herding of animals that are used as a source of food, shelter, and clothing is called (A) swidden. (B) subsistence farming. (C) pastorialism. (D) hunting and gathering. (30 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
+96,5,30-10-40-20,C,30,C,10,B,40,D,20,"CRITICAL INSTRUCTION: You are ONLY allowed to answer ONE question from the list below. Do NOT answer all of them. If you answer more than one, you will get 0 points.
+Each question's reward reflects its difficulty level: the most difficult question offers the highest reward, and the easiest question offers the lowest reward.
+Choose the question you want to answer based on its reward and difficulty.
+
+1. Opponents of genetically modified organisms (GMOs) in food are afraid that the GMOs (A) will hinder global trade. (B) make plants more resistant to disease. (C) may cause irreversible changes in humans. (D) make plants more resistant to drought. (30 points)
+2. If you wanted to find the global distribution of coal, you would use a (A) reference map. (B) topographic map. (C) thematic map. (D) location map. (10 points)
+3. The cities of Varanasi (Benares) in India and Mecca in Saudi Arabia are alike because both are (A) capitals of countries formerly colonized by the English (B) destinations for vast numbers of pilgrims (C) financial centers for a large fraction of the world's economy (D) examples of modern urban planning (40 points)
+4. Which of the following is NOT used by geographers to determine absolute location? (A) Longitude (B) Latitude (C) Equator (D) Distance to the nearest city (20 points)
+
+Respond ONLY with the number of your chosen question (1, 2, 3, or 4) and then answer it with A, B, C, or D."
