@@ -2,7 +2,7 @@
 
 This repository is the official implementation of [Anhedonia in Vision-Language Models: Neuroscientifically Inspired Localization and Impairments of the Reward Center](). 
 
-![Graphical Abstract](./abstract.jpg)
+![Graphical Abstract](./assets/abstract.jpg)
 
 <!-- >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials -->
 
@@ -51,16 +51,20 @@ This project uses the official **Qwen2-VL-7B-Instruct** weights as the foundatio
 
 ## Results
 
-Our model achieves the following performance on :
+Our experiments evaluate the **Behavioral Impact of NAc Sub-network Perturbation on ASDiv-EEfRT**. The results demonstrate that targeted perturbations induce anhedonia-like behavior without compromising general cognitive functions.
 
-### [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
+![Behavioral Impact of NAc Sub-network Perturbation](./assets/behavioral_results.png)
+*(Error bars represent 95% confidence intervals)*
 
-| Model name         | Top 1 Accuracy  | Top 5 Accuracy |
-| ------------------ |---------------- | -------------- |
-| My awesome model   |     85%         |      95%       |
+*   **(a)** Comparison of model accuracy on the control task, a forced-choice scenario with no reward promised, shows no significant difference between the Intact and Perturbed models, confirming that general cognitive performance remains preserved.
+*   **(b)** The Perturbed model exhibits a significant reduction in mean points chosen compared to the Intact model, shifting toward chance levels.
+*   **(c)** Choice frequency analysis reveals that NAc-perturbed models shift significantly toward low-reward options and away from high-reward options compared to the Intact model.
+*   **(d)** Control experiment demonstrating that perturbing an equivalent number of random units does not induce anhedonic behavior, with no significant difference in choice frequency compared to the Intact model.
 
->📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it. 
-
+<!-- > 📋 To reproduce this figure and the underlying evaluation metrics, run:
+> ```bash
+> python scripts/evaluate_behavior.py --config configs/asdiv_eefrt.yaml --output_dir ./assets/
+> ``` -->
 
 ## Contributing
 
