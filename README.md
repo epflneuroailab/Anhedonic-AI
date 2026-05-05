@@ -17,35 +17,26 @@ This repository is the official implementation of [Anhedonia in Vision-Language 
 
 **Option 1: Conda (Recommended)**
 ```bash
-conda env create -f environment.yml
+conda env create -f config/environment.yml
 conda activate anhedonia_env
 ```
 
-**Option 2: Pip**
+**Option 2: Pip**cd
 ```bash
 pip install -r requirements.txt
 ```
->📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
+## Model Preparation (Extraction & Pertubation)
 
-## Training
+Our methodology does not involve traditional model training. Instead, we prepare our modified model by extracting intermediate activations and ablating specific reward-associated neurons. 
 
-To train the model(s) in the paper, run this command:
+To run this extraction pipeline:
 
-```train
-python train.py --input-data <path_to_data> --alpha 10 --beta 20
-```
+```bash
+python extraction/extract_activations.py
+python extraction/scripts/extract_neurons.py
 
->📋  Describe how to train the models, with example commands on how to train the models in your paper, including the full training procedure and appropriate hyperparameters.
 
-## Evaluation
 
-To evaluate my model on ImageNet, run:
-
-```eval
-python eval.py --model-file mymodel.pth --benchmark imagenet
-```
-
->📋  Describe how to evaluate the trained models on benchmarks reported in the paper, give commands that produce the results (section below).
 
 ## Pre-trained Models
 
