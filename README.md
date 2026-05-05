@@ -47,7 +47,7 @@ Selection Method: Neurons showing >3σ activation change in both Math AND Geogra
 - Model must choose only one question per trial
 - Tests effort-reward decision-making 
 
-#### Control - ASDiv Accuracy (data/asdiv_accuracy_dataset.json) 
+#### Control - ASDiv Accuracy (evaluation/data/asdiv_accuracy_dataset.json) 
 
 - Same 384 questions presented individually
 - Model must answer all questions (no choice)
