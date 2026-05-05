@@ -177,8 +177,8 @@ print(f"  Perturbed : {pm:.2%} ± {ps:.2%}")
 print(f"  Δ         : {pm-bm:+.2%}")
 print("="*55)
 
-os.makedirs("results", exist_ok=True)
-with open("results/accuracy_results.json", "w") as f:
+os.makedirs("../results", exist_ok=True)
+with open("../results/accuracy_results.json", "w") as f:
     json.dump({"baseline":  {"folds": base_stats, "rows": base_rows},
                "perturbed": {"folds": pert_stats, "rows": pert_rows}}, f, indent=2)
-print("Saved → results/accuracy_results.json")
+print("Saved → ../results/accuracy_results.json")

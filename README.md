@@ -21,22 +21,63 @@ conda env create -f config/environment.yml
 conda activate anhedonia_env
 ```
 
-**Option 2: Pip**cd
+**Option 2: Pip**
 ```bash
 pip install -r requirements.txt
 ```
-## Model Preparation (Extraction & Pertubation)
+## Model Preparation 
 
-Our methodology does not involve traditional model training. Instead, we prepare our modified model by extracting intermediate activations and ablating specific reward-associated neurons. 
+We prepare the **Perturbed Model** through a two-stage process. First, we perform activation recording to identify reward-associated neurons. Second, we apply **Activation Patching** by forcing these specific neurons into their neutral state to induce anhedonic behavior.
 
-To run this extraction pipeline:
+### Quick Start
+
+Run the complete pipeline:
 
 ```bash
-python extraction/extract_activations.py
-python extraction/scripts/extract_neurons.py
+python extraction/scripts/pipeline.py
+```
 
+This pipeline executes three scripts in sequence (detailed below).
 
+### Pipeline Components
 
+The pipeline consists of three steps:
+
+**1. Activation Extraction** (`extract_activations.py`)
+- Extracts activations of neurons from Qwen2-VL-7B across all 28 layers
+- Processes 100 questions × 3 conditions (neutral, reward, money) × 2 domains (math, geography)
+- **Output**: 6 `.pt` files in `outputs/activations/` 
+
+**2. Neuron Selection** (`extract_neurons.py`)
+- Identifies neurons with significant activation changes (>3σ threshold) across both domains
+- Computes cross-domain intersection to find universal reward-sensitive neurons
+- **Output**: 
+  - `universal_money_neurons.csv` - Money-sensitive neurons
+  - `universal_reward_neurons.csv` - Reward-sensitive neurons  
+  - `master_incentive_core.csv` - Core neurons (intersection)
+- **Key Hyperparameter**: 3-sigma threshold for significance
+
+**3. Target Layer Selection** (`target_layers.py`)
+- Filters neurons from layers 18-27 (late layers)
+- **Output**: `neurons.json` - Final neuron set for perturbation (~1,363 neurons)
+
+### Expected Outputs
+
+After running the pipeline, you should have:
+```
+outputs/
+├── activations/
+│   ├── neutral_activations_math.pt
+│   ├── money_activations_math.pt
+│   ├── reward_activations_math.pt
+│   ├── neutral_activations_geo.pt
+│   ├── money_activations_geo.pt
+│   └── reward_activations_geo.pt
+├── universal_money_neurons.csv
+├── universal_reward_neurons.csv
+├── master_incentive_core.csv
+└── neurons.json  ← Used for perturbation experiments
+```
 
 ## Pre-trained Models
 

@@ -1,7 +1,7 @@
 import json, re, os, torch
 import numpy as np
 from transformers import Qwen2VLForConditionalGeneration, AutoProcessor
-from collections import defaultdict, Counter
+from collections import defaultdict
 
 MODEL_PATH      = "../../../models/qwen2-vl-7b"
 NEURONS_JSON    = "../../extraction/outputs/neurons.json"
@@ -83,18 +83,9 @@ def run(folds, label):
             opt    = pts == 40
             pts_list.append(pts); opt_list.append(opt)
             print(f"    [{i+1:02d}/24] {'✓' if opt else '✗'} choice={choice} pts={pts}  {resp[:55].strip()!r}")
-        
         avg, orat = np.mean(pts_list), np.mean(opt_list)
-        
-        # محاسبه درصد برای این Fold
-        counts = Counter(pts_list)
-        total_items = len(pts_list)
-        dist_pct = {str(k): f"{(v / total_items) * 100:.1f}%" for k, v in sorted(counts.items())}
-        
-        print(f"    → avg_pts={avg:.2f}  optimal={orat:.2%}  dist={dist_pct}")
-        
-        # شمارش خام ذخیره می‌شود تا در بخش خلاصه برای کل داده‌ها دقیق محاسبه شود
-        results.append((avg, orat, dict(counts))) 
+        print(f"    → avg_pts={avg:.2f}  optimal={orat:.2%}")
+        results.append((avg, orat))
     return results
 
 # ── Main ─────────────────────────────────────────────────────────────────────
@@ -112,20 +103,7 @@ modA = run(folds, "PERTURBED MODEL")
 remove_hooks()
 
 # ── Summary ───────────────────────────────────────────────────────────────────
-bpts, bopt, bdist_list = zip(*base)
-apts, aopt, adist_list = zip(*modA)
-
-# تابع محاسبه درصد توزیع امتیازها برای کل داده‌ها (تجمع ۴ Fold)
-def calculate_percentages(dist_list):
-    total = Counter()
-    for d in dist_list:
-        total.update(d)
-    total_items = sum(total.values())
-    return {str(k): f"{(v / total_items) * 100:.1f}%" for k, v in sorted(total.items())}
-
-bdist_pct = calculate_percentages(bdist_list)
-adist_pct = calculate_percentages(adist_list)
-
+bpts, bopt = zip(*base); apts, aopt = zip(*modA)
 print("\n" + "="*62)
 print("  RESULTS  (4 folds × 24 rows)")
 print("="*62)
@@ -135,24 +113,11 @@ print(f"  {'Baseline':12} {np.mean(bpts):>6.2f} ± {np.std(bpts):.2f}   {np.mean
 print(f"  {'Perturbed':12} {np.mean(apts):>6.2f} ± {np.std(apts):.2f}   {np.mean(aopt):>8.2%} ± {np.std(aopt):.2%}")
 print(f"  {'Δ':12} {np.mean(apts)-np.mean(bpts):>+12.2f}   {np.mean(aopt)-np.mean(bopt):>+13.2%}")
 print("="*62)
-print("  POINT DISTRIBUTIONS (Percentages across all folds):")
-print(f"  Baseline:  {bdist_pct}")
-print(f"  Perturbed: {adist_pct}")
-print("="*62)
 
-os.makedirs("results", exist_ok=True)
-with open("results/perturbed_results.json", "w") as f:
-    json.dump({
-        "baseline": base, 
-        "perturbed": modA,
-        "point_distributions_percentage": {
-            "baseline": bdist_pct,
-            "perturbed": adist_pct
-        },
-        "summary": {
-            "baseline_pts": f"{np.mean(bpts):.2f}±{np.std(bpts):.2f}",
-            "perturbed_pts":   f"{np.mean(apts):.2f}±{np.std(apts):.2f}",
-            "delta_pts":    f"{np.mean(apts)-np.mean(bpts):+.2f}"
-        }
-    }, f, indent=2)
-print("Saved → results/perturbed_results.json")
+os.makedirs("../results", exist_ok=True)
+with open("../results/perturbed_results.json", "w") as f:
+    json.dump({"baseline": base, "perturbed": modA,
+               "summary": {"baseline_pts": f"{np.mean(bpts):.2f}±{np.std(bpts):.2f}",
+                           "perturbed_pts":   f"{np.mean(apts):.2f}±{np.std(apts):.2f}",
+                           "delta_pts":    f"{np.mean(apts)-np.mean(bpts):+.2f}"}}, f, indent=2)
+print("Saved → ../results/perturbed_results.json")

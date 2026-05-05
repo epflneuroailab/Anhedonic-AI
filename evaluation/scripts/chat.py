@@ -6,8 +6,8 @@ from transformers import Qwen2VLForConditionalGeneration, AutoProcessor
 
 # --- Configuration and Paths ---
 MODEL_PATH = "../../../models/qwen2-vl-7b"
-ACTIVATIONS_DIR = "../outputs/activations" 
-NEURONS_JSON    = "../outputs/neurons.json"
+ACTIVATIONS_DIR = "../../extraction/outputs/activations" 
+NEURONS_JSON    = "../../extraction/outputs/neurons.json"
 
 class PerturbedModelChat:
     def __init__(self):
