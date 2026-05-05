@@ -53,7 +53,7 @@ This project uses the official **Qwen2-VL-7B-Instruct** weights as the foundatio
 
 Our experiments evaluate the **Behavioral Impact of NAc Sub-network Perturbation on ASDiv-EEfRT**. The results demonstrate that targeted perturbations induce anhedonia-like behavior without compromising general cognitive functions.
 
-![Behavioral Impact of NAc Sub-network Perturbation](./assets/results.png)
+![Behavioral Impact of NAc Sub-network Perturbation](./assets/results.jpg)
 *(Error bars represent 95% confidence intervals)*
 
 *   **(a)** Comparison of model accuracy on the control task, a forced-choice scenario with no reward promised, shows no significant difference between the Intact and Perturbed models, confirming that general cognitive performance remains preserved.
