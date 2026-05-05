@@ -1,4 +1,4 @@
-Anhedonia in Vision-Language Models: Neuroscientifically Inspired Localization and Impairments of the Reward Center
+# Anhedonia in Vision-Language Models: Neuroscientifically Inspired Localization and Impairments of the Reward Center
 
 This repository is the official implementation of [Anhedonia in Vision-Language Models: Neuroscientifically Inspired Localization and Impairments of the Reward Center](). 
 
