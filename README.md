@@ -25,6 +25,56 @@ conda activate anhedonia_env
 ```bash
 pip install -r requirements.txt
 ```
+
+## Datasets
+
+This work uses two types of datasets: neuron identification and evaluation benchmarks for measuring anhedonic behavior.
+
+### Neuron Identification Phase
+
+Custom-designed question sets inspired by the Monetary Incentive Delay (MID) task. Each dataset presents identical questions under three experimental conditions to isolate reward-sensitive neural responses.
+By comparing activation patterns across neutral vs. reward-framed presentations of the same question, we can identify neurons that respond specifically to reward anticipation rather than task content. 
+Note: The paper primarily uses Math and Geography datasets for neuron identification (reported in main results). Business Ethics and Philosophy and business ethics datasets were additionally tested to validate the chosen neurons across diverse domains.
+
+#### MID-Inspired Experimental Structure
+Each dataset contains 100 base questions presented under three conditions:
+
+Neutral Prompt: Standard task presentation with no reward framing (control condition)
+Reward Prompt: Generic reward promise ("You will receive a great reward...")
+Money Prompt: Specific monetary reward ("You will receive 100 US dollars...")
+<!-- 
+Key Feature: The only difference between conditions is the framing—the underlying question remains identical. This isolates reward-related activation changes from content-related processing. -->
+Primary Datasets (Used in Paper)
+1. Math Experiment (extraction/data/math_experiment.csv)
+
+- Size: 100 questions × 3 conditions = 300 prompts
+- Content: Basic operations
+- Purpose: Primary domain for neuron identification; 
+- Format: CSV with columns [ID, Question_Base, Neutral_Prompt, Reward_Prompt, Money_Prompt]
+
+2. Geography Experiment (extraction/data/geography_experiment.csv)
+
+Size: 100 geography questions × 3 conditions = 300 prompts
+Content: Capital cities and geographical knowledge questions
+Purpose: Primary domain for cross-domain validation to identify universal (not domain-specific) reward neurons
+Format: CSV with columns [ID, Question_Base, Neutral_Prompt, Reward_Prompt, Money_Prompt]
+
+Supplementary Datasets (Robustness Testing)
+3. Business Ethics (data/business_ethics_v2.csv)
+
+Size: 100 multiple-choice questions × 3 conditions = 300 prompts
+Content: Business ethics scenarios
+Purpose: Robustness validation across abstract reasoning domains
+Format: CSV with columns [ID, Question_Base, Neutral_Prompt, Reward_Prompt, Money_Prompt]
+
+4. Philosophy (data/philosophy_v2.csv)
+
+Size: 100 multiple-choice questions × 3 conditions = 300 prompts
+Content: Philosophical reasoning 
+Purpose: Robustness validation across abstract reasoning domains
+Format: CSV with columns [ID, Question_Base, Neutral_Prompt, Reward_Prompt, Money_Prompt]
+
+
 ## Model Preparation 
 
 We prepare the **Perturbed Model** through a two-stage process. First, we perform activation recording to identify reward-associated neurons. Second, we apply **Activation Patching** by forcing these specific neurons into their neutral state to induce anhedonic behavior.
@@ -78,6 +128,58 @@ outputs/
 ├── master_incentive_core.csv
 └── neurons.json  ← Used for perturbation experiments
 ```
+
+## Evaluation
+
+We provide three evaluation modes to assess the perturbed model's anhedonic behavior:
+
+### Quick Start
+
+Choose one of the evaluation modes below based on your needs.
+
+### Evaluation Modes
+
+**1. Interactive Chat** (`chat.py`)
+- Interactive conversation interface with the perturbed model
+- Allows qualitative assessment of response patterns and motivation levels
+- Useful for exploratory analysis and demonstration
+- **Usage**:
+```bash
+  python evaluation/chat.py
+```
+
+**2. ASDic Dataset Evaluation** (`eval.py`)
+- Evaluates model on ASDic dataset (multiple-choice, 4 options per question)
+- Questions are reward-bounded and difficulty-stratified
+- Measures selective motivation impairment while preserving general capability
+- **Output**: Performance metrics across difficulty levels and reward conditions
+- **Usage**:
+```bash
+  python evaluation/eval.py
+```
+
+**3. Functional Accuracy Evaluation** (`eval_accuracy.py`)
+- Forces the model to answer all questions in the ASDiv dataset (no option selection)
+- **Purpose**: Control experiment to verify perturbation does not impair baseline reasoning
+- Tests whether anhedonic perturbation affects functional capacity independent of motivation
+- **Output**: Overall accuracy metrics on ASDiv benchmark
+- **Usage**:
+```bash
+  python evaluation/eval_accuracy.py
+```
+
+### Expected Outputs
+
+Depending on the evaluation mode:
+- **chat.py**: Interactive terminal session
+- **eval.py**: `results/perturbed_results.csv` - Performance by effort/reward
+- **eval_accuracy.py**: `results/accuracy_results.json` - ASDiv accuracy scores
+
+### Evaluation Design Rationale
+
+- **ASDic evaluation** (`eval.py`) is the primary metric reported in the paper, as it tests the core hypothesis: reward-sensitivity impairment with preserved capability
+- **Functional accuracy** (`eval_accuracy.py`) serves as a control to verify the perturbation does not damage the model's mathematical reasoning abilities—we expect minimal accuracy degradation despite behavioral changes
+- **Interactive chat** (`chat.py`) provides qualitative validation of behavioral changes
 
 ## Pre-trained Models
 
