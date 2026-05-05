@@ -25,55 +25,33 @@ conda activate anhedonia_env
 ```bash
 pip install -r requirements.txt
 ```
-
 ## Datasets
+### Neuron Identification
+Custom question sets inspired by the Monetary Incentive Delay (MID) task. Each question is presented under three conditions (Neutral, Reward, Money) to isolate reward-sensitive neurons by comparing activation patterns.
+#### Primary Datasets (used in paper):
 
-This work uses two types of datasets: neuron identification and evaluation benchmarks for measuring anhedonic behavior.
+- Math Experiment (extraction/data/math_experiment.csv): 100 arithmetic questions × 3 conditions
+- Geography Experiment (extraction/data/geography_experiment.csv): 100 geography questions × 3 conditions
 
-### Neuron Identification Phase
+#### Supplementary Datasets (robustness testing):
 
-Custom-designed question sets inspired by the Monetary Incentive Delay (MID) task. Each dataset presents identical questions under three experimental conditions to isolate reward-sensitive neural responses.
-By comparing activation patterns across neutral vs. reward-framed presentations of the same question, we can identify neurons that respond specifically to reward anticipation rather than task content. 
-Note: The paper primarily uses Math and Geography datasets for neuron identification (reported in main results). Business Ethics and Philosophy and business ethics datasets were additionally tested to validate the chosen neurons across diverse domains.
+Business Ethics (data/business_ethics_v2.csv): 100 questions × 3 conditions
+Philosophy (data/philosophy_v2.csv): 100 questions × 3 conditions
 
-#### MID-Inspired Experimental Structure
-Each dataset contains 100 base questions presented under three conditions:
+Selection Method: Neurons showing >3σ activation change in both Math AND Geography domains are identified as reward-sensitive neurons.
 
-Neutral Prompt: Standard task presentation with no reward framing (control condition)
-Reward Prompt: Generic reward promise ("You will receive a great reward...")
-Money Prompt: Specific monetary reward ("You will receive 100 US dollars...")
-<!-- 
-Key Feature: The only difference between conditions is the framing—the underlying question remains identical. This isolates reward-related activation changes from content-related processing. -->
-Primary Datasets (Used in Paper)
-1. Math Experiment (extraction/data/math_experiment.csv)
+### Evaluation Benchmarks
+#### Primary Metric - ASDiv (evaluation/data/asdiv_eval_dataset.json)
 
-- Size: 100 questions × 3 conditions = 300 prompts
-- Content: Basic operations
-- Purpose: Primary domain for neuron identification; 
-- Format: CSV with columns [ID, Question_Base, Neutral_Prompt, Reward_Prompt, Money_Prompt]
+- 96 trials, each with 4 math questions (10, 20, 30, 40 points based on difficulty)
+- Model must choose only one question per trial
+- Tests effort-reward decision-making 
 
-2. Geography Experiment (extraction/data/geography_experiment.csv)
+#### Control - ASDiv Accuracy (data/asdiv_accuracy_dataset.json) 
 
-Size: 100 geography questions × 3 conditions = 300 prompts
-Content: Capital cities and geographical knowledge questions
-Purpose: Primary domain for cross-domain validation to identify universal (not domain-specific) reward neurons
-Format: CSV with columns [ID, Question_Base, Neutral_Prompt, Reward_Prompt, Money_Prompt]
-
-Supplementary Datasets (Robustness Testing)
-3. Business Ethics (data/business_ethics_v2.csv)
-
-Size: 100 multiple-choice questions × 3 conditions = 300 prompts
-Content: Business ethics scenarios
-Purpose: Robustness validation across abstract reasoning domains
-Format: CSV with columns [ID, Question_Base, Neutral_Prompt, Reward_Prompt, Money_Prompt]
-
-4. Philosophy (data/philosophy_v2.csv)
-
-Size: 100 multiple-choice questions × 3 conditions = 300 prompts
-Content: Philosophical reasoning 
-Purpose: Robustness validation across abstract reasoning domains
-Format: CSV with columns [ID, Question_Base, Neutral_Prompt, Reward_Prompt, Money_Prompt]
-
+- Same 384 questions presented individually
+- Model must answer all questions (no choice)
+- Tests functional accuracy (should remain intact despite perturbation)
 
 ## Model Preparation 
 
