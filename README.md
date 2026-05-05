@@ -14,11 +14,17 @@ This repository is the official implementation of [Anhedonia in Vision-Language 
 * **Note on Efficiency:** The perturbation methods described in our paper are computationally efficient and **do not introduce meaningful overhead** to the base model's inference or training time.
 
 ### Environment Setup
+
+**Option 1: Conda (Recommended)**
+```bash
+conda env create -f environment.yml
+conda activate anhedonia_env
+```
+
+**Option 2: Pip**
 ```bash
 pip install -r requirements.txt
 ```
-
-
 >📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
 
 ## Training
@@ -51,7 +57,8 @@ This project uses the official **Qwen2-VL-7B-Instruct** weights as the foundatio
 
 ## Results
 
-Our experiments evaluate the **Behavioral Impact of NAc Sub-network Perturbation on ASDiv-EEfRT**. The results demonstrate that targeted perturbations induce anhedonia-like behavior without compromising general cognitive functions.
+<!-- Our experiments evaluate the **Behavioral Impact of NAc Sub-network Perturbation on ASDiv-EEfRT**.  -->
+The results demonstrate that targeted perturbations induce anhedonia-like behavior without compromising general cognitive functions.
 
 ![Behavioral Impact of NAc Sub-network Perturbation](./assets/results.jpg)
 *(Error bars represent 95% confidence intervals)*

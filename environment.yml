@@ -1,0 +1,19 @@
+name: anhedonia_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.18
+  - pip
+  - av=9.2.0
+  - pillow=11.1.0
+  - pip:
+      - accelerate==1.13.0
+      - numpy==2.2.6
+      - pandas==2.3.3
+      - psutil==7.2.2
+      - qwen-vl-utils==0.0.14
+      - torch==2.6.0
+      - torchvision==0.21.0
+      - tqdm==4.67.3
+      - transformers==5.7.0
