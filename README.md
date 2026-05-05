@@ -1,10 +1,8 @@
->📋  A template README.md for code accompanying a Machine Learning paper
-
 Anhedonia in Vision-Language Models: Neuroscientifically Inspired Localization and Impairments of the Reward Center
 
 This repository is the official implementation of [Anhedonia in Vision-Language Models: Neuroscientifically Inspired Localization and Impairments of the Reward Center](). 
 
-![Graphical Abstract](./wider_abstract.svg)
+![Graphical Abstract](./abstract.jpg)
 
 >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
 
