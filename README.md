@@ -43,11 +43,11 @@ python eval.py --model-file mymodel.pth --benchmark imagenet
 
 ## Pre-trained Models
 
-You can download pretrained models here:
+This project uses the official **Qwen2-VL-7B-Instruct** weights as the foundational model. All perturbations are applied to these weights during inference.
 
-- [My awesome model](https://drive.google.com/mymodel.pth) trained on ImageNet using parameters x,y,z. 
+- **Foundational Model:** [Qwen2-VL-7B-Instruct on Hugging Face](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct)
+- **Note:** The weights will be automatically downloaded via the `transformers` library if not present locally.
 
->📋  Give a link to where/how the pretrained models can be downloaded and how they were trained (if applicable).  Alternatively you can have an additional column in your results table with a link to the models.
 
 ## Results
 
