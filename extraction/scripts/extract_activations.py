@@ -6,7 +6,7 @@ import os
 # =============================================================================
 # Configuration
 # =============================================================================
-MODEL_PATH = "../../../models/qwen2-vl-7b"
+MODEL_PATH = os.environ.get("MODEL_PATH", "Qwen/Qwen2-VL-7B-Instruct")
 OUTPUT_DIR = "../outputs/activations" 
 
 DATASETS = {

@@ -5,7 +5,7 @@ import numpy as np
 from transformers import Qwen2VLForConditionalGeneration, AutoProcessor
 
 # --- Configuration and Paths ---
-MODEL_PATH = "../../../models/qwen2-vl-7b"
+MODEL_PATH = os.environ.get("MODEL_PATH", "Qwen/Qwen2-VL-7B-Instruct")
 ACTIVATIONS_DIR = "../../extraction/outputs/activations" 
 NEURONS_JSON    = "../../extraction/outputs/neurons.json"
 
