@@ -2,7 +2,7 @@
 
 This repository is the official implementation of [Anhedonia in Vision-Language Models: Neuroscientifically Inspired Localization and Impairments of the Reward Center](). 
 
-![Graphical Abstract](./assets/abstract.jpg)
+![Graphical Abstract](./assets/abstract.png)
 
 <!-- >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials -->
 
@@ -35,10 +35,10 @@ Custom question sets inspired by the Monetary Incentive Delay (MID) task. Each q
 
 #### Supplementary Datasets (robustness testing):
 
-Business Ethics (data/business_ethics_v2.csv): 100 questions × 3 conditions
-Philosophy (data/philosophy_v2.csv): 100 questions × 3 conditions
+Business Ethics (extraction/data/business_ethics_experiment.csv): 100 questions × 3 conditions
+Philosophy (extraction/data/philosophy_experiment.csv): 100 questions × 3 conditions
 
-Selection Method: Neurons showing >3σ activation change in both Math AND Geography domains are identified as reward-sensitive neurons.
+Selection Method: Neurons showing >3σ activation change in both Math AND Geography domains are identified as NAc-selective units.
 
 ### Evaluation Benchmarks
 #### Primary Metric - ASDiv (evaluation/data/asdiv_eval_dataset.json)
@@ -55,7 +55,7 @@ Selection Method: Neurons showing >3σ activation change in both Math AND Geogra
 
 ## Model Preparation 
 
-We prepare the **Perturbed Model** through a two-stage process. First, we perform activation recording to identify reward-associated neurons. Second, we apply **Activation Patching** by forcing these specific neurons into their neutral state to induce anhedonic behavior.
+We prepare the **Perturbed Model** through a two-stage process. First, we perform activation recording to identify NAc-selective units. Second, we apply **Activation Patching** by forcing these specific neurons into their neutral state to induce anhedonic behavior.
 
 ### Quick Start
 
@@ -74,20 +74,20 @@ The pipeline consists of three steps:
 **1. Activation Extraction** (`extract_activations.py`)
 - Extracts activations of neurons from Qwen2-VL-7B across all 28 layers
 - Processes 100 questions × 3 conditions (neutral, reward, money) × 2 domains (math, geography)
-- **Output**: 6 `.pt` files in `outputs/activations/` 
+- **Output**: 6 `.pt` files in `extraction/outputs/activations/` 
 
 **2. Neuron Selection** (`extract_neurons.py`)
 - Identifies neurons with significant activation changes (>3σ threshold) across both domains
 - Computes cross-domain intersection to find universal reward-sensitive neurons
 - **Output**: 
-  - `universal_money_neurons.csv` - Money-sensitive neurons
-  - `universal_reward_neurons.csv` - Reward-sensitive neurons  
-  - `master_incentive_core.csv` - Core neurons (intersection)
+  - `extraction/outputs/universal_money_neurons.csv` - Money-sensitive neurons
+  - `extraction/outputs/universal_reward_neurons.csv` - Reward-sensitive neurons  
+  - `extraction/outputs/master_incentive_core.csv` - Core neurons (intersection)
 - **Key Hyperparameter**: 3-sigma threshold for significance
 
 **3. Target Layer Selection** (`target_layers.py`)
 - Filters neurons from layers 18-27 (late layers)
-- **Output**: `neurons.json` - Final neuron set for perturbation (~1,363 neurons)
+- **Output**: `extraction/outputs/neurons.json` - Final neuron set for perturbation (~1,363 neurons)
 
 ### Expected Outputs
 
@@ -111,10 +111,6 @@ outputs/
 
 We provide three evaluation modes to assess the perturbed model's anhedonic behavior:
 
-### Quick Start
-
-Choose one of the evaluation modes below based on your needs.
-
 ### Evaluation Modes
 
 **1. Interactive Chat** (`chat.py`)
@@ -123,7 +119,7 @@ Choose one of the evaluation modes below based on your needs.
 - Useful for exploratory analysis and demonstration
 - **Usage**:
 ```bash
-  python evaluation/chat.py
+  python evaluation/scripts/chat.py
 ```
 
 **2. ASDic Dataset Evaluation** (`eval.py`)
@@ -133,7 +129,7 @@ Choose one of the evaluation modes below based on your needs.
 - **Output**: Performance metrics across difficulty levels and reward conditions
 - **Usage**:
 ```bash
-  python evaluation/eval.py
+  python evaluation/scripts/eval.py
 ```
 
 **3. Functional Accuracy Evaluation** (`eval_accuracy.py`)
@@ -143,20 +139,20 @@ Choose one of the evaluation modes below based on your needs.
 - **Output**: Overall accuracy metrics on ASDiv benchmark
 - **Usage**:
 ```bash
-  python evaluation/eval_accuracy.py
+  python evaluation/scripts/eval_accuracy.py
 ```
 
 ### Expected Outputs
 
 Depending on the evaluation mode:
 - **chat.py**: Interactive terminal session
-- **eval.py**: `results/perturbed_results.csv` - Performance by effort/reward
-- **eval_accuracy.py**: `results/accuracy_results.json` - ASDiv accuracy scores
+- **eval.py**: `evaluation/results/perturbed_results.csv` - Performance by effort/reward
+- **eval_accuracy.py**: `evaluation/results/accuracy_results.json` - ASDiv accuracy scores
 
 ### Evaluation Design Rationale
 
 - **ASDic evaluation** (`eval.py`) is the primary metric reported in the paper, as it tests the core hypothesis: reward-sensitivity impairment with preserved capability
-- **Functional accuracy** (`eval_accuracy.py`) serves as a control to verify the perturbation does not damage the model's mathematical reasoning abilities—we expect minimal accuracy degradation despite behavioral changes
+- **Functional accuracy** (`eval_accuracy.py`) serves as a control to verify the perturbation does not damage the model's reasoning abilities — we expect minimal accuracy degradation despite behavioral changes
 - **Interactive chat** (`chat.py`) provides qualitative validation of behavioral changes
 
 ## Pre-trained Models
@@ -168,7 +164,6 @@ This project uses the official **Qwen2-VL-7B-Instruct** weights as the foundatio
 
 
 ## Results
-
 <!-- Our experiments evaluate the **Behavioral Impact of NAc Sub-network Perturbation on ASDiv-EEfRT**.  -->
 The results demonstrate that targeted perturbations induce anhedonia-like behavior without compromising general cognitive functions.
 
