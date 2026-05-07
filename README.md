@@ -16,7 +16,7 @@ This repository is the official implementation of [Anhedonia in Vision-Language 
 ### Environment Setup
 
 **Core Dependencies:**
-- Python 3.10
+- Python 3.10.18
 - PyTorch 2.6.0 (CUDA required)
 - Transformers 5.7.0
 - Accelerate 1.13.0
