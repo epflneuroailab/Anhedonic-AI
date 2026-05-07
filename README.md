@@ -226,7 +226,7 @@ The results demonstrate that targeted perturbations induce anhedonia-like behavi
 *(Error bars represent 95% confidence intervals)*
 
 *   **(a)** Comparison of model accuracy on the control task, a forced-choice scenario with no reward promised, shows no significant difference between the Intact and Perturbed models, confirming that general cognitive performance remains preserved.
-*   **(b)** The Perturbed model exhibits a significant reduction in mean points chosen compared to the Intact model, shifting toward chance levels.
+*   **(b)** The Perturbed model exhibits a significant reduction in mean points chosen compared to the Intact model.
 *   **(c)** Choice frequency analysis reveals that the perturbed models shift significantly toward low-reward options and away from high-reward options compared to the Intact model.
 *   **(d)** Control experiment demonstrating that perturbing an equivalent number of random units does not induce anhedonic behavior, with no significant difference in choice frequency compared to the Intact model.
 
