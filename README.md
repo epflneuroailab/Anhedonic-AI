@@ -218,11 +218,23 @@ Approximate runtimes on two NVIDIA A100 80GB GPUs:
 | Functional accuracy evaluation | `evaluation/scripts/eval_accuracy.py` | 15–20 min |
 | **Total (full reproduction)** | | **~40–50 min** |
 
-## Reproducing Paper Results
+## Results
 
-The key results from the paper (Figure 4) can be reproduced as follows:
+The results demonstrate that targeted perturbations induce anhedonia-like behavior without compromising general cognitive functions.
 
-| Figure Panel | What it shows | Script | Output |
+![Behavioral Impact of NAc Sub-network Perturbation](./assets/results.jpg)
+*(Error bars represent 95% confidence intervals)*
+
+*   **(a)** Comparison of model accuracy on the control task, a forced-choice scenario with no reward promised, shows no significant difference between the Intact and Perturbed models, confirming that general cognitive performance remains preserved.
+*   **(b)** The Perturbed model exhibits a significant reduction in mean points chosen compared to the Intact model, shifting toward chance levels.
+*   **(c)** Choice frequency analysis reveals that the perturbed models shift significantly toward low-reward options and away from high-reward options compared to the Intact model.
+*   **(d)** Control experiment demonstrating that perturbing an equivalent number of random units does not induce anhedonic behavior, with no significant difference in choice frequency compared to the Intact model.
+
+## Reproducing Results
+
+The results reported above can be reproduced as follows:
+
+| Panel | What it shows | Script | Output |
 |---|---|---|---|
 | (a) Reasoning Capability | Baseline vs. perturbed accuracy | `evaluation/scripts/eval_accuracy.py` | `evaluation/results/accuracy_results.json` |
 | (b) Attempted Score | Mean points chosen | `evaluation/scripts/eval.py` | `evaluation/results/perturbed_results.json` |
@@ -241,18 +253,6 @@ python eval_accuracy.py
 ```
 
 **Note:** The plots in the paper were generated from these output files using separate visualization scripts. The raw numerical results in the JSON outputs are sufficient to verify all claims.
-
-## Results
-
-The results demonstrate that targeted perturbations induce anhedonia-like behavior without compromising general cognitive functions.
-
-![Behavioral Impact of NAc Sub-network Perturbation](./assets/results.jpg)
-*(Error bars represent 95% confidence intervals)*
-
-*   **(a)** Comparison of model accuracy on the control task, a forced-choice scenario with no reward promised, shows no significant difference between the Intact and Perturbed models, confirming that general cognitive performance remains preserved.
-*   **(b)** The Perturbed model exhibits a significant reduction in mean points chosen compared to the Intact model, shifting toward chance levels.
-*   **(c)** Choice frequency analysis reveals that the perturbed models shift significantly toward low-reward options and away from high-reward options compared to the Intact model.
-*   **(d)** Control experiment demonstrating that perturbing an equivalent number of random units does not induce anhedonic behavior, with no significant difference in choice frequency compared to the Intact model.
 
 ## License and Contributing
 
