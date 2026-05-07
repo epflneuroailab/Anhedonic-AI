@@ -172,14 +172,17 @@ The results demonstrate that targeted perturbations induce anhedonia-like behavi
 
 *   **(a)** Comparison of model accuracy on the control task, a forced-choice scenario with no reward promised, shows no significant difference between the Intact and Perturbed models, confirming that general cognitive performance remains preserved.
 *   **(b)** The Perturbed model exhibits a significant reduction in mean points chosen compared to the Intact model, shifting toward chance levels.
-*   **(c)** Choice frequency analysis reveals that NAc-perturbed models shift significantly toward low-reward options and away from high-reward options compared to the Intact model.
+*   **(c)** Choice frequency analysis reveals that the perturbed models shift significantly toward low-reward options and away from high-reward options compared to the Intact model.
 *   **(d)** Control experiment demonstrating that perturbing an equivalent number of random units does not induce anhedonic behavior, with no significant difference in choice frequency compared to the Intact model.
 
 <!-- > 📋 To reproduce this figure and the underlying evaluation metrics, run:
 > ```bash
 > python scripts/evaluate_behavior.py --config configs/asdiv_eefrt.yaml --output_dir ./assets/
 > ``` -->
+ 
+## License and Contributing
 
-## Contributing
+**License:** This repository and its contents are currently provided for **peer-review purposes only**. All rights are reserved by the authors. Upon acceptance and publication of the paper, the code will be released under an open-source license (e.g., MIT License).
 
->📋  Pick a licence and describe how to contribute to your code repository. 
+**Contributing:**
+During the review process, we are not accepting Pull Requests. Once the paper is published and the repository is fully open-sourced, we will welcome community contributions, bug reports, and feature requests.
