@@ -1,0 +1,188 @@
+# Anhedonia in Vision-Language Models: Neuroscientifically Inspired Localization and Impairments of the Reward Center
+
+This repository is the official implementation of [Anhedonia in Vision-Language Models: Neuroscientifically Inspired Localization and Impairments of the Reward Center](). 
+
+![Graphical Abstract](./assets/abstract.png)
+
+<!-- >📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials -->
+
+## Requirements
+
+### Hardware
+* **GPU Resources:** All experiments reported in the paper were conducted on **two NVIDIA A100 GPUs (80GB memory each)**. 
+* **Minimum VRAM:** While the full experimental suite was run on high-end hardware, the model can be loaded for inference on a single GPU with at least 24GB VRAM.
+* **Note on Efficiency:** The perturbation methods described in our paper are computationally efficient and **do not introduce meaningful overhead** to the base model's inference or training time.
+
+### Environment Setup
+
+**Option 1: Conda (Recommended)**
+```bash
+conda env create -f config/environment.yml
+conda activate anhedonia_env
+```
+
+**Option 2: Pip**
+```bash
+pip install -r requirements.txt
+```
+## Datasets
+### Neuron Identification
+Custom question sets inspired by the Monetary Incentive Delay (MID) task. Each question is presented under three conditions (Neutral, Reward, Money) to isolate reward-sensitive neurons by comparing activation patterns.
+#### Primary Datasets (used in paper):
+
+- Math Experiment (extraction/data/math_experiment.csv): 100 arithmetic questions × 3 conditions
+- Geography Experiment (extraction/data/geography_experiment.csv): 100 geography questions × 3 conditions
+
+#### Supplementary Datasets (robustness testing):
+
+Business Ethics (extraction/data/business_ethics_experiment.csv): 100 questions × 3 conditions
+Philosophy (extraction/data/philosophy_experiment.csv): 100 questions × 3 conditions
+
+Selection Method: Neurons showing >3σ activation change in both Math AND Geography domains are identified as NAc-selective units.
+
+### Evaluation Benchmarks
+#### Primary Metric - ASDiv (evaluation/data/asdiv_eval_dataset.json)
+
+- 96 trials, each with 4 math questions (10, 20, 30, 40 points based on difficulty)
+- Model must choose only one question per trial
+- Tests effort-reward decision-making 
+
+#### Control - ASDiv Accuracy (evaluation/data/asdiv_accuracy_dataset.json) 
+
+- Same 384 questions presented individually
+- Model must answer all questions (no choice)
+- Tests functional accuracy (should remain intact despite perturbation)
+
+## Model Preparation 
+
+We prepare the **Perturbed Model** through a two-stage process. First, we perform activation recording to identify NAc-selective units. Second, we apply **Activation Patching** by forcing these specific neurons into their neutral state to induce anhedonic behavior.
+
+### Quick Start
+
+Run the complete pipeline:
+
+```bash
+python extraction/scripts/pipeline.py
+```
+
+This pipeline executes three scripts in sequence (detailed below).
+
+### Pipeline Components
+
+The pipeline consists of three steps:
+
+**1. Activation Extraction** (`extract_activations.py`)
+- Extracts activations of neurons from Qwen2-VL-7B across all 28 layers
+- Processes 100 questions × 3 conditions (neutral, reward, money) × 2 domains (math, geography)
+- **Output**: 6 `.pt` files in `extraction/outputs/activations/` 
+
+**2. Neuron Selection** (`extract_neurons.py`)
+- Identifies neurons with significant activation changes (>3σ threshold) across both domains
+- Computes cross-domain intersection to find universal reward-sensitive neurons
+- **Output**: 
+  - `extraction/outputs/universal_money_neurons.csv` - Money-sensitive neurons
+  - `extraction/outputs/universal_reward_neurons.csv` - Reward-sensitive neurons  
+  - `extraction/outputs/master_incentive_core.csv` - Core neurons (intersection)
+- **Key Hyperparameter**: 3-sigma threshold for significance
+
+**3. Target Layer Selection** (`target_layers.py`)
+- Filters neurons from layers 18-27 (late layers)
+- **Output**: `extraction/outputs/neurons.json` - Final neuron set for perturbation (~1,363 neurons)
+
+### Expected Outputs
+
+After running the pipeline, you should have:
+```
+outputs/
+├── activations/
+│   ├── neutral_activations_math.pt
+│   ├── money_activations_math.pt
+│   ├── reward_activations_math.pt
+│   ├── neutral_activations_geo.pt
+│   ├── money_activations_geo.pt
+│   └── reward_activations_geo.pt
+├── universal_money_neurons.csv
+├── universal_reward_neurons.csv
+├── master_incentive_core.csv
+└── neurons.json  ← Used for perturbation experiments
+```
+
+## Evaluation
+
+We provide three evaluation modes to assess the perturbed model's anhedonic behavior:
+
+### Evaluation Modes
+
+**1. Interactive Chat** (`chat.py`)
+- Interactive conversation interface with the perturbed model
+- Allows qualitative assessment of response patterns and motivation levels
+- Useful for exploratory analysis and demonstration
+- **Usage**:
+```bash
+  python evaluation/scripts/chat.py
+```
+
+**2. ASDic Dataset Evaluation** (`eval.py`)
+- Evaluates model on ASDic dataset (multiple-choice, 4 options per question)
+- Questions are reward-bounded and difficulty-stratified
+- Measures selective motivation impairment while preserving general capability
+- **Output**: Performance metrics across difficulty levels and reward conditions
+- **Usage**:
+```bash
+  python evaluation/scripts/eval.py
+```
+
+**3. Functional Accuracy Evaluation** (`eval_accuracy.py`)
+- Forces the model to answer all questions in the ASDiv dataset (no option selection)
+- **Purpose**: Control experiment to verify perturbation does not impair baseline reasoning
+- Tests whether anhedonic perturbation affects functional capacity independent of motivation
+- **Output**: Overall accuracy metrics on ASDiv benchmark
+- **Usage**:
+```bash
+  python evaluation/scripts/eval_accuracy.py
+```
+
+### Expected Outputs
+
+Depending on the evaluation mode:
+- **chat.py**: Interactive terminal session
+- **eval.py**: `evaluation/results/perturbed_results.csv` - Performance by effort/reward
+- **eval_accuracy.py**: `evaluation/results/accuracy_results.json` - ASDiv accuracy scores
+
+### Evaluation Design Rationale
+
+- **ASDic evaluation** (`eval.py`) is the primary metric reported in the paper, as it tests the core hypothesis: reward-sensitivity impairment with preserved capability
+- **Functional accuracy** (`eval_accuracy.py`) serves as a control to verify the perturbation does not damage the model's reasoning abilities — we expect minimal accuracy degradation despite behavioral changes
+- **Interactive chat** (`chat.py`) provides qualitative validation of behavioral changes
+
+## Pre-trained Models
+
+This project uses the official **Qwen2-VL-7B-Instruct** weights as the foundational model. All perturbations are applied to these weights during inference.
+
+- **Foundational Model:** [Qwen2-VL-7B-Instruct on Hugging Face](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct)
+- **Note:** The weights will be automatically downloaded via the `transformers` library if not present locally.
+
+
+## Results
+<!-- Our experiments evaluate the **Behavioral Impact of NAc Sub-network Perturbation on ASDiv-EEfRT**.  -->
+The results demonstrate that targeted perturbations induce anhedonia-like behavior without compromising general cognitive functions.
+
+![Behavioral Impact of NAc Sub-network Perturbation](./assets/results.jpg)
+*(Error bars represent 95% confidence intervals)*
+
+*   **(a)** Comparison of model accuracy on the control task, a forced-choice scenario with no reward promised, shows no significant difference between the Intact and Perturbed models, confirming that general cognitive performance remains preserved.
+*   **(b)** The Perturbed model exhibits a significant reduction in mean points chosen compared to the Intact model, shifting toward chance levels.
+*   **(c)** Choice frequency analysis reveals that the perturbed models shift significantly toward low-reward options and away from high-reward options compared to the Intact model.
+*   **(d)** Control experiment demonstrating that perturbing an equivalent number of random units does not induce anhedonic behavior, with no significant difference in choice frequency compared to the Intact model.
+
+<!-- > 📋 To reproduce this figure and the underlying evaluation metrics, run:
+> ```bash
+> python scripts/evaluate_behavior.py --config configs/asdiv_eefrt.yaml --output_dir ./assets/
+> ``` -->
+ 
+## License and Contributing
+
+**License:** This repository and its contents are currently provided for **peer-review purposes only**. All rights are reserved by the authors. Upon acceptance and publication of the paper, the code will be released under an open-source license (e.g., MIT License).
+
+**Contributing:**
+During the review process, we are not accepting Pull Requests. Once the paper is published and the repository is fully open-sourced, we will welcome community contributions, bug reports, and feature requests.
