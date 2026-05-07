@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ## Datasets
 
 ### Neuron Identification
-Custom question sets inspired by the Monetary Incentive Delay (MID) task. Each question is presented under three conditions (Neutral, Reward, Money) to isolate NAc-selective units by comparing activation patterns.
+Custom question sets inspired by the Monetary Incentive Delay (MID) task. Each question is presented under three conditions (Neutral, Reward, Money) to isolate NAc-selective units by comparing delta activations.
 
 #### Primary Datasets (used in paper):
 
@@ -50,13 +50,13 @@ Custom question sets inspired by the Monetary Incentive Delay (MID) task. Each q
 - Business Ethics (`extraction/data/business_ethics_experiment.csv`): 100 questions × 3 conditions
 - Philosophy (`extraction/data/philosophy_experiment.csv`): 100 questions × 3 conditions
 
-**Selection Method:** Neurons showing >3σ activation change in both Math AND Geography domains are identified as NAc-selective units.
+**Selection Method:** Neurons showing >3σ absolute activation change in both Math AND Geography domains are identified as NAc-selective units.
 
 ### Evaluation Benchmarks
 
 #### Primary Metric — ASDiv (`evaluation/data/asdiv_eval_dataset.json`)
 
-- 96 trials, each with 4 math questions (10, 20, 30, 40 points based on difficulty)
+- 96 trials, each with 4 math questions (10, 20, 30, 40 points bound with difficulty level)
 - Model must choose only one question per trial
 - Tests effort-reward decision-making 
 
@@ -70,7 +70,7 @@ Custom question sets inspired by the Monetary Incentive Delay (MID) task. Each q
 
 **Custom experimental stimuli** (`extraction/data/`): The MID-inspired question sets (math, geography, business ethics, philosophy) are experimental stimuli created by the authors to identify NAc-selective units. Each CSV contains 100 base questions presented under three framing conditions (neutral, reward, money). These are not intended as standalone benchmark datasets but as components of the neuron identification pipeline. They are fully included in this submission with no access restrictions.
 
-**ASDiv evaluation sets** (`evaluation/data/`): Derived from the publicly available [ASDiv benchmark](https://github.com/chauff/asdiv), restructured into our effort-reward experimental paradigm (96 four-option trials) and a forced-choice accuracy format (384 individual questions).
+**ASDiv evaluation sets** (`evaluation/data/`): Derived from the publicly available [ASDiv benchmark](https://github.com/chaochun/nlu-asdiv-dataset), restructured into our effort-reward experimental paradigm (96 four-option trials) and a forced-choice accuracy format (384 individual questions).
 
 As these datasets serve as experimental materials for our method rather than standalone dataset contributions, persistent identifiers and metadata standards are not applicable. All data will be released alongside the code under the same open-source license upon publication.
 
