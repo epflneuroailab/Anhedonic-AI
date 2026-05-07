@@ -80,9 +80,7 @@ class PerturbedModelChat:
             output_ids = self.model.generate(
                 **inputs, 
                 max_new_tokens=max_tokens,
-                temperature=temp,
-                do_sample=True,
-                top_p=0.95
+                do_sample=False
             )
         
         generated_ids = [out[len(ins):] for ins, out in zip(inputs.input_ids, output_ids)]

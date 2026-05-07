@@ -86,14 +86,14 @@ def run(folds, label):
         
         avg, orat = np.mean(pts_list), np.mean(opt_list)
         
-        # محاسبه درصد برای این Fold
+        
         counts = Counter(pts_list)
         total_items = len(pts_list)
         dist_pct = {str(k): f"{(v / total_items) * 100:.1f}%" for k, v in sorted(counts.items())}
         
         print(f"    → avg_pts={avg:.2f}  optimal={orat:.2%}  dist={dist_pct}")
         
-        # شمارش خام ذخیره می‌شود تا در بخش خلاصه برای کل داده‌ها دقیق محاسبه شود
+        
         results.append((avg, orat, dict(counts))) 
     return results
 
@@ -115,7 +115,7 @@ remove_hooks()
 bpts, bopt, bdist_list = zip(*base)
 apts, aopt, adist_list = zip(*modA)
 
-# تابع محاسبه درصد توزیع امتیازها برای کل داده‌ها (تجمع ۴ Fold)
+
 def calculate_percentages(dist_list):
     total = Counter()
     for d in dist_list:
