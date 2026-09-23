@@ -2,7 +2,7 @@
 =========================================================================
 Reads master_incentive_core.csv and writes one small JSON files:
 
-    neurons.json   →  layers 18–27  (~1,363 neurons)
+    neurons_3sigma.json   →  layers 18–27  (~1,363 neurons)
 
 Each JSON is a dict:  { "layer_idx": [neuron_id, ...], ... }
 
@@ -14,12 +14,11 @@ import json
 import argparse
 import pandas as pd
 
-NEURONS_FILE = "../outputs/master_incentive_core.csv"
-
-MODELS = {
-    "../outputs/pre_filtered_neurons.json": (18, 27),
-}
-
+NEURONS_FILE = "master_incentive_core"
+OUTPUT = "neurons"
+MIN_LAYER = 23
+MAX_LAYER = 35
+sigmas = [2.2]
 
 def extract(df: pd.DataFrame, lo: int, hi: int) -> dict:
     sub = df[df["layer"].between(lo, hi)]
@@ -31,22 +30,22 @@ def extract(df: pd.DataFrame, lo: int, hi: int) -> dict:
 
 
 def main(neurons_file: str):
-    print(f"Reading {neurons_file} …")
-    df = pd.read_csv(neurons_file)
-    print(f"  {len(df):,} neurons across layers {df['layer'].min()}–{df['layer'].max()}")
+    for s in sigmas:
+        neurons_file = f"{NEURONS_FILE}_{s:.1f}sigma.csv"
+        print(f"\nReading {neurons_file} …")
+        df = pd.read_csv(neurons_file)
+        print(f"  {len(df):,} neurons across layers {df['layer'].min()}–{df['layer'].max()}")
+        fname = f"{OUTPUT}_{s:.1f}sigma.json"
 
-    for fname, (lo, hi) in MODELS.items():
-        groups = extract(df, lo, hi)
+
+        groups = extract(df, MIN_LAYER, MAX_LAYER)
         n = sum(len(v) for v in groups.values())
         with open(fname, "w") as f:
             json.dump(groups, f)
-        print(f"  Written {fname}  ({n:,} neurons, layers {lo}–{hi})")
+        print(f"  Written {fname}  ({n:,} neurons, layers {MIN_LAYER}–{MAX_LAYER})")
 
-    print("\nDone. You can now run the model script.")
+        print("\nDone. You can now run the model script.")
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--neurons_file", default=NEURONS_FILE)
-    args = parser.parse_args()
-    main(args.neurons_file)
+    main(NEURONS_FILE)

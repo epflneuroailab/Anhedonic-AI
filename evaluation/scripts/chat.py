@@ -66,10 +66,10 @@ class PerturbedModelChat:
             # Register hook on the MLP activation function
             layers[layer_idx].mlp.act_fn.register_forward_hook(create_hook(indices, target_means))
 
-    def generate_response(self, user_input, max_tokens=512, temp=0.7):
+    def generate_response(self, user_input, max_tokens=512, do_sample=False):
         # System prompt explicitly labeling the model
         messages = [
-            {"role": "system", "content": [{"type": "text", "text": "You are a perturbed model."}]},
+            {"role": "system", "content": [{"type": "text", "text": "You are a participant in this experiment and must engage thoughtfully."}]},
             {"role": "user", "content": [{"type": "text", "text": user_input}]}
         ]
         
