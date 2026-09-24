@@ -46,8 +46,7 @@ def install_hooks(current_neuron_map):
         means = torch.tensor(mean_acts[layer_idx, neurons], dtype=torch.bfloat16).to("cuda")
         def _make(i, m):
             def _hook(_, _in, out):
-                if out.dim() == 2: out[:, i]    = m.unsqueeze(0)
-                else:              out[:, :, i] = m.unsqueeze(0).unsqueeze(0)
+                out[:, :, i] = m.unsqueeze(0).unsqueeze(0)
                 return out
             return _hook
         hooks.append(layers[layer_idx].mlp.act_fn.register_forward_hook(_make(idx, means)))
@@ -180,8 +179,6 @@ base, base_item_pts, base_item_opt = run(folds, "BASELINE")
 bpts, bopt, bdist_list = zip(*base)
 bdist_pct = calculate_percentages(bdist_list)
 
-os.makedirs("results_all", exist_ok=True)
-os.makedirs("results_final", exist_ok=True)
 
 print("\n" + "="*55 + "\n  PHASE 2: PERTURBED SWEEP\n" + "="*55)
 for sigma, neurons_file in NEURONS.items():
@@ -245,8 +242,9 @@ for sigma, neurons_file in NEURONS.items():
         print(f"  Score {s}  - item-level  (n={t_data['n']}): t={t_data['t']:+.3f}  p={t_data['p']:.4g}  {t_data['sig']}")
     print("="*62)
 
-
-    filename = f"results_final/final_{sigma}_all.json"
+    os.makedirs("results", exist_ok=True)
+    filename = f"results/asdiv_result.json"
+    
     
 
     paired_tests_dict = {

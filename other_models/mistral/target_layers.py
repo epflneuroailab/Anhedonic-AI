@@ -6,8 +6,7 @@ import os
 # =============================================================================
 # Configuration
 # =============================================================================
-NEURONS_FILE = "master_incentive_core.csv"
-OUTPUT_DIR   = "neurons_json"   
+NEURONS_FILE = "master_incentive_core.csv"  
 SIGMA        = 2.7
 
 LOW  = 20
@@ -15,7 +14,7 @@ HIGH = 31
 
 
 def create_model_json(sigma: float):
-    name = f"neurons_{sigma:.1f}.json"
+    name = f"neurons.json"
     model = {name: (LOW, HIGH)}
     return model
 
@@ -44,13 +43,12 @@ def main(neurons_file: str, sigma: float):
         
     print(f"  {len(df):,} neurons across layers {df['layer'].min()}-{df['layer'].max()}")
     
-    # ساخت پوشه خروجی
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+
 
     for fname, (lo, hi) in create_model_json(sigma).items():
         groups = extract(df, lo, hi)
         n = sum(len(v) for v in groups.values())
-        filepath = os.path.join(OUTPUT_DIR, fname)
+        filepath = os.path.join(fname)
         
         with open(filepath, "w") as f:
             json.dump(groups, f, indent=2)

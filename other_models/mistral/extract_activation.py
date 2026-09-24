@@ -7,14 +7,14 @@ import os
 # Configurationmistralai/Mistral-7B-Instruct-v0.3
 # =============================================================================
 MODEL_PATH      = os.environ.get("MODEL_PATH", "mistralai/Mistral-7B-Instruct-v0.3")
-OUTPUT_DIR = "activations"   # all .pt files saved here
+OUTPUT_DIR = "activations"   
 
 DATASETS = {
     "geo":  "data/geography_experiment.csv",
     "math": "data/math_experiment.csv",
 }
 
-# Each condition maps to the CSV column holding its prompts
+
 CONDITIONS = {
     "neutral": "Neutral_Prompt",
     "reward":  "Reward_Prompt",
@@ -37,7 +37,7 @@ model = AutoModelForCausalLM.from_pretrained(
 model.eval()
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
 
-# Confirmed layer path from model inspection for Mistral-7B:
+
 lm_layers  = model.model.layers
 num_layers = len(lm_layers)
 print(f"Language model layers: {num_layers}")

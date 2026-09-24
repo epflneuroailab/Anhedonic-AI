@@ -1,7 +1,3 @@
-"""
-eval_accuracy.py - Math accuracy: Baseline vs Multiple Perturbed Models
-Batched inference, early stopping, 4-fold setup, loops through multiple neuron configurations.
-"""
 import json, re, os, sys, time, torch
 import numpy as np
 from scipy import stats
@@ -9,10 +5,7 @@ from transformers import (AutoModelForCausalLM, AutoTokenizer,
                           StoppingCriteria, StoppingCriteriaList)
 from collections import defaultdict, Counter
 
-MODEL_PATH      = os.environ.get("MODEL_PATH", "/mnt/mahdipou/models/Mistral-7B-Instruct-v0.3")
-NEURONS = {
-    "2.7": "neurons.json"
-}
+MODEL_PATH      = os.environ.get("MODEL_PATH", "mistralai/Mistral-7B-Instruct-v0.3")
 ACTIVATIONS_DIR = "activations"
 RESULTS_DIR = "results"
 
@@ -21,10 +14,10 @@ MAX_NEW_TOKENS = 512
 CHECK_EVERY    = 4
 EARLY_STOP     = os.environ.get("EARLY_STOP", "1") == "1"
 
+NEURONS = {
+    "2.7": "neurons.json"
+}
 
-if not os.path.exists(MODEL_PATH):
-    print(f"ERROR: Model path '{MODEL_PATH}' does not exist on this machine.")
-    sys.exit(1)
 
 # ── Load model ───────────────────────────────────────────────────────────────
 print(f"Loading model from {MODEL_PATH} ...")
@@ -32,10 +25,9 @@ model = AutoModelForCausalLM.from_pretrained(
     MODEL_PATH, 
     torch_dtype=torch.bfloat16, 
     device_map="auto",
-    local_files_only=True
 )
 model.eval()
-proc = AutoTokenizer.from_pretrained(MODEL_PATH, local_files_only=True)
+proc = AutoTokenizer.from_pretrained(MODEL_PATH)
 layers = model.model.layers
 
 proc.padding_side = "left"
@@ -57,8 +49,7 @@ def install_hooks(neuron_map):
         means = torch.tensor(mean_acts[layer_idx, neurons], dtype=torch.bfloat16).to("cuda")
         def _make(i, m):
             def _hook(_, _in, out):
-                if out.dim() == 2: out[:, i]    = m.unsqueeze(0)
-                else:              out[:, :, i] = m.unsqueeze(0).unsqueeze(0)
+                out[:, :, i] = m.unsqueeze(0).unsqueeze(0)
                 return out
             return _hook
         hooks.append(layers[layer_idx].mlp.act_fn.register_forward_hook(_make(idx, means)))
