@@ -9,9 +9,10 @@ from transformers import Qwen2VLForConditionalGeneration, AutoProcessor
 # CONFIGURATION
 # =====================================================================
 MODEL_PATH = os.environ.get("MODEL_PATH", "Qwen/Qwen2-VL-7B-Instruct")
+OUTPUT_DIR = "../outputs/"
 ACTIVATIONS_DIR = os.path.join(OUTPUT_DIR, "activations")
-INPUT_NEURONS_JSON = "pre_filtered_neurons.json"
-OUTPUT_CLEAN_JSON  = "neurons.json"
+INPUT_NEURONS_JSON = "../outputs/pre_filtered_neurons.json"
+OUTPUT_CLEAN_JSON  = "../outputs/neurons.json"
 
 # Evaluation parameters
 NUM_WIKITEXT_SAMPLES = 100    # Standard benchmark sample size

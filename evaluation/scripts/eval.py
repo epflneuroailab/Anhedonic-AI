@@ -5,7 +5,7 @@ from transformers import Qwen2VLForConditionalGeneration, AutoProcessor
 from collections import defaultdict, Counter
 
 MODEL_PATH = os.environ.get("MODEL_PATH", "Qwen/Qwen2-VL-7B-Instruct")
-NEURONS_JSON    = "neurons.json"
+NEURONS_JSON    = "../../extraction/outputs/neurons.json"
 ACTIVATIONS_DIR = "../../extraction/outputs/activations"
 
 # ── Load model ───────────────────────────────────────────────────────────────
