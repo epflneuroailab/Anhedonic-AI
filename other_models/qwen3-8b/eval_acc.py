@@ -5,7 +5,7 @@ from transformers import AutoModelForVision2Seq, AutoProcessor
 from collections import defaultdict
 
 # ── Config ───────────────────────────────────────────────────────────────────
-MODEL_PATH = os.environ.get("MODEL_PATH", "Qwen3-VL-8B-Instruct")
+MODEL_PATH = os.environ.get("MODEL_PATH", "Qwen/Qwen3-VL-8B-Instruct")
 NEURONS_FILES = {
     "2.1": "neurons_2.1sigma.json"
 }

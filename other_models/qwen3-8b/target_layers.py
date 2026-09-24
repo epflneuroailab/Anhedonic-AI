@@ -18,7 +18,7 @@ NEURONS_FILE = "master_incentive_core"
 OUTPUT = "neurons"
 MIN_LAYER = 23
 MAX_LAYER = 35
-sigmas = [2.2]
+sigmas = [2.1]
 
 def extract(df: pd.DataFrame, lo: int, hi: int) -> dict:
     sub = df[df["layer"].between(lo, hi)]

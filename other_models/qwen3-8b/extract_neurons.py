@@ -17,7 +17,7 @@ NAME_MONEY = "universal_money_neuron"
 NAME_REWARD = "universal_reward_neurons"
 NAME_CORE = "master_incentive_core"
 
-sigmas = [2.2]
+sigmas = [2.1]
 # -------------------------------------------------------------------------
 
 

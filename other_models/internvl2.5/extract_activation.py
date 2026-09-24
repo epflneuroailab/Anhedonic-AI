@@ -1,101 +1,109 @@
 import torch
-from transformers import AutoModelForVision2Seq, AutoProcessor
-import torch
+from transformers import AutoTokenizer, AutoModel
 import pandas as pd
 import os
 
 # =============================================================================
 # Configuration
 # =============================================================================
-MODEL_PATH = os.environ.get("MODEL_PATH", "Qwen/Qwen3-VL-8B-Instruct")
-OUTPUT_DIR = "activations"
+MODEL_PATH      = os.environ.get("MODEL_PATH", "OpenGVLab/InternVL2_5-8B")
+OUTPUT_DIR = "activations"  
 
 DATASETS = {
-    "geo": "data/geography_experiment.csv",
+    "geo":  "data/geography_experiment.csv",
     "math": "data/math_experiment.csv",
 }
 
 CONDITIONS = {
     "neutral": "Neutral_Prompt",
-    "reward": "Reward_Prompt",
-    "money": "Money_Prompt",
+    "reward":  "Reward_Prompt",
+    "money":   "Money_Prompt",
 }
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # =============================================================================
+# Load model ONCE — bfloat16, no quantization (must match ablation phase)
 # =============================================================================
 print("=" * 60)
-print("Loading model in bfloat16 (no quantization)...")
+print("Loading InternVL 2.5 model in bfloat16 (no quantization)...")
 print("=" * 60)
-model = AutoModelForVision2Seq.from_pretrained(
+
+tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH, trust_remote_code=True)
+model = AutoModel.from_pretrained(
     MODEL_PATH,
     torch_dtype=torch.bfloat16,
-    device_map="auto",
+    device_map="cuda",
     trust_remote_code=True
 )
 model.eval()
-processor = AutoProcessor.from_pretrained(MODEL_PATH, trust_remote_code=True)
-lm_layers = model.model.language_model.layers
+
+lm_layers  = model.language_model.model.layers
 num_layers = len(lm_layers)
 print(f"Language model layers: {num_layers}")
 
+# =============================================================================
+# Handle Architecture Differences (mlp vs feed_forward)
+# =============================================================================
+def get_ffn_module(layer):
+    # InternLM uses 'feed_forward', Qwen uses 'mlp'
+    if hasattr(layer, "feed_forward"):
+        return layer.feed_forward
+    elif hasattr(layer, "mlp"):
+        return layer.mlp
+    else:
+        raise AttributeError("Could not find FFN module (mlp or feed_forward) in the layer.")
+
 # ── Confirm MLP intermediate dim via dummy pass ────────────────────────────
 _dim_cache = {}
-
-
 def _dim_hook(module, input, output):
     _dim_cache['dim'] = output.shape[-1]
 
+ffn_0 = get_ffn_module(lm_layers[0])
+_h = ffn_0.act_fn.register_forward_hook(_dim_hook)
 
-_h = lm_layers[0].mlp.act_fn.register_forward_hook(_dim_hook)
 with torch.no_grad():
-    model(**processor(text=["Hello"], return_tensors="pt").to("cuda"))
+    dummy_inputs = tokenizer("Hello", return_tensors="pt").to("cuda")
+    model.language_model(**dummy_inputs)
 _h.remove()
+
 intermediate_dim = _dim_cache['dim']
 print(f"MLP intermediate dim:  {intermediate_dim}")
 print(f"Expected output shape per question: [{num_layers}, {intermediate_dim}]")
 print()
 
-
 # =============================================================================
 # Helper: extract MLP activations for one prompt
 # =============================================================================
 def extract_mlp_activations(prompt: str) -> torch.Tensor:
-    """
-    Returns a tensor of shape [num_layers, intermediate_dim] (float16, on CPU).
-    Captures the LAST token position of the MLP act_fn output for each layer.
-    Hooks are registered and removed within this call — no state leakage.
-    """
     mlp_cache = {}
 
     def make_hook(layer_idx):
         def hook(module, input, output):
-            # output: [batch=1, seq_len, intermediate_dim]
             mlp_cache[layer_idx] = output[0, -1, :].detach().cpu().to(torch.float16)
-
         return hook
 
-    hooks = [
-        lm_layers[i].mlp.act_fn.register_forward_hook(make_hook(i))
-        for i in range(num_layers)
-    ]
+    hooks = []
+    for i in range(num_layers):
+        ffn_module = get_ffn_module(lm_layers[i])
+        h = ffn_module.act_fn.register_forward_hook(make_hook(i))
+        hooks.append(h)
 
-    messages = [{"role": "user", "content": [{"type": "text", "text": prompt}]}]
-    text = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
-    inputs = processor(text=[text], return_tensors="pt").to("cuda")
+    messages = [{"role": "user", "content": prompt}]
+    text     = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+    inputs   = tokenizer(text, return_tensors="pt").to("cuda")
 
     with torch.no_grad():
-        model(**inputs)
+        model.language_model(**inputs)
 
     for h in hooks:
         h.remove()
 
-    return torch.stack([mlp_cache[i] for i in range(num_layers)])  # [num_layers, intermediate_dim]
+    return torch.stack([mlp_cache[i] for i in range(num_layers)])
 
 
 # =============================================================================
-# Main loop: domain × condition  (6 runs total)
+# Main loop: domain x condition  (6 runs total)
 # =============================================================================
 for domain, csv_file in DATASETS.items():
     print("=" * 60)
@@ -119,7 +127,7 @@ for domain, csv_file in DATASETS.items():
         results = {}
 
         for _, row in df.iterrows():
-            q_id = int(row['ID'])
+            q_id   = int(row['ID'])
             prompt = row[col]
 
             results[f"q_{q_id}"] = extract_mlp_activations(prompt)
@@ -134,7 +142,7 @@ for domain, csv_file in DATASETS.items():
     print()
 
 # =============================================================================
-# Final summary — list all output files
+# Final summary
 # =============================================================================
 print("=" * 60)
 print("ALL DONE — output files:")
@@ -142,5 +150,5 @@ print("=" * 60)
 for domain in DATASETS:
     for condition in CONDITIONS:
         path = os.path.join(OUTPUT_DIR, f"{condition}_activations_{domain}.pt")
-        size = f"{os.path.getsize(path) / 1e6:.1f} MB" if os.path.exists(path) else "MISSING"
+        size = f"{os.path.getsize(path)/1e6:.1f} MB" if os.path.exists(path) else "MISSING"
         print(f"  {path}  [{size}]")
