@@ -1,3 +1,4 @@
 *.pt
 activations/
 */activations/
+.DS_Store
