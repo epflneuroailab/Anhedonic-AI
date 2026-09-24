@@ -3,9 +3,9 @@ import os
 import pandas as pd
 
 # ── Configuration ────────────────────────────────────────────────────────────
-SIGMAS = [1.9]
+SIGMAS = [3.1]
 
-MIN_LAYER = 20
+MIN_LAYER = 18
 MAX_LAYER = 31
 
 def extract_layers(df: pd.DataFrame, lo: int, hi: int) -> dict:
@@ -17,7 +17,7 @@ def extract_layers(df: pd.DataFrame, lo: int, hi: int) -> dict:
         key = str(int(row["layer"]))
         groups.setdefault(key, []).append(int(row["neuron"]))
         
-    # Sort the lists for cleaner JSON
+
     for key in groups:
         groups[key].sort()
         
@@ -30,7 +30,7 @@ def main():
 
     for sigma in SIGMAS:
         csv_file = f"master_incentive_core.csv"
-        json_file = f"neurons_sigma_{sigma}.json"
+        json_file = f"neurons.json"
 
         if not os.path.exists(csv_file):
             print(f"\n⚠️  File not found: {csv_file}. Skipping...")

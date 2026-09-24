@@ -42,9 +42,9 @@ def load_activation_mean(filename):
 
     return stacked.mean(dim=0).numpy() 
 
-def find_universal_neurons_2_3_sigma(delta_math, delta_geo):
+def find_universal_neurons_sigma(delta_math, delta_geo):
     """
-    Find FFN neurons that are significant (>1.9σ) in BOTH math and geography domains.
+    Find FFN neurons that are significant (>3.1σ) in BOTH math and geography domains.
 
     delta_math / delta_geo shape: [num_layers, intermediate_dim]
 
@@ -52,8 +52,8 @@ def find_universal_neurons_2_3_sigma(delta_math, delta_geo):
     DIRECTLY to the transformer layer — no offset needed.
     """
     # Compute per-array thresholds
-    threshold_math = 1.9 * np.std(delta_math)
-    threshold_geo  = 1.9 * np.std(delta_geo)
+    threshold_math = 3.1 * np.std(delta_math)
+    threshold_geo  = 3.1 * np.std(delta_geo)
 
     # Neurons significant in both domains simultaneously
     significant = np.where(
@@ -68,7 +68,7 @@ def find_universal_neurons_2_3_sigma(delta_math, delta_geo):
 
 def main():
     print("=" * 60)
-    print("EXTRACTING UNIVERSAL NEURONS (1.9-Sigma Cross-Domain) FOR INTERNVL")
+    print("EXTRACTING UNIVERSAL NEURONS (3.1-Sigma Cross-Domain) FOR INTERNVL")
     print("=" * 60)
 
     # 1. Load all activations
@@ -96,12 +96,12 @@ def main():
     delta_rew_geo  = g_rew - g_neu
 
  
-    print("\nFinding Universal Money Neurons (1.9σ in both Math & Geo)...")
-    money_universal = find_universal_neurons_2_3_sigma(delta_mon_math, delta_mon_geo)
+    print("\nFinding Universal Money Neurons (3.1σ in both Math & Geo)...")
+    money_universal = find_universal_neurons_sigma(delta_mon_math, delta_mon_geo)
     print(f"  -> Found {len(money_universal)} Universal Money Neurons")
 
-    print("\nFinding Universal Reward Neurons (1.9σ in both Math & Geo)...")
-    reward_universal = find_universal_neurons_2_3_sigma(delta_rew_math, delta_rew_geo)
+    print("\nFinding Universal Reward Neurons (3.1σ in both Math & Geo)...")
+    reward_universal = find_universal_neurons_sigma(delta_rew_math, delta_rew_geo)
     print(f"  -> Found {len(reward_universal)} Universal Reward Neurons")
 
    
@@ -125,7 +125,7 @@ def main():
     print(f"  {OUTPUT_REWARD} ({len(df_reward)} rows)")
     print(f"  {OUTPUT_CORE}   ({len(df_core)} rows)")
 
-    # 6. Summary
+
     print(f"\n{'=' * 60}")
     print("SUMMARY")
     print(f"{'=' * 60}")
@@ -143,14 +143,12 @@ def main():
             bar = '█' * min(count, 40)
             print(f"  Layer {layer:>2}: {count:>4} neurons  {bar}")
 
-    # 7. Quick delta magnitude check
+
     print(f"\nDelta magnitude check (mean |delta| per condition):")
     print(f"  Money  / Math: {np.abs(delta_mon_math).mean():.6f}")
     print(f"  Money  / Geo:  {np.abs(delta_mon_geo).mean():.6f}")
     print(f"  Reward / Math: {np.abs(delta_rew_math).mean():.6f}")
     print(f"  Reward / Geo:  {np.abs(delta_rew_geo).mean():.6f}")
-    print("  (If all values are near zero, the prompts are not creating "
-          "distinguishable FFN activations — revisit prompt design.)")
 
 
 if __name__ == "__main__":
