@@ -16,7 +16,7 @@ OUTPUT_CLEAN_JSON  = "../outputs/neurons.json"
 
 # Evaluation parameters
 NUM_WIKITEXT_SAMPLES = 100    # Standard benchmark sample size
-TARGET_MAX_PPL_RATIO = 1.35   # Maximum allowable joint degradation (20%)
+TARGET_MAX_PPL_RATIO = 1.35   
 PRUNE_BATCH_SIZE     = 15     # Neurons to drop per pruning step
 SAMPLED_EVAL_SIZE    = 80     # Candidates evaluated per search step
 
