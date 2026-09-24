@@ -41,7 +41,7 @@ def process_one(csv_path: str, json_path: str, label: str):
     print(f"    Selected layers {LAYER_LO}–{LAYER_HI}: {n_selected:,} neurons across {n_layers} layers")
     print(f"    Saved → {json_path}")
 
-    # Per-layer breakdown
+    
     if groups:
         print(f"    Layer breakdown:")
         for layer in sorted(groups.keys(), key=int):

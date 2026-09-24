@@ -61,8 +61,7 @@ def find_universal_neurons_3sigma(delta_math, delta_geo):
         (np.abs(delta_geo)  > threshold_geo)
     )
 
-    # significant[0] = layer indices, significant[1] = neuron indices
-    # No index correction needed — layer 0 IS transformer layer 0.
+
     pairs = set(zip(significant[0].tolist(), significant[1].tolist()))
     return pairs
 
@@ -83,20 +82,20 @@ def main():
     g_mon = load_activation_mean(GEO_MONEY)
     g_rew = load_activation_mean(GEO_REWARD)
 
-    # Sanity check — all arrays must have the same shape
+    
     shapes = {m_neu.shape, m_mon.shape, m_rew.shape, g_neu.shape, g_mon.shape, g_rew.shape}
     assert len(shapes) == 1, f"Shape mismatch across activation files: {shapes}"
     num_layers, intermediate_dim = m_neu.shape
     print(f"\nAll activation arrays: {num_layers} layers x {intermediate_dim} intermediate neurons")
 
-    # 2. Calculate deltas (condition - neutral)
+    
     print("\nCalculating Deltas...")
     delta_mon_math = m_mon - m_neu
     delta_mon_geo  = g_mon - g_neu
     delta_rew_math = m_rew - m_neu
     delta_rew_geo  = g_rew - g_neu
 
-    # 3. Find Universal Neurons
+    
     print("\nFinding Universal Money Neurons (3σ in both Math & Geo)...")
     money_universal = find_universal_neurons_3sigma(delta_mon_math, delta_mon_geo)
     print(f"  -> Found {len(money_universal)} Universal Money Neurons")
@@ -105,14 +104,14 @@ def main():
     reward_universal = find_universal_neurons_3sigma(delta_rew_math, delta_rew_geo)
     print(f"  -> Found {len(reward_universal)} Universal Reward Neurons")
 
-    # 4. Master Core = intersection
+    
     master_core = money_universal & reward_universal
     print(f"\nMaster Core (Money ∩ Reward): {len(master_core)} neurons")
     if money_universal:
         print(f"  Overlap: {len(master_core)/len(money_universal)*100:.1f}% of money, "
               f"{len(master_core)/len(reward_universal)*100:.1f}% of reward")
 
-    # 5. Save CSVs
+    
     df_money  = pd.DataFrame(sorted(money_universal),  columns=['layer', 'neuron'])
     df_reward = pd.DataFrame(sorted(reward_universal), columns=['layer', 'neuron'])
     df_core   = pd.DataFrame(sorted(master_core),      columns=['layer', 'neuron'])

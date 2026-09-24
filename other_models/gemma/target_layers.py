@@ -6,9 +6,6 @@ import pandas as pd
 
 NEURONS_FILE = "master_incentive_core.csv"
 
-# Gemma3 (gemma-3-4b) language model has 34 decoder layers (0-33) — unlike
-# the Qwen run, we're not restricting to a mid-stack band here, we're taking
-# the full master core across every layer.
 MODELS = {
     "neurons_gemma.json":
     (23, 33),                         

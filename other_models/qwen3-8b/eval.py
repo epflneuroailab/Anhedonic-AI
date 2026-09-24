@@ -225,7 +225,7 @@ for sigma, neurons_file in NEURONS_FILES.items():
 
     # =========================================================
     # =========================================================
-    out_path = f"results/result_{sigma}_all_clean.json"
+    out_path = f"results/asdiv_results.json"
 
     paired_tests_dict = {
         "avg_pts_fold_level": {"t": float(t_fold_pts) if not np.isnan(t_fold_pts) else 0.0,
