@@ -1,11 +1,10 @@
-# Pipeline (Qwen3-VL-8B)
+# Pipeline (Llama)
 
 
 ## ⚙️ Experimental Configuration
-- **Model:** Qwen3-VL-8B-Instruct
-- **Target Layers:** Late third layers (`Layers 23–35`)
-- **Statistical Threshold ($\sigma$):** `2.1`
-
+- **Model:** Llama
+- **Target Layers:** Late third layers (`Layers 21–32`)
+- **Statistical Threshold ($\sigma$):** `3`
 
 ---
 
